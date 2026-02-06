@@ -1,0 +1,6 @@
+datasets
+pandas
+tqdm
+pyarrow
+tiktoken
+loguru
