@@ -1,0 +1,7 @@
+pile_of_law_0000000,pile_of_law/pile_of_law_0000000.txt,pile-of-law/pile-of-law,cfr,train,0.0001,Compliance,law,Regulation,Unknown,unknown,huggingface:pile-of-law/pile-of-law,2026-02-06T15:30:51.253319
+eurlex_0000000,eurlex/eurlex_0000000.txt,lex_glue,eurlex,train,0.0001,Compliance,law,Regulation,EU,unknown,huggingface:lex_glue,2026-02-06T15:56:58.728240
+eurlex_0000001,eurlex/eurlex_0000001.txt,lex_glue,eurlex,train,0.0001,Compliance,law,Regulation,EU,unknown,huggingface:lex_glue,2026-02-06T15:56:58.728240
+eurlex_0000002,eurlex/eurlex_0000002.txt,lex_glue,eurlex,train,0.0001,Compliance,law,Regulation,EU,unknown,huggingface:lex_glue,2026-02-06T15:56:58.728240
+eurlex_0000003,eurlex/eurlex_0000003.txt,lex_glue,eurlex,train,0.0001,Compliance,law,Regulation,EU,unknown,huggingface:lex_glue,2026-02-06T15:56:58.728240
+eurlex_0000004,eurlex/eurlex_0000004.txt,lex_glue,eurlex,train,0.0001,Compliance,law,Regulation,EU,unknown,huggingface:lex_glue,2026-02-06T15:56:58.728240
+policyqa_0000000,policyqa/policyqa_0000000.txt,alzoubi36/policy_qa,,train,0.0001,HR,policy,Policy,Unknown,unknown,huggingface:alzoubi36/policy_qa,2026-02-06T15:57:05.271960
