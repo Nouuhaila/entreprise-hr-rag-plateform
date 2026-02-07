@@ -1,0 +1,74 @@
+(Secs. 301, 304, 306 and 501 of the Clean Water Act (the Federal Water Pollution Control Act Amendments of 1972, 33 U.S.C. 1251 et. seq., as amended by the Clean Water Act of 1977, Pub. L. 95-217))
+            [47 FR 24537, June 4, 1982]
+          
+        
+        
+          PART 402 [RESERVED]
+        
+        
+          Pt. 403
+          PART 403—GENERAL PRETREATMENT REGULATIONS FOR EXISTING AND NEW SOURCES OF POLLUTION
+          
+            Sec.
+            403.1
+            Purpose and applicability.
+            403.2
+            Objectives of general pretreatment regulations.
+            403.3
+            Definitions.
+            403.4
+            State or local law.
+            403.5
+            National pretreatment standards: Prohibited discharges.
+            403.6
+            National pretreatment standards: Categorical standards.
+            403.7
+            Removal credits.
+            403.8
+            Pretreatment Program Requirements: Development and Implementation by POTW.
+            403.9
+            POTW pretreatment programs and/or authorization to revise pretreatment standards: Submission for approval.
+            403.10
+            Development and submission of NPDES State pretreatment programs.
+            403.11
+            Approval procedures for POTW pretreatment programs and POTW granting of removal credits.
+            403.12
+            Reporting requirements for POTW's and industrial users.
+            403.13
+            Variances from categorical pretreatment standards for fundamentally different factors.
+            403.14
+            Confidentiality.
+            403.15
+            Net/Gross calculation.
+            403.16
+            Upset provision.
+            403.17
+            Bypass.
+            403.18
+            Modification of POTW pretreatment programs.
+            403.19
+            Provisions of specific applicability to the Owatonna Waste Water Treatment Facility.
+            403.20
+            Pretreatment Program Reinvention Pilot Projects Under Project XL.
+            Appendixes A-C to Part 403 [Reserved]
+
+            Appendix D to Part 403—Selected Industrial Subcategories Considered Dilute for Purposes of the Combined Wastestream Formula
+            Appendix E to Part 403—Sampling Procedures
+            Appendix F to Part 403 [Reserved]
+            Appendix G to Part 403—Pollutants Eligible for a Removal Credit
+          
+          
+            Authority:
+            33 U.S.C. 1251 et seq.
+            
+          
+          
+            Source:
+            46 FR 9439, Jan. 28, 1981, unless otherwise noted.
+          
+          
+            § 403.1
+            Purpose and applicability.
+            (a) This part implements sections 204(b)(1)(C), 208(b)(2) (C)(iii), 301(b)(1)(A)(ii), 301(b)(2) (A)(ii), 301(h)(5) and 301(i)(2), 304 (e) and (g), 307, 308, 309, 402(b), 405, and 501(a) of the Federal Water Pollution Control Act as amended by the Clean Water Act of 1977 (Pub. L. 95-217) or “The Act”. It establishes responsibilities of Federal, State, and local government, industry and the public to implement National Pretreatment Standards to control pollutants which pass through or interfere with treatment processes in Publicly Owned Treatment Works (POTWs) or which may contaminate sewage sludge.
+            (b) This regulation applies:
+            (1) To pollutants from non-domestic sources covered by Pretreatment Standards which are indirectly discharged into or transported by truck or

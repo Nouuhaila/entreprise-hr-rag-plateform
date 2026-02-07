@@ -1,0 +1,103 @@
+1.21
+                
+                
+                  Dry beans
+                  2.50
+                  1.51
+                  1.07
+                
+                
+                  Lima beans
+                  3.68
+                  2.19
+                  1.51
+                
+                
+                  Mushrooms
+                  3.01
+                  1.78
+                  1.22
+                
+                
+                  Onions (canned)
+                  3.09
+                  1.83
+                  1.25
+                
+                
+                  Peas
+                  2.42
+                  1.50
+                  1.08
+                
+                
+                  Sauerkraut:
+                
+                
+                  Canning
+                  0.50
+                  0.30
+                  0.21
+                
+                
+                  Cutting
+                  0.08
+                  0.05
+                  0.04
+                
+                
+                  Snap beans
+                  1.51
+                  0.87
+                  0.58
+                
+                
+                  Spinach
+                  2.37
+                  1.36
+                  0.91
+                
+                
+                  Squash
+                  0.90
+                  0.59
+                  0.46
+                
+                
+                  Potatoes
+                  0.90
+                  0.66
+                  0.55
+                
+              
+              (b) The following limitations establish the quantity of TSS controlled by the section, which may be discharged by a “medium” or “large” existing point source subject to the provisions of this subpart after application of the best practicable control technology currently available. Any vegetable processing plant which continuously or intermittently discharges process waste water during the processing season shall meet the annual average, maximum thirty day average, and maximum day TSS limitations. Vegetable processing plants employing long term waste stabilization, where all or a portion of the process waste water discharge is stored for the entire processing season and released at a controlled rate with state approval, shall meet only the annual average TSS limitations. The effluent limitations do not apply to single-commodity 100 percent canned corn processing plants of all sizes, and multi-commodity 100 percent frozen vegetable processing plants with total annual raw material production less than 7,264 kkg (8,000 tons) per year.
+              
+                [Metric units, kg/kkg of raw material; English units, lb/1,000 lb of raw material]
+                
+                  Commodity (vegetables)
+                  TSS effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                  Annual average shall not exceed—
+                
+                
+                  Beets
+                  1.88
+                  1.47
+                  1.12
+                
+                
+                  Broccoli
+                  6.78
+                  4.57
+                  2.65
+                
+                
+                  
+                  Carrots
+                  3.19
+                  2.30
+                  1.54
+                
+                
+                  Corn:

@@ -1,0 +1,82 @@
+tion and has significant quantities of process wastewater from non-electroplating manufacturing operations. In addition, to qualify as an “integrated facility” one or more plant electroplating process wastewater lines must be combined prior to or at the point of treatment (or proposed treatment) with one or more plant sewers carrying process wastewater from non-electroplating manufacturing operations.
+              (i) the term TTO shall mean total toxic organics, which is the summation of all quantifiable values greater than 0.01 milligrams per liter for the following toxic organics:
+              
+              
+                Acenaphthene
+                Acrolein
+                Acrylonitrile
+                Benzene
+                Benzidine
+                Carbon tetrachloride (tetrachloromethane)
+                Chlorobenzene
+                1,2,4-trichlorobenzene
+                Hexachlorobenzene
+                1,2-dichloroethane
+                1,1,1-trichloroethane
+                Hexachloroethane
+                1,1-dichloroethane
+                1,1,2-trichloroethane
+                1,1,2,2-tetrachloroethane
+                Chloroethane
+                Bis (2-chloroethyl) ether
+                2-chloroethyl vinyl ether (mixed)
+                2-chloronaphthalene
+                2,4,6-trichlorophenol
+                Parachlorometa cresol
+                Chloroform (trichloromethane)
+                2-chlorophenol
+                1,2-dichlorobenzene
+                1,3-dichlorobenzene
+                1,4-dichlorobenzene
+                3,3-dichlorobenzidine
+                1,1-dichloroethylene
+                1,2-trans-dichloroethylene
+                2,4-dichlorophenol
+                1,2-dichloropropane
+                1,3-dichloropropylene (1,3-dichloropropene)
+                2,4-dimethylphenol
+                2,4-dinitrotoluene
+                2,6-dinitrotoluene
+                1,2-diphenylhydrazine
+                Ethylbenzene
+                Fluoranthene
+                4-chlorophenyl phenyl ether
+                4-bromophenyl phenyl ether
+                Bis (2-chloroisopropyl) ether
+                Bis (2-chloroethoxy) methane
+                Methylene chloride (dichloromethane)
+                Methyl chloride (chloromethane)
+                Methyl bromide (bromomethane)
+                Bromoform (tribromomethane)
+                Dichlorobromomethane
+                Chlorodibromomethane
+                Hexachlorobutadiene
+                Hexachlorocyclopentadiene
+                Isophorone
+                Naphthalene
+                Nitrobenzene
+                2-nitrophenol
+                
+                4-nitrophenol
+                2,4-dinitrophenol
+                4,6-dinitro-o-cresol
+                N-nitrosodimethylamine
+                N-nitrosodiphenylamine
+                N-nitrosodi-n-propylamine
+                Pentachlorophenol
+                Phenol
+                Bis (2-ethylhexyl) phthalate
+                Butyl benzyl phthalate
+                Di-n-butyl phthalate
+                Di-n-octyl phthalate
+                Diethyl phthalate
+                Dimethyl phthalate
+                1,2-benzanthracene
+                 (benzo(a)anthracene)
+                Benzo(a)pyrene (3,4-benzopyrene)
+                3,4-Benzofluoranthene
+                 (benzo(b)fluoranthene)
+                11,12-benzofluoranthene
+                 (benzo(k)fluoranthene)
+                Chrysene
+                Acenaphthylene

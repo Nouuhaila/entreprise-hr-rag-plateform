@@ -1,0 +1,128 @@
+1.776
+                
+                
+                  Lead
+                  3.315
+                  1.539
+                
+                
+                  Nickel
+                  6.512
+                  4.381
+                
+                
+                  Titanium
+                  6.275
+                  2.723
+                
+              
+              (j) Sponge crushing and screening wet air pollution control.
+              
+                PSNS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium produced
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Lead
+                  0.000
+                  0.000
+                
+                
+                  Nickel
+                  0.000
+                  0.000
+                
+                
+                  Titanium
+                  0.000
+                  0.000
+                
+              
+              (k) Acid pickle and wash water.
+              
+                PSNS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium pickled
+                
+                
+                  Chromium (total)
+                  0.023
+                  0.009
+                
+                
+                  Lead
+                  0.017
+                  0.008
+                
+                
+                  Nickel
+                  0.034
+                  0.023
+                
+                
+                  Titanium
+                  0.032
+                  0.014
+                
+              
+              (l) Scrap milling wet air pollution control.
+              
+                PSNS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of scrap milled
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Lead
+                  0.000
+                  0.000
+                
+                
+                  Nickel
+                  0.000
+                  0.000
+                
+                
+                  Titanium
+                  0.000
+                  0.000
+                
+              
+              (m) Scrap detergent wash water.
+              
+                PSNS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of scrap washed

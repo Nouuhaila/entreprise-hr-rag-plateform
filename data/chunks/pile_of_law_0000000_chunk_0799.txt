@@ -1,0 +1,117 @@
+ree of effluent reduction attainable by the application of the best available technology economically achievable.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable:
+              (a) Subpart B—Anode and Cathode Paste Plant Wet Air Pollution Control
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of paste produced
+                
+                
+                  Benzo(a)pyrene
+                  0.005
+                  0.002
+                
+                
+                  Antimony
+                  .263
+                  .117
+                
+                
+                  Nickel
+                  .075
+                  .050
+                
+                
+                  Aluminum
+                  .831
+                  .369
+                
+                
+                  Fluoride
+                  8.092
+                  3.591
+                
+              
+              (b) Subpart (B)—Anode Contact Cooling and Briquette Quenching.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of anodes cast
+                
+                
+                  Benzo(a)pyrene
+                  0.007
+                  0.003
+                
+                
+                  Antimony
+                  .403
+                  .180
+                
+                
+                  Nickel
+                  .115
+                  .077
+                
+                
+                  Aluminum
+                  1.277
+                  .566
+                
+                
+                  Fluoride
+                  12.440
+                  5.518
+                
+              
+              (c) Subpart (B)—Anode Bake Plant Wet Air Pollution Control (Closed Top Ring Furnace).
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of anodes baked
+                
+                
+                  Benzo(a)pyrene
+                  0.146
+                  0.067
+                
+                
+                  Antimony
+                  8.346
+                  3.719
+                
+                
+                  Nickel
+                  2.378
+                  1.600
+                
+                
+                  Aluminum
+                  26.420
+                  11.720
+                
+                
+                  Fluoride
+                  257.300
+                  114.200
+                
+              
+              (d) Subpart B—Anode Bake Plant Wet Air Pollution Control (Open Top Ring Furnace Wi

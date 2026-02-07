@@ -1,0 +1,67 @@
+sources.
+              Any existing source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403. In addition, the following pretreatment standard establishes the quantity or quality of pollutants or pollutant properties controlled by this section which may be discharged to a publicly owned treatment works by a point source subject to the provisions of this subpart.
+              
+                
+                  Pollutant or pollutant property
+                  Pretreatment standard
+                
+                
+                  pH
+                  No limitation.
+                
+                
+                  BOD5
+                  
+                    Do.
+                
+                
+                  TSS
+                    Do.
+                
+                
+                  Fecal coliform
+                    Do.
+                
+                
+                  Temperature (heat)
+                    Do.
+                
+              
+              [40 FR 6439, Feb. 11, 1975, as amended at 60 FR 33949, June 29, 1995]
+            
+            
+              § 409.15
+              Standards of performance for new sources.
+              The following standards of performance establish the quantity or quality of pollutants or pollutant properties which may be discharged by a point source subject to the provisions of this subpart: There shall be no discharge of process waste water pollutants to navigable waters.
+            
+            
+              § 409.16
+              Pretreatment standards for new sources.
+              Any new source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403.
+              [60 FR 33949, June 29, 1995]
+            
+            
+              § 409.17
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): The limitations shall be the same as those specified for conventional pollutants (which are defined in § 401.16) in § 409.12 of this subpart for the best practicable control technology currently available (BPT).
+              [51 FR 24999, July 9, 1986]
+            
+          
+          
+            Subpart B—Crystalline Cane Sugar Refining Subcategory
+            
+              Source:
+              39 FR 10524, Mar. 20, 1974, unless otherwise noted.
+            
+            
+              § 409.20
+              Applicability; description of the crystalline cane sugar refining subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the processing of raw cane sugar into crystalline refined sugar.
+            
+            
+              § 409.21
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) Net shall mean the addition

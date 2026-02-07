@@ -1,0 +1,9 @@
+Question:
+Do you give users choice to control the use of their contact info?
+
+Context:
+If at any time you want your email information removed from our database, simply utilize the unsubscribe link provided in your email. Any other data updates or removal requests can be sent to TangerOutlets, Attn: Marketing Department, PO Box 10889, Greensboro, NC 27408.
+
+Answer:
+your email information
+email information

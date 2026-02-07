@@ -1,0 +1,123 @@
+e (total)
+                  16.140
+                  6.677
+                
+                
+                  Fluoride
+                  1,947.000
+                  1,107.000
+                
+                
+                  Tin
+                  21.140
+                  12.240
+                
+                
+                  Total suspended solids
+                  2,281.000
+                  1,085.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (h) Tin hydroxide supernatant from plating solutions and sludges.
+              
+                BPT Limitations for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tin metal recovered from plating solutions and sludges
+                
+                
+                  Lead
+                  48.30
+                  23.00
+                
+                
+                  Cyanide (total)
+                  33.35
+                  13.80
+                
+                
+                  Fluoride
+                  4,025.00
+                  2,289.00
+                
+                
+                  Tin
+                  43.70
+                  25.30
+                
+                
+                  Total suspended solids
+                  4,715.00
+                  2,243.00
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (i) Tin hydroxide filtrate.
+              
+              
+                BPT Limitations for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tin metal produced
+                
+                
+                  Lead
+                  10.520
+                  5.009
+                
+                
+                  Cyanide (total)
+                  7.263
+                  3.005
+                
+                
+                  Fluoride
+                  876.500
+                  498.400
+                
+                
+                  Tin
+                  9.517
+                  5.510
+                
+                
+                  Total suspended solids
+                  1,027.000
+                  488.400
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+            
+            
+              § 421.293
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the d

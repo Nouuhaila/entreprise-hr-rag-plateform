@@ -1,0 +1,70 @@
+pplicability: Description of the secondary tantalum subcategory.
+              421.281
+              Specialized definitions.
+              421.282
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              421.283
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              421.284
+              Standards of performance for new sources.
+              421.285
+              [Reserved]
+              421.286
+              Pretreatment standards for new sources.
+              421.287
+              [Reserved]
+            
+            
+              Subpart AA—Secondary Tin Subcategory
+              421.290
+              Applicability: Description of the secondary tin subcategory
+              421.291
+              Specialized definitions.
+              421.292
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              421.293
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              421.294
+              Standards of performance for new sources.
+              421.295
+              Pretreatment standards for existing sources.
+              421.296
+              Pretreatment standards for new sources.
+              421.297
+              [Reserved]
+            
+            
+              Subpart AB—Primary and Secondary Titanium Subcategory
+              421.300
+              Applicability: Description of the primary and secondary titanium subcategory.
+              421.301
+              Specialized definitions.
+              421.302
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              421.303
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              421.304
+              Standards of performance for new sources.
+              421.305
+              Pretreatment standards for existing sources.
+              421.306
+              Pretreatment standards for new sources.
+              421.307
+              [Reserved]
+            
+            
+              Subpart AC—Secondary Tungsten and Cobalt Subcategory
+              421.310
+
+              Applicability: Description of the secondary tungsten and cobalt subcategory.
+              
+              421.311
+              Specialized definitions.
+              421.312
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              421.313
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              421.314
+              Standards of performance for new sources.
+              421.315
+              Pretreatment standards

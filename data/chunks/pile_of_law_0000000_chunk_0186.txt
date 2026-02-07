@@ -1,0 +1,79 @@
+g Subcategory
+            
+              § 408.20
+              Applicability; description of the conventional blue crab processing subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the processing of blue crab in which manual picking or separation of crab meat from the shell is utilized. The effluent limitations contained in this subpart B are applicable to existing facilities processing more than 1362 kg (3000 lbs) of raw material per day on any day during a calendar year and all new sources.
+              [40 FR 55780, Dec. 1, 1975]
+            
+            
+              § 408.21
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+              (b) The term oil and grease shall mean those components of a waste water amenable to measurement by the method described in Methods for Chemical Analysis of Water and Wastes, 1971, Environmental Protection Agency, Analytical Quality Control Laboratory, page 217.
+              (c) The term seafood shall mean the raw material, including freshwater and saltwater fish and shellfish, to be processed, in the form in which it is received at the processing plant.
+            
+            
+              § 408.22
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kg/kkg of seafood)
+                
+                
+                  TSS
+                  2.2
+                  0.74
+                
+                
+                  Oil and grease
+                  0.60
+                  0.20
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (lb/1,000 lb of seafood)
+                
+                
+                  TSS
+                  2.2
+                  0.74
+                
+                
+                  Oil and grease
+                  0.60
+                  0.20
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+              [39 FR 23140, June 26, 1974, as amended at 60 FR 33940, June 29, 1995]
+            
+            
+              § 408.23
+              [Reserved]
+            
+            
+              § 408.24
+              Pretreatment standards for existing sources.
+              Any existing source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatme

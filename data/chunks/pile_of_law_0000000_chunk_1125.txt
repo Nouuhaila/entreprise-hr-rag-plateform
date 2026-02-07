@@ -1,0 +1,108 @@
+g from the production of tungsten or cobalt at secondary tungsten and cobalt facilities processing tungsten or tungsten carbide scrap raw materials.
+            
+            
+              
+              § 421.311
+              Specialized definitions.
+              For the purpose of this subpart the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+            
+            
+              § 421.312
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable technology currently available:
+              (a) Tungsten detergent wash and rinse.
+              
+                BPT Limitations for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten scrap washed
+                
+                
+                  Copper
+                  0.371
+                  0.195
+                
+                
+                  Nickel
+                  0.374
+                  0.248
+                
+                
+                  Ammonia (as N)
+                  25.990
+                  11.430
+                
+                
+                  Cobalt
+                  0.768
+                  0.337
+                
+                
+                  Tungsten
+                  1.357
+                  0.542
+                
+                
+                  Oil and grease
+                  3.900
+                  2.340
+                
+                
+                  Total suspended solids
+                  7.995
+                  3.803
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Tungsten leaching acid.
+              
+                BPT Limitations for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten produced
+                
+                
+                  Copper
+                  4.885
+                  2.571
+                
+                
+                  Nickel
+                  4.937
+                  3.265
+                
+                
+                  Ammonia (as N)
+                  342.700
+                  150.700
+                
+                
+                  Cobalt
+                  10.130
+                  4.448
+                
+                
+                  Tungsten
+                  17.890
+                  7.147
+                
+                
+                  Oil and grease
+                  51.420
+                  30.850

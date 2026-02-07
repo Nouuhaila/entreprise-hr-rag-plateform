@@ -1,0 +1,132 @@
+tal)
+                  52.74
+                  21.10
+                
+                
+                  Ammonia (as N)
+                  35,150.00
+                  15,450.00
+                
+                
+                  Fluoride
+                  9,230.00
+                  5,248.00
+                
+              
+              (f) Beryllium hydroxide supernatant.
+              
+                BAT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium hydroxide produced from scrap and residues as beryllium
+                
+                
+                  Beryllium
+                  188.6
+                  85.1
+                
+                
+                  Chromium (total)
+                  85.1
+                  34.5
+                
+                
+                  Copper
+                  294.4
+                  140.3
+                
+                
+                  Cyanide (total)
+                  46.0
+                  18.4
+                
+                
+                  Ammonia (as N)
+                  30,660.0
+                  13,480.0
+                
+                
+                  Fluoride
+                  160,308.0
+                  71,201.0
+                
+              
+              (g) Process water.
+              
+                BAT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium pebbles produced
+                
+                
+                  Beryllium
+                  143.30
+                  64.68
+                
+                
+                  Chromium (total)
+                  64.68
+                  26.22
+                
+                
+                  Copper
+                  223.70
+                  106.60
+                
+                
+                  Cyanide (total)
+                  34.96
+                  13.98
+                
+                
+                  Ammonia (as N)
+                  23,300.00
+                  10,240.00
+                
+                
+                  Fluoride
+                  6,118.00
+                  3,479.00
+                
+              
+              (h) Fluoride furnace scrubber.
+              
+                BAT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium pebbles produced
+                
+                
+                  Beryllium
+                  0.000
+                  0.000
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Copper
+                  0.000
+                  0.000
+                
+                
+                  Cyanide (total)
+                  0.000
+                  0.000

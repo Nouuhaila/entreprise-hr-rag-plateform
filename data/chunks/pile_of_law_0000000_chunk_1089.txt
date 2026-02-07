@@ -1,0 +1,133 @@
+90
+                  5.703
+                
+                
+                  Lead
+                  2.575
+                  1.196
+                
+                
+                  Iron
+                  11.040
+                  5.611
+                
+                
+                  Tin
+                  3.495
+                  2.024
+                
+                
+                  Total suspended solids
+                  138.000
+                  110.400
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Dealuminizing rinse.
+              
+                NSPS for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of dealuminized scrap produced
+                
+                
+                  Lead
+                  0.010
+                  0.005
+                
+                
+                  Cyanide (total)
+                  0.007
+                  0.003
+                
+                
+                  Fluoride
+                  1.225
+                  0.697
+                
+                
+                  Tin
+                  0.013
+                  0.008
+                
+                
+                  Total suspended solids
+                  0.525
+                  0.420
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Tin mud acid neutralization filtrate.
+              
+                NSPS for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of neutralized dewatered tin mud produced
+                
+                
+                  Lead
+                  1.413
+                  0.656
+                
+                
+                  Cyanide (total)
+                  1.009
+                  0.404
+                
+                
+                  Fluoride
+                  176.600
+                  100.400
+                
+                
+                  Tin
+                  1.918
+                  1.110
+                
+                
+                  Total suspended solids
+                  75.710
+                  60.560
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (d) Tin hydroxide wash.
+              
+              
+                NSPS for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tin hydroxide washed

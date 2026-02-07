@@ -1,0 +1,60 @@
+sent to a treatment system at the plant, the resulting effluent must comply with the discharge standard in this paragraph.
+            (7) Fly ash transport water. There shall be no discharge of pollutants in fly ash transport water. Whenever fly ash transport water is used in any other plant process or is sent to a treatment system at the plant, the resulting effluent must comply with the discharge standard in this paragraph.
+            (8)(i) Once through cooling water. For any plant with a total rated electric generating capacity of 25 or more megawatts, the quantity of pollutants discharged in once through cooling water from each discharge point shall not exceed the quantity determined by multiplying the flow of once through cooling water from each discharge point times the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                NSPS
+                Maximum concentration(mg/l)
+                
+              
+              
+                Total residual chlorine
+                0.20
+              
+            
+
+            (ii) Total residual chlorine may only be discharged from any single generating unit for more than two hours per day when the discharger demonstrates to the permitting authority that discharge for more than two hours is required for macroinvertebrate control. Simultaneous multi-unit chlorination is permitted.
+            (9)(i) Once through cooling water. For any plant with a total rated generating capacity of less than 25 megawatts, the quantity of pollutants discharged in once through cooling water shall not exceed the quantity determined by multiplying the flow of once through cooling water sources times the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                NSPS
+                Maximum concentration(mg/l)
+                
+                Average concentration(mg/l)
+                
+              
+              
+                Free available chlorine
+                0.5
+                0.2
+              
+            
+            (ii) Neither free available chlorine nor total residual chlorine may be discharged from any unit for more than two hours in any one day and not more than one unit in any plant may discharge free available or total residual chlorine at any one time unless the utility can demonstrate to the Regional Administrator or state, if the state has NPDES permit issuing authority, that the units in a particular location cannot operate at or below this level of chlorination.
+            (10)(i) Cooling tower blowdown. The quantity of pollutants discharged in cooling tower blowdown shall not exceed the quantity determined by multiplying the flow of cooling tower blowdown times the concentration listed below:
+            
+              
+                Pollutant or pollutant property
+                NSPS
+                Maximum concentration(mg/l)
+                
+                Average concentration(mg/l)
+                
+              
+              
+                Free available chlorine
+                0.5
+                0.2
+              
+            
+            
+              
+                Pollutant or pollutant property
+                NSPS
+                Maximum forany 1 day
+                  (mg/l)
+                
+                Average of dailyvalues for 30
+                  consecutive days
+                  shall n

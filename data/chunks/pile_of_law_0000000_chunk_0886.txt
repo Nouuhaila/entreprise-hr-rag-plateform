@@ -1,0 +1,128 @@
+nt property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of ammonium paratungstate (as W) produced
+                
+                
+                  Lead
+                  0.000
+                  0.000
+                
+                
+                  Zinc
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+              
+              (i) Subpart J—Ammonium Paratungstate Conversion to Oxides Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungstic oxide (as W) produced
+                
+                
+                  Lead
+                  0.773
+                  0.359
+                
+                
+                  Zinc
+                  2.817
+                  1.160
+                
+                
+                  Ammonia (as N)
+                  368.200
+                  161.900
+                
+              
+              (j) Subpart J—Ammonium Paratungstate Conversion to Oxides Water of Formation.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungstic oxide (as W) produced
+                
+                
+                  Lead
+                  0.018
+                  0.008
+                
+                
+                  Zinc
+                  0.064
+                  0.026
+                
+                
+                  Ammonia (as N)
+                  8.398
+                  3.692
+                
+              
+              (k) Subpart J—Reduction to Tungsten Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten metal produced
+                  
+                
+                
+                  Lead
+                  .862
+                  .400
+                
+                
+                  Zinc
+                  3.142
+                  1.294
+                
+                
+                  Ammonia (as N)
+                  410.600
+                  180.500
+                
+              
+              (l) Subpart J—Reduction to Tungsten Water of Formation.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten metal produced
+                
+                
+                  Lead
+                  .137
+                  .064
+                
+                
+                  Zinc

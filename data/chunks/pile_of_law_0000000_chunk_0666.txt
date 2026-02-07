@@ -1,0 +1,65 @@
+Effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional technology (BCT).
+            
+            
+              Subpart H—Salt Bath Descaling Subcategory
+              420.80
+              Applicability; description of the salt bath descaling subcategory.
+              420.81
+              Specialized definitions.
+              420.82
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              420.83
+
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              
+              420.84
+              New source performance standards (NSPS).
+              420.85
+              Pretreatment standards for existing sources (PSES).
+              420.86
+              Pretreatment standards for new sources (PSNS).
+              420.87
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional technology (BCT).
+            
+            
+              Subpart I—Acid Pickling Subcategory
+              420.90
+              Applicability; description of the acid pickling subcategory.
+              420.91
+              Specialized definitions.
+              420.92
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              420.93
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              420.94
+              New source performance standards (NSPS).
+              420.95
+              Pretreatment standards for existing sources (PSES).
+              420.96
+              Pretreatment standards for new sources (PSNS).
+              420.97
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional technology (BCT).
+            
+            
+              Subpart J—Cold Forming Subcategory
+              420.100
+              Applicability; description of the cold forming subcategory.
+              420.101
+              Specialized definitions.
+              420.102
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              420.103
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              420.104
+              New source performance standards (NSPS).
+              420.105
+              Pretreatment standards for existing sources (PSES).
+              420.106
+              Pretreatment standards for new sources (PSNS).
+              420.107
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional technology (BCT).
+            
+            
+              Subpart K—Alkaline Cleaning Subcategory
+              420.110
+              Applicability; description of the alkaline cle

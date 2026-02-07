@@ -1,0 +1,64 @@
+408.321
+              Specialized definitions.
+              408.322
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              408.323
+              [Reserved]
+              408.324
+              Pretreatment standards for existing sources.
+              408.325
+              Standards of performance for new sources.
+              408.326
+              Pretreatment standards for new sources.
+              408.327
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+            
+            
+              
+              Subpart AG—Abalone Processing Subcategory
+              408.330
+              Applicability; description of the abalone processing subcategory.
+              408.331
+              Specialized definitions.
+              408.332
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              408.333
+              [Reserved]
+              408.334
+              Pretreatment standards for existing sources.
+              408.335
+              Standards of performance for new sources.
+              408.336
+              Pretreatment standards for new sources.
+              408.337
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology.
+            
+          
+          
+            Authority:
+
+            Secs. 301, 304 (b) and (c), 306 (b) and (c), 307(c), of the Federal Water Pollution Control Act, as amended; 33 U.S.C. 1251, 1311, 1314 (b) and (c), 1316 (b) and (c), 1317(c); 86 Stat. 816 et seq., Pub. L. 92-500; 91 Stat. 1567, Pub. L. 95-217.
+          
+          
+            Source:
+            39 FR 23140, June 26, 1974, unless otherwise noted.
+          
+          
+            Subpart A—Farm-Raised Catfish Processing Subcategory
+            
+              § 408.10
+              Applicability; description of the farm-raised catfish processing subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the processing of farm-raised catfish by existing facilities which process more than 1362 kg (3000 lbs) of raw material per day on any day during a calendar year and all new sources.
+              [40 FR 55780, Dec. 1, 1975]
+            
+            
+              § 408.11
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+              (b) The term oil and grease shall mean those components of a waste water amenable to measurement by the method described in Methods for Chemical Analysis of Water and Wastes, 1971, Environmental Protection Agency, Analytical Quality Control Laboratory, page 217.
+              (c) The term seafood shall mean the raw material, including freshwater and saltwater fish and shellfish, to be processed, in the form in which it is received at the processing plant.
+            
+            
+              § 408.12
+              Effluent limitati

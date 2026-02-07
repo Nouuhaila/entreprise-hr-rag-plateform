@@ -1,0 +1,41 @@
+Specialized definitions.
+              418.72
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              418.73
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              418.74
+              [Reserved]
+              418.75
+              Standards of performance for new sources.
+              418.76
+              Pretreatment standard for new sources.
+              418.77
+
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology.
+            
+          
+          
+            Authority:
+            33 U.S.C. 1251 et seq.
+            
+          
+          
+            Source:
+            39 FR 12836, April 8, 1974, unless otherwise noted.
+          
+          
+            Subpart A—Phosphate Subcategory
+            
+              § 418.10
+              Applicability; description of the phosphate subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the manufacture of sulfuric acid by sulfur burning, wet-process phosphoric acid, normal superphosphate, triple superphosphate and ammonium phosphate, except that the provisions of §§ 418.12, 418.13, and 418.17 shall not apply to wet-process phosphoric acid processes that were under construction either on or before April 8, 1974, at plants located in the State of Louisiana.
+              [52 FR 28432, July 29, 1987]
+            
+            
+              § 418.11
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+              (b) The term process wastewater means any water which, during manufacturing or processing, comes into direct contact with or results from the production or use of any raw material, intermediate product, finished product, by-product, or waste product. The term “process wastewater” does not include contaminated non-process wastewater, as defined below.
+              (c) The term, contaminated non-process wastewater shall mean any water including precipitation runoff which, during manufacturing or processing, comes into incidental contact with any raw material, intermediate product, finished product, by-product or waste product by means of: (1) Precipitation runoff; (2) accidental spills; (3) accidental leaks caused by the failure of process equipment and which are repaired or the discharge of pollutants therefrom contained or terminated within the shortest reasonable time which shall not exceed 24 hours after discovery or when discovery should reasonably have been made, whichever is earliest; and (4) discharges from safety showers and related personal safety equipment, and from equipment washings for the purpose of safe entry, inspection and maintenance; provided that all reasonable measures have been taken to prevent, reduce, eliminate and control to the maximum extent feasible such contact and provided further that all reasonable measures have been taken that will mitigate the effects of such contact once it has occurred.
+              (d)

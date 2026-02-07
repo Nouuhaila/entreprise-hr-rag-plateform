@@ -1,0 +1,21 @@
+or treatment system components and flow rates through the system. As a minimum, the cost estimates should be comprised of a single page summary for each water pollution control system showing estimated installed direct cost totals for mechanical equipment; piping and instrumentation; foundations and structural components; and, electrical components. Indirect costs for contingencies, overhead and profit, engineering fees, and any other indirect costs must be itemized separately. The sum of the direct and indirect costs which represents the owner's or operator's total estimate, must be shown.
+              (v) The effluent limitations or standards which could be achieved if the discharger were to spend an amount equal to the Agency's model treatment system cost estimate for the facility and the treatment facilities which would be used to meet those limitations or standards. Schematic diagrams and cost estimates as outlined in paragraph (b)(2)(iv) of this section, should be provided for each treatment system; and,
+              (vi) Production rates in tons per day for each process contributing wastewater to the central treatment facility consistent with those reported by the owner or operator in the NPDES permit application for the central treatment facility.
+              (3) The request described in subsection (b)(1) of this section, must be based upon the owner's or operator's belief that the cost of bringing the specified central treatment facilities into compliance with the provisions of this part would require expenditures so high compared to the Agency's model treatment system cost estimate applicable to that facility that the applicable limitations or standards would not represent BPT, BAT, BCT, or PSES, as the case may be, for the facility.
+              [47 FR 23284, May 27, 1982, as amended at 47 FR 41739, Sept. 22, 1982]
+            
+            
+              § 420.02
+              General definitions.
+              In addition to the definitions set forth in 40 CFR part 401, the following definitions apply to this part:
+              (a) The term TSS (or total suspended solids, or total suspended residue) means the value obtained by the method specified in 40 CFR 136.3.
+              (b) The term oil and grease (or O&G) means the value obtained by the method specified in 40 CFR 136.3.
+              (c) The term ammonia-N (or ammonia-nitrogen) means the value obtained by manual distillation (at pH 9.5) followed by the Nesslerization method specified in 40 CFR 136.3.
+              (d) The term cyanide means total cyanide and is determined by the method specified in 40 CFR 136.3.
+              (e) The term phenols 4AAP (or phenolic compounds) means the value obtained by the method specified in 40 CFR 136.3.
+              (f) The term TRC (or total residual chlorine) means the value obtained by the iodometric titration with an amperometric endpoint method specified in 40 CFR 136.3.
+              (g) The term chromium means total chromium and is determined by the method specified in 40 CFR 136.3.
+              (h) The term hexavalent chromium (or chromium VI) means the value obtained by the method specified in 40 CFR 136.3.
+              (i) The term copper means total copper and is determined by the method specified in 40 CFR 136.3.
+              (j) The term lead means total lead and is determined by the method specified in 40 CFR 136.3.
+              (k) The term nickel means total nickel and is determined by the method specif

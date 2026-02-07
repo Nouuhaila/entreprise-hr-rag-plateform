@@ -1,0 +1,103 @@
+total)
+                  5.653
+                  2.313
+                
+                
+                  Copper
+                  24.410
+                  12.850
+                
+                
+                  Nickel
+                  24.670
+                  16.320
+                
+              
+              (b) Acid reclaim leaching filtrate.
+              
+                PSNS for the Secondary Nickel Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of acid reclaim nickel produced
+                
+                
+                  Chromium (total)
+                  2.198
+                  0.899
+                
+                
+                  Copper
+                  9.491
+                  4.995
+                
+                
+                  Nickel
+                  9.590
+                  6.344
+                
+              
+              (c) Acid reclaim leaching belt filter backwash.
+              
+                PSNS for the Secondary Nickel Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of acid reclaim nickel produced
+                
+                
+                  Chromium (total)
+                  0.528
+                  0.216
+                
+                
+                  Copper
+                  2.278
+                  1.199
+                
+                
+                  Nickel
+                  2.302
+                  1.523
+                
+              
+            
+            
+              § 421.247
+              [Reserved]
+            
+          
+          
+            Subpart W—Primary Precious Metals and Mercury Subcategory
+            
+              Source:
+              50 FR 38361, Sept. 20, 1985, unless otherwise noted.
+            
+            
+              § 421.250
+              Applicability: Description of the primary precious metals and mercury subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of gold, silver, or mercury by primary precious metals and mercury facilities.
+            
+            
+              
+              § 421.251
+              Specialized definitions.
+              For the purpose of this subpart the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+            
+            
+              § 421.252
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable technology currently available:
+              (a) Smelter wet air pollution control.
+              
+                BPT Limitations for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant

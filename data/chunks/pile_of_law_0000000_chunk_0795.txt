@@ -1,0 +1,44 @@
+ility.
+              This part applies to facilities producing primary metals from ore concentrates and recovering secondary metals from recycle wastes which discharge or may discharge pollutants to waters of the United States or which introduce or may introduce pollutants into a publicly owned treatment works. The applicability of this part to alloying or casting of nonferrous metals is limited to alloying or casting of hot metal directly from the nonferrous metals manufacturing process without cooling. Remelting followed by alloying or cooling is included in the aluminum forming, nonferrous metals forming, or metal molding and casting point source categories.
+            
+            
+              § 421.2
+              [Reserved]
+            
+            
+              § 421.3
+              Monitoring and reporting requirements.
+              The following special monitoring requirements apply to all facilities controlled by this regulation:
+              (a) The monthly average regulatory values shall be the basis for the monthly average discharge in direct discharge permits and for pretreatment standards. Compliance with the monthly discharge limit is required regardless of the number of samples analyzed and averaged.
+              (b) Periodic analysis for cyanide are not required for a facility in the primary beryllium subcategory (subpart O of this part) when both of the following conditions are met:
+              (1) The first wastewater sample taken in each calandar year has been analyzed and found to contain less than 0.07 mg/1 cyanide.
+
+              (2) The owner or operator of the primary beryllium manufacturing facility certifies in writing to the POTW authority or permit issuing authority that cyanide is neither generated nor used in the beryllium manufacturing process employed at that facility.
+              [49 FR 8790, Mar. 8, 1984, as amended at 55 FR 31697, Aug. 3, 1990]
+            
+            
+              § 421.4
+              Compliance date for pretreatment standards for existing sources (PSES).
+              The PSES compliance deadline in subparts A through M is March 8, 1987. The PSES compliance deadline for plants in subparts N through AE is September 20, 1988.
+              [50 FR 52776, Dec. 26, 1985]
+            
+            
+              § 421.5
+              Removal allowances for pretreatment standards.
+              Removal allowances pursuant to 40 CFR 403.7(a) may be granted for the toxic metals limited in 40 CFR part 421 when used as indicator pollutants.
+            
+          
+          
+            Subpart A—Bauxite Refining Subcategory
+            
+              § 421.10
+              Applicability; description of the bauxite refining subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the refining of bauxite to alumina by the Bayer process or by the combination process.
+              [39 FR 12825, Apr. 8, 1974]
+            
+            
+              § 421.11
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) The term bauxite shall mean ore containing alumina monohydrate or alumina trihydrate which serves as the principal raw material for the production of alumina by the Bayer process or by the combination process.

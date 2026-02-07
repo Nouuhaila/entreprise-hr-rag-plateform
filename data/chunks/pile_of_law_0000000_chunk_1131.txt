@@ -1,0 +1,125 @@
+acid.
+              
+                BAT Limitations for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten produced
+                
+                
+                  Copper
+                  3.291
+                  1.569
+                
+                
+                  Nickel
+                  1.414
+                  0.951
+                
+                
+                  Ammonia (as N)
+                  342.700
+                  150.700
+                
+                
+                  Cobalt
+                  7.096
+                  3.111
+                
+                
+                  Tungsten
+                  8.947
+                  3.985
+                
+              
+              (c) Tungsten post-leaching wash and rinse.
+              
+                BAT Limitations for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten produced
+                
+                
+                  Copper
+                  6.583
+                  3.137
+                
+                
+                  Nickel
+                  2.829
+                  1.903
+                
+                
+                  Ammonia (as N)
+                  685.600
+                  301.400
+                
+                
+                  Cobalt
+                  14.194
+                  6.223
+                
+                
+                  Tungsten
+                  17.900
+                  7.972
+                
+              
+              (d) Synthetic scheelite filtrate.
+              
+                BAT Limitations for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of synthetic scheelite produced
+                
+                
+                  Copper
+                  21.330
+                  10.170
+                
+                
+                  Nickel
+                  9.164
+                  6.165
+                
+                
+                  Ammonia (as N)
+                  2,221.000
+                  976.300
+                
+                
+                  Cobalt
+                  45.984
+                  20.160
+                
+                
+                  Tungsten
+                  57.980
+                  25.820
+                
+              
+              (e) Tungsten carbide leaching wet air pollution control.
+              
+                BAT Limitations for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten carbide scrap leached

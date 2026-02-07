@@ -1,0 +1,135 @@
+rol.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of concentrate digested
+                
+                
+                  Lead
+                  .069
+                  .032
+                
+                
+                  Zinc
+                  .251
+                  .103
+                
+                
+                  Ammonia (as N)
+                  32.790
+                  14.420
+                
+                
+                  Fluoride
+                  8.610
+                  4.920
+                
+              
+              (d) Subpart K—Precipitation and Filtration.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of concentrate digested
+                
+                
+                  Lead
+                  3.833
+                  1.780
+                
+                
+                  Zinc
+                  13.960
+                  5.750
+                
+                
+                  Ammonia (as N)
+                  1,825.000
+                  802.200
+                
+                
+                  Fluoride
+                  479.100
+                  273.800
+                
+              
+
+              (e) Subpart K—Precipitation and Filtration Wet Air Pollution Control.
+              
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of concentrate digested
+                
+                
+                  Lead
+                  1.778
+                  .826
+                
+                
+                  Zinc
+                  6.478
+                  2.668
+                
+                
+                  Ammonia (as N)
+                  846.600
+                  372.200
+                
+                
+                  Fluoride
+                  222.300
+                  127.000
+                
+              
+              (f) Subpart K—Tantalum Salt Drying.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tantalum salt dried
+                
+                
+                  Lead
+                  16.950
+                  7.871
+                
+                
+                  Zinc
+                  61.750
+                  25.430
+                
+                
+                  Ammonia (as N)
+                  8,070.000
+                  3,548.000
+                
+                
+                  Fluoride
+                  2,119.000
+                  1,211.000
+                
+              
+              (g) Subpart K—Oxides Ca

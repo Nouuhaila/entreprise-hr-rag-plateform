@@ -1,0 +1,97 @@
+TSS
+                  120
+                  30
+                
+              
+              [39 FR 10513, Mar. 20, 1974, as amended at 42 FR 62371, Dec. 12, 1977; 60 FR 33936, June 29, 1995]
+            
+            
+              § 406.13
+              [Reserved]
+            
+            
+              § 406.14
+              Pretreatment standards for existing sources.
+              Any existing source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403. In addition, the following pretreatment standard establishes the quantity or quality of pollutants or pollutant properties controlled by this section which may be discharged to a publicly owned treatment works by a point source subject to the provisions of this subpart.
+              
+                
+                  Pollutant or pollutant property
+                  Pretreatment standard
+                
+                
+                  pH
+                  No limitation.
+                
+                
+                  BOD5
+                  
+                    Do.
+                
+                
+                  TSS
+                    Do.
+                
+              
+              [40 FR 6436, Feb. 11, 1975, as amended at 60 FR 33036, June 29, 1995]
+            
+            
+              § 406.15
+              Standards of performance for new sources.
+              The following standards of performance establish the quantity or quality of pollutants or pollutant properties, controlled by this section, which may be discharged by a new source subject to the provisions of this subpart:
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kilograms per 1,000 kg of corn)
+                
+                
+                  BOD5
+                  
+                  1.08
+                  0.36
+                
+                
+                  TSS
+                  1.35
+                  .45
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (pounds per 1,000 stdbu of corn)
+                
+                
+                  BOD5
+                  
+                  60
+                  20
+                
+                
+                  TSS
+                  75
+                  25
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+              [41 FR 50823, Nov. 18, 1976]
+            
+            
+              § 406.16
+              Pretreatment standards for new sources.
+
+              Any new source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403. In addition, the provisions set forth in paragraph (a) of this section apply, as well as the following pretreatment standard which establishes the quantity or quality of pollutants or pollutant properties controlled by this section which may be discharged to publicly owned treatment wor

@@ -1,0 +1,76 @@
+Kg/kkg (or pounds per 1,000 pounds) of product
+                
+                
+                  TSS
+                  2.7
+                  0.90
+                
+                
+                   
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+            
+          
+          
+            Subpart AT—Manganese Sulfate Production Subcategory [Reserved]
+          
+          
+            Subpart AU—Nickel Salts Production Subcategory
+            
+              Source:
+              49 FR 33423, Aug. 22, 1984, unless otherwise noted.
+            
+            
+              § 415.470
+              Applicability; description of the nickel salts production subcategory.
+              The provisions of this subpart are applicable to discharges and to the introduction of pollutants into treatment works which are publicly owned resulting from the production of nickel salts, including (a) nickel sulfate, nickel chloride, nickel nitrate, and nickel fluoborate, and (b) nickel carbonate.
+            
+            
+              § 415.471
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations, and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) The term product shall mean nickel salts.
+              (c) The term nickel shall mean the total nickel present in the process wastewater stream exiting the wastewater treatment system.
+              (d) The term copper shall mean the total copper present in the process wastewater stream exiting the wastewater treatment system.
+            
+            
+              § 415.472
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              (a) Except as provided in 40 CFR 125.30 through 125.32 any existing point source subject to this subpart and producing nickel sulfate, nickel chloride, nickel nitrate, or nickel fluoborate must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              
+                Subpart AU—Nickel Sulfate, Nickel Chloride, Nickel Nitrate, Nickel Fluoborate
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (or pounds per/1,000 lb) of product
+                
+                
+                  TSS
+                  0.096
+                  0.032
+                
+                
+                  Nickel (T)
+                  0.0060
+                  0.0020
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+
+              (b) Except as provided in 40 CFR 125.30 through 125.32 any existing point source subject to this subpart and producing nickel carbonate must achieve the following effluent limitations representing the degree of

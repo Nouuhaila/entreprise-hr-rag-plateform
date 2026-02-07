@@ -1,0 +1,78 @@
+Milligrams per liter (mg/l)
+                
+                
+                  Oil and grease
+                  100
+                
+                
+                  Ammonia (as N)
+                  
+                    1 100
+                
+                
+                  1 Where the discharge to the POTW consists solely of sour waters, the owner or operator has the option of complying with this limit or the daily maximum mass limitation for ammonia set forth in § 419.36 (a) and (b).
+              
+
+              (b) The following standard is applied to the cooling tower discharge part of the total refinery flow to the POTW by multiplying: (1) The standard; (2) by the total refinery flow to the POTW; and (3) by the ratio of the cooling tower discharge flow to the total refinery flow.
+              
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for new sources maximum for any 1 day
+                
+                
+                  
+                  Miligrams per liter (mg/l)
+                
+                
+                  Total chromium
+                  1
+                
+              
+            
+          
+          
+            Subpart D—Lube Subcategory
+            
+              § 419.40
+              Applicability; description of the lube subcategory.
+              The provisions of this subpart are applicable to all discharges from any facility that produces petroleum products by the use of topping, cracking, and lube oil manufacturing processes, whether or not the facility includes any process in addition to topping, cracking, and lube oil manufacturing processes. The provisions of this subpart are not applicable, however, to facilities that include the processes specified in subparts C and E of this part.
+            
+            
+              § 419.41
+              Specialized definitions.
+              The general definitions, abbreviations and methods of analysis set forth in part 401 of this chapter and the specialized definitions set forth in § 419.11 shall apply to this subpart.
+            
+            
+              § 419.42
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              (a) Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed
+                
+                
+                  
+                  Metric units (kilograms per 1,000 m3 of feedstock)
+                
+                
+                  BOD5
+                  
+                  50.6
+                  25.8
+                
+                
+                  TSS
+                  35.6
+                  22.7
+                
+                
+                  COD 1
+                  
+                  360.0
+                  187.0
+                
+                
+                  Oil and grease

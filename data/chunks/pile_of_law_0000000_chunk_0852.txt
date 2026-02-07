@@ -1,0 +1,131 @@
+Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of dross reverberatory furnace production
+                  
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+              
+              (f) Subpart G—Zinc Fuming Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of blast furnace lead bullion produced
+                  
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+              
+              (g) Subpart G—Hard Lead Refining Slag Granulation.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of hard lead produced
+                  
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+              
+              (h) Subpart G—Hard Lead Refining Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of hard lead produced
+                  
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+              
+              (i) Subpart G—Facility Washdown.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of lead bullion produced.
+                  
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+              
+              (j) Subpart G—Employee Handwash.
+              
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of lead bullion produced
+                  
+                
+                
+                  Lead
+                  .924

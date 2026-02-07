@@ -1,0 +1,50 @@
+urs in any one day and not more than one unit in any plant may discharge free available or total residual chlorine at any one time unless the utility can demonstrate to the Regional Administrator or State, if the State has NPDES permit issuing authority, that the units in a particular location cannot operate at or below this level or chlorination.
+            (9) Subject to the provisions of paragraph (b)(10) of this section, the following effluent limitations shall apply to the point source discharges of coal pile runoff:
+            
+              
+                Pollutant or pollutant property
+                BPT effluent limitations
+                Maximum concentration for any time (mg/l)
+              
+              
+                TSS
+                50
+              
+            
+            (10) Any untreated overflow from facilities designed, constructed, and operated to treat the volume of coal pile runoff which is associated with a 10 year, 24 hour rainfall event shall not be subject to the limitations in paragraph (b)(9) of this section.
+            (11) The quantity of pollutants discharged in FGD wastewater, flue gas mercury control wastewater, combustion residual leachate, or gasification wastewater shall not exceed the quantity determined by multiplying the flow of the applicable wastewater times the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                BPT Effluent limitations
+                Maximum forany 1 day
+                  (mg/l)
+                
+                Average of dailyvalues for 30
+                  consecutive days
+                  shall not exceed
+                  (mg/l)
+                
+              
+              
+                TSS
+                100.0
+                30.0
+              
+              
+                Oil and grease
+                20.0
+                15.0
+              
+            
+            (12) At the permitting authority's discretion, the quantity of pollutant allowed to be discharged may be expressed as a concentration limitation instead of the mass-based limitations specified in paragraphs (b)(3) through (b)(7), and (b)(11), of this section. Concentration limitations shall be those concentrations specified in this section.
+            (13) In the event that wastestreams from various sources are combined for treatment or discharge, the quantity of each pollutant or pollutant property controlled in paragraphs (b)(1) through (b)(12) of this section attributable to each controlled waste source shall not exceed the specified limitations for that waste source.
+            (The information collection requirements contained in paragraph (a) were approved by the Office of Management and Budget under control number 2000-0194)
+            [47 FR 52304, Nov. 19, 1982, as amended at 48 FR 31404, July 8, 1983; 80 FR 67894, Nov. 3, 2015]
+          
+          
+            
+            § 423.13
+            Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+            Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this part must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+            (a) There shall be

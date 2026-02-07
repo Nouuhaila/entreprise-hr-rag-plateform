@@ -1,0 +1,71 @@
+SPS).
+              415.346
+              Pretreatment standards for new sources (PSNS).
+              415.347
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+            
+            
+              Subpart AI—Chromic Acid Production Subcategory
+              415.350
+              Applicability; description of the chromic acid production subcategory.
+              415.351
+              Specialized definitions. [Reserved]
+              415.352
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.353-415.355
+              [Reserved]
+              415.356
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart AJ—Copper Salts Production Subcategory
+              415.360
+              Applicability; description of the copper salts production subcategory.
+              415.361
+              Specialized definitions.
+              415.362
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.363
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              415.364
+              Pretreatment standards for existing sources (PSES).
+              415.365
+              New source performance standards (NSPS).
+              415.366
+              Pretreatment standards for new sources (PSNS).
+              415.367
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+            
+            
+              Subpart AK—Cuprous Oxide Production Subcategory [Reserved]
+            
+            
+              Subpart AL—Ferric Chloride Production Subcategory
+              415.380
+              Applicability; description of the ferric chloride production subcategory.
+              415.381
+              Specialized definitions.
+              415.382
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.383
+              [Reserved]
+              415.384
+              Pretreatment standards for existing sources (PSES).
+              415.385
+              [Reserved]
+              415.386
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart AM—Ferrous Sulfate Production Subcategory [Reserved]
+            
+            
+              Subpart AN—Fluorine Production Subcategory
+              415.400
+              Applicability; description of the fluorine production subcategory.
+              415.401
+              Specialized definitions.
+              415.402
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.403-415.405
+              [Reserved]

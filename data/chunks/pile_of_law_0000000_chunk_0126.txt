@@ -1,0 +1,84 @@
+s as corn meal, grits, flour, oil, and animal feed.
+              (b) The provisions of this subpart do not apply to discharges from subsequent manufacturing operations to produce expanded or extruded feed or feed products.
+            
+            
+              § 406.21
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) The term corn shall mean the shelled corn delivered to a plant before processing.
+              (c) The term standard bushel shall mean a bushel of shelled corn weighing 56 pounds.
+              (d) The abbreviation MSBu shall mean 1000 standard bushels.
+            
+            
+              § 406.22
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kilograms per 1,000 kg of corn)
+                
+                
+                  BOD5
+                  
+                  0.21
+                  0.07
+                
+                
+                  TSS
+                  0.18
+                  .06
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (pounds per 1,000 stdbu of corn)
+                
+                
+                  BOD5
+                  
+                  12.0
+                  4.0
+                
+                
+                  TSS
+                  10.5
+                  3.5
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+              [39 FR 10513, Mar. 20, 1974, as amended at 60 FR 33936, June 29, 1995]
+            
+            
+              § 406.23
+              [Reserved]
+            
+            
+              § 406.24
+              Pretreatment standards for existing sources.
+              Any existing source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403. In addition, the following pretreatment standard establishes the quantity or quality of pollutants or pollutant properties controlled by this section which may be discharged to a publicly owned treatment works by a point source subject to the provisions of this subpart.
+              
+                
+                  Pollutant or pollutant property
+                  Pretreatment standard
+                
+                
+                  pH
+                  No limitation.

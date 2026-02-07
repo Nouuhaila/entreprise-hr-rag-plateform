@@ -1,0 +1,115 @@
+y values for 30 consecutive days shall not exceed
+                
+                
+                  
+                  Metric units (kilograms per 1,000 m3 of flow)
+                
+                
+                  BOD5
+                  
+                  48.
+                  26.
+                
+                
+                  TSS
+                  33.
+                  21.
+                
+                
+                  Oil and grease
+                  15.
+                  8.
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (pounds per 1,000 gallons of flow)
+                
+                
+                  BOD5
+                  
+                  0.40
+                  0.22
+                
+                
+                  TSS
+                  0.28
+                  0.18
+                
+                
+                  Oil and grease
+                  0.13
+                  0.067
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 6.0 to 9.0.
+              
+              [50 FR 28526, July 12, 1985]
+            
+            
+              § 419.35
+              Pretreatment standards for existing sources (PSES).
+              Except as provided in 40 CFR 403.7 and 403.13 any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources (PSES). The following standards apply to the total refinery flow contribution to the POTW:
+              
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards maximum for any 1 day
+                
+                
+                  
+                  (Milligrams per liter (mg/l))
+                
+                
+                  Oil and grease
+                  100
+                
+                
+                  Ammonia (as N)
+                  
+                    1 100
+                
+                
+                  1 Where the discharge to the POTW consists solely of sour waters, the owner or operator has the option of complying with this limit or the daily maximum mass limitation for ammonia set forth in § 419.33 (a) and (b).
+              
+            
+            
+              
+              § 419.36
+              Standards of performance for new sources (NSPS).
+              (a) Any new source subject to this subpart must achieve the following new source performance standards (NSPS):
+              
+                
+                  Pollutant or pollutant property
+                  NSPS Effluent Limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed
+                
+                
+                  
+                  Metric units (kilograms per 1,000 m3 of feedstock)
+                
+                
+                  BOD5
+                  
+                  21.8
+                  11.6
+                
+                
+                  TSS
+                  14.9
+                  9.5
+                
+                
+                  COD 1
+                  
+                  133.0
+                  69.0

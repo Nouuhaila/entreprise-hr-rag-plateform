@@ -1,0 +1,127 @@
+1 Within the range of 7.5 to 10.0 at all times.
+              
+              (e) Spent electrowinning solution from new scrap.
+              
+                BPT Limitations for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Minimum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cathode tin produced
+                
+                
+                  Lead
+                  7.056
+                  3.360
+                
+                
+                  Cyanide (total)
+                  4.872
+                  2.016
+                
+                
+                  Fluoride
+                  588.000
+                  334.300
+                
+                
+                  Tin
+                  6.384
+                  3.696
+                
+                
+                  Total suspended solids
+                  688.800
+                  327.600
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (f) Spent electrowinning solution from municipal solid waste.
+              
+                BPT Limitations for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Minimum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of MSW scrap used as raw material
+                
+                
+                  Lead
+                  0.050
+                  0.024
+                
+                
+                  Cyanide (total)
+                  0.035
+                  0.014
+                
+                
+                  Fluoride
+                  4.165
+                  2.368
+                
+                
+                  Tin
+                  0.045
+                  0.026
+                
+                
+                  Total suspended solids
+                  4.879
+                  2.321
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (g) Tin hydroxide supernatant from scrap.
+              
+                BPT Limitations for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tin metal recovered from scrap
+                
+                
+                  Lead
+                  23.370
+                  11.130
+                
+                
+                  Cyanide (total)
+                  16.140
+                  6.677
+                
+                
+                  Fluoride
+                  1,947.000
+                  1,107.000
+                
+                
+                  Tin
+                  21.140
+                  12.240
+                
+                
+                  Total suspended solids
+                  2,281.000

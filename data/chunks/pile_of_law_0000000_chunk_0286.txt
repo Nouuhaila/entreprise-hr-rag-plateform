@@ -1,0 +1,53 @@
+reatment standards for existing sources (PSES).
+              410.95
+              New source performance standards (NSPS).
+              410.96
+              Pretreatment standards for new sources (PSNS).
+              410.97
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT). [Reserved]
+            
+          
+          
+            Authority:
+
+            Secs. 301, 304 (b), (c), (e), and (g), 306 (b) and (c), 307 (b) and (c), and 501 of the Clean Water Act (the Federal Water Pollution Control Act Amendments of 1972, as amended by the Clean Water Act of 1977) (the “Act”); 33 U.S.C. 1311, 1314 (b), (c), (e), and (g), 1316 (b) and (c), 1317 (b) and (c), and 1361; 86 Stat. 186 et seq., Pub. L. 92-500; 91 Stat. 1567, Pub. L. 95-217.
+          
+          
+            Source:
+            47 FR 38819, Sept. 2, 1982, unless otherwise noted.
+          
+          
+            General Provisions
+            
+              § 410.00
+              Applicability.
+              This part applies to any textile mill or textile processing facility which discharges or may discharge process wastewater pollutants to the waters of the United States, or which introduces or may introduce process wastewater pollutants into a publicly owned treatment works.
+            
+            
+              § 410.01
+              General definitions.
+              In addition to the definitions set forth in 40 CFR part 401, the following definitions apply to this part:
+              (a) Sulfide shall mean total sulfide (dissolved and acid soluble) as measured by the procedures listed in 40 CFR part 136.
+              (b) Phenols shall mean total phenols as measured by the procedure listed in 40 CFR part 136.
+              (c) Total Chromium shall mean hexavalent and trivalent chromium as measured by the procedures listed in 40 CFR part 136.
+              (d) The term commission finishing shall mean the finishing of textile materials, 50 percent or more of which are owned by others, in mills that are 51 percent or more independent (i.e., only a minority ownership by company(ies) with greige or integrated operations); the mills must process 20 percent or more of their commissioned production through batch, noncontinuous processing operations with 50 percent or more of their commissioned orders processed in 5000 yard or smaller lots.
+              (e) The term product, except where a specialized definition is included in the subpart, shall mean the final material produced or processed at the mill.
+            
+            
+              § 410.02
+              Monitoring requirements. [Reserved]
+            
+          
+          
+            Subpart A—Wool Scouring Subcategory
+            
+              § 410.10
+              Applicability; description of the wool scouring subcategory.
+              The provisions of this subpart are applicable to process wastewater discharges resulting from the following types of textile mills: wool scouring, topmaking, and general cleaning of raw wool.
+            
+            
+              § 410.11
+              Specialized definitions.
+              In addition to the definitions set forth in 40 CFR part 401 and § 410.01 of this part, the following definitions apply to this subpart:
+              (a) The term wool shall mean the dry raw wool as it is received by the wool scouring mill.
+              (b) The term oil a

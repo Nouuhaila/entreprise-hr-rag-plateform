@@ -1,0 +1,114 @@
+Nickel
+                  0.000
+                  0.000
+                
+                
+                  Iron
+                  0.000
+                  0.000
+                
+                
+                  Molybdenum
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+                
+                  Total suspended solids
+                  0.000
+                  0.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (e) Pure Grade Molybdenum.
+              
+                BPT Limitations for the Secondary Molybdenum and Vanadium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of pure molybdenum produced
+                
+                
+                  Arsenic
+                  48.655
+                  21.650
+                
+                
+                  Chromium
+                  10.243
+                  4.190
+                
+                
+                  Lead
+                  9.778
+                  4.656
+                
+                
+                  Nickel
+                  44.698
+                  29.566
+                
+                
+                  Iron
+                  27.936
+                  14.201
+                
+                
+                  Molybdenum
+                  [Reserved]
+                  [Reserved]
+                
+                
+                  Ammonia (as N)
+                  9638.000
+                  4237.000
+                
+                
+                  Total Suspended Solids
+                  954.480
+                  453.960
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              [50 FR 38357, Sept. 20, 1985, as amended at 55 FR 31703, Aug. 3, 1990]
+            
+            
+              § 421.223
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable:
+              (a) Leach Tailings.
+              
+                BAT Limitations for the Secondary Molybdenum and Vanadium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of technical grade molybdenum plus vanadium plus pure grade molybdenum produced
+                
+                
+                  Arsenic
+                  27.120
+                  12.097

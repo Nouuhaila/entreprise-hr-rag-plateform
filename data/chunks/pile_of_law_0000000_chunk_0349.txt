@@ -1,0 +1,80 @@
+Sept. 26, 1983]
+            
+          
+          
+            Subpart E—Coatings Subcategory
+            
+              § 413.50
+              Applicability: Description of the coatings subcategory.
+              The provisions of this subpart apply to discharges resulting from the chromating, phosphating or immersion plating on ferrous or nonferrous materials.
+            
+            
+              § 413.51
+              Specialized definitions.
+              For the purpose of this subpart;
+              (a) The term sq m (“sq ft”) shall mean the area processed expressed in square meters (square feet).
+              (b) The term operation shall mean any step in the coating process in which a basis material surface is acted upon by a process solution and which is followed by a rinse; plus the related operations of alkaline cleaning, acid pickle, and sealing, when each operation is followed by a rinse.
+            
+            
+              §§ 413.52-413.53
+              [Reserved]
+            
+            
+              § 413.54
+              Pretreatment standards for existing sources.
+              Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources (PSES):
+              (a) No user introducing wastewater pollutants into a publicly owned treatment works under the provisions of this subpart shall augment the use of process wastewater or otherwise dilute the wastewater as a partial or total substitute for adequate treatment to achieve compliance with this standard.
+              (b) For a source discharging less than 38,000 liters (10,000 gal) per calendar day of electroplating process wastewater the following limitations shall apply:
+              
+                Subpart E—Coatings Facilities Discharging Less Than 38,000 Liters Per Day PSES Limitations (mg/l)
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Average of daily values for 4 consecutive monitoring days shall not exceed
+                
+                
+                  CN, A
+                  5.0
+                  2.7
+                
+                
+                  Pb
+                  0.6
+                  0.4
+                
+                
+                  Cd
+                  1.2
+                  0.7
+                
+              
+              (c) For plants discharging 38,000 liters (10,000 gal) or more per calendar day of electroplating process wastewater the following limitations shall apply:
+              
+                Subpart E—Coatings Facilities Discharging 38,000 Liters or More Per Day PSES Limitations (mg/l)
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Average of daily values for 4 consecutive monitoring days shall not exceed
+                
+                
+                  CN,T
+                  1.9
+                  1.0
+                
+                
+                  Cu
+                  4.5
+                  2.7
+                
+                
+                  Ni
+                  4.1
+                  2.6
+                
+                
+                  Cr
+                  7.0
+                  4.0
+                
+                
+                  Zn

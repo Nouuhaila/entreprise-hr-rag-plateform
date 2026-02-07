@@ -1,0 +1,113 @@
+he best available technology economically achievable (BAT):
+
+              (i) For each of the regulated pollutant parameters listed below, the effluent limitation for a given refinery is the sum of the products of each effluent limitation factor times the applicable process feedstock rate, calculated as provided in 40 CFR 122.45(b). Applicable production processes are presented in appendix A, by process type. The process identification numbers presented in this appendix A are for the convenience of the reader. They can be cross-referenced in the Development Document for Effluent Limitations Guidelines, New Source Performance Standards, and Pretreatment Standards for the Petroleum Refining Point Source Category (EPA 440/1-82/014), Table III-7, pp. 49-54.
+              
+                
+                  Pollutant or pollutant property and process type
+                  BAT effluent limitation factor
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed
+                
+                
+                  
+                  Metric units (kilograms per 1,000 m3 of feedstock)
+                
+                
+                  Phenolic compounds (4AAP):
+                
+                
+                  Crude
+                  0.037
+                  0.009
+                
+                
+                  Cracking and coking
+                  0.419
+                  0.102
+                
+                
+                  Asphalt
+                  0.226
+                  0.055
+                
+                
+                  Lube
+                  1.055
+                  0.257
+                
+                
+                  Reforming and alkylation
+                  0.377
+                  0.092
+                
+                
+                  Total chromium:
+                
+                
+                  Crude
+                  0.030
+                  0.011
+                
+                
+                  Cracking and coking
+                  0.340
+                  0.118
+                
+                
+                  Asphalt
+                  0.183
+                  0.064
+                
+                
+                  Lube
+                  0.855
+                  0.297
+                
+                
+                  Reforming and alkylation
+                  0.305
+                  0.106
+                
+                
+                  Hexavalent chromium:
+                
+                
+                  Crude
+                  0.0019
+                  0.0009
+                
+                
+                  Cracking and coking
+                  0.0218
+                  0.0098
+                
+                
+                  Asphalt
+                  0.0117
+                  0.0053
+                
+                
+                  Lube
+                  0.0549
+                  0.0248
+                
+                
+                  Reforming and alkylation
+                  0.0196
+                  0.0088
+                
+                
+                  
+                  English units (pounds per 1,000 bbl of feedstock)
+                
+                
+                  Phenolic compounds (4AAP):
+                
+                
+                  Crude
+                  0.013
+                  0.003
+                
+                
+                  Cracking and coking
+                  0.147

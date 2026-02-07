@@ -1,0 +1,130 @@
+072
+                
+                
+                  Zinc
+                  .919
+                  .378
+                
+              
+              (c) Subpart H—Leaching Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zinc processed through leaching
+                
+                
+                  Cadmium
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+              
+              (d) Subpart H—Electrolyte Bleed Wastewater.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cathode zinc produced
+                
+                
+                  Cadmium
+                  .086
+                  .035
+                
+                
+                  Zinc
+                  .441
+                  .182
+                
+              
+              (e) Subpart H—Cathode and Anode Wash Wastewater.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cathode zinc produced
+                
+                
+                  Cadmium
+                  .150
+                  .060
+                
+                
+                  Zinc
+                  .766
+                  .315
+                
+              
+              (f) Subpart H—Casting Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zinc cast
+                
+                
+                  Cadmium
+                  .051
+                  .021
+                
+                
+                  Zinc
+                  .262
+                  .108
+                
+              
+              (g) Subpart H—Casting Contact Cooling.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zinc cast
+                
+                
+                  Cadmium
+                  .036
+                  .014
+                
+                
+                  Zinc
+                  .185
+                  .076
+                
+              
+              (h) Subpart H—Cadmium Plant Wastewater.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average

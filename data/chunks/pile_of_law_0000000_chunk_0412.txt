@@ -1,0 +1,66 @@
+.676
+              Pretreatment standards for new sources (PSNS).
+              415.677
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+            
+          
+          
+            Authority:
+            Secs. 301, 304 (b), (c), (e), and (g), 306 (b) and (c), 307 (b) and (c), and 501 of the Clean Water Act (the Federal Water Pollution Control Act Amendments of 1972, as amended by the Clean Water Act of 1977) (the “Act”); 33 U.S.C. 1311, 1314 (b), (c), (e), and (g), 1316 (b) and (c), 1317 (b) and (c), and 1361; 86 Stat. 816, Pub. L. 92-500; 91 Stat. 1567, Pub. L. 95-217.
+          
+          
+            Source:
+            47 FR 28278, June 29, 1982, unless otherwise noted.
+          
+          
+            Subpart A—Aluminum Chloride Production Subcategory
+            
+              § 415.01
+              Compliance dates for pretreatment standards for existing sources.
+              The compliance dates for the pretreatment standards for existing sources (PSES) established in this part are as follows:
+              (a) The compliance date for subparts A, B, L, AL, AR, BA, and BC is July 20, 1980.
+              (b) The compliance date for subparts AJ, AU, BL, BM, BN and BO, except for discharges from copper sulfate or nickel sulfate manufacturing operations, is August 22, 1987.
+              (c) The compliance date for discharges from copper sulfate and nickel sulfate manufacturing operations and for all subparts in part 415 not listed in paragraphs (a) and (b) of this section is June 29, 1985.
+              [49 FR 33420, Aug. 22, 1984; 49 FR 37594, Sept. 25, 1984]
+            
+            
+              
+              § 415.10
+              Applicability; description of the aluminum chloride production subcategory.
+              The provisions of this subpart are applicable to discharges and to the introduction of pollutants into treatment works which are publicly owned resulting from the production of aluminum chloride.
+            
+            
+              § 415.11
+              Specialized definitions. [Reserved]
+            
+            
+              §§ 415.12-415.13
+              [Reserved]
+            
+            
+              § 415.14
+              Pretreatment standards for existing sources (PSES).
+              Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources (PSES):
+              
+                Subpart A—Aluminum Chloride
+                
+                  Pollutant or pollutant property
+                  PSES limitations
+                
+                
+                  pH
+                  Within the range 5.0 to 10.0.
+                
+              
+            
+            
+              § 415.15
+              [Reserved]
+            
+          
+          
+            Subpart B—Aluminum Sulfate Production Subcategory
+            
+              § 415.20
+              Applicability; description of the aluminum sulfate production subcategory.
+              The provisions of this subpart are applicable to discharges and to the introduction of pollutants into treatment works which are publicly owned resulting from the production of aluminum sulfate.

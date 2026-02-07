@@ -1,0 +1,84 @@
+y (BCT): The limitations shall be the same as those specified for conventional pollutants (which are defined in § 401.16) in § 406.52 of this subpart for the best practicable control technology currently available (BPT).
+              [51 FR 24997, July 9, 1986]
+            
+          
+          
+            Subpart F—Parboiled Rice Processing Subcategory
+            
+              § 406.60
+              Applicability; description of the parboiled rice processing subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the process in which rice is cleaned, cooked and dried before being milled.
+            
+            
+              § 406.61
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) The term “rice” shall mean rice delivered to a plant before processing.
+              (c) The abbreviation “cwt” shall mean hundred weight.
+            
+            
+              § 406.62
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kilograms per 1,000 kg of rice)
+                
+                
+                  BOD5
+                  
+                  0.42
+                  0.14
+                
+                
+                  TSS
+                  0.24
+                  .08
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (pounds per hundredweight of rice)
+                
+                
+                  BOD5
+                  
+                  0.042
+                  0.014
+                
+                
+                  TSS
+                  0.024
+                  .008
+                
+                
+                  
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+              [39 FR 10513, Mar. 20, 1974, as amended at 60 FR 33937, June 29, 1995]
+            
+            
+              § 406.63
+              [Reserved]
+            
+            
+              § 406.64
+              Pretreatment standards for existing sources.
+              Any existing source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403. In addition, the following pretreatment standard establishes the quantity or quality of pollutants or pollutant properties controlled by this section which may be

@@ -1,0 +1,77 @@
+Arsenic, total (ug/L)
+                4
+              
+              
+                Mercury, total (ng/L)
+                39
+                24
+              
+              
+                Selenium, total (ug/L)
+                5
+              
+              
+                TDS (mg/L)
+                50
+                24
+              
+            
+            (14) Flue gas mercury control wastewater. There shall be no discharge of pollutants in flue gas mercury control wastewater. Whenever flue gas mercury control wastewater is used in any other plant process or is sent to a treatment system at the plant, the resulting effluent must comply with the discharge standard in this paragraph.
+            (15) Gasification wastewater. The quantity of pollutants discharged in gasification wastewater shall not exceed the quantity determined by multiplying the flow of gasification wastewater times the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                NSPS
+                Maximum forany 1 day
+                
+                Average of dailyvalues for 30
+                  consecutive days
+                  shall not exceed
+                
+              
+              
+                Arsenic, total (ug/L)
+                4
+              
+              
+                Mercury, total (ng/L)
+                1.8
+                1.3
+              
+              
+                Selenium, total (ug/L)
+                453
+                227
+              
+              
+                Total dissolved solids (mg/L)
+                38
+                22
+              
+            
+            (16) Combustion residual leachate. The quantity of pollutants discharged in combustion residual leachate shall not exceed the quantity determined by multiplying the flow of combustion residual leachate times the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                NSPS
+                Maximum forany 1 day
+                
+                Average of dailyvalues for 30
+                  consecutive days
+                  shall not exceed
+                
+              
+              
+                Arsenic, total (ug/L)
+                11
+                8
+              
+              
+                Mercury, total (ng/L)
+                788
+                356
+              
+            
+            (17) At the permitting authority's discretion, the quantity of pollutant allowed to be discharged may be expressed as a concentration limitation instead of any mass based limitations specified in paragraphs (b)(3) through (16) of this section. Concentration limits shall be based on the concentrations specified in this section.
+            (18) In the event that wastestreams from various sources are combined for treatment or discharge, the quantity of each pollutant or pollutant property controlled in paragraphs (b)(1) through (16) of this section attributable to each controlled waste source shall not exceed the specified limitation for that waste source.
+            (The information collection requirements contained in paragraphs (a)(8)(ii), (a)(9)(ii), and (a)(10)(ii), (b)(8)(ii), (b)(9)(ii), and (b)(10)(ii) were approved by the Office of Management and Budget under control number 2040-0040. The information collection requirements contained in paragraphs (a)(10)(iii) and (b)(10)(iii) were app

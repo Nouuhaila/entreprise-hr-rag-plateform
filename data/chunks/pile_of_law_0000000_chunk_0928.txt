@@ -1,0 +1,132 @@
+Total suspended solids
+                  27.600
+                  13.130
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Subpart M—Blast, Reverberatory, or Rotary Furnace Wet Air Pollution Control
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead produced from smelting
+                
+                
+                  Antimony
+                  7.491
+                  3.341
+                
+                
+                  Arsenic
+                  5.455
+                  2.245
+                
+                
+                  Lead
+                  1.096
+                  .522
+                
+                
+                  Zinc
+                  3.811
+                  1.592
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  107.000
+                  50.900
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Subpart M—Kettle Wet Air Pollution Control
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead produced from refining
+                
+                
+                  Antimony
+                  .129
+                  .058
+                
+                
+                  Arsenic
+                  .094
+                  .039
+                
+                
+                  Lead
+                  .019
+                  .009
+                
+                
+                  Zinc
+                  .066
+                  .027
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  1.845
+                  .878
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (d) Subpart M—Lead Paste Desulfurization
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead processed through desulfurization
+                
+                
+                  Antimony
+                  .000
+                  .000
+                
+                
+                  Arsenic
+                  .000

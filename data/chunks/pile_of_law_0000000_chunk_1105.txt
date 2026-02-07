@@ -1,0 +1,125 @@
+ination off-gas wet air pollution control.
+              
+                BAT Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of TiCl4 produced
+                
+                
+                  Chromium (total)
+                  0.346
+                  0.140
+                
+                
+                  Lead
+                  0.262
+                  0.122
+                
+                
+                  Nickel
+                  0.515
+                  0.346
+                
+                
+                  Titanium
+                  0.496
+                  0.215
+                
+              
+              (b) Chlorination area-vent wet air pollution control.
+              
+                BAT Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of TiCl4 produced
+                
+                
+                  Chromium (total)
+                  0.385
+                  0.156
+                
+                
+                  Lead
+                  0.291
+                  0.135
+                
+                
+                  Nickel
+                  0.572
+                  0.385
+                
+                
+                  Titanium
+                  0.551
+                  0.239
+                
+              
+              (c) TiCl4 handling wet air pollution control.
+              
+                BAT Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of TiCl4 handled
+                
+                
+                  Chromium (total)
+                  0.069
+                  0.028
+                
+                
+                  Lead
+                  0.052
+                  0.024
+                
+                
+                  Nickel
+                  0.103
+                  0.069
+                
+                
+                  Titanium
+                  0.099
+                  0.043
+                
+              
+              (d) Reduction area wet air pollution control.
+              
+                BAT Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium produced
+                
+                
+                  Chromium (total)
+                  1.528
+                  0.620
+                
+                
+                  Lead
+                  1.156
+                  0.537
+                
+                
+                  Nickel
+                  2.272
+                  1.528

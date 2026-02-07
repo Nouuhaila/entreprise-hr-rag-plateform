@@ -1,0 +1,80 @@
+9)
+        LXVIII
+        Commission on Civil Rights (Parts 7800—7899)
+        LXIX
+        Tennessee Valley Authority (Parts 7900—7999)
+        LXX
+        Court Services and Offender Supervision Agency for the District of Columbia (Parts 8000—8099)
+        LXXI
+        Consumer Product Safety Commission (Parts 8100—8199)
+        LXXIII
+        Department of Agriculture (Parts 8300—8399)
+        
+        LXXIV
+        Federal Mine Safety and Health Review Commission (Parts 8400—8499)
+        LXXVI
+        Federal Retirement Thrift Investment Board (Parts 8600—8699)
+        LXXVII
+        Office of Management and Budget (Parts 8700—8799)
+        LXXX
+        Federal Housing Finance Agency (Parts 9000—9099)
+        LXXXIII
+        Special Inspector General for Afghanistan Reconstruction (Parts 9300—9399)
+        LXXXIV
+        Bureau of Consumer Financial Protection (Parts 9400—9499)
+        LXXXVI
+        National Credit Union Administration (Parts 9600—9699)
+        XCVII
+        Department of Homeland Security Human Resources Management System (Department of Homeland Security—Office of Personnel Management) (Parts 9700—9799)
+        XCVIII
+        Council of the Inspectors General on Integrity and Efficiency (Parts 9800—9899)
+        XCIX
+        Military Compensation and Retirement Modernization Commission (Parts 9900—9999)
+        C
+        National Council on Disability (Parts 10000—10049)
+        CI
+        National Mediation Board (Part 10101)
+      
+      
+        Title 6—Domestic Security
+        I
+        Department of Homeland Security, Office of the Secretary (Parts 1—199)
+        X
+        Privacy and Civil Liberties Oversight Board (Parts 1000—1099)
+      
+      
+        Title 7—Agriculture
+        Subtitle A—Office of the Secretary of Agriculture (Parts 0—26)
+        Subtitle B—Regulations of the Department of Agriculture
+        I
+        Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture (Parts 27—209)
+        II
+        Food and Nutrition Service, Department of Agriculture (Parts 210—299)
+        III
+        Animal and Plant Health Inspection Service, Department of Agriculture (Parts 300—399)
+        IV
+        Federal Crop Insurance Corporation, Department of Agriculture (Parts 400—499)
+        V
+        Agricultural Research Service, Department of Agriculture (Parts 500—599)
+        VI
+        Natural Resources Conservation Service, Department of Agriculture (Parts 600—699)
+        VII
+        Farm Service Agency, Department of Agriculture (Parts 700—799)
+        VIII
+
+        Agricultural Marketing Service (Federal Grain Inspection Service, Fair Trade Practices Program), Department of Agriculture (Parts 800—899)
+        
+        IX
+        Agricultural Marketing Service (Marketing Agreements and Orders; Fruits, Vegetables, Nuts), Department of Agriculture (Parts 900—999)
+        X
+        Agricultural Marketing Service (Marketing Agreements and Orders; Milk), Department of Agriculture (Parts 1000—1199)
+        XI
+        Agricultural Marketing Service (Marketing Agreements and Orders; Miscellaneous Commodities), Department of Agriculture (Parts 1200—1299)
+        XIV
+        Commodity Credit Corporation, Department of Agriculture (Parts 1400—1499)
+        XV
+        Foreign Agricultural Service, Department of Agriculture (Parts 1500—1599)
+        XVI
+        [Reserved]
+        XVII
+        Rural Utilities Service, Department of Agriculture (Parts 1700—1799)

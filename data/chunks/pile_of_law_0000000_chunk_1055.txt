@@ -1,0 +1,137 @@
+0.011
+                  0.005
+                
+                
+                  Cyanide (total)
+                  0.002
+                  0.001
+                
+                
+                  Combined metals
+                  0.003
+                  
+                
+                
+                  Zinc
+                  0.009
+                  0.004
+                
+                
+                  Ammonia (as N)
+                  1.160
+                  0.510
+                
+                
+                  Total suspended solids
+                  0.131
+                  0.104
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (h) Gold precipitation and filtration.
+              
+                NSPS for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold precipitated
+                
+                
+                  Copper
+                  5.632
+                  2.684
+                
+                
+                  Cyanide (total)
+                  0.880
+                  0.352
+                
+                
+                  Zinc
+                  4.488
+                  1.848
+                
+                
+                  Combined metals
+                  1.320
+                  
+                
+                
+                  Ammonia (as N)
+                  586.500
+                  257.800
+                
+                
+                  Total suspended solids
+                  66.00
+                  52.800
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (i) Platinum precipitation and filtration.
+              
+                NSPS for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of platinum precipitated
+                
+                
+                  Copper
+                  6.656
+                  3.172
+                
+                
+                  Cyanide (total)
+                  1.040
+                  0.416
+                
+                
+                  Zinc
+                  5.304
+                  2.184
+                
+                
+                  Combined metals
+                  1.560
+                  
+                
+                
+                  Ammonia (as N)
+                  693.200
+                  304.700
+                
+                
+                  Total suspended solids
+                  78.000
+                  62.400
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (j) Palladium precipitation and filtration.

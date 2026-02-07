@@ -1,0 +1,114 @@
+Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tin metal recovered from scrap
+                
+                
+                  Lead
+                  15.580
+                  7.233
+                
+                
+                  Cyanide (total)
+                  11.130
+                  4.451
+                
+                
+                  Fluoride
+                  1,947.000
+                  1,107.000
+                
+                
+                  Tin
+                  21.140
+                  12.240
+                
+              
+              (h) Tin hydroxide supernatant from plating solutions and ludges.
+              
+                PSNS for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tin metal recovered from plating solutions and sludges
+                
+                
+                  Lead
+                  32.20
+                  14.95
+                
+                
+                  Cyanide (total)
+                  23.00
+                  9.20
+                
+                
+                  Fluoride
+                  4,025.00
+                  2,289.00
+                
+                
+                  Tin
+                  43.70
+                  25.30
+                
+              
+              (i) Tin hydroxide filtrate.
+              
+                PSNS for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tin metal produced
+                
+                
+                  Lead
+                  7.012
+                  3.256
+                
+                
+                  Cyanide (total)
+                  5.009
+                  2.004
+                
+                
+                  Fluoride
+                  876.500
+                  498.400
+                
+                
+                  Tin
+                  9.517
+                  5.510
+                
+              
+            
+            
+              § 421.297
+              [Reserved]
+            
+          
+          
+            Subpart AB—Primary and Secondary Titanium Subcategory
+            
+              Source:
+              50 FR 38380, Sept. 20, 1985, unless otherwise noted.
+            
+            
+              § 421.300
+              Applicability: Description of the primary and secondary titanium subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of titanium at primary and secondary titanium facilities. Facilities which only practice vacuum distillation for sponge purification and which do not practice electrolytic recovery of magnesium are exempt from regulations. All other primary and secondary titanium facilities are covered by these regulations.
+            
+            
+              § 421.301
+              Specialized definitions.
+              For the purpose of this subpart the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part

@@ -1,0 +1,63 @@
+consecutive days shall not exceed—
+                
+                
+                  TSS
+                  0.35
+                  0.18
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.5.
+              
+              [51 FR 25000, July 9, 1986]
+            
+          
+        
+        
+          Pt. 423
+          PART 423—STEAM ELECTRIC POWER GENERATING POINT SOURCE CATEGORY
+          
+            Sec.
+            423.10
+            Applicability.
+            423.11
+            Specialized definitions.
+            423.12
+            Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+            423.13
+            Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+            423.14
+            Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT). [Reserved]
+            423.15
+            New source performance standards (NSPS).
+            423.16
+            Pretreatment standards for existing sources (PSES).
+            423.17
+            Pretreatment standards for new sources (PSNS).
+            Appendix A to Part 423—126 Priority Pollutants
+          
+          
+            Authority:
+            Secs. 101; 301; 304(b), (c), (e), and (g); 306; 307; 308 and 501, Clean Water Act (Federal Water Pollution Control Act Amendments of 1972, as amended; 33 U.S.C. 1251; 1311; 1314(b), (c), (e), and (g); 1316; 1317; 1318 and 1361).
+          
+          
+            Source:
+            47 FR 52304, Nov. 19, 1982, unless otherwise noted.
+          
+          
+            § 423.10
+            Applicability.
+            The provisions of this part apply to discharges resulting from the operation of a generating unit by an establishment whose generation of electricity is the predominant source of revenue or principal reason for operation, and whose generation of electricity results primarily from a process utilizing fossil-type fuel (coal, oil, or gas), fuel derived from fossil fuel (e.g., petroleum coke, synthesis gas), or nuclear fuel in conjunction with a thermal cycle employing the steam water system as the thermodynamic medium. This part applies to discharges associated with both the combustion turbine and steam turbine portions of a combined cycle generating unit.
+            [80 FR 67893, Nov. 3, 2015]
+          
+          
+            § 423.11
+            Specialized definitions.
+            In addition to the definitions set forth in 40 CFR part 401, the following definitions apply to this part:
+            (a) The term total residual chlorine (or total residual oxidants for intake water with bromides) means the value obtained using any of the “chlorine—total residual” methods in Table IB in 40 CFR 136.3(a), or other methods approved by the permitting authority.
+            
+            (b) The term low volume waste sources means, taken collectively as if from one source, wastewater from all sources except those for which specific limitations or standards are otherwise established in this part. Low volume waste sources include, but are not limited to, the

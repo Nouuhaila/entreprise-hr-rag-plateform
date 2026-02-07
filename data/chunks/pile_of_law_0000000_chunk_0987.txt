@@ -1,0 +1,114 @@
+Fluoride
+                  658.700
+                  374.500
+                
+                
+                  Total suspended solids
+                  771.600
+                  367.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+            
+            
+              § 421.185
+              Pretreatment standards for existing sources.
+
+              Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources. The mass of wastewater pollutants in primary and secondary germanium and gallium process wastewater introduced into a POTW must not exceed the following values:
+              (a) Still liquor.
+              
+                PSES for the Primary and Secondary Germanium and Gallium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of germanium chlorinated
+                
+                
+                  Arsenic
+                  131.70
+                  58.59
+                
+                
+                  Lead
+                  26.46
+                  12.60
+                
+                
+                  Zinc
+                  91.98
+                  38.43
+                
+                
+                  Fluoride
+                  2,205.00
+                  1,254.00
+                
+              
+              (b) Chlorinator wet air pollution control.
+              
+                PSES for the Primary and Secondary Germanium and Gallium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of germanium chlorinated
+                
+                
+                  Arsenic
+                  27.530
+                  12.250
+                
+                
+                  Lead
+                  5.531
+                  2.634
+                
+                
+                  Zinc
+                  19.230
+                  8.034
+                
+                
+                  Fluoride
+                  461.000
+                  262.100
+                
+              
+              (c) Germanium hydrolysis filtrate.
+              
+                PSES for the Primary and Secondary Germanium and Gallium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of germanium hydrolyzed
+                
+                
+                  Arsenic
+                  39.440
+                  17.550
+                
+                
+                  Lead
+                  7.925
+                  3.774
+                
+                
+                  Zinc
+                  2

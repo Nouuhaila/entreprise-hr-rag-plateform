@@ -1,0 +1,129 @@
+ontrol.
+              
+                PSES for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten carbide scrap
+                
+                
+                  Copper
+                  2.241
+                  1.068
+                
+                
+                  Nickel
+                  0.963
+                  0.648
+                
+                
+                  Ammonia (as N)
+                  233.400
+                  102.600
+                
+                
+                  Cobalt
+                  4.833
+                  2.119
+                
+                
+                  Tungsten
+                  6.093
+                  2.714
+                
+              
+              (f) Tungsten carbide wash water.
+              
+                PSES for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten carbide produced
+                
+                
+                  Copper
+                  10.670
+                  5.083
+                
+                
+                  Nickel
+                  4.583
+                  3.083
+                
+                
+                  Ammonia (as N)
+                  1,111.000
+                  488.300
+                
+                
+                  Cobalt
+                  22.999
+                  10.083
+                
+                
+                  Tungsten
+                  29.000
+                  12.920
+                
+              
+              (g) Cobalt sludge leaching wet air pollution control.
+              
+                PSES for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cobalt produced from cobalt sludge
+                
+                
+                  Copper
+                  45.800
+                  21.830
+                
+                
+                  Nickel
+                  19.680
+                  13.240
+                
+                
+                  Ammonia (as N)
+                  4,770.000
+                  2,097.000
+                
+                
+                  Cobalt
+                  98.756
+                  43.295
+                
+                
+                  Tungsten
+                  124.500
+                  55.460
+                
+              
+              (h) Crystallization decant.
+              
+                PSES for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cobalt produced
+                
+                
+                  Copper
+                  53.310

@@ -1,0 +1,119 @@
+46.240
+                
+              
+            
+            
+              § 421.334
+              Standards of performance for new sources.
+              Any new source subject to this subpart shall achieve the following new source performance standards:
+              (a) Sand drying wet air pollution control.
+              
+                NSPS for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium dioxide and hafnium dioxide produced
+                
+                
+                  Chromium (total)
+                  0.210
+                  0.085
+                
+                
+                  Cyanide (total)
+                  0.114
+                  0.045
+                
+                
+                  Lead
+                  0.159
+                  0.074
+                
+                
+                  Nickel
+                  0.312
+                  0.210
+                
+                
+                  Ammonia (as N)
+                  75.710
+                  33.280
+                
+                
+                  Total suspended solids
+                  8.520
+                  6.816
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Sand chlorination off-gas wet air pollution control.
+              
+                NSPS for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium dioxide and hafnium dioxide produced
+                
+                
+                  Chromium (total)
+                  16.080
+                  6.521
+                
+                
+                  Cyanide (total)
+                  8.694
+                  3.478
+                
+                
+                  Lead
+                  12.170
+                  5.651
+                
+                
+                  Nickel
+                  23.910
+                  16.080
+                
+                
+                  Ammonia (as N)
+                  5,795.000
+                  2,547.000
+                
+                
+                  Total suspended solids
+                  652.100
+                  521.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Sand chlorination area-vent wet air pollution control.
+              
+                NSPS for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium dioxide and hafnium dioxide produced

@@ -1,0 +1,97 @@
+sources. The mass of wastewater pollutants in secondary mercury process wastewater introduced into a POTW shall not exceed the following values:
+              (a) Spent battery electrolyte.
+              
+                PSNS for the Secondary Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of mercury produced from batteries
+                
+                
+                  Lead
+                  0.030
+                  0.014
+                
+                
+                  Mercury
+                  0.016
+                  0.006
+                
+              
+              (b) Acid wash and rinse water.
+              
+              
+                PSNS for the Secondary Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of mercury washed and rinsed
+                
+                
+                  Lead
+                  0.00056
+                  0.00026
+                
+                
+                  Mercury
+                  0.00030
+                  0.00012
+                
+              
+              (c) Furnance wet air pollution control.
+              
+                PSNS for the Secondary Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds of mercury processed through furnace
+                
+                
+                  Lead
+                  0.000
+                  0.000
+                
+                
+                  Mercury
+                  0.000
+                  0.000
+                
+              
+            
+            
+              § 421.207
+              [Reserved]
+            
+          
+          
+            Subpart S—Primary Molybdenum and Rhenium Subcategory
+            
+              Source:
+              50 FR 38355, Sept. 20, 1985, unless otherwise noted.
+            
+            
+              § 421.210
+              Applicability: Description of the primary molybdenum and rhenium subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of molybdenum and rhenium facilities.
+            
+            
+              § 421.211
+              Specialized definitions.
+              For the purpose of this subpart the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+            
+            
+              § 421.212
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitation representing the degree of effluent reduction attainable by the application of the best practicable technology currently available:

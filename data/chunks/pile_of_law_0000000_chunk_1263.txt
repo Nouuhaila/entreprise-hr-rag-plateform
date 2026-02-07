@@ -1,0 +1,85 @@
+0—1099)
+        12
+        Department of Transportation (Parts 1200—1299)
+        13
+        Department of Commerce (Parts 1300—1399)
+        14
+        Department of the Interior (Parts 1400—1499)
+        15
+        Environmental Protection Agency (Parts 1500—1599)
+        16
+        Office of Personnel Management, Federal Employees Health Benefits Acquisition Regulation (Parts 1600—1699)
+        17
+        Office of Personnel Management (Parts 1700—1799)
+        18
+        National Aeronautics and Space Administration (Parts 1800—1899)
+        19
+        Broadcasting Board of Governors (Parts 1900—1999)
+        20
+        Nuclear Regulatory Commission (Parts 2000—2099)
+        21
+        Office of Personnel Management, Federal Employees Group Life Insurance Federal Acquisition Regulation (Parts 2100—2199)
+        23
+        Social Security Administration (Parts 2300—2399)
+        24
+        Department of Housing and Urban Development (Parts 2400—2499)
+        25
+        National Science Foundation (Parts 2500—2599)
+        28
+        Department of Justice (Parts 2800—2899)
+        29
+        Department of Labor (Parts 2900—2999)
+        30
+        Department of Homeland Security, Homeland Security Acquisition Regulation (HSAR) (Parts 3000—3099)
+        34
+        Department of Education Acquisition Regulation (Parts 3400—3499)
+        51
+        Department of the Army Acquisition Regulations (Parts 5100—5199) [Reserved]
+        52
+        Department of the Navy Acquisition Regulations (Parts 5200—5299)
+        53
+
+        Department of the Air Force Federal Acquisition Regulation Supplement (Parts 5300—5399) [Reserved]
+        
+        54
+        Defense Logistics Agency, Department of Defense (Parts 5400—5499)
+        57
+        African Development Foundation (Parts 5700—5799)
+        61
+        Civilian Board of Contract Appeals, General Services Administration (Parts 6100—6199)
+        99
+        Cost Accounting Standards Board, Office of Federal Procurement Policy, Office of Management and Budget (Parts 9900—9999)
+      
+      
+        Title 49—Transportation
+        Subtitle A—Office of the Secretary of Transportation (Parts 1—99)
+        Subtitle B—Other Regulations Relating to Transportation
+        I
+        Pipeline and Hazardous Materials Safety Administration, Department of Transportation (Parts 100—199)
+        II
+        Federal Railroad Administration, Department of Transportation (Parts 200—299)
+        III
+        Federal Motor Carrier Safety Administration, Department of Transportation (Parts 300—399)
+        IV
+        Coast Guard, Department of Homeland Security (Parts 400—499)
+        V
+        National Highway Traffic Safety Administration, Department of Transportation (Parts 500—599)
+        VI
+        Federal Transit Administration, Department of Transportation (Parts 600—699)
+        VII
+        National Railroad Passenger Corporation (AMTRAK) (Parts 700—799)
+        VIII
+        National Transportation Safety Board (Parts 800—999)
+        X
+        Surface Transportation Board (Parts 1000—1399)
+        XI
+        Research and Innovative Technology Administration, Department of Transportation (Parts 1400—1499) [Reserved]
+        XII
+        Transportation Security Administration, Department of Homeland Security (Parts 1500—1699)
+      
+      
+        Title 50—Wildlife and Fisheries
+        I
+        United States Fish and Wildlife Service, Department of the Interior (Parts 1—199)
+        II
+        National Mar

@@ -1,0 +1,117 @@
+29, XXV
+      Employees' Compensation Appeals Board
+      20, IV
+      Employment and Training Administration
+      20, V
+      Employment Standards Administration
+      20, VI
+      Federal Acquisition Regulation
+      48, 29
+      Federal Contract Compliance Programs, Office of
+      41, 60
+      Federal Procurement Regulations System
+      41, 50
+      Labor-Management Standards, Office of
+      29, II, IV
+      Mine Safety and Health Administration
+      30, I
+      Occupational Safety and Health Administration
+      29, XVII
+      Public Contracts
+      41, 50
+      
+      Secretary of Labor, Office of
+      29, Subtitle A
+      Veterans' Employment and Training Service, Office of the Assistant Secretary for
+      41, 61; 20, IX
+      Wage and Hour Division
+      29, V
+      Workers' Compensation Programs, Office of
+      20, I, VII
+      Labor-Management Standards, Office of
+      29, II, IV
+      Land Management, Bureau of
+      43, II
+      Legal Services Corporation
+      45, XVI
+      Libraries and Information Science, National Commission on
+      45, XVII
+      Library of Congress
+      36, VII
+      Copyright Royalty Board
+      37, III
+      U.S. Copyright Office
+      37, II
+      Management and Budget, Office of
+      5, III, LXXVII; 14, VI; 48, 99
+      Marine Mammal Commission
+      50, V
+      Maritime Administration
+      46, II
+      Merit Systems Protection Board
+      5, II, LXIV
+      Micronesian Status Negotiations, Office for
+      32, XXVII
+      Military Compensation and Retirement Modernization Commission
+      5, XCIX
+      Millennium Challenge Corporation
+      22, XIII
+      Mine Safety and Health Administration
+      30, I
+      Minority Business Development Agency
+      15, XIV
+      Miscellaneous Agencies
+      1, IV
+      Monetary Offices
+      31, I
+      Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation
+      36, XVI
+      Museum and Library Services, Institute of
+      2, XXXI
+      National Aeronautics and Space Administration
+      2, XVIII; 5, LIX; 14, V
+      Federal Acquisition Regulation
+      48, 18
+      National Agricultural Library
+      7, XLI
+      National Agricultural Statistics Service
+      7, XXXVI
+      National and Community Service, Corporation for
+      2, XXII; 45, XII, XXV
+      National Archives and Records Administration
+      2, XXVI; 5, LXVI; 36, XII
+      Information Security Oversight Office
+      32, XX
+      National Capital Planning Commission
+      1, IV, VI
+      National Counterintelligence Center
+      32, XVIII
+      National Credit Union Administration
+      5, LXXXVI; 12, VII
+      National Crime Prevention and Privacy Compact Council
+      28, IX
+      National Drug Control Policy, Office of
+      2, XXXVI; 21, III
+      National Endowment for the Arts
+      2, XXXII
+      National Endowment for the Humanities
+      2, XXXIII
+      National Foundation on the Arts and the Humanities
+      45, XI
+      National Geospatial-Intelligence Agency
+      32, I
+      National Highway Traffic Safety Administration
+      23, II, III; 47, VI; 49, V
+      National Imagery and Mapping Agency
+      32, I
+      National Indian Gaming Commission
+      25, III
+      National Institute of Food and Agriculture
+      7, XXXIV
+      National Institute of Standards and Technology
+      15, II; 37, IV
+      National Intelligence, Office of Director of
+      5, IV; 32, XVII
+      National Labor Relations Board
+      5, LXI; 29, I
+      National

@@ -1,0 +1,22 @@
+# venv
+.venv/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# local data outputs
+data/raw/
+data/chunks/
+data/processed/
+data/*.csv
+data/*.json
+
+# qdrant local volume (si tu utilises un dossier local)
+qdrant_storage/
+
+# OS / IDE
+.DS_Store
+.vscode/

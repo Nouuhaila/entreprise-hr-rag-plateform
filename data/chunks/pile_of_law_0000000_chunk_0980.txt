@@ -1,0 +1,100 @@
+y and Secondary Germanium and Gallium Subcategory
+            
+              Source:
+              50 FR 38350, Sept. 20, 1985, unless otherwise noted.
+            
+            
+              § 421.180
+              Applicability: Description of the primary and secondary germanium and gallium subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of germanium or gallium from primary and secondary germanium and gallium facilities.
+            
+            
+              § 421.181
+              Specialized definitions.
+              For the purpose of this subpart the general definitions, abbreviations and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+            
+            
+              § 421.182
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable technology currently available:
+              (a) Still liquor.
+              
+              
+                BPT Limitations for the Primary and Secondary Germanium and Gallium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of germanium chlorinated
+                
+                
+                  Arsenic
+                  131.700
+                  58.590
+                
+                
+                  Lead
+                  26.460
+                  12.600
+                
+                
+                  Zinc
+                  91.980
+                  38.430
+                
+                
+                  Fluoride
+                  2,205.000
+                  1,254.000
+                
+                
+                  Total suspended solids
+                  2,583.000
+                  1,229.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Chlorinator wet air pollution control.
+              
+                BPT Limitations for the Primary and Secondary Germanium and Gallium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of germanium chlorinated
+                
+                
+                  Arsenic
+                  27.530
+                  12.250
+                
+                
+                  Lead
+                  5.531
+                  2.634
+                
+                
+                  Zinc
+                  19.230
+                  8.034
+                
+                
+                  Fluoride
+                  461.000
+                  262.100
+                
+                
+                  Total suspended solids
+                  540.000

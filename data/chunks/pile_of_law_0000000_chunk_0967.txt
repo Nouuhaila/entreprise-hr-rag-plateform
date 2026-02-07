@@ -1,0 +1,132 @@
+281.6
+                  134.2
+                
+                
+                  Cyanide (total)
+                  44.0
+                  17.6
+                
+                
+                  Ammonia (as N)
+                  29,330.0
+                  12,890.0
+                
+                
+                  Fluoride
+                  7,700.0
+                  4,378.0
+                
+                
+                  Total Suspended solids
+                  3,300.0
+                  2,640.0
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Beryllium carbonate filtrate.
+              
+                NSPS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium carbonate produced as beryllium
+                
+                
+                  Beryllium
+                  175.900
+                  79.370
+                
+                
+                  Chromium (total)
+                  79.370
+                  32.180
+                
+                
+                  Copper
+                  274.600
+                  130.800
+                
+                
+                  Cyanide (total)
+                  42.900
+                  17.160
+                
+                
+                  Ammonia (as N)
+                  28,590.000
+                  12,579.000
+                
+                
+                  Fluoride
+                  7,508.000
+                  4,269.000
+                
+                
+                  Total Suspended solids
+                  3,218.000
+                  2,574.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (d) Beryllium hydroxide filtrate.
+              
+                NSPS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium hydroxide produced as beryllium
+                
+                
+                  Beryllium
+                  111.520
+                  50.320
+                
+                
+                  Chromium (Total)
+                  50.320
+                  20.400
+                
+                
+                  Copper
+                  174.080
+                  82.960
+                
+                
+                  Cyanide (Total)
+                  27.200
+                  10.880
+                
+                
+                  Ammonia (as N)
+                  18128.800
+                  7969.600
+                
+                
+                  Fluoride
+                  4760.000
+                  2706.400
+                
+                
+                  Total Suspended Solids
+                  2040.000
+                  1632.000

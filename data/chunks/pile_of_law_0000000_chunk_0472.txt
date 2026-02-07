@@ -1,0 +1,85 @@
+sible; and (ii) to mitigate the effects of such contact once it has occurred.
+            
+            
+              § 415.532
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              
+              
+                Subpart BA—Silver Nitrate
+                
+                  Pollutant or pollutant property
+                  BPT limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (or pounds per 1,000 lb) of product
+                
+                
+                  Silver
+                  0.0090
+                  0.0030
+                
+                
+                  TSS
+                  0.069
+                  0.023
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+            
+            
+              § 415.533
+              [Reserved]
+            
+            
+              § 415.534
+              Pretreatment standards for existing sources (PSES).
+              Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources (PSES):
+              
+                Subpart BA—Silver Nitrate
+                
+                  Pollution or pollutant property
+                  PSES limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Milligram per liter (mg/l)
+                
+                
+                  Silver
+                  1.0
+                  0.5
+                
+              
+            
+          
+          
+            Subpart BB—Sodium Bisulfite Production Subcategory
+            
+              § 415.540
+              Applicability; description of the sodium bisulfite production subcategory.
+              This subpart applies to discharges to waters of the United States and introduction of pollutants into publicly owned treatment works resulting from the production of sodium bisulfite.
+            
+            
+              § 415.541
+              Specialized definitions.
+              For the purposes of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) The term product means sodium bisulfite.
+            
+            
+              § 415.542
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              Except as provided in 40 CFR 125.30 through 125

@@ -1,0 +1,118 @@
+Subpart J
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for existing sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Chromium 1
+                  
+                  0.00167
+                  0.000668
+                
+                
+                  Lead
+                  0.000751
+                  0.000250
+                
+                
+                  Nickel 1
+                  
+                  0.00150
+                  0.000501
+                
+                
+                  Zinc
+                  0.000501
+                  0.000167
+                
+                
+                  Napthalene
+                  0.000167
+                  
+                
+                
+                  Tetrachloroethylene
+                  0.000250
+                  
+                
+                
+                  1 The limitations for chromium and nickel shall be applicable in lieu of those for lead and zinc when cold rolling wastewaters are treated with descaling or combination acid pickling wastewaters.
+              
+              (b) Cold worked pipe and tube mills—(1) Using water.
+              
+              
+                Subpart J
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for existing sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Chromium 1
+                  
+                  0.0000209
+                  0.0000084
+                
+                
+                  Lead
+                  0.0000094
+                  0.0000031
+                
+                
+                  Nickel 1
+                  
+                  0.0000188
+                  0.0000063
+                
+                
+                  Zinc
+                  0.0000063
+                  0.0000021
+                
+                
+                  1 The limitations for chromium and nickel shall be applicable in lieu of those for lead and zinc when cold forming wastewaters are treated with descaling or combination acid pickling wastewaters.
+              
+              (2) Using oil solutions.
+              
+              
+                Subpart J
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for existing sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Chromium 1
+                  
+                  0.0000209
+                  0.0000084
+                
+                
+                  Lead
+                  0.0000094
+                  0.0000031
+                
+                
+                  Nickel 1
+                  
+                  0.0000188
+                  0.0000063
+                
+                
+                  Zinc

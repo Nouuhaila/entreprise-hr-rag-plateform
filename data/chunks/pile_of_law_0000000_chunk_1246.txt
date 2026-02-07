@@ -1,0 +1,106 @@
+tions
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kg/kkg of product)
+                
+                
+                  TSS
+                  1.762
+                  0.881
+                
+                
+                  Manganese
+                  0.705
+                  .352
+                
+                
+                  Ammonia-N
+                  10.574
+                  5.287
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (lb/1,000 lb of product)
+                
+                
+                  TSS
+                  1.762
+                  .881
+                
+                
+                  Manganese
+                  .705
+                  .352
+                
+                
+                  Ammonia-N
+                  10.574
+                  5.287
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+              [40 FR 8036, Feb. 27, 1975, as amended at 60 FR 33957, June 29, 1995]
+            
+            
+              § 424.63
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              (a) The following limitations establish the quantity or quality of pollutants or pollutant properties, controlled by this section, which may be discharged by a point source subject to the provisions of this subpart producing electrolytic manganese after application of the best available technology economically achievable:
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kg/kkg of product)
+                
+                
+                  Manganese
+                  0.678
+                  0.339
+                
+                
+                  Ammonia-N
+                  6.778
+                  3.389
+                
+                
+                  
+                  English units (lb/1,000 lb of product)
+                
+                
+                  Manganese
+                  0.678
+                  0.339
+                
+                
+                  Ammonia-N
+                  6.778
+                  3.389
+                
+              
+
+              (b) The following limitations establish the quantity or quality of pollutants or pollutant properties, controlled by this section, which may be discharged by a point source subject to the provisions of this subpart producing electrolytic manganese dioxide after application of the best available technology economically achievable:
+              
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—

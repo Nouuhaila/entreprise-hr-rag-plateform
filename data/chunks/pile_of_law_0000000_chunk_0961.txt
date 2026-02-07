@@ -1,0 +1,128 @@
+itations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium carbonate produced as beryllium
+                
+                
+                  Beryllium
+                  175.900
+                  79.370
+                
+                
+                  Chromium (total)
+                  79.370
+                  32.180
+                
+                
+                  Copper
+                  274.600
+                  130.800
+                
+                
+                  Cyanide (total)
+                  42.900
+                  17.160
+                
+                
+                  Ammonia (as N)
+                  28,590.000
+                  12,570.000
+                
+                
+                  Fluoride
+                  7,508.000
+                  4,269.000
+                
+              
+              (d) Beryllium Hydroxide Filtrate.
+              
+                BAT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium hydroxide produced as beryllium
+                
+                
+                  Beryllium
+                  111.520
+                  50.320
+                
+                
+                  Chromium (Total)
+                  50.320
+                  20.400
+                
+                
+                  Copper
+                  174.080
+                  82.960
+                
+                
+                  Cyanide (Total)
+                  27.200
+                  10.880
+                
+                
+                  Ammonia (as N)
+                  18128.800
+                  7969.600
+                
+                
+                  Fluoride
+                  4760.000
+                  2706.400
+                
+              
+              (e) Beryllium oxide calcining furnace wet air pollution control.
+              
+                BAT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium oxide produced
+                
+                
+                  Beryllium
+                  216.20
+                  97.57
+                
+                
+                  Chromium (total)
+                  97.57
+                  39.56
+                
+                
+                  Copper
+                  337.50
+                  160.90
+                
+                
+                  Cyanide (total)
+                  52.74
+                  21.10
+                
+                
+                  Ammonia (as N)
+                  35,150.00
+                  15,450.00
+                
+                
+                  Fluoride
+                  9,230.00
+                  5,248.00
+                
+              
+              (f) Beryllium hydroxide supernatant.

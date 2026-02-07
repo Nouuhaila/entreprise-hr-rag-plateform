@@ -1,0 +1,98 @@
+Applicability: Description of the primary beryllium subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of beryllium by primary beryllium facilities processing beryllium ore concentrates or beryllium hydroxide raw materials.
+            
+            
+              § 421.151
+              Specialized definitions.
+              For the purpose of this subpart the general definitions, abbreviations and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+            
+            
+              § 421.152
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable technology currently available:
+              (a) Solvent Extraction Raffinate from Bertrandite Ore.
+              
+                BPT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium carbonate produced from bertrandite ore as beryllium
+                
+                
+                  Beryllium
+                  2,763.000
+                  1,235.000
+                
+                
+                  Chromium (total)
+                  988.200
+                  404.300
+                
+                
+                  Copper
+                  4,267.000
+                  2,246.000
+                
+                
+                  Cyanide (total)
+                  651.300
+                  269.500
+                
+                
+                  Ammonia (as N)
+                  299,400.000
+                  131,600.000
+                
+                
+                  Fluoride
+                  78,610.000
+                  44,700.000
+                
+                
+                  Total suspended solids
+                  92,090.000
+                  43,800.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times
+              
+
+              (b) Solvent Extraction Raffinate from Beryl Ore.
+              
+              
+                BPT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium carbonate produced from beryl ore as beryllium
+                
+                
+                  Beryllium
+                  270.6
+                  121.0
+                
+                
+                  Chromium (total)
+                  96.8
+                  39.6
+                
+                
+                  Copper
+                  418.0
+                  220.0
+                
+                
+                  Cyanid

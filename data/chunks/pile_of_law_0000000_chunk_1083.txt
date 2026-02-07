@@ -1,0 +1,130 @@
+Lead
+                  0.015
+                  0.007
+                
+                
+                  Cyanide (total)
+                  0.010
+                  0.004
+                
+                
+                  Fluoride
+                  1.225
+                  0.700
+                
+                
+                  Tin
+                  0.013
+                  0.008
+                
+                
+                  Total suspended solids
+                  1.435
+                  0.683
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Tin mud acid neutralization filtrate.
+              
+              
+                BPT Limitations for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Minimum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of neutralized, dewatered tin mud produced
+                
+                
+                  Lead
+                  2.120
+                  1.009
+                
+                
+                  Cyanide (total)
+                  1.464
+                  0.606
+                
+                
+                  Fluoride
+                  176.600
+                  100.400
+                
+                
+                  Tin
+                  1.918
+                  1.110
+                
+                
+                  Total suspended solids
+                  206.900
+                  98.420
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (d) Tin hydroxide wash.
+              
+                BPT Limitations for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Minimum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tin hydroxide washed
+                
+                
+                  Lead
+                  5.020
+                  2.391
+                
+                
+                  Cyanide (total)
+                  3.466
+                  1.434
+                
+                
+                  Fluoride
+                  418.400
+                  237.900
+                
+                
+                  Tin
+                  4.542
+                  2.630
+                
+                
+                  Total suspended solids
+                  490.100
+                  233.100
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (e) Spent electrowinning solution from new scrap.
+              
+                BPT Limitations for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Minimum for any 1 day
+                  Maximum for monthly average

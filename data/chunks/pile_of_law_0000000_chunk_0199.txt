@@ -1,0 +1,117 @@
+TSS
+                  8.1
+                  2.7
+                
+                
+                  Oil and grease
+                  1.8
+                  0.61
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+              [39 FR 23140, June 26, 1974, as amended at 60 FR 33942, June 29, 1995]
+            
+            
+              § 408.83
+              [Reserved]
+            
+            
+              § 408.84
+              Pretreatment standards for existing sources.
+              Any existing source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403. In addition, the following pretreatment standard establishes the quantity or quality of pollutants or pollutant properties controlled by this section which may be discharged to a publicly owned treatment works by a point source subject to the provisions of this subpart.
+              
+                
+                  Pollutant or pollutant property
+                  Pretreatment standard
+                
+                
+                  pH
+                  No limitation.
+                
+                
+                  Oil and grease
+                    Do.
+                
+                
+                  TSS
+                    Do.
+                
+              
+              [40 FR 6438, Feb. 11, 1975, as amended at 60 FR 33942, June 29, 1995]
+            
+            
+              § 408.85
+              Standards of performance for new sources.
+              The following standards of performance establish the quantity or quality of pollutants or pollutant properties, controlled by this section, which may be discharged by a new source subject to the provisions of this subpart:
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kg/kkg of seafood)
+                
+                
+                  BOD5
+                  
+                  10
+                  4.1
+                
+                
+                  TSS
+                  1.7
+                  0.69
+                
+                
+                  
+                  Oil and grease
+                  0.25
+                  0.10
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (lb/1,000 lb of seafood)
+                
+                
+                  BOD5
+                  
+                  10
+                  4.1
+                
+                
+                  TSS
+                  1.7
+                  0.69
+                
+                
+                  Oil and grease
+                  0.25
+                  0.10
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+            
+            
+              § 408.86
+              Pretreatment standards for new sources.
+              Any new source

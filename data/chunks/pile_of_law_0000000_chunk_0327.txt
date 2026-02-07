@@ -1,0 +1,24 @@
+SNS).
+              (a) Except as provided in 40 CFR 403.7 and in paragraph (b) of this section, any new source subject to this subpart must achieve the following performance standards: There must be no introduction of process waste water pollutants to a POTW.
+              (b) Whenever rainfall events cause an overflow of process wastewater from a facility designed, constructed, operated, and maintained to contain all process-generated wastewaters plus the runoff from a 25-year, 24-hour rainfall event at the location of the point source, any process wastewater pollutants in the overflow may be introduced to a POTW.
+            
+          
+          
+            Subpart C—Dairy Cows and Cattle Other Than Veal Calves
+            
+              § 412.30
+              Applicability.
+              This subpart applies to operations defined as concentrated animal feeding operations (CAFOs) under 40 CFR 122.23 and includes the following animals: mature dairy cows, either milking or dry; cattle other than mature dairy cows or veal calves. Cattle other than mature dairy cows includes but is not limited to heifers, steers, and bulls. This subpart does not apply to such CAFOs with less than the following capacities: 700 mature dairy cows whether milked or dry; 1,000 cattle other than mature dairy cows or veal calves.
+            
+            
+              § 412.31
+              Effluent limitations attainable by the application of the best practicable control technology currently available (BPT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the application of BPT:
+              (a) For CAFO production areas. Except as provided in paragraphs (a)(1) through (a)(2) of this section, there must be no discharge of manure, litter, or process wastewater pollutants into waters of the U.S. from the production area.
+              (1) Whenever precipitation causes an overflow of manure, litter, or process wastewater, pollutants in the overflow may be discharged into U.S. waters provided:
+
+              (i) The production area is designed, constructed, operated and maintained to contain all manure, litter, and process wastewater including the runoff and the direct precipitation from a 25-year, 24-hour rainfall event;
+              
+              (ii) The production area is operated in accordance with the additional measures and records required by § 412.37(a) and (b).
+              (2) Voluntary alternative performance standards. Any CAFO subject to this subpart may request the Director to establish NPDES permit effluent limitations based upon site-specific alternative technologies that achieve a quantity of pollutants discharged from the production area equal to or less than the quantity of pollutants that would be discharged under the baseline performance standards as provided by paragraph (a)(1) of this section.
+              (i) Supporting information. In requesting site-specific effluent limitations to be included in the NPDES permit, the CAFO owner or operator must submit a supporting technical analysis and any other relevant information and data that would support such site-specific effluent limitations within the time frame provided by the Director. The supporting technical analysis must include calculation of the quantity of pollutants discharged, on a mass basis where appropriate, based on a site-specific analysis of a

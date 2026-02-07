@@ -1,0 +1,68 @@
+Applicability; description of the parboiled rice processing subcategory.
+              406.61
+              Specialized definitions.
+              406.62
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              406.63
+              [Reserved]
+              406.64
+              Pretreatment standards for existing sources.
+              406.65
+              Standards of performance for new sources.
+              406.66
+              Pretreatment standards for new sources.
+              406.67
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+            
+            
+              Subpart G—Animal Feed Subcategory
+              406.70
+              Applicability; description of the animal feed subcategory.
+              406.71
+              Specialized definitions.
+              406.72
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              406.73
+
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              
+              406.74
+              [Reserved]
+              406.75
+              Standards of performance for new sources.
+              406.76
+              Pretreatment standards for new sources.
+              406.77
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+            
+            
+              Subpart H—Hot Cereal Subcategory
+              406.80
+              Applicability; description of the hot cereal subcategory.
+              406.81
+              Specialized definitions.
+              406.82
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              406.83
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              406.84
+              [Reserved]
+              406.85
+              Standards of performance for new sources.
+              406.86
+              Pretreatment standards for new sources.
+              406.87
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+            
+            
+              Subpart I—Ready-to-Eat Cereal Subcategory
+              406.90
+              Applicability; description of the ready-to-eat cereal subcategory.
+              406.91
+              Specialized definitions.
+              406.92
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              406.93-406.94
+              [Reserved]
+              406.95
+              Standards of performance for new sources.

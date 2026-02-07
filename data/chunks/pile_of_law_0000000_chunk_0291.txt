@@ -1,0 +1,74 @@
+BOD5
+                  
+                  10.7
+                  5.5
+                
+                
+                  COD
+                  113.8
+                  73.3
+                
+                
+                  TSS
+                  32.3
+                  14.4
+                
+                
+                  Sulfide
+                  0.28
+                  0.14
+                
+                
+                  Phenols
+                  0.14
+                  0.07
+                
+                
+                  Total Chromium
+                  0.14
+                  0.07
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                Note: Additional allocations for “commission finishers” are not available to new sources.
+                
+                  1 Within the range 6.0 to 9.0 at all times.
+              
+            
+            
+              § 410.26
+              Pretreatment standards for new sources (PSNS).
+              Any new source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403.
+            
+            
+              § 410.27
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT). [Reserved]
+            
+          
+          
+            Subpart C—Low Water Use Processing Subcategory
+            
+              § 410.30
+              Applicability; description of the low water use processing subcategory.
+              The provisions of this subpart are applicable to process wastewater discharges resulting from the following types of textile mills: yarn manufacture, yarn texturizing, unfinished fabric manufacture, fabric coating, fabric laminating, tire cord and fabric dipping, and carpet tufting and carpet backing. Rubberized or rubber coated fabrics regulated by 40 CFR part 428 are specifically excluded.
+            
+            
+              § 410.31
+              Specialized definitions.
+              In addition to the definitions set forth in 40 CFR part 401 and § 410.01 of this part, the following definitions apply to this subpart:
+              (a) The term general processing shall mean the internal subdivision of the low water use processing subcategory for facilities described in § 410.30 that do not qualify under the water jet weaving subdivision.
+              (b) The term water jet weaving shall mean the internal subdivision of the low water use processing subcategory for facilities primarily engaged in manufacturing woven greige goods through the water jet weaving process.
+            
+            
+              § 410.32
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BPT):
+              
+                General Processing
+                
+                  Pollutant or pollutant property
+                  BPT limitations
+                  Maximum for any 1 day

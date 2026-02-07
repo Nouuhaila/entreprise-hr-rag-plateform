@@ -1,0 +1,134 @@
+9
+                  0.083
+                
+                
+                  Ammonia (as N)
+                  139.032
+                  61.120
+                
+                
+                  Fluoride
+                  36.505
+                  20.756
+                
+              
+              (l) Bertrandite Ore Gangue Dewatering.
+              
+                PSNS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of bertrandite ore processed
+                  
+                
+                
+                  Beryllium
+                  2.185
+                  0.986
+                
+                
+                  Chromium (Total)
+                  0.986
+                  0.400
+                
+                
+                  Copper
+                  3.411
+                  1.626
+                
+                
+                  Cyanide (Total)
+                  0.533
+                  0.213
+                
+                
+                  
+                  Ammonia (as N)
+                  355.245
+                  156.169
+                
+                
+                  Fluoride
+                  93.275
+                  53.034
+                
+              
+              (m) Beryl Ore Processing.
+              
+                PSNS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryl ore processed
+                  
+                
+                
+                  Beryllium
+                  5.988
+                  2.702
+                
+                
+                  Chromium (Total)
+                  2.702
+                  1.095
+                
+                
+                  Copper
+                  9.348
+                  4.455
+                
+                
+                  Cyanide (Total)
+                  1.461
+                  0.584
+                
+                
+                  Ammonia (as N)
+                  973.490
+                  427.956
+                
+                
+                  Fluoride
+                  255.605
+                  145.330
+                
+              
+              (n) Aluminum Iron Sludge (AIS) Area Wastewater.
+              
+                PSNS for the Primary Berryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of total beryllium carbonate produced as beryllium
+                
+                
+                  Beryllium
+                  383.760
+                  173.160
+                
+                
+                  Chromium (Total)
+                  173.160
+                  70.200
+                
+                
+                  Copper
+                  599.040
+                  285.480
+                
+                
+                  Cyanide (Total)
+                  93.600
+                  37.440

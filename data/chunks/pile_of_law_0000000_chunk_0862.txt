@@ -1,0 +1,116 @@
+2.172
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (h) Subpart H—Cadmium Plant Wastewater.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cadmium produced
+                
+                
+                  Cadmium
+                  1.234
+                  .494
+                
+                
+                  Copper
+                  7.899
+                  3.765
+                
+                
+                  Lead
+                  1.728
+                  .802
+                
+                
+                  Zinc
+                  6.295
+                  2.592
+                
+                
+                  Total suspended solids
+                  92.570
+                  74.050
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              [49 FR 8808, Mar. 8, 1984; 49 FR 26739, June 29, 1984, as amended at 49 FR 29795, July 24, 1984]
+            
+            
+              § 421.85
+              Pretreatment standards for existing sources.
+              Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources. The mass of wastewater pollutants in primary zinc process wastewater introduced into a POTW shall not exceed the following values:
+
+              (a) Subpart H—Zinc Reduction Furnace Wet Air Pollution Control.
+              
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zinc reduced
+                
+                
+                  Cadmium
+                  .334
+                  .134
+                
+                
+                  Zinc
+                  1.702
+                  .701
+                
+              
+              (b) Subpart H—Preleach of Zinc Concentrates.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of concentrate leached
+                
+                
+                  Cadmium
+                  .180
+                  .072
+                
+                
+                  Zinc
+                  .919
+                  .378
+                
+              
+              (c) Subpart H—Leaching Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average

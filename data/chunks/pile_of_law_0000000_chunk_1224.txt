@@ -1,0 +1,60 @@
+exceed the specified limitation for that waste source.
+            (The information collection requirements contained in paragraphs (a)(8)(ii), (a)(9)(ii), and (a)(10)(ii), (b)(8)(ii), (b)(9)(ii), and (b)(10)(ii) were approved by the Office of Management and Budget under control number 2040-0040. The information collection requirements contained in paragraphs (a)(10)(iii) and (b)(10)(iii) were approved under control number 2040-0033.)
+            [80 FR 67896, Nov. 3, 2015]
+          
+          
+            § 423.16
+            Pretreatment standards for existing sources (PSES).
+            Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources (PSES) by July 1, 1984:
+            (a) There shall be no discharge of polychlorinated biphenol compounds such as those used for transformer fluid.
+            (b) The pollutants discharged in chemical metal cleaning wastes shall not exceed the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                PSES pretreatment standards
+                Maximum for 1 day (mg/l)
+              
+              
+                Copper, total
+                1.0
+              
+            
+            
+            (c) [Reserved—Nonchemical Metal Cleaning Wastes].
+            (d)(1) The pollutants discharged in cooling tower blowdown shall not exceed the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                PSES pretreatment standards
+                Maximum for any time (mg/l)
+              
+              
+                The 126 priority pollutants (Appendix A) contained in chemicals added for cooling tower maintenance, except:
+                (1)
+              
+              
+                Chromium, total
+                0.2
+              
+              
+                Zinc, total
+                1.0
+              
+              
+                1 No detectable amount.
+            
+            (2) At the permitting authority's discretion, instead of the monitoring in 40 CFR 122.11(b), compliance with the limitations for the 126 priority pollutants in paragraph (d)(1) of this section may be determined by engineering calculations which demonstrate that the regulated pollutants are not detectable in the final discharge by the analytical methods in 40 CFR part 136.
+            (e) FGD wastewater. For any electric generating unit with a total nameplate generating capacity of more than 50 megawatts and that is not an oil-fired unit, the quantity of pollutants in FGD wastewater shall not exceed the quantity determined by multiplying the flow of FGD wastewater times the concentration listed in the table following this paragraph (e). Dischargers must meet the standards in this paragraph by November 1, 2020. These standards apply to the discharge of FGD wastewater generated on and after November 1, 2020.
+            
+              
+                Pollutant or pollutant property
+                PSES
+                Maximum forany 1 day
+                
+                Average of dailyvalues for 30
+                  consecutive days
+                  shall not exceed
+                
+              
+              
+                Arsenic, total (ug/L)

@@ -1,0 +1,123 @@
+rations exceeding 1000 mg/l; (b) this mother liquor or raffinate is treated by ammonia steam stripping; and (c) such mother liquor or raffinate is not commingled with any other process or nonprocess waters prior to steam stripping for ammonia removal.
+              
+
+              (g) Subpart J—Calcium Tungstate Precipitate Wash.
+              
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of calcium tungstate (as W) produced
+                
+                
+                  Lead
+                  20.670
+                  9.594
+                
+                
+                  Zinc
+                  75.280
+                  31.000
+                
+                
+                  Ammonia (as N)
+                  9,838.000
+                  4,325.000
+                
+                
+                  Total suspended solids
+                  1,107.000
+                  885.600
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (h) Subpart J—Crystallization and Drying of Ammonium Paratungstate.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of ammonium paratungstate (as W) produced
+                
+                
+                  Lead
+                  0.000
+                  0.000
+                
+                
+                  Zinc
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+                
+                  Total suspended solids
+                  0.000
+                  0.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (i) Subpart J—Ammonium Paratungstate Conversion to Oxides Wet Air Pollution Control.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of tungstic oxide (as W) produced
+                
+                
+                  Lead
+                  0.773
+                  0.359
+                
+                
+                  Zinc
+                  2.817
+                  1.160
+                
+                
+                  Ammonia (as N)
+                  368.200
+                  161.900
+                
+                
+                  Total suspended solids
+                  41.430
+                  33.150
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.

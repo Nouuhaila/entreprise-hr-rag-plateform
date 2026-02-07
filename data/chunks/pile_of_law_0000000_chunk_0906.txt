@@ -1,0 +1,133 @@
+um for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tantalum salt reduced
+                
+                
+                  Lead
+                  46.500
+                  21.590
+                
+                
+                  Zinc
+                  169.400
+                  69.750
+                
+                
+                  Ammonia (as N)
+                  22,140.000
+                  9,732.000
+                
+                
+                  Fluoride
+                  5,813.000
+                  3,322.000
+                
+              
+              (i) Subpart K—Reduction of Tantalum Salt to Metal Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tantalum salt reduced
+                
+                
+                  Lead
+                  .572
+                  .266
+                
+                
+                  Zinc
+                  2.084
+                  .858
+                
+                
+                  Ammonia (as N)
+                  272.400
+                  119.700
+                
+                
+                  Fluoride
+                  71.510
+                  40.860
+                
+              
+              (j) Subpart K—Tantalum Powder Wash.
+              
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tantalum powder washed
+                
+                
+                  Lead
+                  5.721
+                  2.656
+                
+                
+                  Zinc
+                  20.840
+                  8.582
+                
+                
+                  Ammonia (as N)
+                  2,724.000
+                  1,198.000
+                
+                
+                  Fluoride
+                  715.200
+                  408.700
+                
+              
+              (k) Subpart K—Consolidation and Casting Contact Cooling.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of columbium or tantalum cast or consolidated
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+              
+              [49 FR 8817, Mar. 8, 1984, as amended at 50 FR 12253, Mar. 28, 1985]
+            
+            
+              § 421.116
+              Pretreatment standards for new sources.
+              Except as provided in 40 CFR 403.7, any new so

@@ -1,0 +1,127 @@
+property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver roasted, smelted, or dried
+                
+                
+                  Copper
+                  1.273
+                  .670
+                
+                
+                  Zinc
+                  .978
+                  .409
+                
+                
+                  Ammonia (as N)
+                  89.310
+                  39.260
+                
+                
+                  Total suspended solids
+                  27.470
+                  13.070
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (h) Subpart L—Leaching.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver produced from leaching
+                
+                
+                  Copper
+                  .164
+                  .086
+                
+                
+                  Zinc
+                  .126
+                  .053
+                
+                
+                  Ammonia (as N)
+                  11.470
+                  5.040
+                
+                
+                  Total suspended solids
+                  3.526
+                  1.677
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (i) Subpart L—Leaching Wet Air Pollution Control and Precipitation of Nonphotographic Solutions Wet Air Pollution Control.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver produced from leaching or silver precipitated
+                
+                
+                  Copper
+                  8.417
+                  4.430
+                
+                
+                  Zinc
+                  6.468
+                  2.703
+                
+                
+                  Ammonia (as N)
+                  590.500
+                  259.600
+                
+                
+                  Total suspended solids
+                  181.700
+                  86.390
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (j) Subpart L—Precipitation and Filtration of Nonphotographic Solutions.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver precipitated

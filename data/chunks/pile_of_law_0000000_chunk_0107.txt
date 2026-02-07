@@ -1,0 +1,53 @@
+Pretreatment standards for new sources.
+              Any new source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403.
+              [60 FR 33934, June 29, 1995]
+            
+            
+              § 405.87
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): The limitations shall be the same as those specified for conventional pollutants (which are defined in § 401.16) in § 405.82 of this subpart for the best practicable control technology currently available (BPT).
+              [51 FR 24996, July 9, 1986]
+            
+          
+          
+            Subpart I—Condensed Milk Subcategory
+            
+              § 405.90
+              Applicability; description of the condensed milk subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the manufacture of condensed whole milk, condensed skim milk, sweetened condensed milk and condensed buttermilk.
+            
+            
+              § 405.91
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) The term “BOD5 input” shall mean the biochemical oxygen demand of the materials entered into process. It can be calculated by multiplying the fats, proteins and carbohydrates by factors of 0.890, 1.031 and 0.691 respectively. Organic acids (e.g., lactic acids) should be included as carbohydrates. Composition of input materials may be based on either direct analyses or generally accepted published values.
+            
+            
+              § 405.92
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+
+              (a) For plants condensing more than 100,000 lb/day of milk equivalent (more than 10,390 lb/day of BOD5 input).
+              
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kilograms per 1,000 kg of BOD5 input)
+                
+                
+                  BOD5
+                  
+                  3.450
+                  1.380
+                
+                
+                  TSS
+                  5.175
+                  2.070

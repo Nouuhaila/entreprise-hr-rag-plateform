@@ -1,0 +1,75 @@
+Organic chemicals, plastics, and synthetic fibers
+          221
+          415
+          Inorganic chemicals manufacturing point source category
+          244
+          416
+          [Reserved]
+          417
+          Soap and detergent manufacturing point source category
+          302
+          418
+          Fertilizer manufacturing point source category
+          339
+          419
+          Petroleum refining point source category
+          353
+          420
+          Iron and steel manufacturing point source category
+          388
+          421
+          Nonferrous metals manufacturing point source category
+          454
+          422
+          Phosphate manufacturing point source category
+          637
+          
+          423
+          Steam electric power generating point source category
+          646
+          424
+          Ferroalloy manufacturing point source category
+          664
+        
+      
+      
+        
+        SUBCHAPTER N—EFFLUENT GUIDELINES AND STANDARDS
+        
+          PART 400 [RESERVED]
+        
+        
+          Pt. 401
+          PART 401—GENERAL PROVISIONS
+          
+            Sec.
+            401.10
+            Scope and purpose.
+            401.11
+            General definitions.
+            401.12
+            Law authorizing establishment of effluent limitations guidelines for existing sources, standards of performance for new sources and pretreatment standards of new and existing sources.
+            401.13
+            Test procedures for measurement.
+            401.14
+            Cooling water intake structures.
+            401.15
+            Toxic pollutants.
+            401.16
+            Conventional pollutants
+            401.17
+            pH Effluent limitations under continuous monitoring.
+          
+          
+            Authority:
+            33 U.S.C. 1251 et seq.
+            
+          
+          
+            Source:
+            39 FR 4532, Feb. 1, 1974, unless otherwise noted.
+          
+          
+            § 401.10
+            Scope and purpose.
+            Regulations promulgated or proposed under parts 402 through 699 of this subchapter prescribe effluent limitations guidelines for existing sources, standards of performance for new sources and pretreatment standards for new and existing sources pursuant to sections 301, 304 (b) and (c), 306 (b) and (c), 307 (b) and (c) and 316(b) of the Federal Water Pollution Control Act, as amended (the “Act”), 33 U.S.C. 1251, 1311, 1314 (b) and (c), 1316 (b) and (c), 1317 (b) and (c) and 1326(b); 86 Stat. 816; Pub. L. 92-500. Point sources of discharges of pollutants are required to comply with these regulations, where applicable, and permits issued by States or the Environmental Protection Agency (EPA) under the National Pollutant Discharge Elimination System (NPDES) established pursuant to section 402 of the Act must be conditioned upon compliance with applicable requirements of sections 301 and 306 (as well as certain other requirements). This part 401 sets forth the legal authority and general definitions which will apply to all regulations issued concerning specific classes and categories of point sources under parts 402 through 699 of this subchapter which follow. In certain instances the regulations applicable to a particular point source category or subcategory will contain more specialized definitions. Except as provided in § 401.17, in the case of any conflict between regulations issued under this part 401 and regulations issued under

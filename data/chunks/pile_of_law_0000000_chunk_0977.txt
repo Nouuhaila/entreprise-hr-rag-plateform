@@ -1,0 +1,133 @@
+(i) Chip treatment wastewater.
+              
+                PSNS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg pounds per million pounds of beryllium scrap chips treated
+                
+                
+                  Beryllium
+                  6.355
+                  2.868
+                
+                
+                  Chromium (total)
+                  2.868
+                  1.163
+                
+                
+                  Copper
+                  9.920
+                  4.728
+                
+                
+                  Cyanide (total)
+                  1.550
+                  0.620
+                
+                
+                  Ammonia (as N)
+                  1,033.000
+                  454.200
+                
+                
+                  Fluoride
+                  271.300
+                  154.200
+                
+              
+              (j) Beryllium pebble plant area vent wet air pollution control
+              
+                PSNS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg pounds per million pounds of beryllium pebbles produced
+                
+                
+                  Beryllium
+                  0.000
+                  0.000
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Copper
+                  0.000
+                  0.000
+                
+                
+                  Cyanide (total)
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+                
+                  Fluoride
+                  0.000
+                  0.000
+                
+              
+              (k) Beryl Ore Gangue Dewatering.
+              
+                PSNS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryl ore processed
+                  
+                
+                
+                  Beryllium
+                  0.855
+                  0.386
+                
+                
+                  Chromium (Total)
+                  0.386
+                  0.156
+                
+                
+                  Copper
+                  1.335
+                  0.636
+                
+                
+                  Cyanide (Total)
+                  0.209
+                  0.083
+                
+                
+                  Ammonia (as N)
+                  139.032
+                  61.120
+                
+                
+                  Fluoride
+                  36.505
+                  20.756
+                
+              
+              (l) Bertrandite Ore Gangue Dewatering.
+              
+                PSNS for the Primary Berylliu

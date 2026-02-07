@@ -1,0 +1,127 @@
+Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold contained in PGC product
+                
+                
+                  Copper
+                  1.152
+                  0.549
+                
+                
+                  Cyanide (total)
+                  0.180
+                  0.072
+                
+                
+                  Zinc
+                  0.918
+                  0.378
+                
+                
+                  Combined metals
+                  0.270
+                  
+                
+                
+                  Ammonia (as N)
+                  120.000
+                  52.740
+                
+              
+              (m) Equipment and floor wash.
+              
+                PSNS for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of precious metals, including silver, produced in refinery
+                
+                
+                  Copper
+                  0.000
+                  0.000
+                
+                
+                  Cyanide (total)
+                  0.000
+                  0.000
+                
+                
+                  Zinc
+                  0.000
+                  0.000
+                
+                
+                  Combined metals
+                  0.000
+                  
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+              
+              (n) Preliminary treatment.
+              
+                PSNS for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly averge
+                
+                
+                  
+                  mg/troy ounce of total precious metals produced through this operation
+                
+                
+                  Copper
+                  64.000
+                  30.500
+                
+                
+                  Cyanide (Total)
+                  10.000
+                  4.000
+                
+                
+                  Zinc
+                  51.000
+                  21.000
+                
+                
+                  Combined Metals
+                  15.000
+                  
+                
+                
+                  Ammonia (as N)
+                  6665.000
+                  2930.000
+                
+              
+              [50 FR 38365, Sept. 20, 1985, as amended at 55 FR 31711, Aug. 3, 1990]
+            
+            
+              § 421.267
+              [Reserved]
+            
+          
+          
+            Subpart Y—Primary Rare Earth Metals Subcategory
+            
+              Source:
+              50 FR 38371, Sept. 20, 1985, unless otherwise noted.
+            
+            
+              § 421.270
+              Applicability: Description of the primary rare earth metals subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of rare earth metals and mischmetal by primary

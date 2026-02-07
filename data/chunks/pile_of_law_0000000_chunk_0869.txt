@@ -1,0 +1,107 @@
+Cadmium
+                  0.511
+                  0.204
+                
+                
+                  Copper
+                  3.269
+                  1.558
+                
+                
+                  Lead
+                  0.715
+                  0.332
+                
+                
+                  Zinc
+                  2.605
+                  1.073
+                
+                
+                  Fluoride 1
+                  
+                  89.390
+                  50.820
+                
+                
+                  Molybdenum 1
+                  
+                  [Reserved]
+                  [Reserved].
+                
+                
+                  1 For Molybdenum acid plants only.
+              
+              [50 FR 38343, Sept. 20, 1985, as amended at 55 FR 31697, Aug. 3, 1990]
+            
+            
+              § 421.97
+              [Reserved]
+            
+          
+          
+            Subpart J—Primary Tungsten Subcategory
+            
+              § 421.100
+              Applicability: Description of the primary tungsten subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of tungsten at primary tungsten facilities.
+              [49 FR 8812, Mar. 8, 1984]
+            
+            
+              § 421.101
+              Specialized definitions.
+              For the purpose of this subpart the general information, abbreviations, and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+              [49 FR 8812, Mar. 8, 1984]
+            
+            
+              § 421.102
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable technology currently available:
+              (a) Subpart J—Tungstic Acid Rinse.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungstic acid (as W) produced
+                
+                
+                  Lead
+                  17.230
+                  8.205
+                
+                
+                  Zinc
+                  59.900
+                  25.030
+                
+                
+                  Ammonia (as N)
+                  5,469.000
+                  2,404.00
+                
+                
+                  Total suspended solids
+                  1,682.000
+                  800.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+
+              (b) Subpart J—Acid Leach Wet Air Pollution Control.
+              
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day

@@ -1,0 +1,77 @@
+owned treatment works resulting from oxidizing and reducing salt bath descaling operations.
+            
+            
+              § 420.81
+              Specialized definitions.
+              (a) The term salt bath descaling, oxidizing means the removal of scale from semi-finished steel products by the action of molten salt baths other than those containing sodium hydride.
+              (b) The term salt bath descaling, reducing means the removal of scale from semi-finished steel products by the action of molten salt baths containing sodium hydride.
+              (c) The term batch, sheet and plate means those descaling operations that remove surface scale from sheet and plate products in batch processes.
+              (d) The term batch, rod and wire means those descaling operations that remove surface scale from rod and wire products in batch processes.
+              (e) The term batch, pipe and tube means those descaling operations that remove surface scale from pipe and tube products in batch processes.
+              (f) The term continuous means those descaling operations that remove surface scale from the sheet or wire products in continuous processes.
+              (g) The term batch means those descaling operations in which the products are processed in discrete batches.
+            
+            
+              § 420.82
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              (a) Salt bath descaling, oxidizing—(1) Batch, sheet and plate.
+              
+              
+                Subpart H
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.204
+                  0.0876
+                
+                
+                  Chromium
+                  0.00292
+                  0.00117
+                
+                
+                  Nickel
+                  0.00263
+                  0.000876
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 6.0 to 9.0.
+              
+              (2) Batch, rod and wire.
+              
+              
+                Subpart H
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.123
+                  0.0526
+                
+                
+                  Chromium
+                  0.00175
+                  0.000701

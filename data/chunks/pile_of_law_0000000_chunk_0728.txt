@@ -1,0 +1,117 @@
+Zinc
+                  0.0491
+                  0.0164
+                
+              
+              The above limitations shall be applicable to each fume scrubber associated with a sulfuric acid pickling operation.
+              (b) Hydrochloric acid pickling (spent acid solutions and rinse waters)—(1) Rod, wire and coil.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  BAT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Lead
+                  0.000920
+                  0.000307
+                
+                
+                  Zinc
+                  0.00123
+                  0.000409
+                
+              
+              (2) Strip, sheet and plate.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  BAT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Lead
+                  0.000526
+                  0.000175
+                
+                
+                  Zinc
+                  0.000701
+                  0.000234
+                
+              
+              (3) Pipe, tube and other products.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  BAT effuent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Lead
+                  0.00192
+                  0.000638
+                
+                
+                  Zinc
+                  0.00255
+                  0.000851
+                
+              
+              (4) Fume scrubbers.
+                
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  BAT effuent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kilograms per day
+                
+                
+                  Lead
+                  0.0368
+                  0.0123
+                
+                
+                  Zinc
+                  0.0491
+                  0.0164
+                
+              
+              The above limitations shall be applicable to each fume scrubber associated with a hydrochloric acid pickling operation.
+              (5) Acid regeneration (absorber vent scrubber).
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  BAT effuent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days

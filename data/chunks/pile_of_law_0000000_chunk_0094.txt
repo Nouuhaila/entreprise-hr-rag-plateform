@@ -1,0 +1,100 @@
+th in part 401 of this chapter shall apply to this subpart.
+              (b) The term “BOD5 input” shall mean the biochemical oxygen demand of the materials entered into process. It can be calculated by multiplying the fats, proteins and carbohydrates by factors of 0.890, 1.031 and 0.691 respectively. Organic acids (e.g., lactic acids) should be included as carbohydrates. Composition of input materials may be based on either direct analyses or generally accepted published values.
+            
+            
+              § 405.42
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+
+              (a) For plants processing more than 175,000 lb/day of milk equivalent (more than 18,180 lb/day of BOD5 input).
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kilograms per 1,000 kg of BOD5 input)
+                
+                
+                  BOD5
+                  
+                  1.375
+                  0.550
+                
+                
+                  TSS
+                  2.063
+                  .825
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (pounds per 100 lb of BOD5 input)
+                
+                
+                  BOD5
+                  
+                  0.138
+                  0.055
+                
+                
+                  TSS
+                  0.206
+                  .083
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+
+              (b) For plants processing 175,000 lb/day or less of milk equivalent (less than 18,180 lb/day of BOD5 input).
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kilograms per 1,000 kg of BOD5 input)
+                
+                
+                  BOD5
+                  
+                  1.825
+                  0.913
+                
+                
+                  TSS
+                  2.738
+                  1.369
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (pounds per 100 lb of BOD5 input)
+                
+                
+                  BOD5
+                  
+                  0.183
+                  0.091
+                
+                
+                  TSS

@@ -1,0 +1,133 @@
+monia (as N)
+                  342.700
+                  150.700
+                
+                
+                  Cobalt
+                  7.096
+                  3.111
+                
+                
+                  Tungsten
+                  8.947
+                  3.985
+                
+              
+              (c) Tungsten post-leaching wash and rinse.
+              
+                PSNS for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten produced
+                
+                
+                  Copper
+                  6.583
+                  3.137
+                
+                
+                  Nickel
+                  2.829
+                  1.903
+                
+                
+                  Ammonia (as N)
+                  685.600
+                  301.400
+                
+                
+                  Cobalt
+                  14.194
+                  6.223
+                
+                
+                  Tungsten
+                  17.900
+                  7.792
+                
+              
+              (d) Synthetic scheelite filtrate.
+              
+                PSNS for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of synthetic scheelite produced
+                
+                
+                  Copper
+                  21.330
+                  10.170
+                
+                
+                  Nickel
+                  9.164
+                  6.165
+                
+                
+                  Ammonia (as N)
+                  2,221.000
+                  976.300
+                
+                
+                  Cobalt
+                  45.984
+                  20.160
+                
+                
+                  Tungsten
+                  57.980
+                  25.820
+                
+              
+              (e) Tungsten carbide leaching wet air pollution control.
+              
+                PSNS for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten carbide scrap leached
+                
+                
+                  Copper
+                  2.241
+                  1.068
+                
+                
+                  Nickel
+                  0.963
+                  0.648
+                
+                
+                  Ammonia (as N)
+                  233.400
+                  102.600
+                
+                
+                  Cobalt
+                  4.833
+                  2.119
+                
+                
+                  Tungsten
+                  6.093
+                  2.714
+                
+              
+              (f) Tungsten carbide wash water.
+              
+              
+                PSNS for the Secondary Tungsten and Cobalt Sub

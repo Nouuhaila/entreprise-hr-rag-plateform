@@ -1,0 +1,133 @@
+imary Molybdenum and Rhenium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of molybdenum sulfide leached
+                
+                
+                  Arsenic
+                  0.644
+                  0.287
+                
+                
+                  Lead
+                  0.130
+                  0.060
+                
+                
+                  Nickel
+                  0.255
+                  0.171
+                
+                
+                  Selenium
+                  0.380
+                  0.171
+                
+                
+                  Molybdenum
+                  [Reserved]
+                  [Reserved].
+                
+                
+                  Ammonia (as N)
+                  61.720
+                  27.130
+                
+                
+                  Fluoride
+                  16.210
+                  9.214
+                
+                
+                  Total suspended solids
+                  6.945
+                  5.556
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Roaster SO2 scrubber.
+              
+                NSPS for the Primary Molybdenum and Rhenium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of molybdenum sulfide roasted
+                
+                
+                  Arsenic
+                  2.334
+                  1.041
+                
+                
+                  Lead
+                  0.470
+                  0.218
+                
+                
+                  Nickel
+                  0.924
+                  0.621
+                
+                
+                  Selenium
+                  1.377
+                  0.621
+                
+                
+                  Molybdenum
+                  [Reserved]
+                  [Reserved].
+                
+                
+                  Ammonia (as N)
+                  223.800
+                  98.390
+                
+                
+                  Fluoride
+                  58.770
+                  33.410
+                
+                
+                  Total suspended solids
+                  25.190
+                  20.150
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Molybdic oxide leachate.
+              
+                NSPS for the Primary Molybdenum and Rhenium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of molybdenum contained in molybdic oxide leached
+                
+                
+                  Arsenic
+                  16.100

@@ -1,0 +1,130 @@
+Chromium (total)
+                  0.007
+                  0.003
+                
+                
+                  Copper
+                  0.026
+                  0.012
+                
+                
+                  Nickel
+                  0.011
+                  0.007
+                
+                
+                  Fluoride
+                  0.700
+                  0.398
+                
+                
+                  Total suspended solids
+                  0.300
+                  0.240
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (g) Hydrofluorination water scrubber.
+              
+              
+                NSPS for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium tetrafluoride produced
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Copper
+                  0.000
+                  0.000
+                
+                
+                  Nickel
+                  0.000
+                  0.000
+                
+                
+                  Fluoride
+                  0.000
+                  0.000
+                
+                
+                  Total suspended solids
+                  0.000
+                  0.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (h) Magnesium reduction and casting floor wash.
+              
+                NSPS for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium produced by magnesium reduction
+                
+                
+                  Chromium (total)
+                  0.011
+                  0.005
+                
+                
+                  Copper
+                  0.039
+                  0.018
+                
+                
+                  Nickel
+                  0.017
+                  0.011
+                
+                
+                  Fluoride
+                  1.054
+                  0.599
+                
+                
+                  Total suspended solids
+                  0.452
+                  0.361
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (i) Laundry wastewater.
+              
+                NSPS for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average

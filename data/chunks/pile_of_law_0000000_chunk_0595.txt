@@ -1,0 +1,104 @@
+7.0 to 7.49
+                  1.39
+                
+                
+                  7.5 to 7.99
+                  1.51
+                
+                
+                  8.0 to 8.49
+                  1.64
+                
+                
+                  8.5 to 9.99
+                  1.79
+                
+                
+                  9.0 to 9.49
+                  1.95
+                
+                
+                  9.5 to 9.99
+                  2.12
+                
+                
+                  10.0 to 10.49
+                  2.31
+                
+                
+                  10.5 to 10.99
+                  2.51
+                
+                
+                  11.0 to 11.49
+                  2.73
+                
+                
+                  11.5 to 11.99
+                  2.98
+                
+                
+                  12.0 to 12.49
+                  3.24
+                
+                
+                  12.5 to 12.99
+                  3.53
+                
+                
+                  13.0 to 13.49
+                  3.84
+                
+                
+                  13.5 to 13.99
+                  4.18
+                
+                
+                  14.0 or greater
+                  4.36
+                
+              
+
+              (3) See the comprehensive example in subpart D, § 419.42(b)(3).
+              
+              (c)(1) In addition to the provisions contained above pertaining to COD, ammonia and sulfide, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT):
+
+              (i) For each of the regulated pollutant parameters listed below, the effluent limitation for a given refinery is the sum of the products of each effluent limitation factor times the applicable process feedstock rate, calculated as provided in 40 CFR 122.45(b). Applicable production processes are presented in appendix A, by process type. The process identification numbers presented in this appendix A are for the convenience of the reader. They can be cross-referenced in the Development Document for Effluent Limitations Guidelines, New Source Performance Standards, and Pretreatment Standards for the Petroleum Refining Point Source Category (EPA 440/1-82/014), Table III-7, pp. 49-54.
+              
+                
+                  Pollutant or pollutant property and process type
+                  BAT effluent limitation factor
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed
+                
+                
+                  
+                  Metric units (kilograms per 1,000 cubic meters of feedstock)
+                
+                
+                  Phenolic compounds (4AAP):
+                
+                
+                  Crude
+                  0.037
+                  0.009
+                
+                
+                  Cracking and coking
+                  0.419
+                  0.102
+                
+                
+                  Asphalt
+                  0.226
+                  0.055
+                
+                
+                  Lube
+                  1.055
+                  0.257
+                
+                
+                  Reforming and alkylation
+                  0.377
+                  0.092

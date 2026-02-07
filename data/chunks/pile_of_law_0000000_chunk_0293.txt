@@ -1,0 +1,115 @@
+Pollutant or pollutant property
+                  BAT limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  COD
+                  21.3
+                  13.7
+                
+              
+            
+            
+              § 410.34
+              Pretreatment standards for existing sources (PSES).
+              Any existing source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403.
+            
+            
+              § 410.35
+              New source performance standards (NSPS).
+              Any new source subject to this subpart must achieve the following new source performance standards (NSPS):
+              
+                General Processing
+                
+                  Pollutant or pollutant property
+                  NSPS
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  BOD5
+                  
+                  1.4
+                  0.7
+                
+                
+                  COD
+                  2.8
+                  1.4
+                
+                
+                  TSS
+                  1.4
+                  0.7
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0 at all times.
+              
+              
+                Water Jet Weaving
+                
+                  Pollutant or pollutant property
+                  NSPS
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  BOD5
+                  
+                  8.9
+                  4.6
+                
+                
+                  COD
+                  21.3
+                  13.7
+                
+                
+                  TSS
+                  5.5
+                  2.5
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0 at all times.
+              
+            
+            
+              § 410.36
+              Pretreatment standards for new sources (PSNS).
+              Any new source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403.
+            
+            
+              § 410.37
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT). [Reserved]
+            
+          
+          
+            Subpart D—Woven Fabric Finishing Subcategory
+            
+              § 410.40
+              Applicability; description of the woven fabric finishing subcategory.
+
+              The provisions of thi

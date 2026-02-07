@@ -1,0 +1,62 @@
+available chlorine
+                0.5
+                0.2
+              
+            
+            
+              
+                Pollutant or pollutant property
+                Maximum for any 1 day −(mg/l)
+                Average of daily values for 30 consecutive days shall not exceed  = (mg/l)
+              
+              
+                The 126 priority pollutants (Appendix A) contained in chemicals added for cooling tower maintenance, except:
+                (1)
+                (1)
+              
+              
+                Chromium, total
+                0.2
+                0.2
+              
+              
+                Zinc, total
+                1.0
+                1.0
+              
+              
+                1 No detectable amount.
+            
+            (2) Neither free available chlorine nor total residual chlorine may be discharged from any unit for more than two hours in any one day and not more than one unit in any plant may discharge free available or total residual chlorine at any one time unless the utility can demonstrate to the Regional Administrator or State, if the State has NPDES permit issuing authority, that the units in a particular location cannot operate at or below this level of chlorination.
+
+            (3) At the permitting authority's discretion, instead of the monitoring specified in 40 CFR 122.11(b) compliance with the limitations for the 126 priority pollutants in paragraph (d)(1) of this section may be determined by engineering calculations which demonstrate that the regulated pollutants are not detectable in the final discharge by the analytical methods in 40 CFR part 136.
+            (e) The quantity of pollutants discharged in chemical metal cleaning wastes shall not exceed the quantity determined by multiplying the flow of chemical metal cleaning wastes times the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                BAT effluent limitations
+                Maximum for any 1 day (mg/l)
+                Average of daily values for 30 consecutive days shall not exceed −(mg/l)
+              
+              
+                Copper, total
+                1.0
+                1.0
+              
+              
+                Iron, total
+                1.0
+                1.0
+              
+            
+            (f) [Reserved—Nonchemical Metal Cleaning Wastes].
+            (g)(1)(i) FGD wastewater. Except for those discharges to which paragraph (g)(2) or (g)(3) of this section applies, the quantity of pollutants in FGD wastewater shall not exceed the quantity determined by multiplying the flow of FGD wastewater times the concentration listed in the table following this paragraph (g)(1)(i). Dischargers must meet the effluent limitations for FGD wastewater in this paragraph by a date determined by the permitting authority that is as soon as possible beginning November 1, 2020, but no later than December 31, 2023. These effluent limitations apply to the discharge of FGD wastewater generated on and after the date determined by the permitting authority for meeting the effluent limitations, as specified in this paragraph.
+            
+              
+                Pollutant or pollutant property
+                BAT Effluent limitations
+                Maximum forany 1 day
+                
+                Average of dailyvalues for 30
+                  consecutive days
+                  shall not exceed

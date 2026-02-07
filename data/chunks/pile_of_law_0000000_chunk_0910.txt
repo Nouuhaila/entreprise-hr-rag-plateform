@@ -1,0 +1,105 @@
+715.200
+                  408.700
+                
+              
+              (k) Subpart K—Consolidation and Casting Contact Cooling.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of columbium or tantalum cast or consolidated
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+              
+              [49 FR 8817, Mar. 8, 1984, as amended at 50 FR 12253, Mar. 28, 1985]
+            
+            
+              § 421.117
+              [Reserved]
+            
+          
+          
+            Subpart L—Secondary Silver Subcategory
+            
+              Source:
+              49 FR 8821, Mar. 8, 1984, unless otherwise noted.
+            
+            
+              § 421.120
+              Applicability: Description of the secondary silver subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of silver from secondary silver facilities processing photographic and nonphotographic raw materials.
+              [49 FR 8821, Mar. 8, 1984; 49 FR 26739, June 29, 1984]
+            
+            
+              § 421.121
+              Specialized definitions.
+              For the purpose of this subpart the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+            
+            
+              
+              § 421.122
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable technology currently available:
+              (a) Subpart L—Film Stripping.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver from film stripping
+                
+                
+                  Copper
+                  95.670
+                  50.350
+                
+                
+                  Zinc
+                  73.510
+                  30.720
+                
+                
+                  Ammonia (as N)
+                  6,712.000
+                  2,951.000
+                
+                
+                  Total suspended solids
+                  2,065.000
+                  981.800
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the rang

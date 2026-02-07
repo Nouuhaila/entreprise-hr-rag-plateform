@@ -1,0 +1,82 @@
+and Sheep
+              412.10
+              Applicability.
+              412.11
+              [Reserved]
+              412.12
+              Effluent limitations attainable by the application of the best practicable control technology currently available (BPT).
+              412.13
+              Effluent limitations attainable by the application of the best available technology economically achievable (BAT).
+              412.14
+              [Reserved]
+              412.15
+              New source performance standards (NSPS).
+            
+            
+              Subpart B—Ducks
+              412.20
+              Applicability.
+              412.21
+              Special definitions.
+              412.22
+              Effluent limitations attainable by the application of the best practicable control technology currently available (BPT).
+              412.23-412.24
+              [Reserved]
+              412.25
+              New source performance standards (NSPS).
+              412.26
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart C—Dairy Cows and Cattle Other Than Veal Calves
+              412.30
+              Applicability.
+              412.31
+              Effluent limitations attainable by the application of the best practicable control technology currently available (BPT).
+              412.32
+              Effluent limitations attainable by the application of the best conventional pollutant control technology (BCT).
+              412.33
+              Effluent limitations attainable by the application of the best available technology economically achievable (BAT).
+              412.34
+              [Reserved]
+              412.35
+              New source performance standards (NSPS).
+              412.36
+              [Reserved]
+              412.37
+              Additional measures.
+            
+            
+              Subpart D—Swine, Poultry, and Veal Calves
+              412.40
+              Applicability.
+              412.41-412.42
+              [Reserved]
+              412.43
+              Effluent limitations attainable by the application of the best practicable control technology currently available (BPT).
+              412.44
+              Effluent limitations attainable by the application of the best conventional pollutant control technology for (BCT).
+              412.45
+              Effluent limitations attainable by the application of the best available technology economically achievable (BAT).
+              412.46
+              New source performance standards (NSPS).
+              412.47
+              Additional measures.
+            
+          
+          
+            Authority:
+            33 U.S.C. 1311, 1314, 1316, 1317, 1318, 1342, 1361.
+          
+          
+            Source:
+            68 FR 7269, Feb. 12, 2003, unless otherwise noted.
+          
+          
+            § 412.1
+            General applicability.
+            This part applies to manure, litter, and/or process wastewater discharges resulting from concentrated animal feeding operations (CAFOs). Manufacturing and/or agricultural activities which may be subject to this part are generally reported under one or more of the following Standard Industrial Classification (SIC) codes: SIC 0211, SIC 0213, SIC 0214, SIC 0241, SIC 0251, SIC 0252, SIC 0253, SIC 0254, SIC 0259, or SIC 0272 (1987 SIC Manual).
+          
+          
+            § 412.2
+            General definitions.

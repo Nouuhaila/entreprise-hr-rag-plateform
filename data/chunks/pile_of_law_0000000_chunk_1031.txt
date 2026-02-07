@@ -1,0 +1,130 @@
+trolytic cells wet air pollution control.
+              
+                BAT Limitations for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold refined electrolytically
+                
+                
+                  Lead
+                  5.544
+                  2.574
+                
+                
+                  Mercury
+                  2.970
+                  1.188
+                
+                
+                  Silver
+                  5.742
+                  2.376
+                
+                
+                  Zinc
+                  20.200
+                  8.316
+                
+                
+                  Gold
+                  1.980
+                  
+                
+              
+              (d) Electrolyte preparation wet air pollution control.
+              
+                BAT Limitations for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver in electrolyte produced
+                
+                
+                  Lead
+                  0.014
+                  0.007
+                
+                
+                  Mercury
+                  0.008
+                  0.003
+                
+                
+                  Silver
+                  0.015
+                  0.006
+                
+                
+                  Zinc
+                  0.051
+                  0.021
+                
+                
+                  Gold
+                  0.005
+                  
+                
+              
+              (e) Calciner Wet Air Pollution Control.
+              
+                BAT Limitations for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of mercury condensed
+                
+                
+                  Lead
+                  6.160
+                  2.860
+                
+                
+                  Mercury
+                  3.300
+                  1.320
+                
+                
+                  Silver
+                  6.380
+                  2.640
+                
+                
+                  Zinc
+                  22.440
+                  9.240
+                
+                
+                  Gold
+                  2.200
+                  
+                
+              
+              (f) Calcine quench water.
+              
+                BAT Limitations for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of mercury condensed
+                
+                
+                  Lead
+                  4.928
+                  2.288

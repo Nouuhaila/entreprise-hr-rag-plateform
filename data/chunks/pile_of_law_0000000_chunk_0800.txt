@@ -1,0 +1,130 @@
+2.378
+                  1.600
+                
+                
+                  Aluminum
+                  26.420
+                  11.720
+                
+                
+                  Fluoride
+                  257.300
+                  114.200
+                
+              
+              (d) Subpart B—Anode Bake Plant Wet Air Pollution Control (Open Top Ring Furnace With Spray Tower Only).
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of anodes baked
+                
+                
+                  Benzo(a)pyrene
+                  0.002
+                  0.001
+                
+                
+                  Antimony
+                  .097
+                  .043
+                
+                
+                  Nickel
+                  .028
+                  .019
+                
+                
+                  Aluminum
+                  .306
+                  .136
+                
+                
+                  Fluoride
+                  2.975
+                  1.320
+                
+              
+
+              (e) Subpart B—Anode Bake Plant Wet Air Pollution Control (Open Top Ring Furnace With Wet Electrostatic Precipitator and Spray Tower).
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of anodes baked
+                
+                
+                  Benzo(a)pyrene
+                  0.025
+                  0.011
+                
+                
+                  Antimony
+                  1.409
+                  .628
+                
+                
+                  Nickel
+                  .402
+                  .270
+                
+                
+                  Aluminum
+                  4.461
+                  1.979
+                
+                
+                  Fluoride
+                  43.440
+                  19.270
+                
+              
+              (f) Subpart B—Anode Bake Plant Wet Air Pollution Control (Tunnel Kiln).
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of anodes baked
+                
+                
+                  Benzo(a)pyrene
+                  0.038
+                  0.018
+                
+                
+                  Antimony
+                  2.197
+                  .979
+                
+                
+                  Nickel
+                  .626
+                  .421
+                
+                
+                  Aluminum
+                  6.953
+                  3.084
+                
+                
+                  Fluoride
+                  67.710
+                  30.050
+                
+              
+              (g) Subpart B—Cathode Reprocessing (Operated With Dry Potline Scrubbing and Not Commingled With Other Pr

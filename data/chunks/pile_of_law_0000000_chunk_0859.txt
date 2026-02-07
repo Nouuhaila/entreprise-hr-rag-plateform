@@ -1,0 +1,136 @@
+mg/kg (pounds per million pounds) of zinc cast
+                
+                
+                  Cadmium
+                  .036
+                  .014
+                
+                
+                  Copper
+                  .232
+                  .110
+                
+                
+                  Lead
+                  .051
+                  .024
+                
+                
+                  Zinc
+                  .185
+                  .076
+                
+              
+              (h) Subpart H—Cadmium Plant Wastewater.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cadmium produced
+                
+                
+                  Cadmium
+                  1.234
+                  .494
+                
+                
+                  Copper
+                  7.899
+                  3.765
+                
+                
+                  Lead
+                  1.728
+                  .802
+                
+                
+                  Zinc
+                  6.295
+                  2.592
+                
+              
+            
+            
+              § 421.84
+              Standards of performance for new sources.
+              Any new source subject to this subpart shall achieve the following new source performance standards:
+              (a) Subpart H—Zinc Reduction Furnace Wet Air Pollution Control.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zinc reduced
+                
+                
+                  Cadmium
+                  .334
+                  .134
+                
+                
+                  Copper
+                  2.135
+                  1.018
+                
+                
+                  Lead
+                  .467
+                  .217
+                
+                
+                  Zinc
+                  1.702
+                  .701
+                
+                
+                  Total suspended solids
+                  25.020
+                  20.020
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Subpart H—Preleach of Zinc Concentrates.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of concentrate leached
+                
+                
+                  Cadmium
+                  .180
+                  .072
+                
+                
+                  Copper
+                  1.153
+                  .550
+                
+                
+                  Lead
+                  .252
+                  .117
+                
+                
+                  Zinc
+                  .919

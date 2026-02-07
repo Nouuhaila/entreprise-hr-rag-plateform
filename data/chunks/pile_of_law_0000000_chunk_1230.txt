@@ -1,0 +1,90 @@
+cene
+            073 Benzo(a)pyrene (3,4-benzo-pyrene)
+            074 3,4-Benzofluoranthene (benzo(b) fluoranthene)
+            075 11,12-benzofluoranthene (benzo(b) fluoranthene)
+            076 Chrysene
+            077 Acenaphthylene
+            078 Anthracene
+            079 1,12-benzoperylene (benzo(ghi) perylene)
+            080 Fluorene
+            081 Phenanthrene
+            082 1,2,5,6-dibenzanthracene (dibenzo(,h) anthracene)
+            083 Indeno (,1,2,3-cd) pyrene (2,3-o-pheynylene pyrene)
+            084 Pyrene
+            085 Tetrachloroethylene
+            086 Toluene
+            087 Trichloroethylene
+            088 Vinyl chloride (chloroethylene)
+            089 Aldrin
+            090 Dieldrin
+            091 Chlordane (technical mixture and metabolites)
+            092 4,4-DDT
+            093 4,4-DDE (p,p-DDX)
+            094 4,4-DDD (p,p-TDE)
+            095 Alpha-endosulfan
+            096 Beta-endosulfan
+            097 Endosulfan sulfate
+            098 Endrin
+            099 Endrin aldehyde
+            100 Heptachlor
+            101 Heptachlor epoxide (BHC-hexachlorocyclohexane)
+            102 Alpha-BHC
+            103 Beta-BHC
+            104 Gamma-BHC (lindane)
+            105 Delta-BHC (PCB-polychlorinated biphenyls)
+            106 PCB-1242 (Arochlor 1242)
+            107 PCB-1254 (Arochlor 1254)
+            108 PCB-1221 (Arochlor 1221)
+            109 PCB-1232 (Arochlor 1232)
+            110 PCB-1248 (Arochlor 1248)
+            111 PCB-1260 (Arochlor 1260)
+            112 PCB-1016 (Arochlor 1016)
+            113 Toxaphene
+            114 Antimony
+            115 Arsenic
+            116 Asbestos
+            117 Beryllium
+            118 Cadmium
+            119 Chromium
+            120 Copper
+            121 Cyanide, Total
+            122 Lead
+            123 Mercury
+            124 Nickel
+            125 Selenium
+            126 Silver
+            127 Thallium
+            126 Silver
+            128 Zinc
+            129 2,3,7,8-tetrachloro-dibenzo-p-dioxin (TCDD)
+          
+        
+        
+          Pt. 424
+          PART 424—FERROALLOY MANUFACTURING POINT SOURCE CATEGORY
+          
+            
+              Subpart A—Open Electric Furnaces With Wet Air Pollution Control Devices Subcategory
+              Sec.
+              424.10
+              Applicability; description of the open electric furnaces with wet air pollution control devices subcategory.
+              424.11
+              Specialized definitions.
+              424.12
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              424.13
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              424.14
+              [Reserved]
+              424.15
+              Standards of performance for new sources.
+              424.16
+              Pretreatment standards for new sources.
+              424.17
+
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology.
+            
+            
+              Subpart B—Covered Electric Furnaces and Other Smelting Operations With Wet Air Pollution Control Devices Subcategory
+              424.20
+              Applicability; des

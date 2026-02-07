@@ -1,0 +1,134 @@
+Ammonia (as N)
+                  18128.800
+                  7969.600
+                
+                
+                  Fluoride
+                  4760.000
+                  2706.400
+                
+                
+                  Total Suspended Solids
+                  2040.000
+                  1632.000
+                  
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+
+              (e) Beryllium oxide calcining furnace wet air pollution control.
+              
+              
+                NSPS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium oxide produced
+                
+                
+                  Beryllium
+                  216.20
+                  97.57
+                
+                
+                  Chromium (total)
+                  95.57
+                  39.56
+                
+                
+                  Copper
+                  337.50
+                  160.90
+                
+                
+                  Cyanide (total)
+                  52.74
+                  21.10
+                
+                
+                  Ammonia (as N)
+                  35,150.00
+                  15,450.00
+                
+                
+                  Fluoride
+                  9,230.00
+                  5,248.00
+                
+                
+                  Total suspended solids
+                  3,956.00
+                  3,164.00
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (f) Beryllium hydroxide supernatant.
+              
+                NSPS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium hydroxide produced from scrap and residues as beryllium
+                
+                
+                  Beryllium
+                  188.6
+                  85.1
+                
+                
+                  Chromium (total)
+                  85.1
+                  34.5
+                
+                
+                  Copper
+                  294.4
+                  140.3
+                
+                
+                  Cyanide (total)
+                  46.0
+                  18.4
+                
+                
+                  Ammonia (as N)
+                  30,660.0
+                  13,480.0
+                
+                
+                  Fluoride
+                  160,308.0
+                  71,201.0
+                
+                
+                  Total Suspended solids
+                  3,450.0
+                  2,760.0
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7

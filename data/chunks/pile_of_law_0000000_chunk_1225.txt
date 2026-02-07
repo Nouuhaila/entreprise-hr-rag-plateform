@@ -1,0 +1,37 @@
+generated on and after November 1, 2020.
+            
+              
+                Pollutant or pollutant property
+                PSES
+                Maximum forany 1 day
+                
+                Average of dailyvalues for 30
+                  consecutive days
+                  shall not exceed
+                
+              
+              
+                Arsenic, total (ug/L)
+                11
+                8
+              
+              
+                Mercury, total (ng/L)
+                788
+                356
+              
+              
+                Selenium, total (ug/L)
+                23
+                12
+              
+              
+                Nitrate/nitrite as N (mg/L)
+                17.0
+                4.4
+              
+            
+            (f) Fly ash transport water. Except when the fly ash transport water is used in the FGD scrubber, for any electric generating unit with a total nameplate generating capacity of more than 50 megawatts and that is not an oil-fired unit, there shall be no discharge of pollutants in fly ash transport water. This standard applies to the discharge of fly ash transport water generated on and after November 1, 2018. Whenever fly ash transport water is used in any other plant process or is sent to a treatment system at the plant (except when it is used in the FGD scrubber), the resulting effluent must comply with the discharge standard in this paragraph. When the fly ash transport water is used in the FGD scrubber, the quantity of pollutants in fly ash transport water shall not exceed the quantity determined by multiplying the flow of fly ash transport water times the concentration listed in the table in paragraph (e) of this section.
+            (g) Bottom ash transport water. Except when the bottom ash transport water is used in the FGD scrubber, for any electric generating unit with a total nameplate generating capacity of more than 50 megawatts and that is not an oil-fired unit, there shall be no discharge of pollutants in bottom ash transport water. This standard applies to the discharge of bottom ash transport water generated on and after November 1, 2020. Whenever bottom ash transport water is used in any other plant process or is sent to a treatment system at the plant (except when it is used in the FGD scrubber), the resulting effluent must comply with the discharge standard in this paragraph. When the bottom ash transport water is used in the FGD scrubber, the quantity of pollutants in bottom ash transport water shall not exceed the quantity determined by multiplying the flow of bottom ash transport water times the concentration listed in the table in paragraph (e) of this section.
+            (h) Flue gas mercury control wastewater. For any electric generating unit with a total nameplate generating capacity of more than 50 megawatts and that is not an oil-fired unit, there shall be no discharge of pollutants in flue gas mercury control wastewater. This standard applies to the discharge of flue gas mercury control wastewater generated on and after November 1, 2018. Whenever flue gas mercury control wastewater is used in any other plant process or is sent to a treatment system at the plant, the resulting effluent must comply with the discharge standard in this paragraph.
+            (i) Gasification wastewater. For any electric generating unit with a total nameplate generating capacity of more than 50 megawatts and that is not an oil-fired unit, the q

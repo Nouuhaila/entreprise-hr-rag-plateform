@@ -1,0 +1,100 @@
+English units (lb/ton of raw material)
+                
+                
+                  Chromium total
+                  .011
+                  .0054
+                
+                
+                  Manganese total
+                  .108
+                  .054
+                
+              
+              [44 FR 50745, Aug. 29, 1979]
+            
+            
+              § 424.34
+              [Reserved]
+            
+            
+              § 424.35
+              Standards of performance for new sources.
+              The following standards of performance establish the quantity or quality of pollutants or pollutant properties, controlled by this section, which may be discharged by a new source subject to the provisions of this subpart:
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kg/kkg processed)
+                
+                
+                  TSS
+                  0.271
+                  0.136
+                
+                
+                  Chromium total
+                  .0054
+                  .0027
+                
+                
+                  Manganese total
+                  0.054
+                  .027
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (lb/ton processed)
+                
+                
+                  TSS
+                  .542
+                  .271
+                
+                
+                  Chromium total
+                  .011
+                  .0054
+                
+                
+                  Manganese total
+                  .108
+                  .054
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+            
+            
+              § 424.36
+              Pretreatment standards for new sources.
+              Any new source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403.
+              [60 FR 33957, June 29, 1995]
+            
+            
+              § 424.37
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology.
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): The limitations shall be the same as those specified for conventional pollutants (which are defined in § 401.16) in § 424.32 of this subpart for the best practicable control technology currently available (BPT).
+              [51 FR 25000, July 9, 1986]
+            
+          
+          
+            Subpart D—Covered Calcium Carbide Furnaces With Wet Air Pollution Control Devices Subcategory
+            
+              Source:
+              40 FR 8035, Feb. 24, 1975, un

@@ -1,0 +1,123 @@
+pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (o) Bertrandite Ore Leaching Scrubber.
+              
+                BPT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg of bertrandite ore processed
+                
+                
+                  Beryllium
+                  1.859
+                  0.831
+                
+                
+                  Chromium (Total)
+                  0.665
+                  0.272
+                
+                
+                  Copper
+                  2.871
+                  1.511
+                
+                
+                  Cyanide (Total)
+                  0.438
+                  0.181
+                
+                
+                  Ammonia (as N)
+                  201.416
+                  88.545
+                
+                
+                  Fluoride
+                  52.885
+                  30.069
+                
+                
+                  Total Suspended Solids
+                  61.951
+                  29.465
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (p) Bertrandite Ore Countercurrent and Decantation (CCD) Scrubber.
+              
+                BPT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg of bertrandite ore processed
+                
+                
+                  Beryllium
+                  0.124
+                  0.056
+                
+                
+                  Chromium (Total)
+                  0.044
+                  0.018
+                
+                
+                  Copper
+                  0.192
+                  0.101
+                
+                
+                  Cyanide (Total)
+                  0.029
+                  0.012
+                
+                
+                  Ammonia (as N)
+                  13.463
+                  5.919
+                
+                
+                  Fluoride
+                  3.535
+                  2.010
+                
+                
+                  Total Suspended Solids
+                  4.141
+                  1.970
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              [50 FR 38346, Sept. 20, 1985, as amended at 55 FR 31697, Aug. 3, 1990; 55 FR 36932, Sept. 7, 1990]
+            
+            
+              § 421.153
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following

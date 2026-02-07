@@ -1,0 +1,102 @@
+er Acid Leach and Wash.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any one day
+                  Maximum for monthly average
+                
+                
+                   
+                  mg/kg (parts per million) of tungsten metal produced
+                
+                
+                  Lead
+                  .672
+                  .312
+                
+                
+                  Zinc
+                  2.448
+                  1.008
+                
+                
+                  Ammonia (as N)
+                  319.900
+                  140.700
+                
+              
+              
+              (n) Subpart J—Molybdenum Sulfide Precipitation Wet Air Pollution Control.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any one day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (parts per million) of tungsten metal produced
+                
+                
+                  Lead
+                  0.000
+                  0.000
+                
+                
+                  Zinc
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+              
+              [49 FR 8812, Mar. 8, 1984, as amended at 53 FR 1712, Jan. 21, 1988]
+            
+            
+              § 421.107
+              [Reserved]
+            
+          
+          
+            Subpart K—Primary Columbium-Tantalum Subcategory
+            
+              § 421.110
+              Applicability: Description of the primary columbium-tantalum subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of columbium or tantalum by primary columbium-tantalum facilities.
+              [49 FR 8817, Mar. 8, 1984]
+            
+            
+              § 421.111
+              Specialized definitions.
+              For the purpose of this subpart the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+              [49 FR 8817, Mar. 8, 1984]
+            
+            
+              § 421.112
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable technology currently available:
+              (a) Subpart K—Concentrate Digestion Wet Air Pollution Control.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of concentrate digested
+                
+                
+                  Lead
+                  2.612
+                  1.244
+                
+                
+                  Zinc
+                  9.080

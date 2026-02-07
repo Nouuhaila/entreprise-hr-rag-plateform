@@ -1,0 +1,131 @@
+0.014
+                
+                
+                  Oil and grease
+                  0.610
+                  0.610
+                
+                
+                  Total suspended solids
+                  0.915
+                  0.732
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (l) Scrap milling wet air pollution control.
+              
+                NSPS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of scrap milled
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Lead
+                  0.000
+                  0.000
+                
+                
+                  Nickel
+                  0.000
+                  0.000
+                
+                
+                  Titanium
+                  0.000
+                  0.000
+                
+                
+                  Oil and grease
+                  0.000
+                  0.000
+                
+                
+                  Total suspended solids
+                  0.000
+                  0.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (m) Scrap detergent wash water.
+              
+                NSPS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of scrap washed
+                
+                
+                  Chromium (total)
+                  6.684
+                  2.710
+                
+                
+                  Lead
+                  5.058
+                  2.348
+                
+                
+                  Nickel
+                  9.935
+                  6.684
+                
+                
+                  Titanium
+                  9.574
+                  4.155
+                
+                
+                  Oil and grease
+                  180.600
+                  180.600
+                
+                
+                  Total suspended solids
+                  271.000
+                  216.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (n) Casting crucible wash water.
+              
+                NSPS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium cast

@@ -1,0 +1,134 @@
+Aluminum
+                  0.409
+                  0.182
+                
+                
+                  Ammonia (as N)
+                  8.931
+                  3.926
+                
+                
+                  Total suspended solids
+                  1.005
+                  0.804
+                
+                
+                  Oil and grease
+                  0.670
+                  0.670
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (h) Subpart C—Ingot Conveyor Casting Contact Cooling (When Chlorine Demagging Wet Air Pollution Control is Practiced On Site).
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum cast
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Aluminum
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .000
+                  .000
+                
+                
+                  Oil and grease
+                  .000
+                  .000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1Within the range of 7.0 to 10.0 at all times.
+              
+              (i) Subpart C—Stationary Casting Contact Cooling.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum cast
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Aluminum
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .000
+                  .000
+                
+                
+                  Oil and grease
+                  .000
+                  .000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1Within the range of 7.0 to 10.0 at all times.
+              
+              (j) Subpart C—Shot Casting Contact Cooling.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average

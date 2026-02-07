@@ -1,0 +1,134 @@
+and grease
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .000
+                  .000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (d) Subpart B—Cathode Reprocessing (Operated With Dry Potline Scrubbing and Not Commingled With Other Process or Nonprocess Waters).
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of cryolite recovered
+                
+                
+                  Benzo(a)pyrene
+                  1.181
+                  0.547
+                
+                
+                  
+                  Antimony
+                  420.400
+                  189.200
+                
+                
+                  Cyanide
+                  157.600
+                  70.060
+                
+                
+                  Nickel
+                  80.570
+                  35.030
+                
+                
+                  Aluminum
+                  273.200
+                  122.600
+                
+                
+                  Fluoride
+                  29,430.000
+                  13,310.000
+                
+                
+                  Oil and grease
+                  350.300
+                  350.300
+                
+                
+                  Total suspended solids
+                  2,172.000
+                  945.800
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (e) Subpart B—Cathode Reprocessing (Operated With Dry Potline Scrubbing and Commingled With Other Process or Nonprocess Waters).
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of cryolite recovered
+                
+                
+                  Benzo(a)pyrene
+                  1.181
+                  0.547
+                
+                
+                  Antimony
+                  67.610
+                  30.120
+                
+                
+                  Cyanide
+                  157.600
+                  70.060
+                
+                
+                  Nickel
+                  19.270
+                  12.960
+                
+                
+                  Aluminum
+                  214.000
+                  94.930
+                
+                
+                  Fluoride
+                  2,084.000
+                  924.800
+                
+                
+                  Oil and grease
+                  350.300
+                  350.300
+                
+                
+                  Total suspended solids
+                  2,172.000
+                  945.800
+                
+                
+                  pH
+                  (1)
+                  (1)

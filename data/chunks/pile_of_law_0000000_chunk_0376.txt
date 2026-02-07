@@ -1,0 +1,58 @@
+(c) Halogenated Organic Chemicals
+              
+              
+                Vinyl Chloride
+              
+            
+            
+              § 414.61
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+
+              Except as provided in 40 CFR 125.30 through 125.32, and in 40 CFR 414.11(i) for point sources with production in two or more subcategories, any existing point source subject to this subpart must achieve discharges not exceeding the quantity (mass) determined by multiplying the process wastewater flow subject to this subpart times the concentration listed in the following table.
+              
+              
+                
+                  Effluent characteristics
+                  BPT Effluent limitations 1
+                  
+                  Maximum for any one day
+                  Maximum for monthly average
+                
+                
+                  BOD5
+                  80
+                  30
+                
+                
+                  TSS
+                  149
+                  46
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  1 All units except pH are milligrams per liter.
+                
+                  2 Within the range of 6.0 to 9.0 at all times.
+              
+              [52 FR 42568, Nov. 5, 1987, as amended at 57 FR 41844, Sept. 11, 1992]
+            
+            
+              § 414.62
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT). [Reserved]
+            
+            
+              § 414.63
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              (a) The Agency has determined that for existing point sources whose total OCPSF production defined by § 414.11 is less than or equal to five (5) million pounds of OCPSF products per year, the BPT level of treatment is the best available technology economically achievable. Accordingly, the Agency is not promulgating more stringent BAT limitations for these point sources.
+              (b) Except as provided in paragraph (a) of this section and in 40 CFR 125.30 through 125.32, any existing point source that uses end-of-pipe biological treatment and is subject to this subpart must achieve discharges in accordance with § 414.91 of this part.
+              (c) Except as provided in paragraph (a) of this section and in 40 CFR 125.30 through 125.32, any existing point source that does not use end-of-pipe biological treatment and is subject to this subpart must achieve discharges in accordance with § 414.101 of this part.
+            
+            
+              § 414.64
+              New source performance standards (NSPS).
+              (a) Any new source that uses end-of-pipe biological treatment and is subject to this subpart must achieve discharges in accordance with § 414.91 of this part, and also must not exceed the quantity (mass) determined by multiplying the process wastewater flow subject to this subpart times the concentrations in the following table.
+              (b) Any new source that does not use end-of-pipe biological treatment and is

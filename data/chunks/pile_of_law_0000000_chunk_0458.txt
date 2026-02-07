@@ -1,0 +1,39 @@
+olysis process.
+            
+            
+              § 415.401
+              Specialized definitions.
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+              (b) The term process wastewater means any water which, during manufacturing or processing, comes into direct contact with or results from the production or use of any raw material, intermediate product, finished product, by-product, or waste product. The term “process wastewater” does not include contaminated non-process wastewater, as defined below.
+              (c) The term process wastewater pollutants means pollutants present in process wastewater.
+              (d) The term contaminated nonprocess wastewater shall mean any water which, during manufacturing or processing, comes into incidental contact with any raw material, intermediate product, finished product, by-product or waste product by means of (1) rainall runoff; (2) accidental spills; (3) accidental leaks caused by the failure of process equipment, which are repaired within the shortest reasonable time not to exceed 24 hours after discovery; and (4) discharges from safety showers, and related personal safety equipment: Provided, that all reasonable measures have been taken (i) to prevent, reduce and control such contact to the maximum extent feasible; and (ii) to mitigate the effects of such contact once it has occurred.
+            
+            
+              § 415.402
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT): There shall be no discharge of process wastewater pollutants to navigable waters.
+            
+            
+              §§ 415.403-415.405
+              [Reserved]
+            
+            
+              § 415.406
+              Pretreatment standards for new sources (PSNS).
+              Except as provided in 40 CFR 403.7, any new source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for new sources (PSNS): The limitations are the same as specified in § 415.402.
+              [49 FR 33423, Aug. 22, 1984]
+            
+          
+          
+            
+            Subpart AO—Hydrogen Production Subcategory
+            
+              § 415.410
+              Applicability; description of the hydrogen production subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of hydrogen as a refinery by-product.
+            
+            
+              § 415.411
+              Specialized definitions.
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+              (b) The term process wastewater means any water which, during manufacturing or processing, comes into direct contact with or results from the production or use of any raw material, intermedia

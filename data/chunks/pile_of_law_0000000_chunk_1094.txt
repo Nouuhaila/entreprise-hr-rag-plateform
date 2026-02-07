@@ -1,0 +1,128 @@
+mg/kg (pounds per million pounds) of MSW scrap used as raw material
+                
+                
+                  Lead
+                  0.033
+                  0.015
+                
+                
+                  Cyanide (total)
+                  0.024
+                  0.010
+                
+                
+                  Fluoride
+                  4.165
+                  2.368
+                
+                
+                  Tin
+                  0.045
+                  0.026
+                
+              
+              (g) Tin hydroxide supernatant from scrap.
+              
+                PSES for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tin metal recovered from scrap
+                
+                
+                  Lead
+                  15.580
+                  7.233
+                
+                
+                  Cyanide (total)
+                  11.130
+                  4.451
+                
+                
+                  Fluoride
+                  1,947.000
+                  1,107.000
+                
+                
+                  Tin
+                  21.140
+                  12.240
+                
+              
+              (h) Tin hydroxide supernatant from plating solutions and sludges.
+              
+                PSES for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tin metal recovered from plating solutions and sludges
+                
+                
+                  Lead
+                  32.20
+                  14.95
+                
+                
+                  Cyanide (total)
+                  23.00
+                  9.20
+                
+                
+                  Fluoride
+                  4,025.00
+                  2,289.00
+                
+                
+                  Tin
+                  43.70
+                  25.30
+                
+              
+              (i) Tin hydroxide filtrate.
+              
+              
+                PSES for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tin metal produced
+                
+                
+                  Lead
+                  7.012
+                  3.256
+                
+                
+                  Cyanide (total)
+                  5.009
+                  2.004
+                
+                
+                  Fluoride
+                  876.500
+                  498.400
+                
+                
+                  Tin
+                  9.517
+                  5.510
+                
+              
+            
+            
+              § 421.296
+              Pretreatment standards for new sources.
+              Except as provided in 40 CFR 403.7, any new source subject to this subpart which introduces pollutants into

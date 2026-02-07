@@ -1,0 +1,130 @@
+uced
+                
+                
+                  Chromium (total)
+                  3.154
+                  1.279
+                
+                
+                  Cyanide (total)
+                  1.705
+                  0.682
+                
+                
+                  Lead
+                  2.387
+                  1.108
+                
+                
+                  Nickel
+                  4.688
+                  3.154
+                
+                
+                  Ammonia (as N)
+                  1,136.000
+                  499.500
+                
+              
+              (d) SiCl4 purification wet air pollution control.
+              
+                PSNS for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium dioxide and hafnium dioxide produced
+                
+                
+                  Chromium (total)
+                  2.774
+                  1.125
+                
+                
+                  Cyanide (total)
+                  1.500
+                  0.600
+                
+                
+                  Lead
+                  2.099
+                  0.975
+                
+                
+                  Nickel
+                  4.124
+                  2.774
+                
+                
+                  Ammonia (as N)
+                  999.500
+                  439.400
+                
+              
+              (e) Feed makeup wet air pollution control.
+              
+              
+                PSNS for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium dioxide and hafnium dioxide produced
+                
+                
+                  Chromium (total)
+                  2.103
+                  0.852
+                
+                
+                  Cyanide (total)
+                  1.137
+                  0.455
+                
+                
+                  Lead
+                  1.591
+                  0.739
+                
+                
+                  Nickel
+                  3.126
+                  2.103
+                
+                
+                  Ammonia (as N)
+                  757.500
+                  333.000
+                
+              
+              (f) Iron extraction (MIBK) steam stripper bottoms.
+              
+                PSNS for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium dioxide and hafnium dioxide produced
+                
+                
+                  Chromium (total)
+                  0.830
+                  0.337
+                
+                
+                  Cyanide (total)
+                  0.449
+                  0.180
+                
+                
+                  Lead
+                  0.628

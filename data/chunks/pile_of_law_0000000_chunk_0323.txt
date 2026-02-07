@@ -1,0 +1,24 @@
+r, 24-hour rainfall event mean precipitation events with a probable recurrence interval of once in ten years, or twenty five years, or one hundred years, respectively, as defined by the National Weather Service in Technical Paper No. 40, “Rainfall Frequency Atlas of the United States,” May, 1961, or equivalent regional or State rainfall probability information developed from this source.
+            (j) Analytical methods. The parameters that are regulated or referenced in this part and listed with approved methods of analysis in Table 1B at 40 CFR 136.3 are defined as follows:
+            (1) Ammonia (as N) means ammonia reported as nitrogen.
+            (2) BOD5 means 5-day biochemical oxygen demand.
+            (3) Nitrate (as N) means nitrate reported as nitrogen.
+            (4) Total dissolved solids means nonfilterable residue.
+            (k) The parameters that are regulated or referenced in this part and listed with approved methods of analysis in Table 1A at 40 CFR 136.3 are defined as follows:
+            (1) Fecal coliform means fecal coliform bacteria.
+            (2) Total coliform means all coliform bacteria.
+          
+          
+            § 412.3
+            General pretreatment standards.
+            Any source subject to this part that introduces process wastewater pollutants into a publicly owned treatment works (POTW) must comply with 40 CFR part 403.
+          
+          
+            § 412.4
+            Best management practices (BMPs) for land application of manure, litter, and process wastewater.
+            (a) Applicability. This section applies to any CAFO subject to subpart C of this part (Dairy and Beef Cattle other than Veal Calves) or subpart D of this part (Swine, Poultry, and Veal Calves).
+            (b) Specialized definitions. (1) Setback means a specified distance from surface waters or potential conduits to surface waters where manure, litter, and process wastewater may not be land applied. Examples of conduits to surface waters include but are not limited to: Open tile line intake structures, sinkholes, and agricultural well heads.
+            (2) Vegetated buffer means a narrow, permanent strip of dense perennial vegetation established parallel to the contours of and perpendicular to the dominant slope of the field for the purposes of slowing water runoff, enhancing water infiltration, and minimizing the risk of any potential nutrients or pollutants from leaving the field and reaching surface waters.
+            (3) Multi-year phosphorus application means phosphorus applied to a field in excess of the crop needs for that year. In multi-year phosphorus applications, no additional manure, litter, or process wastewater is applied to the same land in subsequent years until the applied phosphorus has been removed from the field via harvest and crop removal.
+            (c) Requirement to develop and implement best management practices. Each CAFO subject to this section that land applies manure, litter, or process wastewater, must do so in accordance with the following practices:
+            (1) Nutrient Management Plan. The CAFO must develop and implement a nutrient management plan that incorporates the requirements of paragraphs (c)(2) through (c)(5) of this section based on a field-specific assessment of the potential for nitrogen and phosphorus transport from the field and that addresses the form, source, amount, timing, and method of application of nutrients on each field to achieve realistic pr

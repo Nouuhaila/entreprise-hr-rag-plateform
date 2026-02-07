@@ -1,0 +1,65 @@
+Pretreatment standards for new sources.
+            
+            
+              Subpart S—Manufacture of Detergent Bars and Cakes Subcategory
+              417.190
+              Applicability; description of the manufacture of detergent bars and cakes subcategory.
+              417.191
+              Specialized definitions.
+              417.192
+
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              
+              417.193
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              417.194
+              Pretreatment standards for existing sources.
+              417.195
+              Standards of performance for new sources.
+              417.196
+              Pretreatment standards for new sources.
+            
+          
+          
+            Authority:
+
+            Secs. 301, 304 (b) and (c), 306 (b) and (c), and 307(c) of the Federal Water Pollution Control Act as amended, (the Act); 33 U.S.C. 1251, 1311, 1314 (b) and (c), 1316 (b) and (c) and 1317(c), 86 Stat. 816 et seq.; Pub. L. 92-500.
+          
+          
+            Source:
+            39 FR 13372, Apr. 12, 1974, unless otherwise noted.
+          
+          
+            Subpart A—Soap Manufacturing by Batch Kettle Subcategory
+            
+              § 417.10
+              Applicability; description of the soap manufacturing by batch kettle subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the operations in which neat soap is produced through saponification of animal and vegetable fats and oils by boiling in kettles.
+            
+            
+              § 417.11
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+              (b) The term anhydrous product shall mean the theoretical product that would result if all water were removed from the actual product.
+              (c) The term neat soap shall mean the solution of completely saponified and purified soap containing about 20-30 percent water which is ready for final formulation into a finished product.
+            
+            
+              § 417.12
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kilograms per 1,000 kg of anhydrous product)
+                
+                
+                  BOD5
+                  
+                  1.80

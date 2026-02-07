@@ -1,0 +1,23 @@
+(b) Operations similar to electroplating which are specifically excepted from coverage of this part include:
+              (1) Electrowinning and electrorefining conducted as a part of nonferrous metal smelting and refining (40 CFR part 421);
+              (2) Metal surface preparation and conversion coating conducted as a part of coil coating (40 CFR part 465);
+              (3) Metal surface preparation and immersion plating or electroless plating conducted as a part of porcelain enameling (40 CFR part 466); and
+              (4) Electrodeposition of active electrode materials, electroimpregnation, and electroforming conducted as a part of battery manufacturing (40 CFR part 461).
+
+              (c) Metallic platemaking and gravure cylinder preparation conducted within or for printing and publishing facilities, and continuous strip electroplating conducted within iron and steel manufacturing facilities which introduce pollutants into a publicly owned treatment works are exempted from the pretreatment standards for existing sources set forth in this part.
+
+              (Secs. 301, 304, 306, 307, 308, and 501 of the Clean Water Act (the Federal Water Pollution Control Act Amendments of 1972, 33 U.S.C. 1251 et. seq., as amended by the Clean Water Act of 1977, Pub. L. 95-217))
+              [46 FR 9467, Jan. 28, 1981, as amended at 48 FR 32482, July 15, 1983; 48 FR 41410, Sept. 15, 1983; 51 FR 40421, Nov. 7, 1986]
+            
+            
+              § 413.02
+              General definitions.
+              In addition to the definitions set forth in 40 CFR part 401 and the chemical analysis methods set forth in 40 CFR part 136, both of which are incorporated herein by reference, the following definitions apply to this part:
+              (a) The term CN,A shall mean cyanide amenable to chlorination as defined by 40 CFR 136.
+              (b) The term CN,T shall mean cyanide, total.
+              (c) The term Cr,VI shall mean hexavalent chromium.
+              (d) The term electroplating process wastewater shall mean process wastewater generated in operations which are subject to regulation under any of subparts A through H of this part.
+              (e) The term total metal is defined as the sum of the concentration or mass of Copper (Cu), Nickel (Ni), Chromium (Cr) (total) and Zinc (Zn).
+              (f) The term strong chelating agents is defined as all compounds which, by virtue of their chemical structure and amount present, form soluble metal complexes which are not removed by subsequent metals control techniques such as pH adjustment followed by clarification or filtration.
+              (g) The term control authority is defined as the POTW if it has an approved pretreatment program; in the absence of such a program, the NPDES State if it has an approved pretreatment program or EPA if the State does not have an approved program.
+              (h) The term integrated facility is defined as a facility that performs electroplating as only one of several operations necessary for manufacture of a product at a single physical location and has significant quantities of process wastewater from non-electroplating manufacturing operations. In addition, to qualify as an “integrated facility” one or more plant electroplating process wastewater lines must be combined prior to or at the point of treatment (or proposed treatment) with one or more plant sewers carrying process wastewater from non-electroplating manufacturing operati

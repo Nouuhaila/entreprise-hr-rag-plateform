@@ -1,0 +1,65 @@
+hnology.
+            
+          
+          
+            Authority:
+
+            Secs. 301, 304(b) and (c), 306(b) and (c), 307(c) of the Federal Water Pollution Control Act, as amended; 33 U.S.C. 1251, 1311, 1314(b) and (c), 1316 (b) and (c), 1317(c); 86 Stat. 816 et seq., Pub. L. 92-500; 91 Stat. 1567, Pub. L. 95-217.
+          
+          
+            Source:
+            39 FR 6809, Feb. 22, 1974, unless otherwise noted.
+          
+          
+            Subpart A—Open Electric Furnaces With Wet Air Pollution Control Devices Subcategory
+            
+              § 424.10
+              Applicability; description of the open electric furnaces with wet air pollution control devices subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the smelting of ferroalloys in open electric furnaces with wet air pollution control devices. This subcategory includes those electric furnaces of such construction or configuration that the furnace off-gases are burned above the furnace charge level by air drawn into the system. After combustion the gases are cleaned in a wet air pollution control device, such as a scrubber, an electrostatic precipitator with water or other aqueous sprays, etc. The provisions of this subpart are not applicable to noncontact cooling water or to those electric furnaces which are covered, closed, sealed, or semi-covered and in which the furnace off-gases are not burned prior to collection (regulated in subpart B of this part).
+            
+            
+              § 424.11
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+              (b) The term Mwh shall mean megawatt hour(s) of electrical energy consumed in the smelting process (furnace power consumption).
+            
+            
+              § 424.12
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in §§ 125.30 through 125.32, and subject to the provisions of paragraph (a) of this section, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kg/Mwh)
+                
+                
+                  TSS
+                  0.319
+                  0.160
+                
+                
+                  Chromium total
+                  .006
+                  .0032
+                
+                
+                  Chromium VI
+                  .0006
+                  .0003
+                
+                
+                  Manganese total
+                  .064
+                  .032
+                
+                
+                  pH
+                  (1)
+                  (1)

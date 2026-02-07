@@ -1,0 +1,101 @@
+49, XI
+      Travel Allowances, Temporary Duty (TDY)
+      41, 301
+      Treasury, Department of the
+      2, X; 5, XXI; 12, XV; 17, IV; 31, IX
+      Alcohol and Tobacco Tax and Trade Bureau
+      27, I
+      Community Development Financial Institutions Fund
+      12, XVIII
+      Comptroller of the Currency
+      12, I
+      Customs and Border Protection
+      19, I
+      Engraving and Printing, Bureau of
+      31, VI
+      Federal Acquisition Regulation
+      48, 10
+      Federal Claims Collection Standards
+      31, IX
+      Federal Law Enforcement Training Center
+      31, VII
+      Financial Crimes Enforcement Network
+      31, X
+      Fiscal Service
+      31, II
+      Foreign Assets Control, Office of
+      31, V
+      Internal Revenue Service
+      26, I
+      Investment Security, Office of
+      31, VIII
+      Monetary Offices
+      31, I
+      Secret Service
+      31, IV
+      Secretary of the Treasury, Office of
+      31, Subtitle A
+      Truman, Harry S. Scholarship Foundation
+      45, XVIII
+      United States and Canada, International Joint Commission
+      22, IV
+      United States and Mexico, International Boundary and Water Commission, United States Section
+      22, XI
+      U.S. Copyright Office
+      37, II
+      Utah Reclamation Mitigation and Conservation Commission
+      43, III
+      Veterans Affairs, Department of
+      2, VIII; 38, I
+      Federal Acquisition Regulation
+      48, 8
+      Veterans' Employment and Training Service, Office of the Assistant Secretary for
+      41, 61; 20, IX
+      Vice President of the United States, Office of
+      32, XXVIII
+      Wage and Hour Division
+      29, V
+      Water Resources Council
+      18, VI
+      Workers' Compensation Programs, Office of
+      20, I, VII
+      World Agricultural Outlook Board
+      7, XXXVIII
+    
+    
+      40 CFR (7-1-20 Edition)
+      List of CFR Section Affected
+      
+      List of CFR Sections Affected
+
+      All changes in this volume of the Code of Federal Regulations (CFR) that were made by documents published in the Federal Register since January 1, 2015 are enumerated in the following list. Entries indicate the nature of the changes effected. Page numbers refer to Federal Register pages. The user should consult the entries for chapters, parts and subparts as well as sections for revisions.
+
+      For changes to this volume of the CFR prior to this listing, consult the annual edition of the monthly List of CFR Sections Affected (LSA). The LSA is available at www.govinfo.gov. For changes to this volume of the CFR prior to 2001, see the “List of CFR Sections Affected, 1949-1963, 1964-1972, 1973-1985, and 1986-2000” published in 11 separate volumes. The “List of CFR Sections Affected 1986-2000” is available at www.govinfo.gov.
+      
+      
+        2015
+        40 CFR
+        80 FR
+        Page
+        Chapter I
+        401 Authority citation revised; eff. 8-28-15
+        37125
+        401.11 (l) revised; eff. 8-28-15
+        37125
+        403.10 (f)(2)(viii) added
+        64156
+        403.12 (e)(1), (h) and (i) introductory text revised
+        64157
+        412 Technical correction
+        60055
+        418 Technical correction
+        60069
+        423 Authority citation revised
+        67893
+        423.10 Revised
+        67893
+        423.11 (b), (e) and (f) revised; (n) through (t) added
+        67893
+        423.12 (b)(11) and (12) revised; (b)(13) added
+        67894
+        423.13 (g) and (h) revised; (i) through (n) added

@@ -1,0 +1,104 @@
+oducts and fasteners means steel wire, products manufactured from steel wire, and steel fasteners manufactured from steel wire or other steel shapes.
+            
+            
+              § 420.122
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              (a) Galvanizing, terne coating, and other coatings—(1) Strip, sheet, and miscellaneous products.
+              
+              
+                Subpart L
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.175
+                  0.0751
+                
+                
+                  O&G
+                  0.0751
+                  0.0250
+                
+                
+                  Lead
+                  0.00113
+                  0.000376
+                
+                
+                  Zinc
+                  0.00150
+                  0.000500
+                
+                
+                  Chromium (hexavalent) 1
+                  
+                  0.000150
+                  0.0000501
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  1 The limitations for hexavalent chromium shall apply only to galvanizing operations which discharge wastewaters from the chromate rinse step.
+                
+                  2 Within the range of 6.0 to 9.0.
+              
+              (2) [Reserved]
+              (b) Galvanizing and other coatings—(1) Wire products and fasteners.
+              
+              
+                Subpart L
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.701
+                  0.300
+                
+                
+                  O&G
+                  0.300
+                  0.100
+                
+                
+                  Lead
+                  0.00451
+                  0.00150
+                
+                
+                  Zinc
+                  0.00601
+                  0.00200
+                
+                
+                  Chromium (hexavalent) 1
+                  
+                  0.000600
+                  0.000200
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  1 The limitations for hexavalent chromium shall be applicable only to galvanizing operations which discharge wastewaters from the chromate rin

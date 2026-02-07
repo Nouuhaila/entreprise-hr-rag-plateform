@@ -1,0 +1,45 @@
+iperazine + formaldehyde, hydrogenation
+              Polyoxylalkylene amines/Polyoxyalkylene glycol + Ammonia
+              Polyoxypropylene diamine/Polypropylene glycol + Ammonia
+              2-Amino-2-methyl-1-propanol/Hydrogenation of 2-Nitro 2-methyl-1-propanol
+              3-Methoxypropyl amine/Reductive amination of acrylamide with methanol & hydrogen
+              N-Propylamine/Reductive ammination (ammonia + hydrogen) of n-propanol
+              Sorbitol/Hydrogenation of sugars
+              Sulfolane/Condensation butadiene + sulfur dioxide, Hydrogenation
+              Thionocarbamates, N-Ethyl-o-isopropyl/Isopropyl xanthate + Ethylamine
+              Toluene diamine (mixture)/Catalytic hydrogenation of dinitrotoluene
+              Methylated urea-formaldehyde resins (textile)/Methylation of urea-formaldehyde adduct
+              Methylated urea-formaldehyde glyoxol (textile resin)/Reaction of methylated urea-formaldehyde + glyoxal
+              Zinc
+              Methylhydroabietate, diels-alder adducts/Derivatives of abietic esters from rosin
+              Acrylic resins/Emulsion or solution polymerization to coatings
+              Acrylic resins (latex)/Emulsion polymerization of acrylonitrile with polybutadiene
+              Acrylic fibers (85% polyacrylonitrile) by solution polymerization/Wet spinning
+              Alkyd Resins/Condensation polymerization of phthalic anhydride + glycerin + vegetable oil esters
+              Benzene/By-product of styrene by ethylbenzene dehydrogenation
+              Benzene/By-product of vinyl toluene (from ethyltoluene)
+              n-butyl alcohol/Hydrogenation of n-Butyraldehyde, Oxo process
+              Coumarin (benz-a-pyrone)/Salicylaldehyde, Oxo process
+              Cycloparaffins/Catalytic hydrogenation of aromatics in kerosene solvent
+              Dithiocarbamates, zinc salt/Reaction of zinc oxide + Sodium dithiocarbamates
+              Dialkyldithiocarbamates, metal salts/Diakylamines + Carbon disulfide
+              Dithiocarbamates, metal salts/Dithiocarbamic acid + metal oxide
+              Thiuram (dimethyldithiocarbamate) hexasulfide/Dimethyldithiocarbamate + sulfur
+              Fluorescent brighteners/Coumarin based
+              Ethyl acetate/Redox reaction (Tschenko) of acetaldehyde
+              Ethylbenzene/Benzene alkylation in liquid phase
+              Ethylbenzyl chloride/Chloromethylation (Hydrogen chloride + formaldehyde, zinc chloride) of ethylbenzene
+              2-Ethyl hexanol/Aldol condensation-hydrogenation of n-Butyraldehyde
+              Glyoxal-urea formaldehyde textile resin/Condensation to N-bis (hydroxymethyl) ureas + N,N′-(Dihydroxyethyl) ureas
+              Isobutanol/Hydrogenation of isobutyraldehyde, Oxo process
+              Isopropanol/Catalytic hydrogenation of acetone
+              Methallylidene diacetate/Condensation of 2-Methypropenal + acetic anhydride
+              Methanol/Low pressure sythesis from natural gas via synthetic gas
+              Methyl chloride/Hydrochlorination of methanol
+              Methylethyl ketone/Dehydrogenation of sec-Butanol
+              Naphthenic acid salts
+              Nylon
+              Nylon 6 & 66 copolymers/Polycondensation of Nylon salt + Caprolatam
+              Nylon 6 fiber/Extrusion (melt spinning)
+              Oxo alcohols, C12-C15/Hydroformylation & hydrogenation of C11-C14 olefins
+              Phenolic urethan resins/Phenol + excess formaldehyde + Methylene aniline diisocyanate

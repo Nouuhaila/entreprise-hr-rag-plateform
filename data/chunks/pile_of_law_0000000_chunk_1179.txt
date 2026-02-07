@@ -1,0 +1,125 @@
+1 Within the range of 7.5 to 10.0 at all times.
+              
+              (j) Pure chlorination wet air pollution control.
+              
+                NSPS for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium and hafnium produced
+                
+                
+                  Chromium (total)
+                  14.180
+                  5.748
+                
+                
+                  Cyanide (total)
+                  7.663
+                  3.065
+                
+                
+                  Lead
+                  10.730
+                  4.981
+                
+                
+                  Nickel
+                  21.070
+                  14.180
+                
+                
+                  Ammonia (as N)
+                  5,108.000
+                  2,245.000
+                
+                
+                  Total suspended solids
+                  574.800
+                  459.800
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (k) Reduction area-vent wet air pollution control.
+              
+                NSPS for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium and hafnium produced
+                
+                
+                  Chromium (total)
+                  1.364
+                  0.553
+                
+                
+                  Cyanide (total)
+                  0.737
+                  0.295
+                
+                
+                  Lead
+                  1.032
+                  0.479
+                
+                
+                  Nickel
+                  2.027
+                  1.364
+                
+                
+                  Ammonia (as N)
+                  491.300
+                  216.000
+                
+                
+                  Total suspended solids
+                  55.290
+                  44.230
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+
+              (l) Magnesium recovery off-gas wet air pollution control.
+              
+              
+                NSPS for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium and hafnium produced
+                
+                
+                  Chromium (total)
+                  7.671
+                  3.110
+                
+                
+                  Cyanide (total)
+                  4.147
+                  1.659

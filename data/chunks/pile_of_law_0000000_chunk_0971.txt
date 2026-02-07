@@ -1,0 +1,132 @@
+Gangue Dewatering.
+              
+              
+                NSPS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryl ore processed
+                
+                
+                  Beryllium
+                  0.855
+                  0.386
+                
+                
+                  Chromium (Total)
+                  0.386
+                  0.156
+                
+                
+                  Copper
+                  1.335
+                  0.636
+                
+                
+                  Cyanide (Total)
+                  0.209
+                  0.083
+                
+                
+                  Ammonia (as N)
+                  139.032
+                  61.120
+                
+                
+                  Fluoride
+                  36.505
+                  20.756
+                
+                
+                  Total Suspended Solids
+                  15.645
+                  12.516
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (l) Bertrandite Ore Gangue Dewatering.
+              
+                NSPS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of bertrandite ore processed
+                
+                
+                  Beryllium
+                  2.185
+                  0.986
+                
+                
+                  Chromium (Total)
+                  0.986
+                  0.400
+                
+                
+                  Copper
+                  3.411
+                  1.626
+                
+                
+                  Cyanide (Total)
+                  0.533
+                  0.213
+                
+                
+                  Ammonia (as N)
+                  355.245
+                  156.169
+                
+                
+                  Fluoride
+                  93.275
+                  53.034
+                
+                
+                  Total Suspended Solids
+                  39.975
+                  31.980
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (m) Beryl Ore Processing.
+              
+                NSPS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryl ore processed
+                
+                
+                  Beryllium
+                  5.988
+                  2.702
+                
+                
+                  Chromium (Total)
+                  2.702
+                  1.095

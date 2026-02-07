@@ -1,0 +1,141 @@
+nt or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead processed through desulfurization
+                
+                
+                  Antimony
+                  .000
+                  .000
+                
+                
+                  Arsenic
+                  .000
+                  .000
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (e) Subpart M—Casting Contact Cooling.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead cast
+                
+                
+                  Antimony
+                  .042
+                  .019
+                
+                
+                  Arsenic
+                  .031
+                  .013
+                
+                
+                  Lead
+                  .006
+                  .003
+                
+                
+                  Zinc
+                  .022
+                  .009
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (f) Subpart M—Truck Wash.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead produced from smelting
+                
+                
+                  Antimony
+                  .041
+                  .018
+                
+                
+                  Arsenic
+                  .029
+                  .012
+                
+                
+                  Lead
+                  .006
+                  .003
+                
+                
+                  Zinc
+                  .021
+                  .009
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (g) Subpart M—Facility Washdown.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead produced from smelting
+                
+                
+                  Antimony
+                  .000
+                  .000
+                
+                
+                  Arsenic
+                  .000
+                  .000
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000

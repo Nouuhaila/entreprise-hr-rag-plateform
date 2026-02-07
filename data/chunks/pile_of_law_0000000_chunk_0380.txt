@@ -1,0 +1,87 @@
+Benzyl Chloride
+                Carbon Tetrachloride
+                *Chlorinated Paraffins, 35-64 PCT, Chlorine
+                Chlorobenzene
+                *Chlorobenzenes (Mixed)
+                Chlorodifluoroethane
+                Chloroform
+                *Chloromethanes
+                2-Chloro-5-Methylphenol (6-chloro-m-cresol)
+                *Chlorophenols
+                Chloroprene
+                Cyanogen Chloride
+                Cyanuric Chloride
+                Dichloropropane
+                Epichlorohydrin
+                Ethyl Chloride
+                *Fluorocarbons (Freons)
+                Methyl Chloride
+                Methylene Chloride
+                Pentachlorophenol
+                Phosgene
+                Tetrachloroethylene
+                Trichloroethylene
+                Trichlorofluoromethane
+                Vinylidene Chloride
+                1,1-Dichloroethane
+                1,1,1-Trichloroethane
+                2,4-Dichlorophenol
+              
+              
+              (e) Other Organic Chemicals
+              
+              
+                Adiponitrile
+                Carbon Disulfide
+                Fatty Nitriles
+                *Organo-Tin Compounds
+                *Phosphate Esters
+                Tetraethyl Lead
+                Tetramethyl Lead
+                *Urethane Prepolymers
+              
+              [52 FR 42568, Nov. 5, 1987, as amended at 57 FR 41844, Sept. 11, 1992]
+            
+            
+              § 414.71
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              Except as provided in 40 CFR 125.30 through 125.32, and in 40 CFR 414.11(i) for point sources with production in two or more subcategories, any existing point source subject to this subpart must achieve discharges not exceeding the quantity (mass) determined by multiplying the process wastewater flow subject to this subpart times the concentration listed in the following table.
+              
+                
+                  Effluent characteristics
+                  BPT Effluent limitations 1
+                  
+                  Maximum for any one day
+                  Maximum for monthly average
+                
+                
+                  BOD5
+                  92
+                  34
+                
+                
+                  TSS
+                  159
+                  49
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  1 All units except pH are milligrams per liter.
+                
+                  2 Within the range of 6.0 to 9.0 at all times.
+              
+              [52 FR 42568, Nov. 5, 1987, as amended at 57 FR 41844, Sept. 11, 1992]
+            
+            
+              
+              § 414.72
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT). [Reserved]
+            
+            
+              § 414.73
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              (a) The Agency has determined that for existing point sources whose total OCPSF production defined by § 414.11 is less than or equal

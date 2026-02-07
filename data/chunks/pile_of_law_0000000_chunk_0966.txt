@@ -1,0 +1,126 @@
+0.037
+                  0.015
+                
+                
+                  Copper
+                  0.129
+                  0.062
+                
+                
+                  Cyanide (Total)
+                  0.020
+                  0.008
+                
+                
+                  Ammonia (as N)
+                  13.463
+                  5.919
+                
+                
+                  Fluoride
+                  3.535
+                  2.010
+                
+              
+              [50 FR 38346, Sept. 20, 1985, as amended at 55 FR 31698, Aug. 3, 1990]
+            
+            
+              § 421.154
+              Standards of performance for new sources.
+              Any new source subject to this subpart shall achieve the following new source performance standards:
+              (a) Solvent extraction raffinate from bertrandite ore.
+              
+                NSPS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds million pounds) of beryllium carbonate produced from bertrandite ore as beryllium
+                
+                
+                  Beryllium
+                  1,842.000
+                  831.000
+                
+                
+                  Chromium (total)
+                  831.000
+                  336.900
+                
+                
+                  Copper
+                  2,875.000
+                  1,370.000
+                
+                
+                  Cyanide (total)
+                  449.200
+                  179.700
+                
+                
+                  Ammonia (as N)
+                  299,400.000
+                  131,600.000
+                
+                
+                  Fluoride
+                  78,610.000
+                  44,700.000
+                
+                
+                  Total Suspended solids
+                  33,690.000
+                  26,950.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Solvent extraction raffinate from beryl ore.
+              
+                NSPS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium carbonate produced from beryl ore as beryllium
+                
+                
+                  Beryllium
+                  180.4
+                  81.4
+                
+                
+                  Chromium (total)
+                  81.4
+                  33.0
+                
+                
+                  Copper
+                  281.6
+                  134.2
+                
+                
+                  Cyanide (total)
+                  44.0
+                  17.6
+                
+                
+                  Ammonia (as N)
+                  29,330.0
+                  12,890.0
+                
+                
+                  Fluoride
+                  7,700.0
+                  4,378.0

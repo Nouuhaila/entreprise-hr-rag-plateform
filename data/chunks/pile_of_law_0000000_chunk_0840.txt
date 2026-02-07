@@ -1,0 +1,74 @@
+vent as established by the National Climatic Center, National Oceanic and Atmospheric Administration, for the area in which such impoundment is located may discharge that volume of process wastewater equivalent to the volume of precipitation that falls within the impoundment in excess of that attributable to the 25-year, 24-hour rainfall event, when such event occurs.
+            
+            
+              § 421.66
+              Pretreatment standards for new sources.
+              Except as provided in 40 CFR 403.7 any new source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for new sources. The mass of wastewater pollutants in secondary copper process wastewater introduced into a POTW shall not exceed the following values: There shall be no discharge of process wastewater pollutants into a publicly owned treatment works.
+            
+            
+              § 421.67
+              [Reserved]
+            
+          
+          
+            Subpart G—Primary Lead Subcategory
+            
+              Source:
+              49 FR 8803, Mar. 8, 1984, unless otherwise noted.
+            
+            
+              § 421.70
+              Applicability: Description of the primary lead subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of lead at primary lead smelters and refineries.
+            
+            
+              § 421.71
+              Specialized definitions.
+              For the purpose of this subpart the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+            
+            
+              § 421.72
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available:
+
+              (a) Subpart G—Sinter Plant Materials Handling Wet Air Pollution Control.
+              
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of sinter production
+                
+                
+                  Lead
+                  594.000
+                  270.000
+                
+                
+                  Zinc
+                  525.000
+                  219.600
+                
+                
+                  Total suspended solids
+                  14,760.000
+                  7,020.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Subpart G—Blast Furnace Wet Air Pollution Control.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property

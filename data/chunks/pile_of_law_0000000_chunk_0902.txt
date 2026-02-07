@@ -1,0 +1,134 @@
+Lead
+                  1.076
+                  .500
+                
+                
+                  Zinc
+                  3.919
+                  1.614
+                
+                
+                  Ammonia (as N)
+                  512.200
+                  225.200
+                
+                
+                  Fluoride
+                  134.500
+                  76.840
+                
+                
+                  Total suspended solids
+                  57.630
+                  46.110
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              
+              (h) Subpart K—Reduction of Tantalum Salt to Metal.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tantalum salt reduced
+                
+                
+                  Lead
+                  46.500
+                  21.590
+                
+                
+                  Zinc
+                  169.400
+                  69.750
+                
+                
+                  Ammonia (as N)
+                  22,140.000
+                  9,732.000
+                
+                
+                  Fluoride
+                  5,813.000
+                  3,322.000
+                
+                
+                  Total suspended solids
+                  2,491.000
+                  1,993.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (i) Subpart K—Reduction of Tantalum Salt to Metal Wet Air Pollution Control.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tantalum salt reduced
+                
+                
+                  Lead
+                  .572
+                  .266
+                
+                
+                  Zinc
+                  2.084
+                  .858
+                
+                
+                  Ammonia (as N)
+                  272.400
+                  119.700
+                
+                
+                  Fluoride
+                  71.510
+                  40.860
+                
+                
+                  Total suspended solids
+                  30.650
+                  24.520
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (j) Subpart K—Tantalum Powder Wash.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds

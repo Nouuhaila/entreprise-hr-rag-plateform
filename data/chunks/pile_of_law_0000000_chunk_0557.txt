@@ -1,0 +1,60 @@
+erties, controlled by this section, which may be discharged to a publicly owned treatment works by a new source subject to the provisions of this subpart.
+
+              (a) There shall be no discharge of waste water streams in which both the COD/BOD7 ratio exceeds 10.0 and the COD exceeds 0.26 kg/kkg of anhydrous product.
+
+              (b) For waste streams having either a ratio of COD to BOD7 of 10.0 or less or a COD content of 0.26 kg/kkg of anhydrous product or less the pretreatment standard shall be:
+              
+                
+                  Pollutant or pollutant property
+                  Pretreatment standard
+                
+                
+                  BOD5
+                  
+                  No limitation.
+                
+                
+                  COD
+                    Do.
+                
+                
+                  TSS
+                    Do.
+                
+                
+                  Surfactants
+                    Do.
+                
+                
+                  Oil and grease
+                    Do.
+                
+                
+                  pH
+                    Do.
+                
+              
+              [39 FR 13372, Apr. 12, 1974, as amended at 60 FR 33955, June 29, 1995]
+            
+          
+          
+            Subpart R—Manufacture of Drum Dried Detergents Subcategory
+            
+              § 417.180
+              Applicability; description of the manufacture of drum dried detergents subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the operations associated with the manufacture of detergents by drum drying, including, but not limited to, drying of formulations on heated drums or rollers, conversion of dried detergents to powders or flakes, and packaging of finished products.
+            
+            
+              § 417.181
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+              (b) The term anhydrous product shall mean the theoretical product that would result if all water were removed from the actual product.
+              (c) The term surfactant shall mean those methylene blue active substances amenable to measurement by the method described in “Methods for Chemical Analysis of Water and Wastes,” 1971, Environmental Protection Agency, Analytical Quality Control Laboratory, page 131.
+              (d) The term BOD7 shall mean the biochemical oxygen demand as determined by incubation at 20 degrees C for a period of 7 days using an acclimated seed. Agitation employing a magnetic stirrer set at 200 to 500 r.p.m. may be used.
+              [39 FR 13372, Apr. 12, 1974, as amended at 40 FR 27455, June 30, 1975]
+            
+            
+              § 417.182
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):

@@ -1,0 +1,137 @@
+.000
+                  976.300
+                
+                
+                  Cobalt
+                  45.984
+                  20.160
+                
+                
+                  Tungsten
+                  57.980
+                  25.820
+                
+                
+                  Oil and grease
+                  166.600
+                  166.600
+                
+                
+                  Total suspended solids
+                  249.900
+                  199.900
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (e) Tungsten carbide leaching wet air pollution control.
+              
+                NSPS for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten carbide scrap leached
+                
+                
+                  Copper
+                  2.241
+                  1.068
+                
+                
+                  Nickel
+                  0.963
+                  0.648
+                
+                
+                  Ammonia (as N)
+                  233.400
+                  102.600
+                
+                
+                  Cobalt
+                  4.833
+                  2.119
+                
+                
+                  Tungsten
+                  6.093
+                  2.714
+                
+                
+                  Oil and grease
+                  17.510
+                  17.510
+                
+                
+                  Total suspended solids
+                  26.270
+                  21.010
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (f) Tungsten carbide wash water.
+              
+                NSPS for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten carbide produced
+                
+                
+                  Copper
+                  10.670
+                  5.083
+                
+                
+                  Nickel
+                  4.583
+                  3.083
+                
+                
+                  Ammonia (as N)
+                  1,111.000
+                  488.300
+                
+                
+                  Cobalt
+                  22.999
+                  10.083
+                
+                
+                  Tungsten
+                  29.000
+                  12.920
+                
+                
+                  Oil and grease
+                  83.330
+                  83.330
+                
+                
+                  Total suspended solids
+                  125.000
+                  100.000
+                
+                
+                  pH
+                  (1)
+                  (1)

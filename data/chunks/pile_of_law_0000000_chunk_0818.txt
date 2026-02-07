@@ -1,0 +1,131 @@
+Zinc
+                  11.090
+                  4.565
+                
+                
+                  Aluminum
+                  66.410
+                  29.450
+                
+                
+                  Ammonia (as N)
+                  1,449.000
+                  636.900
+                
+              
+
+              (d) Subpart C—Demagging Wet Air Pollution Control.
+              
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (lb/million lbs) of aluminum demagged
+                
+                
+                  Lead
+                  0.216
+                  0.100
+                
+                
+                  Zinc
+                  0.786
+                  0.324
+                
+                
+                  Aluminum
+                  4.711
+                  2.090
+                
+                
+                  Ammonia (as N)
+                  102.800
+                  45.180
+                
+              
+              (e) Subpart C—Delacquering Wet Air Pollution Control.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound's per million pounds) of aluminum delacquered
+                
+                
+                  Lead
+                  0.093
+                  0.043
+                
+                
+                  Zinc
+                  0.340
+                  0.140
+                
+                
+                  Aluminum
+                  2.035
+                  0.903
+                
+                
+                  Ammonia (as N)
+                  44.389
+                  19.514
+                
+                
+                  Total phenolics (4-AAP method) 1
+                  
+                  0.004
+                  
+                
+                
+                  1 At the source.
+              
+              (f) Subpart C—Direct Chill Casting Contact Cooling.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum cast
+                
+                
+                  Lead
+                  .372
+                  .173
+                
+                
+                  Zinc
+                  1.356
+                  .558
+                
+                
+                  Aluminum
+                  8.120
+                  3.602
+                
+                
+                  Ammonia (as N)
+                  177.200
+                  77.880
+                
+              
+              (g) Subpart C—Ingot Conveyor Casting Contact Cooling (When Chlorine Demagging Wet Air Pollution Control is Not Practiced On-Site).
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average

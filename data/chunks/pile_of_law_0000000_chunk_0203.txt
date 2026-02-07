@@ -1,0 +1,53 @@
+or Chemical Analysis of Water and Wastes, 1971, Environmental Protection Agency, Analytical Quality Control Laboratory, page 217.
+              (c) The term seafood shall mean the raw material, including freshwater and saltwater fish and shellfish, to be processed, in the form in which it is received at the processing plant.
+            
+            
+              § 408.102
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT): No pollutants may be discharged which exceed 1.27 cm (0.5 inch) in any dimension.
+              [60 FR 33942, June 29, 1995]
+            
+            
+              § 408.103
+              [Reserved]
+            
+            
+              § 408.104
+              Pretreatment standards for existing sources.
+              Any existing source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403. In addition, the following pretreatment standard establishes the quantity or quality of pollutants or pollutant properties controlled by this section which may be discharged to a publicly owned treatment works by a point source subject to the provisions of this subpart.
+              
+                
+                  Pollutant or pollutant property
+                  Pretreatment standard
+                
+                
+                  pH
+                  No limitation.
+                
+                
+                  Oil and grease
+                    Do.
+                
+                
+                  TSS
+                    Do.
+                
+              
+              [40 FR 6439, Feb. 11, 1975, as amended at 60 FR 33942, June 29, 1995]
+            
+            
+              § 408.105
+              Standards of performance for new sources.
+              The following standards of performance establish the quantity or quality of pollutants or pollutant properties, controlled by this section, which may be discharged by a new source subject to the provisions of this subpart: No pollutants may be discharged which exceed 1.27 cm (0.5 inch) in any dimension.
+              [40 FR 55781, Dec. 1, 1975]
+            
+            
+              § 408.106
+              Pretreatment standards for new sources.
+              Any new source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403.
+              [60 FR 33942, June 29, 1995]
+            
+            
+              § 408.107
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): The limitations shall be the same as those specified for conv

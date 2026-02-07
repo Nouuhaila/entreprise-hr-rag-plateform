@@ -1,0 +1,132 @@
+Ammonia (as N)
+                  61.720
+                  27.130
+                
+                
+                  Fluoride
+                  16.210
+                  9.214
+                
+              
+              (b) Roaster SO2 scrubber.
+              
+                PSNS for the Primary Molybdenum and Rhenium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of molybdenum sulfide roasted
+                
+                
+                  Arsenic
+                  2.334
+                  1.041
+                
+                
+                  Lead
+                  0.470
+                  0.218
+                
+                
+                  Nickel
+                  0.924
+                  0.621
+                
+                
+                  Selenium
+                  1.377
+                  0.621
+                
+                
+                  Molybdenum
+                  [Reserved]
+                  [Reserved].
+                
+                
+                  Ammonia (as N)
+                  223.800
+                  98.390
+                
+                
+                  Fluoride
+                  58.770
+                  33.410
+                
+              
+              (c) Molybdic oxide leachate.
+              
+                PSNS for the Primary Molybdenum and Rhenium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of molybdenum contained in molybdic oxide leached
+                
+                
+                  Arsenic
+                  16.100
+                  7.182
+                
+                
+                  Lead
+                  3.244
+                  1.506
+                
+                
+                  Nickel
+                  6.371
+                  4.286
+                
+                
+                  Selenium
+                  9.499
+                  4.286
+                
+                
+                  Molybdenum
+                  [Reserved]
+                  [Reserved].
+                
+                
+                  Ammonia (as N)
+                  1,544.000
+                  678.800
+                
+                
+                  Fluoride
+                  405.400
+                  230.500
+                
+              
+              (d) Hydrogen reduction furnace scrubber.
+              
+                PSNS for the Primary Molybdenum and Rhenium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of molybdenum metal powder produced
+                
+                
+                  Arsenic
+                  3.183
+                  1.420
+                
+                
+                  Lead
+                  0.641
+                  0.298
+                
+                
+                  Nickel
+                  1.260
+                  0.847

@@ -1,0 +1,121 @@
+ministration
+      32, XX
+      
+      Inspector General
+      Agriculture Department
+      7, XXVI
+      Health and Human Services Department
+      42, V
+      Housing and Urban Development Department
+      24, XII, XV
+      Institute of Peace, United States
+      22, XVII
+      Inter-American Foundation
+      5, LXIII; 22, X
+      Interior, Department of
+      2, XIV
+      American Indians, Office of the Special Trustee
+      25, VII
+      Endangered Species Committee
+      50, IV
+      Federal Acquisition Regulation
+      48, 14
+      Federal Property Management Regulations System
+      41, 114
+      Fish and Wildlife Service, United States
+      50, I, IV
+      Geological Survey
+      30, IV
+      Indian Affairs, Bureau of
+      25, I, V
+      Indian Affairs, Office of the Assistant Secretary
+      25, VI
+      Indian Arts and Crafts Board
+      25, II
+      Land Management, Bureau of
+      43, II
+      National Indian Gaming Commission
+      25, III
+      National Park Service
+      36, I
+      Natural Resource Revenue, Office of
+      30, XII
+      Ocean Energy Management, Bureau of
+      30, V
+      Reclamation, Bureau of
+      43, I
+      Safety and Enforcement Bureau, Bureau of
+      30, II
+      Secretary of the Interior, Office of
+      2, XIV; 43, Subtitle A
+      Surface Mining Reclamation and Enforcement, Office of
+      30, VII
+      Internal Revenue Service
+      26, I
+      International Boundary and Water Commission, United States and Mexico, United States Section
+      22, XI
+      International Development, United States Agency for
+      22, II
+      Federal Acquisition Regulation
+      48, 7
+      International Development Cooperation Agency, United States
+      22, XII
+      International Development Finance Corporation, U.S.
+      5, XXXIII; 22, VII
+      International Joint Commission, United States and Canada
+      22, IV
+      International Organizations Employees Loyalty Board
+      5, V
+      International Trade Administration
+      15, III; 19, III
+      International Trade Commission, United States
+      19, II
+      Interstate Commerce Commission
+      5, XL
+      Investment Security, Office of
+      31, VIII
+      James Madison Memorial Fellowship Foundation
+      45, XXIV
+      Japan-United States Friendship Commission
+      22, XVI
+      Joint Board for the Enrollment of Actuaries
+      20, VIII
+      Justice, Department of
+      2, XXVIII; 5, XXVIII; 28, I, XI; 40, IV
+      Alcohol, Tobacco, Firearms, and Explosives, Bureau of
+      27, II
+      Drug Enforcement Administration
+      21, II
+      Federal Acquisition Regulation
+      48, 28
+      Federal Claims Collection Standards
+      31, IX
+      Federal Prison Industries, Inc.
+      28, III
+      Foreign Claims Settlement Commission of the United States
+      45, V
+      Immigration Review, Executive Office for
+      8, V
+      Independent Counsel, Offices of
+      28, VI
+      Prisons, Bureau of
+      28, V
+      Property Management Regulations
+      41, 128
+      Labor, Department of
+      2, XXIX; 5, XLII
+      Employee Benefits Security Administration
+      29, XXV
+      Employees' Compensation Appeals Board
+      20, IV
+      Employment and Training Administration
+      20, V
+      Employment Standards Administration
+      20, VI
+      Federal Acquisition Regulation
+      48, 29
+      Federal Contract Compliance Programs, Office of
+      41, 60
+      Federal Procurement Regulations System
+      41, 50
+      Labor-Management Standards, Office of

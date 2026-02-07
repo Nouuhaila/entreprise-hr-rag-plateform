@@ -1,0 +1,134 @@
+Chromium (total)
+                  2.103
+                  0.852
+                
+                
+                  Cyanide (total)
+                  1.137
+                  0.455
+                
+                
+                  Lead
+                  1.591
+                  0.739
+                
+                
+                  Nickel
+                  3.126
+                  2.103
+                
+                
+                  Ammonia (as N)
+                  757.500
+                  333.000
+                
+                
+                  Total suspended solids
+                  85.250
+                  68.200
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              
+              (f) Iron extraction (MIBK) steam stripper bottoms.
+              
+                NSPS for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium dioxide and hafnium dioxide produced
+                
+                
+                  Chromium (total)
+                  0.830
+                  0.337
+                
+                
+                  Cyanide (total)
+                  0.449
+                  0.180
+                
+                
+                  Lead
+                  0.628
+                  0.292
+                
+                
+                  Nickel
+                  1.234
+                  0.830
+                
+                
+                  Ammonia (as N)
+                  299.100
+                  131.500
+                
+                
+                  Total suspended solids
+                  33.660
+                  26.930
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (g) Zirconium filtrate.
+              
+                NSPS for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium dioxide and hafnium dioxide produced
+                
+                
+                  Chromium (total)
+                  14.350
+                  5.819
+                
+                
+                  Cyanide (total)
+                  7.758
+                  3.103
+                
+                
+                  Lead
+                  10.860
+                  5.043
+                
+                
+                  Nickel
+                  21.330
+                  14.350
+                
+                
+                  Ammonia (as N)
+                  5,171.000
+                  2,273.000
+                
+                
+                  Total suspended solids
+                  581.900
+                  465.500
+                
+                
+                  pH
+                  (1)
+                  (1)

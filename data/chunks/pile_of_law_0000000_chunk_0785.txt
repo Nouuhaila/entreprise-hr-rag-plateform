@@ -1,0 +1,67 @@
+.0123
+                  0.00508
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  1 Pounds per thousand pound of product.
+                
+                  2 Within the range of 6.0 to 9.0.
+              
+              (c) Briquetting. There shall be no discharge of process wastewater pollutants to waters of the U.S.
+            
+            
+              § 420.135
+              Pretreatment standards for existing sources (PSES).
+              Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart that introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and must achieve the following pretreatment standards for existing sources (PSES):
+              (a) Direct-reduced iron. [Reserved]
+              (b) Forging operations. [Reserved]
+              (c) Briquetting. There shall be no discharge of process wastewater pollutants to POTWs.
+            
+            
+              § 420.136
+              Pretreatment standards for new sources (PSNS).
+              Except as provided in 40 CFR 403.7, any new source subject to this subpart that introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and must achieve the following pretreatment standards for new sources (PSNS):
+              (a) Direct-reduced iron. [Reserved]
+              (b) Forging operations. [Reserved]
+              (c) Briquetting. There shall be no discharge of process wastewater pollutants to POTWs.
+            
+            
+              
+              § 420.137
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best control technology for conventional pollutants (BCT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best control technology for conventional pollutants (BCT): The limitations shall be the same as those specified for conventional pollutants (which are defined in 40 CFR 401.16) in § 420.132 for the best practicable control technology currently available (BPT).
+            
+          
+        
+        
+          Pt. 421
+          PART 421—NONFERROUS METALS MANUFACTURING POINT SOURCE CATEGORY
+          
+            
+              General Provisions
+              Sec.
+              421.1
+              Applicability.
+              421.2
+              [Reserved]
+              421.3
+              Monitoring and reporting requirements.
+              421.4
+              Compliance date for pretreatment standards for existing sources (PSES).
+              421.5
+              Removal allowances for pretreatment standards.
+            
+            
+              Subpart A—Bauxite Refining Subcategory
+              421.10
+              Applicability; description of the bauxite refining subcategory.
+              421.11
+              Specialized definitions.
+              421.12
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              421.13
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the

@@ -1,0 +1,120 @@
+0.009
+                
+                
+                  Zinc
+                  0.068
+                  0.028
+                
+                
+                  Amomonia (as N)
+                  8.931
+                  3.926
+                
+              
+
+              (h) Subpart C—Ingot Conveyor Casting Contact Cooling (When Chlorine Demagging Wet Air Pollution Control Is Practiced on Site).
+              
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum cast
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (i) Subpart C—Stationary Casting Contact Cooling.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum cast
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (j) Subpart C—Shot Casting Contact Cooling.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum cast
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              [49 FR 8796, Mar. 8, 1984, as amended at 49 FR 29794, July 24, 1984; 52 FR 25560, July 7, 1987]
+            
+            
+              § 421.37
+              [Reserved]
+            
+          
+          
+            Subpart D—Primary Copper Smelting Subcategory
+            
+              Source:
+              49 FR 8800, Mar. 8, 1984, unless otherwise noted.
+            
+            
+              § 421.40
+              Applicability: Description of the primary copper smelting subcategory.
+              The provisions of this subpart apply to process wastewater discharges resulting from the primary smelting of copper from ore or ore concentrates. Primary copper smelting includes, but is not limited to, roasting, converting, leaching if preceded by a pyrometallurgical step, slag granulation and dumping, fire refining, and the casting of products from these operations.
+            
+            
+              § 421.41
+              S

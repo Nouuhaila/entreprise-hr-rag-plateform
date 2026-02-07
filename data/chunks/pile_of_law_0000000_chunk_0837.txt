@@ -1,0 +1,65 @@
+Copper
+                  .000
+                  .000
+                
+                
+                  Nickel
+                  .000
+                  .000
+                
+              
+              (e) Subpart E—By-Product Recovery.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of product recovered from electrolytic slimes processing
+                
+                
+                  Arsenic
+                  .000
+                  .000
+                
+                
+                  Copper
+                  .000
+                  .000
+                
+                
+                  Nickel
+                  .000
+                  .000
+                
+              
+              [49 FR 8801, Mar. 8, 1984, as amended at 49 FR 29795, July 24, 1984]
+            
+            
+              § 421.57
+              [Reserved]
+            
+          
+          
+            Subpart F—Secondary Copper Subcategory
+            
+              Source:
+              49 FR 8802, Mar. 8, 1984, unless otherwise noted.
+            
+            
+              § 421.60
+              Applicability: Description of the secondary copper subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the recovery, processing, and remelting of new and used copper scrap and residues to produce copper metal and copper alloys, but are not applicable to continuous rod casting.
+            
+            
+              § 421.61
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+
+              (b) For all impoundments constructed prior to the effective date of this regulation the term “within the impoundment” when used for purposes of calculating the volume of process wastewater which may be discharged shall mean the water surface area within the impoundment at maximum capacity plus the surface area of the inside and outside slopes of the impoundment dam as well as the surface area between the outside edge of the impoundment dam and any seepage ditch immediately adjacent to the dam upon which rain falls and is returned to the impoundment. For the purpose of such calculations, the surface area allowances set forth above shall not be more than 30 percent of the water surface area within the impoundment dam at maximum capacity.
+              (c) For all impoundments constructed on or after the effective date of this regulation, the term “within the impoundment” for purposes of calculating the volume of process wastewater which may be discharged shall mean the water surface area within the impoundment at maximum capacity.
+              (d) The term pond water surface area when used for the purpose of calculating the volume of wastewater which may be discharged shall mean the water surface area of the pond created by the impoundment for storage of process wastewater at normal operating level. This surface shall in no case be less than one-third of the surface area of the maximum amount of water which could be contained by the impound

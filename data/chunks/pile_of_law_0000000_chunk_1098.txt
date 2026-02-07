@@ -1,0 +1,105 @@
+and which do not practice electrolytic recovery of magnesium are exempt from regulations. All other primary and secondary titanium facilities are covered by these regulations.
+            
+            
+              § 421.301
+              Specialized definitions.
+              For the purpose of this subpart the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+            
+            
+              § 421.302
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable technology currently available:
+              (a) Chlorination off-gas wet air pollution control.
+              
+                BPT Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of TiCl4 produced
+                
+                
+                  Chromium (total)
+                  0.412
+                  0.168
+                
+                
+                  Lead
+                  0.393
+                  0.187
+                
+                
+                  Nickel
+                  1.797
+                  1.189
+                
+                
+                  Titanium
+                  0.880
+                  0.384
+                
+                
+                  Oil and grease
+                  18.720
+                  11.230
+                
+                
+                  Total suspended solids
+                  38.380
+                  18.250
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Chlorination area-vent wet air pollution control.
+              
+                BPT Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of TiCl4 produced
+                
+                
+                  Chromium (total)
+                  0.412
+                  0.168
+                
+                
+                  Chromium (total)
+                  0.458
+                  0.187
+                
+                
+                  Lead
+                  0.437
+                  0.208
+                
+                
+                  Nickel
+                  1.997
+                  1.321
+                
+                
+                  Titanium
+                  0.978
+                  0.426
+                
+                
+                  Oil and grease
+                  20.800
+                  12.480
+                
+                
+                  Total suspended solids

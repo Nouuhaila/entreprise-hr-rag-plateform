@@ -1,0 +1,125 @@
+PS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of aluminum produced from electrolytic reduction
+                
+                
+                  Benzo(a)pyrene
+                  .000
+                  
+                
+                
+                  Antimony
+                  .000
+                  .000
+                
+                
+                  Nickel
+                  .000
+                  .000
+                
+                
+                  Aluminum
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+                
+                  Oil and grease
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .000
+                  .000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (k) Subpart B—Direct Chill Casting Contact Cooling.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of aluminum product from direct chill casting
+                
+                
+                  Benzo(a)pyrene
+                  (1)
+                  (1)
+                
+                
+                  Antimony
+                  2.565
+                  1.143
+                
+                
+                  Nickel
+                  .731
+                  .492
+                
+                
+                  Aluminum
+                  8.120
+                  3.602
+                
+                
+                  Fluoride
+                  79.080
+                  35.090
+                
+                
+                  Oil and grease
+                  13.290
+                  13.290
+                
+                
+                  Total suspended solids
+                  19.940
+                  15.950
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  1 There shall be no discharge allowance for this pollutant.
+                
+                  2 The pH shall be maintained within the range of 7.0 to 10.0 at all times except for those situations when this waste is discharged separately and without commingling with any other waste-water in which case the pH shall be within the range of 6.0 to 10.0 at all times.
+              
+              (l) Subpart B—Continuous Rod Casting Contact Cooling.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of aluminum product from rod casting
+                
+                
+                  Benzo(a)pyrene
+                  (1

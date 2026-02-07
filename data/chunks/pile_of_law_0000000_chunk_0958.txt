@@ -1,0 +1,129 @@
+Total Suspended Solids
+                  109.265
+                  51.968
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (m) Beryl Ore Processing.
+              
+                BPT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryl ore processed
+                
+                
+                  Beryllium
+                  8.983
+                  4.017
+                
+                
+                  Chromium (Total)
+                  3.213
+                  1.315
+                
+                
+                  Copper
+                  13.876
+                  7.303
+                
+                
+                  Cyanide (Total)
+                  2.118
+                  0.876
+                
+                
+                  Ammonia (as N)
+                  973.490
+                  427.956
+                
+                
+                  Fluoride
+                  255.605
+                  145.330
+                
+                
+                  Total Suspended Solids
+                  299.423
+                  142.409
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (n) Aluminum Iron Sludge (AIS) Area Wastewater.
+              
+              
+                BPT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of total beryllium carbonate produced as beryllium
+                
+                
+                  Beryllium
+                  575.640
+                  257.400
+                
+                
+                  Chromium (Total)
+                  205.920
+                  84.240
+                
+                
+                  Copper
+                  889.200
+                  468.000
+                
+                
+                  Cyanide (Total)
+                  135.720
+                  56.160
+                
+                
+                  Ammonia (as N)
+                  62384.400
+                  27424.800
+                
+                
+                  Fluoride
+                  16380.000
+                  9313.200
+                
+                
+                  Total Suspended Solids
+                  19188.000
+                  9126.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (o) Bertrandite Ore Leaching Scrubber.
+              
+                BPT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any

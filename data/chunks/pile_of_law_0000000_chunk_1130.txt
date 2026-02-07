@@ -1,0 +1,111 @@
+ash.
+              
+                BPT Limitations for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cobalt produced
+                
+                
+                  Copper
+                  207.200
+                  109.100
+                
+                
+                  Nickel
+                  209.400
+                  138.500
+                
+                
+                  Ammonia (as N)
+                  14,530.000
+                  6,389.000
+                
+                
+                  Cobalt
+                  429.598
+                  188.631
+                
+                
+                  Tungsten
+                  758.900
+                  303.100
+                
+                
+                  Oil and grease
+                  2,181.000
+                  1,309.000
+                
+                
+                  Total suspended solids
+                  4,471.000
+                  2,126.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              [50 FR 38386, Sept. 20, 1985, as amended at 55 FR 31713, 31714, Aug. 3, 1990]
+            
+            
+              
+              § 421.313
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable:
+              (a) Tungsten detergent wash and rinse.
+              
+                BAT Limitations for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten scrap washed
+                
+                
+                  Copper
+                  0.250
+                  0.119
+                
+                
+                  Nickel
+                  0.107
+                  0.072
+                
+                
+                  Ammonia (as N)
+                  25.990
+                  11.430
+                
+                
+                  Cobalt
+                  0.538
+                  0.236
+                
+                
+                  Tungsten
+                  0.679
+                  0.302
+                
+              
+              (b) Tungsten leaching acid.
+              
+                BAT Limitations for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten produced

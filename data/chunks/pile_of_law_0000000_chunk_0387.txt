@@ -1,0 +1,50 @@
+104
+                
+                
+                  1 All units are micrograms per liter.
+                
+                
+                  2 Total Zinc for Rayon Fiber Manufacture that uses the viscose process and Acrylic Fiber Manufacture that uses the zinc chloride/solvent process is 6,796 µg/l and 3,325 µg/l for maximum for any one day and maximum for monthly average, respectively.
+              
+              [52 FR 42568, Nov. 5, 1987, as amended at 58 FR 36892, July 9, 1993]
+            
+          
+          
+            Subpart J—Direct Discharge Point Sources That Do Not Use End-of-Pipe Biological Treatment
+            
+              § 414.100
+              Applicability; description of the subcategory of direct discharge point sources that do not use end-of-pipe biological treatment.
+              The provisions of this subpart are applicable to the process wastewater discharges resulting from the manufacture of the OCPSF products and product groups defined by § 414.11 from any point source that does not use end-of-pipe biological treatment and does not install end-of-pipe biological treatment to comply with BPT effluent limitations.
+            
+            
+              § 414.101
+              Toxic pollutant effluent limitations and standards for direct discharge point sources that do not use end-of-pipe biological treatment.
+              (a) Any point source subject to this subpart must achieve discharges not exceeding the quantity (mass) determined by multiplying the process wastewater flow subject to this subpart times the concentartions in the following table.
+              (b) In the case of chromium, copper, lead, nickel, zinc, and total cyanide, the discharge quantity (mass) shall be determined by multiplying the concentrations listed in the following table for these pollutants times the flow from metal bearing waste streams for the metals and times the cyanide-bearing waste streams for total cyanide. The metal-bearing waste streams and cyanide-bearing waste streams are defined as those waste streams listed in appendix A of this part, plus any additional OCPSF process wastewater streams identified by the permitting authority on a case-by-case basis as metal or cyanide bearing based upon a determination that such streams contain significant amounts of the pollutants identified above. Any such streams designated as metal or cyanide bearing must be treated independently of other metal or cyanide bearing waste streams unless the permitting authority determines that the combination of such streams, prior to treatment, with the Appendix A waste streams will result in substantial reduction of these pollutants. This determination must be based upon a review of relevant engineering, production, and sampling and analysis information.
+              
+                
+                  Effluent characteristics
+                  BAT effluent limitations and NSPS 1
+                  
+                  Maximum for any one day
+                  Maximum for monthly average
+                
+                
+                  Acenaphthene
+                  47
+                  19
+                
+                
+                  Acenaphthylene
+                  47
+                  19
+                
+                
+                  Acrylonitrile
+                  232
+                  94
+                
+                
+                  Anthracene
+                  47
+                  19

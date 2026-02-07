@@ -1,0 +1,148 @@
+255
+                
+                
+                  Ethylbenzene
+                  108
+                  32
+                
+                
+                  Fluoranthene
+                  68
+                  25
+                
+                
+                  Fluorene
+                  59
+                  22
+                
+                
+                  Hexachlorobenzene
+                  28
+                  15
+                
+                
+                  Hexachlorobutadiene
+                  49
+                  20
+                
+                
+                  Hexachloroethane
+                  54
+                  21
+                
+                
+                  Methyl Chloride
+                  190
+                  86
+                
+                
+                  Methylene Chloride
+                  89
+                  40
+                
+                
+                  Naphthalene
+                  59
+                  22
+                
+                
+                  Nitrobenzene
+                  68
+                  27
+                
+                
+                  2-Nitrophenol
+                  69
+                  41
+                
+                
+                  4-Nitrophenol
+                  124
+                  72
+                
+                
+                  Phenanthrene
+                  59
+                  22
+                
+                
+                  Phenol
+                  26
+                  15
+                
+                
+                  Pyrene
+                  67
+                  25
+                
+                
+                  Tetrachloroethylene
+                  56
+                  22
+                
+                
+                  Toluene
+                  80
+                  26
+                
+                
+                  Total Chromium
+                  2,770
+                  1,110
+                
+                
+                  Total Copper
+                  3,380
+                  1,450
+                
+                
+                  Total Cyanide
+                  1,200
+                  420
+                
+                
+                  Total Lead
+                  690
+                  320
+                
+                
+                  Total Nickel
+                  3,980
+                  1,690
+                
+                
+                  Total Zinc 2
+                  
+                  2,610
+                  1,050
+                
+                
+                  1,2,4-Trichlorobenzene
+                  140
+                  68
+                
+                
+                  1,1,1-Trichloroethane
+                  54
+                  21
+                
+                
+                  1,1,2-Trichloroethane
+                  54
+                  21
+                
+                
+                  Trichloroethylene
+                  54
+                  21
+                
+                
+                  Vinyl Chloride
+                  268
+                  104
+                
+                
+                  1 All units are micrograms per liter.
+                
+                
+                  2 Total Zinc for Rayon Fiber Manufacture that uses the viscose process and Acrylic Fiber Manufacture that uses the zinc chloride/solvent process is 6,796 µg/l and 3,325 µg/l for maximum for any one day and maximum for monthly average, respectively

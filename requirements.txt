@@ -4,3 +4,5 @@ tqdm
 pyarrow
 tiktoken
 loguru
+qdrant-client 
+sentence-transformers

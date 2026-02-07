@@ -1,0 +1,52 @@
+e of daily values for 30 consecutive days
+                
+                
+                  
+                  Milligrams per liter
+                
+                
+                  Fluoride (T)
+                  100
+                  50
+                
+                
+                  Nickel (T)
+                  0.66
+                  0.20
+                
+                
+                  Zinc (T)
+                  2.2
+                  0.66
+                
+              
+              In cases where POTWs find it necessary to impose mass limitations, the following equivalent mass limitations are provided as an alternate: The limitations for Fluoride (T), Nickel (T), and Zinc (T) are the same as specified in § 415.85.
+              [47 FR 55226, Dec. 8, 1982]
+            
+            
+              § 415.87
+              [Reserved]
+            
+          
+          
+            Subpart I—Hydrogen Peroxide Production Subcategory
+            
+              § 415.90
+              Applicability; description of the hydrogen peroxide production subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of hydrogen peroxide by the electrolytic process and by the oxidation of alkyl hydroanthraquinones.
+            
+            
+              § 415.91
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+              (b) The term product shall mean hydrogen peroxide as a one hundred percent hydrogen peroxide solution.
+              (c) The term Cyanide A shall mean those cyanides amenable to chlorination and is determined by the methods specified in 40 CFR 136.3.
+              (d) The term process wastewater means any water which, during manufacturing or processing, comes into direct contact with or results from the production or use of any raw material, intermediate product, finished product, by-product, or waste product. The term “process wastewater” does not include contaminated non-process wastewater, as defined below.
+              (e) The term process wastewater pollutants means pollutants present in process wastewater.
+              (f) The term contaminated nonprocess wastewater shall mean any water which, during manufacturing or processing, comes into incidental contact with any raw material, intermediate product, finished product, by-product or waste product by means of (1) rainfall runoff; (2) accidental spills; (3) accidental leaks caused by the failure of process equipment, which are repaired within the shortest reasonable time not to exceed 24 hours after discovery; and (4) discharges from safety showers and related personal safety equipment: Provided, that all reasonable measures have been taken (i) to prevent, reduce and control such contact to the maximum extent feasible; and (ii) to mitigate the effects of such contact once it has occurred.
+            
+            
+              § 415.92
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              (a) Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart and manufacturing hydrogen peroxide by the oxidation of alkyl hydroanth

@@ -1,0 +1,58 @@
+29, 1995]
+            
+          
+          
+            Subpart P—Manufacture of Liquid Detergents Subcategory
+            
+              § 417.160
+              Applicability; description of the manufacture of liquid detergents subcategory.
+              The provisions of this subpart are applicable to discharges resulting from all operations associated with the manufacture of liquid detergents, commencing with the blending of ingredients, to and including bottling or packaging finished products.
+            
+            
+              § 417.161
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+              (b) The term anhydrous product shall mean the theoretical product that would result if all water were removed from the actual product.
+              (c) The term surfactant shall mean those methylene blue active substances amenable to measurement by the method described in “Methods for Chemical Analysis of Water and Wastes,” 1971, Environmental Protection Agency, Analytical Quality Control Laboratory, page 131.
+              (d) The term normal liquid detergent operations shall mean all such operations except those defined as fast turnaround operation of automated fill lines.
+              (e) The term fast turnaround operation of automated fill lines shall mean an operation involving more than 8 changes of formulation in a 30 consecutive day period that are of such degree and type as to require thorough purging and washing of the fill line to maintain minimal product quality.
+              (f) The term BOD7 shall mean the biochemical oxygen demand as determined by incubation at 20 degrees C for a period of 7 days using an acclimated seed. Agitation employing a magnetic stirrer set at 200 to 500 rpm may be used.
+              [39 FR 13372, Apr. 12, 1974, as amended at 40 FR 27455, June 30, 1975]
+            
+            
+              § 417.162
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              (a) For normal liquid detergent operations the following values pertain:
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kilograms per 1,000 kg of anhydrous product)
+                
+                
+                  BOD5
+                  
+                  0.60
+                  0.20
+                
+                
+                  COD
+                  1.80
+                  .60
+                
+                
+                  TSS
+                  0.015
+                  .005
+                
+                
+                  Surfactants
+                  0.39
+                  .13

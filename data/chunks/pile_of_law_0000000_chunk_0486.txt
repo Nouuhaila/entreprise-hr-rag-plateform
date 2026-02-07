@@ -1,0 +1,73 @@
+Except as provided in 40 CFR 125.30 through 125.32 any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): The limitations are the same for TSS and pH as specified in § 415.662.
+            
+          
+          
+            Subpart BO—Zinc Chloride Production Subcategory
+            
+              Source:
+              49 FR 33428, Aug. 22, 1984, unless otherwise noted.
+            
+            
+              § 415.670
+              Applicability; description of the zinc chloride production subcategory.
+              The provisions of this subpart are applicable to discharges and to the introduction of pollutants into treatment works which are publicly owned resulting from the production of zinc chloride.
+            
+            
+              § 415.671
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations, and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) The term product shall mean zinc chloride.
+              (c) The term arsenic shall mean the total arsenic present in the process wastewater stream exiting the wastewater treatment system.
+              (d) The term zinc shall mean the total zinc present in the process wastewater stream exiting the wastewater treatment system.
+              (e) The term lead shall mean the total lead present in the process wastewater stream exiting the wastewater treatment system.
+            
+            
+              § 415.672
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              (a) Except as provided in 40 CFR 125.30 through 125.32 any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              
+                Subpart BO—Zinc Chloride
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Milligrams per liter (mg/l)
+                
+                
+                  TSS
+                  43
+                  25
+                
+                
+                  Arsenic (T)
+                  3.0
+                  1.0
+                
+                
+                  Zinc (T)
+                  11.4
+                  3.8
+                
+                
+                  Lead (T)
+                  1.8
+                  0.6
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 10.0
+              
+              [49 FR 33428, Aug. 22, 1984; 49 FR 37594, Sept. 25, 1984]
+            
+            
+              § 415.673
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best ava

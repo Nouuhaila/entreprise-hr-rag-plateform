@@ -1,0 +1,82 @@
+421.240
+              Applicability: Description of the secondary nickel subcategory.
+              421.241
+              Specialized definitions.
+              421.242-421.243
+              [Reserved]
+              421.244
+              Standards of performance for new sources.
+              421.245
+              Pretreatment standards for existing sources.
+              421.246
+              Pretreatment standards for new sources.
+              421.247
+              [Reserved]
+            
+            
+              Subpart W—Primary Precious Metals and Mercury Subcategory
+              421.250
+
+              Applicability: Description of the primary precious metals and mercury subcategory.
+              
+              421.251
+              Specialized definitions.
+              421.252
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              421.253
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              421.254
+              Standards of performance for new sources.
+              421.255
+              [Reserved]
+              421.256
+              Pretreatment standards for new sources.
+              421.257
+              [Reserved]
+            
+            
+              Subpart X—Secondary Precious Metals Subcategory
+              421.260
+              Applicability: Description of the secondary precious metals subcategory.
+              421.261
+              Specialized definitions.
+              421.262
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              421.263
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              421.264
+              Standards of performance for new sources.
+              421.265
+              Pretreatment standards for existing sources.
+              421.266
+              Pretreatment standards for new sources.
+              421.267
+              [Reserved]
+            
+            
+              Subpart Y—Primary Rare Earth Metals Subcategory
+              421.270
+              Applicability: Description of the primary rare earth metals subcategory.
+              421.271
+              Specialized definitions.
+              421.272-421.273
+              [Reserved]
+              421.274
+              Standards of performance for new sources.
+              421.275
+              Pretreatment standards for existing sources.
+              421.276
+              Pretreatment standards for new sources.
+              421.277
+              [Reserved]
+            
+            
+              Subpart Z—Secondary Tantalum Subcategory
+              421.280
+              Applicability: Description of the secondary tantalum subcategory.
+              421.281
+              Specialized definitions.
+              421.282
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              421.283
+              Effluent limitations guideline

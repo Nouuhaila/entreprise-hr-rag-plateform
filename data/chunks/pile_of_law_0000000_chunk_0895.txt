@@ -1,0 +1,132 @@
+(1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (i) Subpart K—Reduction of Tantalum Salt to Metal Wet Air Pollution Control.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tantalum salt reduced
+                
+                
+                  Lead
+                  .858
+                  .409
+                
+                
+                  Zinc
+                  2.983
+                  1.246
+                
+                
+                  Ammonia (as N)
+                  272.400
+                  119.700
+                
+                
+                  Fluoride
+                  71.510
+                  40.860
+                
+                
+                  Total suspended solids
+                  83.770
+                  39.840
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (j) Subpart K—Tantalum Powder Wash.
+              
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tantalum power washed
+                
+                
+                  Lead
+                  8.582
+                  4.087
+                
+                
+                  Zinc
+                  29.830
+                  12.470
+                
+                
+                  Ammonia (as N)
+                  2,724.000
+                  1,198.000
+                
+                
+                  Fluoride
+                  715.200
+                  408.700
+                
+                
+                  Total suspended solids
+                  837.800
+                  398.500
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (k) Subpart K—Consolidation and Casting Contact Cooling.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of columbium or tantalum cast or consolidated
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .000

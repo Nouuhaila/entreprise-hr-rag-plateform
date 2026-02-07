@@ -1,0 +1,128 @@
+1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Tantalum sludge leach and rinse.
+              
+                BPT Limitations for the Secondary Tantalum Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of equivalent pure tantalum powder produced
+                
+                
+                  Copper
+                  390.100
+                  205.300
+                
+                
+                  Lead
+                  86.230
+                  41.060
+                
+                
+                  Nickel
+                  394.200
+                  260.700
+                
+                
+                  Zinc
+                  299.700
+                  125.200
+                
+                
+                  Tantalum
+                  92.390
+                  
+                
+                
+                  Total suspended solids
+                  8,417.000
+                  4,003.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (d) Tantalum powder acid wash and rinse.
+              
+                BPT Limitations for the Secondary Tantalum Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tantalum powder produced
+                
+                
+                  Copper
+                  0.665
+                  0.350
+                
+                
+                  Lead
+                  0.147
+                  0.070
+                
+                
+                  Nickel
+                  0.672
+                  0.445
+                
+                
+                  Zinc
+                  0.511
+                  0.214
+                
+                
+                  Tantalum
+                  0.158
+                  
+                
+                
+                  Total suspended solids
+                  14.350
+                  6.825
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (e) Leaching wet air pollution control.
+              
+                BPT Limitations for the Secondary Tantalum Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of equivalent pure tantalum powder produced
+                
+                
+                  Copper
+                  9.272
+                  4.880
+                
+                
+                  Lead
+                  2.050
+                  0.976
+                
+                
+                  Nickel
+                  9.370
+                  6.198

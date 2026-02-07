@@ -1,0 +1,125 @@
+ay
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium dioxide and hafnium dioxide produced
+                
+                
+                  Chromium (total)
+                  14.350
+                  5.819
+                
+                
+                  Cyanide (total)
+                  7.758
+                  3.103
+                
+                
+                  Lead
+                  10.860
+                  5.043
+                
+                
+                  Nickel
+                  21.330
+                  14.350
+                
+                
+                  Ammonia (as N)
+                  5,171.000
+                  2,273.00
+                
+              
+              (h) Hafnium filtrate.
+              
+                BAT Limitations for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium dioxide and hafnium dioxide produced
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Cyanide (total)
+                  0.000
+                  0.000
+                
+                
+                  Lead
+                  0.000
+                  0.000
+                
+                
+                  Nickel
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+              
+              (i) Calcining caustic wet air pollution control.
+              
+                BAT Limitations for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium dioxide and hafnium dioxide produced
+                
+                
+                  Chromium (total)
+                  3.329
+                  1.350
+                
+                
+                  Cyanide (total)
+                  1.799
+                  0.720
+                
+                
+                  Lead
+                  2.519
+                  1.170
+                
+                
+                  Nickel
+                  4.948
+                  3.329
+                
+                
+                  Ammonia (as N)
+                  1,199.000
+                  527.200
+                
+              
+              (j) Pure chlorination wet air pollution control.
+              
+                BAT Limitations for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium and hafnium produced
+                
+                
+                  Chromium (total)
+                  14.180
+                  5.748

@@ -1,0 +1,23 @@
+n requirement in this section does not apply to pollutants already reported under the self-monitoring requirements of 40 CFR 403.12 (b), (d), and (e).
+            (2) Dischargers are exempt from the requirements of paragraph (p)(1) of this section during a calendar month in which they discharge no more than fifteen kilograms of hazardous wastes, unless the wastes are acute hazardous wastes as specified in 40 CFR 261.30(d) and 261.33(e). Discharge of more than fifteen kilograms of non-acute hazardous wastes in a calendar month, or of any quantity of acute hazardous wastes as specified in 40 CFR 261.30(d) and 261.33(e), requires a one-time notification.
+            Subsequent months during which the Industrial User discharges more than such quantities of any hazardous waste do not require additional notification.
+            (3) In the case of any new regulations under section 3001 of RCRA identifying additional characteristics of hazardous waste or listing any additional substance as a hazardous waste, the Industrial User must notify the POTW, the EPA Regional Waste Management Waste Division Director, and State hazardous waste authorities of the discharge of such substance within 90 days of the effective date of such regulations.
+
+            (4) In the case of any notification made under paragraph (p) of this section, the Industrial User shall certify that it has a program in place to reduce the volume and toxicity of hazardous wastes generated to the degree it has determined to be economically practical.
+            
+            (q) Annual certification by Non-Significant Categorical Industrial Users. A facility determined to be a Non-Significant Categorical Industrial User pursuant to § 403.3(v)(2) must annually submit the following certification statement, signed in accordance with the signatory requirements in paragraph (l) of this section. This certification must accompany any alternative report required by the Control Authority:
+            
+            
+              Based on my inquiry of the person or persons directly responsible for managing compliance with the categorical Pretreatment Standards under 40 CFR ____, I certify that, to the best of my knowledge and belief that during the period from ________ ____, to ________, ____ [month, days, year]:
+              (a) The facility described as ________ [facility name] met the definition of a non-significant categorical Industrial User as described in § 403.3(v)(2); (b) the facility complied with all applicable Pretreatment Standards and requirements during this reporting period; and (c) the facility never discharged more than 100 gallons of total categorical wastewater on any given day during this reporting period. This compliance certification is based upon the following information:
+              
+              
+            
+            
+            (r) The Control Authority that chooses to receive electronic documents must satisfy the requirements of 40 CFR part 3—(Electronic reporting).
+            [46 FR 9439, Jan. 28, 1981, as amended at 49 FR 31225, Aug. 3, 1984; 51 FR 20429, June 4, 1986; 53 FR 40613, Oct. 17, 1988; 55 FR 30131, July 24, 1990; 58 FR 18017, Apr. 7, 1993; 60 FR 33932, June 29, 1995; 62 FR 38414, July 17, 1997; 70 FR 59889, Oct. 13, 2005; 70 FR 60195, Oct. 14, 2005; 80 FR 64157 Oct. 22, 2015]
+          
+          
+            § 403.13
+            Variances from categorical pretreatment standards for fundamentally different factors.
+            (a) Definitio

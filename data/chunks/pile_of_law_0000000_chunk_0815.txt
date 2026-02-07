@@ -1,0 +1,87 @@
+PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of aluminum product from rod casting
+                
+                
+                  Benzo(a)pyrene
+                  (1)
+                  (1)
+                
+                
+                  Nickel
+                  .057
+                  .038
+                
+                
+                  Fluoride
+                  6.188
+                  2.746
+                
+                
+                  1 There shall be no discharge allowance for this pollutant.
+              
+              (m) Subpart B—Stationary Casting or Shot Casting Contact Cooling.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of aluminum product from stationary casting or shot casting
+                
+                
+                  Benzo(a)pyrene
+                  .000
+                  
+                
+                
+                  Nickel
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+              
+              [49 FR 8792, Mar. 8, 1984; 49 FR 26739, June 29, 1984, as amended at 52 FR 25559, July 7, 1987]
+            
+            
+              § 421.27
+              [Reserved]
+            
+          
+          
+            Subpart C—Secondary Aluminum Smelting Subcategory
+            
+              Source:
+              49 FR 8796, Mar. 8, 1984, unless otherwise noted.
+            
+            
+              § 421.30
+              Applicability: Description of the secondary aluminum smelting subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the recovery, processing, and remelting of aluminum scrap to produce metallic aluminum alloys.
+            
+            
+              § 421.31
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) The term product shall mean hot aluminum metal.
+              (c) At-the-source means at or before the commingling of delacquering scrubber liquor blowdown with other process or nonprocess wastewaters.
+            
+            
+              § 421.32
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable technology currently available:
+              (a) The following limitations establish the quantity or quality of pollutants or pollutant properties, which may be discharged by a point source subject to the provis

@@ -1,0 +1,141 @@
+Nickel
+                  .000
+                  .000
+                
+                
+                  Aluminum
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+                
+                  Oil and grease
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .000
+                  .000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (b) Subpart B—Anode Contact Cooling and Briquette Quenching.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of anodes cast
+                
+                
+                  Benzo(a)pyrene
+                  0.007
+                  0.003
+                
+                
+                  Antimony
+                  .403
+                  .180
+                
+                
+                  Nickel
+                  .115
+                  .077
+                
+                
+                  Aluminum
+                  1.277
+                  .566
+                
+                
+                  Fluoride
+                  12.440
+                  5.518
+                
+                
+                  Oil and grease
+                  2.090
+                  2.090
+                
+                
+                  Total suspended solids
+                  3.135
+                  2.508
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (c) Subpart B—Anode Bake Plant Wet Air Pollution Control.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of anodes baked
+                
+                
+                  Benzo(a)pyrene
+                  .000
+                  
+                
+                
+                  Antimony
+                  .000
+                  .000
+                
+                
+                  Nickel
+                  .000
+                  .000
+                
+                
+                  Aluminum
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+                
+                  Oil and grease
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .000
+                  .000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.

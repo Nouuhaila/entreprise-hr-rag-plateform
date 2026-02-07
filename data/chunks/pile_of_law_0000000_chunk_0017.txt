@@ -1,0 +1,22 @@
+itary, non-contact cooling and boiler blowdown wastewater, unless specifically included in the Pretreatment Standard) and the following conditions are met:
+            (i) The Industrial User, prior to the Control Authority's finding, has consistently complied with all applicable categorical Pretreatment Standards and Requirements;
+            (ii) The Industrial User annually submits the certification statement required in § 403.12(q) together with any additional information necessary to support the certification statement; and
+            (iii) The Industrial User never discharges any untreated concentrated wastewater.
+            (3) Upon a finding that an Industrial User meeting the criteria in paragraph (v)(1)(ii) of this section has no reasonable potential for adversely affecting the POTW's operation or for violating any Pretreatment Standards or requirement, the Control Authority may at any time, on its own initiative or in response to a petition received from an Industrial User or POTW, and in accordance with 40 CFR 403.8(f)(6), determine that such Industrial User is not a Significant Industrial User.
+            (w) The term Submission means:
+            (1) A request by a POTW for approval of a Pretreatment Program to the EPA or a Director;
+            (2) A request by a POTW to the EPA or a Director for authority to revise the discharge limits in categorical Pretreatment Standards to reflect POTW pollutant removals; or
+            (3) A request to the EPA by an NPDES State for approval of its State pretreatment program.
+            [46 FR 9439, Jan. 28, 1981, as amended at 49 FR 5132, Feb. 10, 1984; 49 FR 28059, July 10, 1984; 51 FR 20430, June 4, 1986; 51 FR 23760, July 1, 1986; 52 FR 1600, Jan. 14, 1987; 53 FR 40610, Oct. 17, 1988; 55 FR 30129, July 24, 1990; 70 FR 60191, Oct. 14, 2005]
+          
+          
+            § 403.4
+            State or local law.
+            Nothing in this regulation is intended to affect any Pretreatment Requirements, including any standards or prohibitions, established by State or local law as long as the State or local requirements are not less stringent than any set forth in National Pretreatment Standards, or any other requirements or prohibitions established under the Act or this regulation. States with an NPDES permit program approved in accordance with section 402 (b) and (c) of the Act, or States requesting NPDES programs, are responsible for developing a State pretreatment program in accordance with § 403.10 of this regulation.
+          
+          
+            § 403.5
+            National pretreatment standards: Prohibited discharges.
+            (a)(1) General prohibitions. A User may not introduce into a POTW any pollutant(s) which cause Pass Through or Interference. These general prohibitions and the specific prohibitions in paragraph (b) of this section apply to each User introducing pollutants into a POTW whether or not the User is subject to other National Pretreatment Standards or any national, State, or local Pretreatment Requirements.
+            (2) Affirmative Defenses. A User shall have an affirmative defense in any action brought against it alleging a violation of the general prohibitions established in paragraph (a)(1) of this section and the specific prohibitions in paragraphs (b)(3), (b)(4), (b)(5), (b)(6), and (b)(7) of this section where the User can demonstrate that:
+            (i) It did not know or have reason to know that its Discharge, alone or in conjunction

@@ -1,0 +1,67 @@
+(1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+              [47 FR 28278, June 29, 1982, as amended at 47 FR 55227, Dec. 8, 1982]
+            
+            
+              § 415.223
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              (a) Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart and producing titanium dioxide by the sulfate process must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT): The limitations are the same for Chromium(T) and Nickel(T) as specified in § 415.222(a).
+              (b) Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart and producing titanium dioxide by the chloride process must achieve the following effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT): The limitations for Chromium(T) are the same as specified in § 415.222(b).
+
+              (c) Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart and producing titanium dioxide by the simultaneous beneficiation-chlorination (chloride-ilmenite) process must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT): The limitations for Chromium(T) and Nickel(T) are the same as specified in § 415.222(c).
+            
+            
+              § 415.224
+              [Reserved]
+            
+            
+              § 415.225
+              New source performance standards (NSPS).
+              (a) Any new source subject to this subpart producing titanium dioxide by the sulfate process must achieve the following new source performance standards (NSPS):
+              
+                Subpart V—Titanium Dioxide-Sulfate Process
+                
+                  Pollutant or pollutant property
+                  NSPS effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (or pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  110
+                  30
+                
+                
+                  Iron (T)
+                  4.1
+                  1.2
+                
+                
+                  Chromium (T)
+                  0.27
+                  0.14
+                
+                
+                  Nickel (T)
+                  0.18
+                  0.095
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+              (b) Any new source subject to this subpart producing titanium dioxide by the chloride process must achieve the following new source performance standards (NSPS):
+              
+                Subpart V—Titanium Dioxide-Chloride Process

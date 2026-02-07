@@ -1,0 +1,124 @@
+1 The limitations for chromium and nickel shall be applicable in lieu of those for lead and zinc when cold rolling wastewaters are treated with descaling or combination acid pickling wastewaters.
+                
+                  2 Within the range of 6.0 to 9.0.
+              
+              (3) Combination.
+              
+              
+                Subpart J
+                
+                  Pollutant or pollutant property
+                  New source performance standards
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.0326
+                  0.0163
+                
+                
+                  O&G
+                  0.0136
+                  0.00543
+                
+                
+                  Chromium 1
+                  
+                  0.000543
+                  0.000217
+                
+                
+                  Lead
+                  0.000244
+                  0.0000814
+                
+                
+                  Nickel 1
+                  
+                  0.000488
+                  0.000163
+                
+                
+                  Zinc
+                  0.000163
+                  0.0000542
+                
+                
+                  Naphthalene
+                  0.0000542
+                  
+                
+                
+                  Tetrachloroethylene
+                  0.0000813
+                  
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  1 The limitations for chromium and nickel shall be applicable in lieu of those for lead and zinc when cold rolling wastwaters are treated with descaling or combination acid pickling wastewaters.
+                
+                  2 Within the range of 6.0 to 9.0.
+              
+              (4) Direct application—single stand.
+              
+              
+                Subpart J
+                
+                  Pollutant or pollutant property
+                  New source performance standards
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.00626
+                  0.00313
+                
+                
+                  O&G
+                  0.00261
+                  0.00104
+                
+                
+                  Chromium 1
+                  
+                  0.000104
+                  0.0000418
+                
+                
+                  Lead
+                  0.0000469
+                  0.0000156
+                
+                
+                  Nickel 1
+                  
+                  0.0000939
+                  0.0000313
+                
+                
+                  Zinc
+                  0.0000313
+                  0.0000104
+                
+                
+                  Naphthalene
+                  0.0000104
+                  
+                
+                
+                  Tetrachloro-ethylene
+                  0.0000156

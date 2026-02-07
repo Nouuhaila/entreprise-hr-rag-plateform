@@ -1,0 +1,132 @@
+Chromium (Total)
+                  59.840
+                  24.480
+                
+                
+                  Copper
+                  258.400
+                  136.000
+                
+                
+                  Cyanide (Total)
+                  39.440
+                  16.320
+                
+                
+                  Ammonia (as N)
+                  18128.800
+                  7969.600
+                
+                
+                  Fluoride
+                  4760.000
+                  2706.400
+                
+                
+                  Total Suspended Solids
+                  5576.000
+                  2652.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (e) Beryllium Oxide Calcining Furnace Wet Air Pollution Control.
+              
+                BPT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium oxide produced
+                
+                
+                  Beryllium
+                  324.000
+                  145.000
+                
+                
+                  Chromium (total)
+                  116.000
+                  47.470
+                
+                
+                  Copper
+                  501.000
+                  263.700
+                
+                
+                  Cyanide (total)
+                  76.470
+                  31.640
+                
+                
+                  Ammonia (as N)
+                  35,150.000
+                  15,450.000
+                
+                
+                  Fluoride
+                  9,230.000
+                  5,248.000
+                
+                
+                  Total suspended solids
+                  10,810.000
+                  5,142.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (f) Beryllium hydroxide supernatant.
+              
+                BPT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium hydroxide produced from scrap and residues as beryllium
+                  
+                
+                
+                  Beryllium
+                  282.9
+                  126.5
+                
+                
+                  Chromium (total)
+                  101.2
+                  41.4
+                
+                
+                  Copper
+                  437.0
+                  230.0
+                
+                
+                  Cyanide (total)
+                  66.7
+                  27.6
+                
+                
+                  Ammonia (as N)
+                  30,660.0
+                  13,480.0
+                
+                
+                  Fluoride

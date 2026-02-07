@@ -1,0 +1,104 @@
+Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.100
+                  0.0501
+                
+                
+                  O&G
+                  0.0417
+                  0.0167
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 6.0 to 9.0.
+              
+              
+              (b) Cold worked pipe and tube—(1) Using water.
+              
+              
+                Subpart J
+                
+                  Pollutant or pollutant property
+                  BCT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.00125
+                  0.000626
+                
+                
+                  O&G
+                  0.000522
+                  0.000209
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 6.0 to 9.0
+              
+              (2) Using oil solutions.
+              
+              
+                Subpart J
+                
+                  Pollutant or pollutant property
+                  BCT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.00125
+                  0.000626
+                
+                
+                  O&G
+                  0.000522
+                  0.000209
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 6.0 to 9.0
+              
+              [47 FR 23284, May 27, 1982, as amended at 49 FR 21035, May 17, 1984]
+            
+          
+          
+            Subpart K—Alkaline Cleaning Subcategory
+            
+              § 420.110
+              Applicability; description of the alkaline cleaning subcategory.
+              The provisions of this subpart are applicable to discharges and to the introduction of pollutants into publicly owned treatment works resulting from operations in which steel and steel products are immersed in alkaline cleaning baths to remove mineral and animal fats or oils from the steel, and those rinsing operations which follow such immersion.
+            
+            
+              § 420.111
+              Specialized definitions.
+              (a) The term batch means those alkaline cleaning operations which process steel products such as coiled wire, rods, and tubes in discrete batches or bundles.
+              (b) The term continuous means those alkaline cleaning operations which process steel products other than in discrete batches or bundles.
+            
+            
+              § 420.112
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT)

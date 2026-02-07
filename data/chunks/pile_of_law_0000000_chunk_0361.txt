@@ -1,0 +1,60 @@
+ontrol technology (BCT). [Reserved]
+              414.33
+
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              414.34
+              New source performance standards (NSPS).
+              414.35
+              Pretreatment standards for existing sources (PSES).
+              414.36
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart D—Thermoplastic Resins
+              414.40
+              Applicability; description of the thermoplastic resins subcategory.
+              414.41
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              414.42
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT). [Reserved]
+              414.43
+              Effluent limitations representing the degree of effluent reduction attainable by the application of best available technology economically achievable (BAT).
+              414.44
+              New source performance standards (NSPS).
+              414.45
+              Pretreatment standards for existing sources (PSES).
+              414.46
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart E—Thermosetting Resins
+              414.50
+              Applicability; description of the thermosetting resins subcategory.
+              414.51
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              414.52
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT). [Reserved]
+              414.53
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              414.54
+              New source performance standards (NSPS).
+              414.55
+              Pretreatment standards for existing sources (PSES).
+              414.56
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart F—Commodity Organic Chemicals
+              414.60
+              Applicability; description of the commodity organic chemicals subcategory.
+              414.61
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              414.62
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT). [Reserved]
+              414.63
+              Effluent limitations representing the degree of effluent reduction attainable by the application of best available technology economically achievable (BAT).
+              414.64
+              New source performance standards (NSPS).
+              414.65
+              Pretreatment standards for existing sources (PSES).
+              414.66

@@ -1,0 +1,76 @@
+.0 or greater
+                  1.41
+                
+              
+              (2) Process factor.
+              
+                
+                  Process configuration
+                  Process factor
+                
+                
+                  Less than 2.49
+                  0.58
+                
+                
+                  2.5 to 3.49
+                  0.63
+                
+                
+                  3.5 to 4.49
+                  0.74
+                
+                
+                  4.5 to 5.49
+                  0.88
+                
+                
+                  5.5 to 5.99
+                  1.00
+                
+                
+                  6.0 to 6.49
+                  1.09
+                
+                
+                  6.5 to 6.99
+                  1.19
+                
+                
+                  7.0 to 7.49
+                  1.29
+                
+                
+                  7.5 to 7.99
+                  1.41
+                
+                
+                  8.0 to 8.49
+                  1.53
+                
+                
+                  8.5 to 8.99
+                  1.67
+                
+                
+                  9.0 to 9.49
+                  1.82
+                
+                
+                  9.5 or greater
+                  1.89
+                
+              
+              (3) See the comprehensive example subpart D, § 419.42(b)(3).
+              (c) The provisions of § 419.12(c) apply to discharges of process wastewater pollutants attributable to ballast water by a point source subject to the provisions of this subpart.
+
+              (d) The quantity and quality of pollutants or pollutant properties controlled by this paragraph, attributable to once-through cooling water, are excluded from the discharge allowed by paragraph (b) of this section. Once-through cooling water may be discharged with a total organic carbon concentration not to exceed 5 mg/l.
+              (e) Effluent limitations for contaminated runoff. The following effluent limitations constitute the quantity and quality of pollutants or pollutant properties controlled by this paragraph and attributable to contaminated runoff, which may be discharged after the application of the best practicable control technology currently available by a point source subject to this subpart.
+              (1) If wastewater consists solely of contaminated runoff and is not commingled or treated with process wastewater, it may be discharged if it does not exceed 15 mg/l oil and grease and 110 mg/l total organic carbon (TOC) based upon an analysis of any single grab or composite sample.
+              (2) If contaminated runoff is commingled or treated with process wastewater, or if wastewater consisting solely of contaminated runoff which exceeds 15 mg/l oil and grease or 110 mg/l TOC is not commingled or treated with any other type of wastewater, the quantity of pollutants discharged shall not exceed the quantity determined by multiplying the flow of contaminated runoff as determined by the permit writer times the concentrations listed in the following table:
+              
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations for contaminated runoff
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed

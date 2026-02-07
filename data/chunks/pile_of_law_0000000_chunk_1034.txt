@@ -1,0 +1,138 @@
+Zinc
+                  0.408
+                  0.168
+                
+                
+                  Gold
+                  0.040
+                  
+                
+                
+                  Oil and Grease
+                  4.000
+                  4.000
+                
+                
+                  Total suspended solids
+                  6.000
+                  4.800
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Electrolytic cells wet air pollution control.
+              
+                NSPS for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold refined electrolytically
+                
+                
+                  Lead
+                  5.544
+                  2.574
+                
+                
+                  Mercury
+                  2.970
+                  1.188
+                
+                
+                  Silver
+                  5.742
+                  2.376
+                
+                
+                  Zinc
+                  20.200
+                  8.316
+                
+                
+                  Gold
+                  1.980
+                  
+                
+                
+                  Oil and Grease
+                  198.000
+                  198.000
+                
+                
+                  Total suspended solids
+                  297.000
+                  237.600
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (d) Electrolyte preparation wet air pollution control.
+              
+                NSPS for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver in electrolyte produced
+                
+                
+                  Lead
+                  0.014
+                  0.007
+                
+                
+                  Mercury
+                  0.008
+                  0.003
+                
+                
+                  Silver
+                  0.015
+                  0.006
+                
+                
+                  Zinc
+                  0.051
+                  0.021
+                
+                
+                  Gold
+                  0.005
+                  
+                
+                
+                  Oil and Grease
+                  0.500
+                  0.500
+                
+                
+                  Total suspended solids
+                  0.750
+                  0.600
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (e) Calciner wet air po

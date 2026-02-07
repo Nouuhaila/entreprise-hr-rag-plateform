@@ -1,0 +1,102 @@
+Pollutant or pollutant property
+                  Pretreatment standards for new sources, maximum for any 1 day
+                
+                
+                  
+                  Milligrams per liter (mg/l)
+                
+                
+                  Total chromium
+                  1
+                
+              
+            
+          
+          
+            Subpart E—Integrated Subcategory
+            
+              § 419.50
+              Applicability; description of the integrated subcategory.
+
+              The provisions of this subpart are applicable to all discharges resulting from any facility that produces petroleum products by the use of topping, cracking, lube oil manufacturing processes, and petrochemical operations, whether or not the facility includes any process in addition to topping, cracking, lube oil manufacturing processes, and petrochemical operations.
+            
+            
+              § 419.51
+              Specialized definitions.
+              The general definitions, abbreviations, and methods of analysis set forth in part 401 of this chapter and the specialized definitions set forth in § 419.31 shall apply to this subpart.
+            
+            
+              § 419.52
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              (a) Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              
+                
+                  Pollutant or pollutant property
+                  BPT Effluent Limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed
+                
+                
+                  
+                  Metric units (kilograms per 1,000 m3 of feedstock)
+                
+                
+                  BOD5
+                  
+                  54.4
+                  28.9
+                
+                
+                  TSS
+                  37.3
+                  23.7
+                
+                
+                  COD 1
+                  
+                  388.0
+                  198.0
+                
+                
+                  Oil and grease
+                  17.1
+                  9.1
+                
+                
+                  Phenolic compounds
+                  0.40
+                  0.192
+                
+                
+                  Ammonia as N
+                  23.4
+                  10.6
+                
+                
+                  Sulfide
+                  0.35
+                  0.158
+                
+                
+                  Total Chromium
+                  0.82
+                  0.48
+                
+                
+                  Hexavalent chromium
+                  0.068
+                  0.032
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  
+                  English units (pounds per 1,000 bbl of feedstock)
+                
+                
+                  BOD 1
+                  
+                  1

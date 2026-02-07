@@ -1,0 +1,68 @@
+mined by the permitting authority for meeting the effluent limitations, as specified in this paragraph.
+            
+              
+                Pollutant or pollutant property
+                BAT Effluent limitations
+                Maximum forany 1 day
+                
+                Average of dailyvalues for 30
+                  consecutive days
+                  shall not exceed
+                
+              
+              
+                Arsenic, total (ug/L)
+                11
+                8
+              
+              
+                Mercury, total (ng/L)
+                788
+                356
+              
+              
+                Selenium, total (ug/L)
+                23
+                12
+              
+              
+                Nitrate/nitrite as N (mg/L)
+                17.0
+                4.4
+              
+            
+            (ii) For FGD wastewater generated before the date determined by the permitting authority, as specified in paragraph (g)(1)(i), the quantity of pollutants discharged in FGD wastewater shall not exceed the quantity determined by multiplying the flow of FGD wastewater times the concentration listed for TSS in § 423.12(b)(11).
+            (2) For any electric generating unit with a total nameplate capacity of less than or equal to 50 megawatts or that is an oil-fired unit, the quantity of pollutants discharged in FGD wastewater shall not exceed the quantity determined by multiplying the flow of FGD wastewater times the concentration listed for TSS in § 423.12(b)(11).
+            (3)(i) For dischargers who voluntarily choose to meet the effluent limitations for FGD wastewater in this paragraph, the quantity of pollutants in FGD wastewater shall not exceed the quantity determined by multiplying the flow of FGD wastewater times the concentration listed in the table following this paragraph (g)(3)(i). Dischargers who choose to meet the effluent limitations for FGD wastewater in this paragraph must meet such limitations by December 31, 2023. These effluent limitations apply to the discharge of FGD wastewater generated on and after December 31, 2023.
+            
+              
+                Pollutant or pollutant property
+                BAT Effluent limitations
+                Maximum forany 1 day
+                
+                Average of dailyvalues for 30
+                  consecutive days
+                  shall not exceed
+                
+              
+              
+                Arsenic, total (ug/L)
+                4
+              
+              
+                Mercury, total (ng/L)
+                39
+                24
+              
+              
+                Selenium, total (ug/L)
+                5
+              
+              
+                TDS (mg/L)
+                50
+                24
+              
+            
+            (ii) For discharges of FGD wastewater generated before December 31, 2023, the quantity of pollutants discharged in FGD wastewater shall not exceed the quantity determined by multiplying the flow of FGD wastewater times the concentration listed for TSS in § 423.12(b)(11).
+            (h)(1)(i) Fly ash transport water. Except for those discharges to which paragraph (h)(2) of this section applies, or when the fly ash transport water is used in the FGD scrubber, there shall be no discharge of pollutants in fly ash transport water. Dischargers must meet the discharge limitation in this paragraph by a date determined by the permitting a

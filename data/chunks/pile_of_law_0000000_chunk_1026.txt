@@ -1,0 +1,125 @@
+part shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable technology currently available:
+              (a) Smelter wet air pollution control.
+              
+                BPT Limitations for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold and silver smelted
+                
+                
+                  Lead
+                  0.546
+                  0.260
+                
+                
+                  Mercury
+                  0.325
+                  0.130
+                
+                
+                  Silver
+                  0.533
+                  0.221
+                
+                
+                  Zinc
+                  1.898
+                  0.793
+                
+                
+                  Gold
+                  0.130
+                  
+                
+                
+                  Oil and grease
+                  26.000
+                  15.600
+                
+                
+                  Total suspended solids
+                  53.300
+                  25.350
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Silver chloride reduction spent solution.
+              
+                BPT Limitations for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant of pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver reduced in solution
+                
+                
+                  Lead
+                  0.168
+                  0.080
+                
+                
+                  Mercury
+                  0.100
+                  0.040
+                
+                
+                  Silver
+                  0.164
+                  0.068
+                
+                
+                  Zinc
+                  0.584
+                  0.244
+                
+                
+                  Gold
+                  0.040
+                  
+                
+                
+                  Oil and grease
+                  8.000
+                  4.800
+                
+                
+                  Total suspended solids
+                  16.400
+                  7.800
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Electrolytic cells wet air pollution control.
+              
+                BPT Limitations for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold refined electrolytically
+                
+                
+                  Lead

@@ -1,0 +1,128 @@
+0.291
+                  0.135
+                
+                
+                  Nickel
+                  0.572
+                  0.385
+                
+                
+                  Titanium
+                  0.551
+                  0.239
+                
+              
+              (c) TiCl4 handling wet air pollution control.
+              
+                PSNS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of TiCl4 handled
+                
+                
+                  Chromium (total)
+                  0.069
+                  0.028
+                
+                
+                  Lead
+                  0.052
+                  0.024
+                
+                
+                  Nickel
+                  0.103
+                  0.069
+                
+                
+                  Titanium
+                  0.099
+                  0.043
+                
+              
+              (d) Reduction area wet air pollution control.
+              
+                PSNS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium produced
+                
+                
+                  Chromium (total)
+                  1.528
+                  0.620
+                
+                
+                  Lead
+                  1.156
+                  0.537
+                
+                
+                  Nickel
+                  2.272
+                  1.528
+                
+                
+                  Titanium
+                  2.189
+                  0.950
+                
+              
+              (e) Melt cell wet air pollution control.
+              
+                PSNS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium produced
+                
+                
+                  Chromium (total)
+                  0.787
+                  0.319
+                
+                
+                  Lead
+                  0.595
+                  0.276
+                
+                
+                  Nickel
+                  1.169
+                  0.787
+                
+                
+                  Titanium
+                  1.127
+                  0.489
+                
+              
+              (f) Chlorine liquefaction wet air pollution control.
+              
+                PSNS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium produced
+                
+                
+                  Chromium (total)
+                  0.000

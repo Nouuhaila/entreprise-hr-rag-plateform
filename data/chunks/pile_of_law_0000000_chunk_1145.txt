@@ -1,0 +1,133 @@
+102.600
+                
+                
+                  Cobalt
+                  4.833
+                  2.119
+                
+                
+                  Tungsten
+                  6.093
+                  2.714
+                
+              
+              (f) Tungsten carbide wash water.
+              
+              
+                PSNS for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten carbide produced
+                
+                
+                  Copper
+                  10.670
+                  5.083
+                
+                
+                  Nickel
+                  4.583
+                  3.083
+                
+                
+                  Ammonia (as N)
+                  1,111.000
+                  488.300
+                
+                
+                  Cobalt
+                  22.999
+                  10.083
+                
+                
+                  Tungsten
+                  29.000
+                  12.920
+                
+              
+              (g) Cobalt sludge leaching wet air pollution control.
+              
+                PSNS for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cobalt produced from cobalt sludge
+                
+                
+                  Copper
+                  45.800
+                  21.830
+                
+                
+                  Nickel
+                  19.680
+                  13.240
+                
+                
+                  Ammonia (as N)
+                  4,770.000
+                  2,097.000
+                
+                
+                  Cobalt
+                  98.756
+                  43.295
+                
+                
+                  Tungsten
+                  124.500
+                  55.460
+                
+              
+              (h) Crystallization decant.
+              
+                PSNS for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cobalt produced
+                
+                
+                  Copper
+                  53.310
+                  25.410
+                
+                
+                  Nickel
+                  22.910
+                  15.410
+                
+                
+                  Ammonia (as N)
+                  5,552,000
+                  2,441.000
+                
+                
+                  Cobalt
+                  114.954
+                  50.397
+                
+                
+                  Tungsten
+                  144.900
+                  64.560
+                
+              
+              (i) Acid wash decant.
+              
+                PSNS for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or po

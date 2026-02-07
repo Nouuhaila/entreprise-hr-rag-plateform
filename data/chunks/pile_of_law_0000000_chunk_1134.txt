@@ -1,0 +1,128 @@
+ory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cobalt produced
+                
+                
+                  Copper
+                  139.600
+                  66.510
+                
+                
+                  Nickel
+                  59.970
+                  40.340
+                
+                
+                  Ammonia (as N)
+                  14,530.000
+                  6,389.000
+                
+                
+                  Cobalt
+                  300.094
+                  131.932
+                
+                
+                  Tungsten
+                  379.400
+                  169.000
+                
+              
+              [50 FR 38386, Sept. 20, 1985, as amended at 55 FR 31714, 31715, Aug. 3, 1990]
+            
+            
+              § 421.314
+              Standards of performance for new sources.
+              Any new source subject to this subpart shall achieve the following new source performance standards:
+              (a) Tungsten detergent wash and rinse.
+              
+                NSPS for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten scrap washed
+                
+                
+                  Copper
+                  0.250
+                  0.119
+                
+                
+                  Nickel
+                  0.107
+                  0.072
+                
+                
+                  Ammonia (as N)
+                  25.990
+                  11.430
+                
+                
+                  Cobalt
+                  0.538
+                  0.236
+                
+                
+                  Tungsten
+                  0.679
+                  0.302
+                
+                
+                  Oil and grease
+                  1.950
+                  1.950
+                
+                
+                  Total suspended solids
+                  2.925
+                  2.340
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Tungsten leaching acid.
+              
+                NSPS for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten produced
+                
+                
+                  Copper
+                  3.291
+                  1.569
+                
+                
+                  Nickel
+                  1.414
+                  0.951
+                
+                
+                  Ammonia (as N)
+                  342.700
+                  150.700
+                
+                
+                  Cobalt
+                  7.096
+                  3.111

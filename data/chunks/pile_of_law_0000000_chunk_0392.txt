@@ -1,0 +1,116 @@
+295
+                  110
+                
+                
+                  Methylene Chloride
+                  170
+                  36
+                
+                
+                  Naphthalene
+                  47
+                  19
+                
+                
+                  Nitrobenzene
+                  6,402
+                  2,237
+                
+                
+                  2-Nitrophenol
+                  231
+                  65
+                
+                
+                  4-Nitrophenol
+                  576
+                  162
+                
+                
+                  Phenanthrene
+                  47
+                  19
+                
+                
+                  Pyrene
+                  48
+                  20
+                
+                
+                  Tetrachloroethylene
+                  164
+                  52
+                
+                
+                  Toluene
+                  74
+                  28
+                
+                
+                  Total Cyanide
+                  1,200
+                  420
+                
+                
+                  Total Lead
+                  690
+                  320
+                
+                
+                  Total Zinc 2
+                  
+                  2,610
+                  1,050
+                
+                
+                  1,2,4-Trichlorobenzene
+                  794
+                  196
+                
+                
+                  1,1,1-Trichloroethane
+                  59
+                  22
+                
+                
+                  1,1,2-Trichloroethane
+                  127
+                  32
+                
+                
+                  Trichloroethylene
+                  69
+                  26
+                
+                
+                  Vinyl Chloride
+                  172
+                  97
+                
+                
+                  1 All units are micrograms per liter.
+                
+                  2 Total Zinc for Rayon Fiber Manufacture that uses the viscose process and Acrylic Fiber Manufacture that uses the zinc chloride/solvent process is 6,796 µg/l and 3,325 µg/l for maximum for any one day and maximum for monthly average, respectively.
+              
+            
+          
+          
+            
+             
+            
+              Pt. 414, App. A
+              Appendix A to Part 414—Non-Complexed Metal-Bearing Waste Streams and Cyanide-Bearing Waste Streams
+              Chromium
+              Methylhydroabietate/Esterification of hydroabietic acid (rosin) with methanol
+              Acrylic acid/Oxidation of propylene via acrolein
+              N-butyl alcohol/Hydrogenation of n-Butyraldehyde, Oxo process
+              Cyclohexanone/From phenol via cyclohexanol by hydrogenation-dehydrogenation
+              Fatty amines/Hydrogenation of fatty nitriles (batch)
+              Helioptropin/Oxidation of isosafrole, chromium catalyst
+              Isobutanol/Hydrogenation of isobutyraldehyde, Oxo process
+              Cyclohexyl Mercaptan/Cyclohexanol + Hydrogen sulfide
+              Ethyl Mercaptan/Ethanol + Hydrogen sulfide
+              Methanol/H.P. Synthesis from natural gas via synthetic gas
+              Oxo Alcohols, C7-C11/Carbonation & hydrogenation of C6-C10 Olefins
+              Polyoxypropylene diamine/Polypropylene glycol + Ammonia
+              n-Propyl alcohol/Hydrogenation of propion

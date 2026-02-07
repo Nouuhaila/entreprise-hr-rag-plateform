@@ -1,0 +1,65 @@
+Diethyl phthalate
+                Dimethyl phthalate
+                1,2-benzanthracene
+                 (benzo(a)anthracene)
+                Benzo(a)pyrene (3,4-benzopyrene)
+                3,4-Benzofluoranthene
+                 (benzo(b)fluoranthene)
+                11,12-benzofluoranthene
+                 (benzo(k)fluoranthene)
+                Chrysene
+                Acenaphthylene
+                Anthracene
+                1,12-benzoperylene
+                 (benzo(ghi)perylene)
+                Fluorene
+                Phenanthrene
+                1,2,5,6-dibenzanthracene
+                 (dibenzo(a,h)anthracene)
+                Indeno (1,2,3-cd) pyrene)
+                 (2,3-o-phenylene pyrene)
+                Pyrene
+                Tetrachloroethylene
+                Toluene
+                Trichloroethylene
+                Vinyl chloride (chloroethylene)
+                Aldrin
+                Dieldrin
+                Chlordane (technical mixture and metabolites)
+                4,4-DDT
+                4,4-DDE (p,p-DDX)
+                4,4-DDD (p,p-TDE)
+                Alpha-endosulfan
+                Beta-endosulfan
+                Endosulfan sulfate
+                Endrin
+                Endrin aldehyde
+                Heptachlor
+                Heptachlor epoxide
+                (BHC-hexachlorocyclohexane)
+                 Alpha-BHC
+                 Beta-BHC
+                 Gamma-BHC
+                 Delta-BHC
+                (PCB-polychlorinated biphenyls)
+                 PCB-1242 (Arochlor 1242)
+                 PCB-1254 (Arochlor 1254)
+                 PCB-1221 (Arochlor 1221)
+                 PCB-1232 (Arochlor 1232)
+                 PCB-1248 (Arochlor 1248)
+                 PCB-1260 (Arochlor 1260)
+                 PCB-1016 (Arochlor 1016)
+                Toxaphene
+                2,3,7,8-tetrachlorodibenzo-
+                p-dioxin (TCDD)
+              
+
+              (Secs. 301, 304, 306, 307, 308, and 501 of the Clean Water Act (the Federal Water Pollution Control Act Amendments of 1972, 33 U.S.C. 1251 et. seq., as amended by the Clean Water Act of 1977, Pub. L. 95-217))
+              [46 FR 9467, Jan. 28, 1981, as amended at 48 FR 32483, July 15, 1983; 48 FR 43681, Sept. 26, 1983; 51 FR 40421, Nov. 7, 1986]
+            
+            
+              § 413.03
+              Monitoring requirements.
+              (a) In lieu of monitoring for TTO, the control authority may allow industrial users of POTWs to make the following certification as a comment to the periodic reports required by § 403.12(e): “Based on my inquiry of the person or persons directly responsible for managing compliance with the pretreatment standard for total toxic organics (TTO), I certify that, to the best of my knowledge and belief, no dumping of concentrated toxic organics into the wastewaters has occurred since filing the last discharge monitoring report. I further certify that this facility is implementing the toxic organic management plan submitted to the control authority.”
+              (b) In requesting that no monitoring be required industrial users of POTWs shall submit a toxic organic management plan that specifies to the control authority's satisfaction the toxic organic compounds used; the method of disposal used instead of dumping, such as reclamation, contract hauling, or incineration; and procedures for assuring that toxic organics do not routinely spill or leak into the wastewater.
+              (c) If monitoring is necess

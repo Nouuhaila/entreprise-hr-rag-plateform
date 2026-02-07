@@ -1,0 +1,72 @@
+Applicability; description of the fluorine production subcategory.
+              415.401
+              Specialized definitions.
+              415.402
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.403-415.405
+              [Reserved]
+              415.406
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart AO—Hydrogen Production Subcategory
+              415.410
+              Applicability; description of the hydrogen production subcategory.
+              415.411
+              Specialized definitions.
+              415.412
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+            
+            
+              Subpart AP—Hydrogen Cyanide Production Subcategory
+              415.420
+              Applicability; description of the hydrogen cyanide production subcategory.
+              415.421
+              Specialized definitions.
+              415.422
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.423
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              415.424
+              [Reserved]
+              415.425
+              New source performance standards (NSPS).
+              
+              415.426
+              Pretreatment standards for new sources (PSNS).
+              415.427
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+            
+            
+              Subpart AQ—Iodine Production Subcategory
+              415.430
+              Applicability; description of the iodine production subcategory.
+              415.431
+              Specialized definitions.
+              415.432
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.433-415.435
+              [Reserved]
+              415.436
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart AR—Lead Monoxide Production Subcategory
+              415.440
+              Applicability; description of the lead monoxide production subcategory.
+              415.441
+              Specialized definitions.
+              415.442
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.443
+              [Reserved]
+              415.444
+              Pretreatment standards for existing sources (PSES).
+              415.445
+              [Reserved]
+              415.446
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart AS—Lithium Carbonate Production Subcategory
+              415.450

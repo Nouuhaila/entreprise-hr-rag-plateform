@@ -1,0 +1,129 @@
+Zinc
+                  61.750
+                  25.430
+                
+                
+                  Ammonia (as N)
+                  8,070.000
+                  3,548.000
+                
+                
+                  Fluoride
+                  2,119.000
+                  1,211.000
+                
+              
+              (g) Subpart K—Oxides Calcining Wet Air Pollution Control.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of columbium-tantalum oxide
+                
+                
+                  Lead
+                  1.076
+                  .500
+                
+                
+                  Zinc
+                  3.919
+                  1.614
+                
+                
+                  Ammonia (as N)
+                  512.200
+                  225.200
+                
+                
+                  Fluoride
+                  134.500
+                  76.840
+                
+              
+              (h) Subpart K—Reduction of Tantalum Salt to Metal.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tantalum salt reduced
+                
+                
+                  Lead
+                  46.500
+                  21.590
+                
+                
+                  Zinc
+                  169.400
+                  69.750
+                
+                
+                  Ammonia (as N)
+                  22,140.000
+                  9,732.000
+                
+                
+                  Fluoride
+                  5,813.000
+                  3,322.000
+                
+              
+              (i) Subpart K—Reduction of Tantalum Salt to Metal Wet Air Pollution Control.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tantalum salt reduced
+                
+                
+                  Lead
+                  .572
+                  .266
+                
+                
+                  Zinc
+                  2.084
+                  .858
+                
+                
+                  Fluoride
+                  71.510
+                  40.860
+                
+              
+              (j) Subpart K—Tantalum Powder Wash.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tantalum powder washed
+                
+                
+                  Lead
+                  5.721
+                  2.656
+                
+                
+                  Zinc
+                  20.840

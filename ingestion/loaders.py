@@ -232,10 +232,10 @@ def main():
 
     start = time.time()
     percent_map = {
-    "pile_of_law": args.percent,      # ex 0.002 = 0.2%
-    "eurlex": args.percent,           # ex 0.002
-    "policyqa": args.percent,         # ex 0.002
-    "multi_legal_pile": min(args.percent, 0.0005),  # max 0.05% pour éviter RAM
+    "pile_of_law": args.percent,      
+    "eurlex": args.percent,           
+    "policyqa": args.percent,        
+    "multi_legal_pile": min(args.percent, 0.0005),  
 }
 
 

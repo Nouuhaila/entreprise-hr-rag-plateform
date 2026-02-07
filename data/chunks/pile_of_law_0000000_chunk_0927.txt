@@ -1,0 +1,110 @@
+00
+                
+              
+              (k) Subpart L—Floor and Equipment Washdown.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver production
+                
+                
+                  Copper
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              [49 FR 8821, Mar. 8, 1984; 49 FR 26739, June 29, 1984]
+            
+            
+              § 421.127
+              [Reserved]
+            
+          
+          
+            Subpart M—Secondary Lead Subcategory
+            
+              Source:
+              49 FR 8826, Mar. 8, 1984, unless otherwise noted.
+            
+            
+              § 421.130
+              Applicability: Description of the secondary lead subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of lead by secondary lead facilities.
+            
+            
+              § 421.131
+              Specialized definitions.
+              For the purpose of this subpart the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+            
+            
+              § 421.132
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable technology currently available:
+              (a) Subpart M—Battery Cracking
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead scrap produced
+                
+                
+                  Antimony
+                  1.932
+                  .862
+                
+                
+                  Arsenic
+                  1.407
+                  .579
+                
+                
+                  
+                  Lead
+                  .283
+                  .135
+                
+                
+                  Zinc
+                  .983
+                  .411
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  27.600
+                  13.130
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Subpart M—Blast, Reverberatory, or Rotary Furnace Wet Air Pollution Control

@@ -1,0 +1,138 @@
+Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of mercury condensed
+                
+                
+                  Lead
+                  0.392
+                  0.182
+                
+                
+                  Mercury
+                  0.210
+                  0.084
+                
+                
+                  Silver
+                  0.406
+                  0.168
+                
+                
+                  Zinc
+                  1.428
+                  0.588
+                
+                
+                  
+                  Gold
+                  0.140
+                  
+                
+              
+            
+            
+              § 421.254
+              Standards of performance for new sources.
+              Any new source subject to this subpart shall achieve the following new source performance standards:
+              (a) Smelter wet air pollution control.
+              
+                NSPS for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold and silver smelted
+                
+                
+                  Lead
+                  0.364
+                  0.169
+                
+                
+                  Mercury
+                  0.195
+                  0.078
+                
+                
+                  Silver
+                  0.377
+                  0.156
+                
+                
+                  Zinc
+                  1.326
+                  0.546
+                
+                
+                  Gold
+                  0.130
+                  
+                
+                
+                  Oil and Grease
+                  13.000
+                  13.000
+                
+                
+                  Total suspended solids
+                  19.500
+                  15.600
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Silver chloride reduction spent solution.
+              
+                NSPS for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver reduced in solution
+                
+                
+                  Lead
+                  0.112
+                  0.052
+                
+                
+                  Mercury
+                  0.060
+                  0.024
+                
+                
+                  Silver
+                  0.116
+                  0.048
+                
+                
+                  Zinc
+                  0.408
+                  0.168
+                
+                
+                  Gold
+                  0.040
+                  
+                
+                
+                  Oil and Grease
+                  4.000
+                  4.000
+                
+                
+                  Total suspended solids
+                  6.00

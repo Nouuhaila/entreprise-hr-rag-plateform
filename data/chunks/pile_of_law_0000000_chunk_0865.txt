@@ -1,0 +1,128 @@
+(d) Subpart H—Electrolyte Bleed Wastewater.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cathode zinc produced
+                
+                
+                  Cadmium
+                  .086
+                  .035
+                
+                
+                  Zinc
+                  .441
+                  .182
+                
+              
+              (e) Subpart H—Cathode and Anode Wash Wastewater.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cathode zinc produced
+                
+                
+                  Cadmium
+                  .150
+                  .060
+                
+                
+                  Zinc
+                  .766
+                  .315
+                
+              
+              (f) Subpart H—Casting Wet Air Pollution Control.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zinc cast
+                
+                
+                  Cadmium
+                  .051
+                  .021
+                
+                
+                  Zinc
+                  .262
+                  .108
+                
+              
+              (g) Subpart H—Casting Contact Cooling.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zinc cast
+                
+                
+                  Cadmium
+                  0.036
+                  0.014
+                
+                
+                  Zinc
+                  0.185
+                  0.076
+                
+              
+              (h) Subpart H—Cadmium Plant Wastewater.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cadmium produced
+                
+                
+                  Cadmium
+                  1.234
+                  0.494
+                
+                
+                  Zinc
+                  6.295
+                  2.592
+                
+              
+            
+            
+              § 421.87
+              [Reserved]
+            
+          
+          
+            Subpart I—Metallurgical Acid Plants Subcategory
+            
+              § 421.90
+              Applicability: Description of the metallurgical acid plants subcategory.
+
+              The provisions of this subpart apply to process wastewater discharges resulting from or associated

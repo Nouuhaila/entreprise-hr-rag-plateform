@@ -1,0 +1,128 @@
+4
+                  0.062
+                
+                
+                  Nickel
+                  0.262
+                  0.176
+                
+                
+                  Titanium
+                  0.253
+                  0.110
+                
+              
+              (o) Casting contact cooling water.
+              
+                BAT Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium cast
+                
+                
+                  Chromium (total)
+                  27.000
+                  10.950
+                
+                
+                  Lead
+                  20.430
+                  9.486
+                
+                
+                  Nickel
+                  40.140
+                  27.000
+                
+                
+                  Titanium
+                  38.68
+                  16.78
+                
+              
+            
+            
+              § 421.304
+              Standards of performance for new sources.
+              Any new source subject to this subpart shall achieve the following new source performance standards:
+              (a) Chlorination off-gas wet air pollution control.
+              
+                NSPS Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of TiCl4 produced
+                
+                
+                  Chromium (total)
+                  0.346
+                  0.140
+                
+                
+                  Lead
+                  0.262
+                  0.122
+                
+                
+                  Nickel
+                  0.515
+                  0.346
+                
+                
+                  Titanium
+                  0.496
+                  0.215
+                
+                
+                  Oil and grease
+                  9.360
+                  9.360
+                
+                
+                  Total suspended solids
+                  14.040
+                  11.230
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Chlorination area-vent wet air pollution control.
+              
+                NSPS Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of TiCl4 produced
+                
+                
+                  Chromium (total)
+                  0.385
+                  0.156
+                
+                
+                  Lead
+                  0.291
+                  0.135
+                
+                
+                  Nickel
+                  0.572
+                  0.385

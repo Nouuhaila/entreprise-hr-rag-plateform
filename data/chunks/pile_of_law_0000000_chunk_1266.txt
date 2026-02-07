@@ -1,0 +1,120 @@
+istration
+      15, XXIII; 47, III, IV
+      National Weather Service
+      15, IX
+      Patent and Trademark Office, United States
+      37, I
+      Secretary of Commerce, Office of
+      15, Subtitle A
+      Commercial Space Transportation
+      14, III
+      Commodity Credit Corporation
+      7, XIV
+      Commodity Futures Trading Commission
+      5, XLI; 17, I
+      Community Planning and Development, Office of Assistant Secretary for
+      24, V, VI
+      Community Services, Office of
+      45, X
+      Comptroller of the Currency
+      12, I
+      Construction Industry Collective Bargaining Commission
+      29, IX
+      Consumer Financial Protection Bureau
+      5, LXXXIV; 12, X
+      Consumer Product Safety Commission
+      5, LXXI; 16, II
+      Copyright Royalty Board
+      37, III
+      Corporation for National and Community Service
+      2, XXII; 45, XII, XXV
+      Cost Accounting Standards Board
+      48, 99
+      Council of the Inspectors General on Integrity and Efficiency
+      5, XCVIII
+      Council on Environmental Quality
+      40, V
+      Court Services and Offender Supervision Agency for the District of Columbia
+      5, LXX; 28, VIII
+      Customs and Border Protection
+      19, I
+      Defense, Department of
+      2, XI; 5, XXVI; 32, Subtitle A; 40, VII
+      Advanced Research Projects Agency
+      32, I
+      Air Force Department
+      32, VII
+      Army Department
+      32, V; 33, II; 36, III; 48, 51
+      Defense Acquisition Regulations System
+      48, 2
+      Defense Intelligence Agency
+      32, I
+      Defense Logistics Agency
+      32, I, XII; 48, 54
+      
+      Engineers, Corps of
+      33, II; 36, III
+      National Imagery and Mapping Agency
+      32, I
+      Navy, Department of
+      32, VI; 48, 52
+      Secretary of Defense, Office of
+      2, XI; 32, I
+      Defense Contract Audit Agency
+      32, I
+      Defense Intelligence Agency
+      32, I
+      Defense Logistics Agency
+      32, XII; 48, 54
+      Defense Nuclear Facilities Safety Board
+      10, XVII
+      Delaware River Basin Commission
+      18, III
+      Denali Commission
+      45, IX
+      Disability, National Council on
+      5, C; 34, XII
+      District of Columbia, Court Services and Offender Supervision Agency for the
+      5, LXX; 28, VIII
+      Drug Enforcement Administration
+      21, II
+      East-West Foreign Trade Board
+      15, XIII
+      Economic Analysis, Bureau of
+      15, VIII
+      Economic Development Administration
+      13, III
+      Economic Research Service
+      7, XXXVII
+      Education, Department of
+      2, XXXIV; 5, LIII
+      Bilingual Education and Minority Languages Affairs, Office of
+      34, V
+      Career, Technical, and Adult Education, Office of
+      34, IV
+      Civil Rights, Office for
+      34, I
+      Educational Research and Improvement, Office of
+      34, VII
+      Elementary and Secondary Education, Office of
+      34, II
+      Federal Acquisition Regulation
+      48, 34
+      Postsecondary Education, Office of
+      34, VI
+      Secretary of Education, Office of
+      34, Subtitle A
+      Special Education and Rehabilitative Services, Office of
+      34, III
+      Educational Research and Improvement, Office of
+      34, VII
+      Election Assistance Commission
+      2, LVIII; 11, II
+      Elementary and Secondary Education, Office of
+      34, II
+      Emergency Oil and Gas Guaranteed Loan Board
+      13, V
+      Emergency Steel Guarantee Loan Board
+      13, IV
+      Employee Benefits Securit

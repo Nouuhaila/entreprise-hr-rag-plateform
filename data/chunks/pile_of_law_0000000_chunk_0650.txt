@@ -1,0 +1,143 @@
+Hexavalent chromium
+                  0.068
+                  0.032
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  
+                  English units (pounds per 1,000 bbl of feedstock)
+                
+                
+                  BOD 1
+                  
+                  19.2
+                  10.2
+                
+                
+                  TSS
+                  13.2
+                  8.4
+                
+                
+                  COD 1
+                  
+                  136.0
+                  70.0
+                
+                
+                  Oil and grease
+                  6.0
+                  3.2
+                
+                
+                  Phenolic compounds
+                  0.14
+                  0.068
+                
+                
+                  Ammonia as N
+                  8.3
+                  3.8
+                
+                
+                  Sulfide
+                  0.124
+                  0.056
+                
+                
+                  Total chromium
+                  0.29
+                  0.17
+                
+                
+                  Hexavalent chromium
+                  0.025
+                  0.011
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  1 See footnote following table in § 419.13(d).
+                
+                  2 Within the range 6.0 to 9.0.
+              
+              (b) The limits set forth in paragraph (a) of this section are to be multiplied by the following factors to calculate the maximum for any one day and maximum average of daily values for thirty consecutive days.
+              (1) Size factor.
+              
+                
+                  1,000 bbl of feedstock per stream day
+                  Size factor
+                
+                
+                  Less than 124.9
+                  0.73
+                
+                
+                  125.0 to 149.9
+                  0.76
+                
+                
+                  150.0 to 174.9
+                  0.83
+                
+                
+                  175.0 to 199.9
+                  0.91
+                
+                
+                  200.0 to 224.9
+                  0.99
+                
+                
+                  225 or greater
+                  1.04
+                
+              
+              (2) Process factor.
+              
+                
+                  Process configuration
+                  Process factor
+                
+                
+                  Less than 6.49
+                  0.75
+                
+                
+                  6.5 to 7.49
+                  0.82
+                
+                
+                  7.5 to 7.99
+                  0.92
+                
+                
+                  8.0 to 8.49
+                  1.00
+                
+                
+                  8.5 to 8.99
+                  1.10
+                
+                
+                  9.0 to 9.49
+                  1.20
+                
+                
+                  9.5 to 9.99
+                  1.30
+                
+                
+                  10.0 to 10.49
+                  1.42
+                
+                
+                  10.5 to 10.99
+                  1.54

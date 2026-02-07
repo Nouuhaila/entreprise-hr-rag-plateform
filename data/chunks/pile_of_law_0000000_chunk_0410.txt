@@ -1,0 +1,75 @@
+415.556
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart BD—Sodium Hydrosulfide Production Subcategory [Reserved]
+            
+            
+              Subpart BE—Sodium Hydrosulfite Production Subcategory [Reserved]
+            
+            
+              Subpart BF—Sodium Silicofluoride Production Subcategory [Reserved]
+            
+            
+              Subpart BG—Sodium Thiosulfate Production Subcategory [Reserved]
+            
+            
+              Subpart BH—Stannic Oxide Production Subcategory
+              415.600
+              Applicability; description of the stannic oxide production subcategory.
+              415.601
+              Specialized definitions.
+              415.602
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.603-415.605
+              [Reserved]
+              415.606
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart BI—Sulfur Dioxide Production Subcategory [Reserved]
+            
+            
+              Subpart BJ—Zinc Oxide Production Subcategory [Reserved]
+            
+            
+              Subpart BK—Zinc Sulfate Production Subcategory
+              415.630
+              Applicability; description of the zinc sulfate production subcategory.
+              415.631
+              Specialized definitions.
+              415.632
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.633-415.635
+              [Reserved]
+              415.636
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart BL—Cadmium Pigments and Salts Production Subcategory
+              415.640
+              Applicability; description of the cadmium pigments and salts production subcategory.
+              415.641
+              Specialized definitions.
+              415.642
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.643
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              415.644
+              Pretreatment standards for existing sources (PSES).
+              415.645
+              New source performance standards (NSPS).
+              415.646
+              Pretreatment standards for new sources (PSNS).
+              415.647
+
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+            
+            
+              Subpart BM—Cobalt Salts Production Subcategory
+              415.650
+              Applicability; description of the cobalt salts production subcategory.
+              415.651
+              Specialized definitions.
+              415.652
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technol

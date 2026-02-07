@@ -1,0 +1,122 @@
+Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Lead
+                  0.000131
+                  0.0000438
+                
+                
+                  Zinc
+                  0.000175
+                  0.0000584
+                
+              
+              (5) Fume scrubber.
+                
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for new sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kilograms per day
+                
+                
+                  Lead
+                  0.0368
+                  0.0123
+                
+                
+                  Zinc
+                  0.0491
+                  0.0164
+                
+                Note: The above limitations are applicable to each fume scrubber associated with sulfuric acid pickling operations.
+              
+              (b) Hydrochloric acid pickling (spent acid solutions and rinse waters)—(1) Rod, wire, coil.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for new sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Lead
+                  0.000113
+                  0.0000376
+                
+                
+                  Zinc
+                  0.000150
+                  0.0000501
+                
+              
+              (2) Strip, sheet, and plate.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for new sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Lead
+                  0.0000751
+                  0.0000250
+                
+                
+                  Zinc
+                  0.000100
+                  0.0000334
+                
+              
+              (3) Pipe, tube, and other products.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for new sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Lead
+                  0.000206
+                  0.0000688
+                
+                
+                  Zinc
+                  0.000275
+                  0.0000918
+                
+              
+              (4) Fume scrubber.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for new

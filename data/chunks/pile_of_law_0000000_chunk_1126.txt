@@ -1,0 +1,137 @@
+342.700
+                  150.700
+                
+                
+                  Cobalt
+                  10.130
+                  4.448
+                
+                
+                  Tungsten
+                  17.890
+                  7.147
+                
+                
+                  Oil and grease
+                  51.420
+                  30.850
+                
+                
+                  Total suspended solids
+                  105.400
+                  50.140
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Tungsten post-leaching wash and rinse.
+              
+                BPT Limitations for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten produced
+                
+                
+                  Copper
+                  9.772
+                  5.143
+                
+                
+                  Nickel
+                  9.875
+                  6.532
+                
+                
+                  Ammonia (as N)
+                  685.600
+                  301.400
+                
+                
+                  Cobalt
+                  20.263
+                  8.897
+                
+                
+                  Tungsten
+                  35.800
+                  14.300
+                
+                
+                  Oil and grease
+                  102.900
+                  61.720
+                
+                
+                  Total suspended solids
+                  210.900
+                  100.300
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (d) Synthetic scheelite filtrate.
+              
+                BPT Limitations for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of synthetic scheelite produced
+                
+                
+                  Copper
+                  31.660
+                  16.660
+                
+                
+                  Nickel
+                  31.990
+                  21.160
+                
+                
+                  Ammonia (as N)
+                  2,221.000
+                  976.300
+                
+                
+                  Cobalt
+                  65.644
+                  28.824
+                
+                
+                  Tungsten
+                  116.000
+                  46.320
+                
+                
+                  Oil and grease
+                  333.200
+                  200.000
+                
+                
+                  Total suspended solids
+                  683.100
+                  324.900
+                
+                
+                  pH
+                  (1)
+                  (1)

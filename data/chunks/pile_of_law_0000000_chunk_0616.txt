@@ -1,0 +1,84 @@
+for contaminated runoff. The following effluent limitations constitute the quantity and quality of pollutants or pollutant properties controlled by this paragraph and attributable to contaminated runoff which may be discharged after the application of the best conventional pollutant control technology by a point source subject to this subpart.
+              (1) If wastewater consists solely of contaminated runoff and is not commingled or treated with process wastewater, it may be discharged if it does not exceed 15 mg/l oil and grease based upon an analysis of any single grab or composite sample.
+              (2) If contaminated runoff is commingled or treated with process wastewater, or if wastewater consisting solely of contaminated runoff which exceeds 15 mg/l oil and grease is not commingled or treated with any other type of wastewater, the quantity of pollutants discharged shall not exceed the quantity determined by multiplying the flow of contaminated runoff as determined by the permit writer times the concentrations listed in the following table:
+              
+                
+                  Pollutant or pollutant property
+                  BCT effluent limitations for contaminated runoff
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed
+                
+                
+                  
+                  Metric units (kilograms per 1,000 m3 of flow)
+                
+                
+                  BOD5
+                  
+                  48
+                  26
+                
+                
+                  TSS
+                  33
+                  21
+                
+                
+                  Oil and grease
+                  15
+                  8
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (pounds per 1,000 gallons of flow)
+                
+                
+                  BOD5
+                  
+                  0.40
+                  0.22
+                
+                
+                  TSS
+                  0.28
+                  0.18
+                
+                
+                  Oil and grease
+                  0.13
+                  0.067
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 6.0 to 9.0.
+              
+              [50 FR 28525, July 12, 1985; 50 FR 32414, Aug. 12, 1985]
+            
+            
+              § 419.25
+              Pretreatment standards for existing sources (PSES).
+              Except as provided in 40 CFR 403.7 and 403.13 any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources (PSES). The following standards apply to the total refinery flow contribution to the POTW:
+              
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for new sources—maximum for any 1 day
+                
+                
+                  
+                  Milligrams per liter (mg/l)
+                
+                
+                  Oil and grease
+                  100
+                
+                
+                  Ammonia

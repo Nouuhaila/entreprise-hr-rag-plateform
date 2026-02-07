@@ -1,0 +1,98 @@
+ng pretreatment standards for existing sources.
+              
+                Subpart E
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for existing sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Lead
+                  0.0000939
+                  0.0000313
+                
+                
+                  Zinc
+                  0.000141
+                  0.0000469
+                
+              
+            
+            
+              § 420.56
+              Pretreatment standards for new sources (PSNS).
+              Any new source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for new sources.
+              
+                Subpart E
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for new sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Lead
+                  0.0000939
+                  0.0000313
+                
+                
+                  Zinc
+                  0.000141
+                  0.0000469
+                
+              
+            
+            
+              
+              § 420.57
+              [Reserved]
+            
+          
+          
+            Subpart F—Continuous Casting Subcategory
+            
+              § 420.60
+              Applicability; description of the continuous casting subcategory.
+              The provisions of this subpart are applicable to discharges and to the introduction of pollutants into publicly owned treatment works resulting from the continous casting of molten steel into intermediate or semi-finished steel products through water cooled molds.
+            
+            
+              § 420.61
+              [Reserved]
+            
+            
+              § 420.62
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              
+                Subpart F
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.0780
+                  0.0260
+                
+                
+                  Oil & Grease
+                  0.0234
+                  0.0078
+                
+                
+                  pH

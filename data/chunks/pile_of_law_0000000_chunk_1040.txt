@@ -1,0 +1,99 @@
+2.070
+                  0.828
+                
+                
+                  Silver
+                  4.002
+                  1.656
+                
+                
+                  Zinc
+                  14.080
+                  5.656
+                
+                
+                  Gold
+                  1.380
+                  
+                
+              
+              (i) Mercury cleaning bath water.
+              
+                PSNS for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of mercury condensed
+                
+                
+                  Lead
+                  0.392
+                  0.182
+                
+                
+                  Mercury
+                  0.210
+                  0.084
+                
+                
+                  Silver
+                  0.406
+                  0.168
+                
+                
+                  
+                  Zinc
+                  1.428
+                  0.588
+                
+                
+                  Gold
+                  0.140
+                  
+                
+              
+            
+            
+              § 421.257
+              [Reserved]
+            
+          
+          
+            Subpart X—Secondary Precious Metals Subcategory
+            
+              Source:
+              50 FR 38365, Sept. 20, 1985, unless otherwise noted.
+            
+            
+              § 421.260
+              Applicability: Description of the secondary precious metals subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of precious metals at secondary precious metals facilities.
+            
+            
+              § 421.261
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+              (b) The term precious metals shall mean gold, platinum, palladium, rhodium, iridium, osmium, and ruthenium.
+              (c) The term Combined Metals, shall mean the total of gold, platinum and palladium.
+              [50 FR 38365, Sept. 20, 1985, as amended at 55 FR 31705, Aug. 3, 1990]
+            
+            
+              § 421.262
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable technology currently available:
+              (a) Furnace wet air pollution control.
+              
+                BPT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of precious metal

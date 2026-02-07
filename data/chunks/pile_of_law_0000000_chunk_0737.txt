@@ -1,0 +1,108 @@
+The above limitations shall be applicable to each fume scrubber associated with a combination acid pickling operation.
+              [47 FR 23284, May 27, 1982, as amended at 49 FR 21032, May 17, 1984]
+            
+            
+              § 420.95
+              Pretreatment standards for existing sources (PSES).
+              Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources.
+              (a) Sulfuric acid (spent acid solutions and rinse waters)—(1) Rod, wire, and coil.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for existing sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Lead
+                  0.000526
+                  0.000175
+                
+                
+                  Zinc
+                  0.000701
+                  0.000234
+                
+              
+              (2) Bar, billet, and bloom.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for existing sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Lead
+                  0.000169
+                  0.0000563
+                
+                
+                  Zinc
+                  0.000225
+                  0.0000751
+                
+              
+              (3) Strip, sheet, and plate.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for existing sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Lead
+                  0.000338
+                  0.000113
+                
+                
+                  Zinc
+                  0.000451
+                  0.000150
+                
+              
+              (4) Pipe, tube, and other products.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for existing sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Lead
+                  0.000939
+                  0.000313
+                
+                
+                  Zinc
+                  0.00125
+                  0.000417
+                
+              
+              (5) Fume scrubber.

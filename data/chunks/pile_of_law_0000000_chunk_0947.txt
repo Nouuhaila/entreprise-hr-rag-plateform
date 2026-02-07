@@ -1,0 +1,109 @@
+Zinc
+                  .045
+                  .018
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (k) Subpart M—Laundering of Uniforms.
+              
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead produced from smelting
+                
+                
+                  Antimony
+                  .247
+                  .110
+                
+                
+                  Arsenic
+                  .178
+                  .073
+                
+                
+                  Lead
+                  .036
+                  .017
+                
+                
+                  Zinc
+                  .131
+                  .054
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+            
+            
+              § 421.137
+              [Reserved]
+            
+          
+          
+            Subpart N—Primary Antimony Subcategory
+            
+              Source:
+              50 FR 38345, Sept. 20, 1985, unless otherwise noted.
+            
+            
+              § 421.140
+              Applicability: Description of the primary antimony subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of antimony at primary antimony facilities.
+            
+            
+              § 421.141
+              Specialized definitions.
+              For the purpose of this subpart the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+            
+            
+              § 421.142
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available:
+              (a) Sodium Antimonate Autoclave Wastewater.
+              
+                BPT Limitations for the Primary Antimony Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of antimony contained in sodium antimonate product
+                
+                
+                  Antimony
+                  44.840
+                  20.000
+                
+                
+                  Arsenic
+                  32.650
+                  14.530
+                
+                
+                  Mercury
+                  3.906
+                  1.562
+                
+                
+                  Total suspended solids
+                  640.600
+                  304.700
+                
+                
+                  pH

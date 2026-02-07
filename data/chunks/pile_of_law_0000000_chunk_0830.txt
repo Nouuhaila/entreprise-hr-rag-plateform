@@ -1,0 +1,17 @@
+y to process wastewater discharges resulting from the primary smelting of copper from ore or ore concentrates. Primary copper smelting includes, but is not limited to, roasting, converting, leaching if preceded by a pyrometallurgical step, slag granulation and dumping, fire refining, and the casting of products from these operations.
+            
+            
+              § 421.41
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part 401 apply to this subpart.
+              (b) In the event that the waste streams covered by this subpart are combined for treatment or discharge with waste streams covered by Subparts E—Primary Electrolytic Copper Refining and/or Subpart I—Metallurgical Acid Plants, the quantity of each pollutant or pollutant property discharged shall not exceed the quantity of each pollutant or pollutant property which could be discharged if each waste stream were discharged separately.
+              (c) For all impoundments constructed prior to the effective date of the interim final regulation (40 FR 8513), the term “within the impoundment,” when used to calculate the volume of process wastewater which may be discharged, means the water surface area within the impoundment at maximum capacity plus the surface area of the inside and outside slopes of the impoundment dam as well as the surface area between the outside edge of the impoundment dam and any seepage ditch adjacent to the dam upon which rain falls and is returned to the impoundment. For the purpose of such calculations, the surface area allowances set forth above shall not exceed more than 30 percent of the water surface area within the impoundment dam at maximum capacity.
+              (d) For all impoundments constructed on or after the effective date of the interim final regulation (the interim regulation was effective February 27, 1975; 40 FR 8513, February 27, 1975), the term “within the impoundment,” for purposes of calculating the volume of process wastewater which may be discharged, means the water surface area within the impoundment at maximum capacity.
+            
+            
+              
+              § 421.42
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              (a) Except as provided in 40 CFR 125.30 through 125.32 and paragraph (b) of this section, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT): There shall be no discharge of process wastewater pollutants to navigable waters.
+              (b) A process wastewater impoundment which is designed, constructed, and operated so as to contain the precipitation from the 10-year, 24-hour rainfall event as established by the National Climatic Center, National Oceanic and Atmospheric Administration, for the area in which such impoundment is located may discharge that volume of process wastewater which is equivalent to the volume of precipitation that falls within the impoundment in excess of that attributable to the 10-year, 24-hour rainfall event, when such event occurs.

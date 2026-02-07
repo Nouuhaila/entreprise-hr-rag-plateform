@@ -1,0 +1,111 @@
+llium hydrolysis filtrate.
+              
+                BPT Limitations for the Primary and Secondary Germanium and Gallium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of gallium hydrolyzed
+                
+                
+                  Arsenic
+                  70.450
+                  31.350
+                
+                
+                  Lead
+                  14.160
+                  6.742
+                
+                
+                  Zinc
+                  49.220
+                  20.560
+                
+                
+                  Fluoride
+                  1,180.000
+                  670.800
+                
+                
+                  Total suspended solids
+                  1,382.000
+                  657.300
+                
+                
+                  pH
+                  (1)
+                  
+                    1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (f) Solvent extraction raffinate.
+              
+                BPT Limitations for the Primary and Secondary Germanium and Gallium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of gallium produced by solvent extraction
+                
+                
+                  Arsenic
+                  39.330
+                  17.500
+                
+                
+                  Lead
+                  7.904
+                  3.764
+                
+                
+                  Zinc
+                  27.480
+                  11.480
+                
+                
+                  Fluoride
+                  658.700
+                  374.500
+                
+                
+                  Total suspended solids
+                  771.600
+                  367.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+            
+            
+              
+              § 421.183
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable:
+              (a) Still liquor.
+              
+                BAT Limitations for the Primary and Secondary Germanium and Gallium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of germanium chlorinated
+                
+                
+                  Arsenic

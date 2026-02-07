@@ -1,0 +1,129 @@
+Tin
+                  0.013
+                  0.008
+                
+              
+              (c) Tin mud acid neutralization filtrate.
+              
+                PSES for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of neutralized dewatered tin mud produced
+                
+                
+                  Lead
+                  1.413
+                  0.656
+                
+                
+                  Cyanide (total)
+                  1.009
+                  0.404
+                
+                
+                  Fluoride
+                  176.600
+                  100.400
+                
+                
+                  Tin
+                  1.918
+                  1.110
+                
+              
+              (d) Tin hydroxide wash.
+              
+                PSES for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tin hydroxide washed
+                
+                
+                  Lead
+                  3.347
+                  1.554
+                
+                
+                  Cyanide (total)
+                  2.391
+                  0.956
+                
+                
+                  Fluoride
+                  418.400
+                  237.900
+                
+                
+                  Tin
+                  4.542
+                  2.630
+                
+              
+              (e) Spent electrowinning solution from new scrap.
+              
+                PSES for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cathode tin produced
+                
+                
+                  Lead
+                  4.704
+                  2.184
+                
+                
+                  Cyanide (total)
+                  3.360
+                  1.344
+                
+                
+                  Fluoride
+                  588.000
+                  334.300
+                
+                
+                  Tin
+                  6.384
+                  3.696
+                
+              
+              (f) Spent electrowinning solution from municipal solid waste.
+              
+                PSES for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of MSW scrap used as raw material
+                
+                
+                  Lead
+                  0.033
+                  0.015
+                
+                
+                  Cyanide (total)
+                  0.024
+                  0.010
+                
+                
+                  Fluoride
+                  4.

@@ -1,0 +1,129 @@
+English units (pounds per 1,000 bbl of feedstock)
+                
+                
+                  Phenolic compounds (4AAP):
+                
+                
+                  Crude
+                  0.013
+                  0.003
+                
+                
+                  Cracking and coking
+                  0.147
+                  0.036
+                
+                
+                  Asphalt
+                  0.079
+                  0.019
+                
+                
+                  Lube
+                  0.369
+                  0.090
+                
+                
+                  Reforming and alkylation
+                  0.132
+                  0.032
+                
+                
+                  Total chromium:
+                
+                
+                  Crude
+                  0.011
+                  0.004
+                
+                
+                  Cracking and coking
+                  0.119
+                  0.041
+                
+                
+                  Asphalt
+                  0.064
+                  0.022
+                
+                
+                  Lube
+                  0.299
+                  0.104
+                
+                
+                  Reforming and alkylation
+                  0.107
+                  0.037
+                
+                
+                  Hexavalent chromium:
+                
+                
+                  Crude
+                  0.0007
+                  0.0003
+                
+                
+                  Cracking and coking
+                  0.0076
+                  0.0034
+                
+                
+                  Asphalt
+                  0.0041
+                  0.0019
+                
+                
+                  Lube
+                  0.0192
+                  0.0087
+                
+                
+                  Reforming and alkylation
+                  0.0069
+                  0.0031
+                
+              
+              (2) Example Application of Effluent Limitations Guidelines as Applicable to Phenolic Compounds, Hexavalent Chromium, and Total Chromium.
+              The following example presents the derivation of a BAT phenolic compound (4AAP) effluent limitation (30-day average) for a petroleum refinery permit. The methodology is also applicable to hexavalent chromium and total chromium.
+              
+                
+                  Refinery process
+                  Process feedstock rate 1,000 bbl/day
+                
+                
+                  1. Atmospheric crude distillation
+                  100
+                
+                
+                  2. Crude desalting
+                  50
+                
+                
+                  3. Vacuum crude distillation
+                  75
+                
+                
+                  Total crude processes (C)
+                  225
+                
+                
+                  6. Fluid catalytic cracking
+                  25
+                
+                
+                  10. Hydrocracking
+                  20
+                
+                
+                  Total cracking and coking processes (K)
+                  45
+                
+                
+                  18. Asphalt production
+                  5
+                
+                
+                  Total asphalt processes (A)
+                  5

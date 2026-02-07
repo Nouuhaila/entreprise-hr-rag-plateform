@@ -1,0 +1,133 @@
+pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (h) Subpart B—Potline SO2 Emissions Wet Air Pollution Control.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) aluminum produced from electrolytic reduction
+                
+                
+                  Benzo(a)pyrene
+                  0.045
+                  0.021
+                
+                
+                  Antimony
+                  2.588
+                  1.153
+                
+                
+                  Nickel
+                  .738
+                  .496
+                
+                
+                  Aluminum
+                  8.194
+                  3.634
+                
+                
+                  Fluoride
+                  79.790
+                  35.400
+                
+                
+                  Oil and grease
+                  13.410
+                  13.410
+                
+                
+                  Total suspended solids
+                  20.120
+                  16.090
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (i) Subpart B—Degassing Wet Air Pollution Control.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of aluminum produced from electrolytic reduction
+                
+                
+                  Benzo(a)pyrene
+                  .000
+                  
+                
+                
+                  Antimony
+                  .000
+                  .000
+                
+                
+                  Nickel
+                  .000
+                  .000
+                
+                
+                  Aluminum
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+                
+                  Oil and grease
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .000
+                  .000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (j) Subpart B—Pot Repair and Pot Soaking.
+              
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of aluminum produced from electrolytic reduction
+                
+                
+                  Benzo(a)pyrene
+                  .000

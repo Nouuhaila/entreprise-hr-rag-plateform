@@ -1,0 +1,121 @@
+.
+              
+                PSNS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of scrap washed
+                
+                
+                  Chromium (total)
+                  6.684
+                  2.710
+                
+                
+                  Lead
+                  5.058
+                  2.348
+                
+                
+                  Nickel
+                  9.935
+                  6.684
+                
+                
+                  Titanium
+                  9.574
+                  4.155
+                
+              
+              (n) Casting crucible wash water.
+              
+                PSNS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium cast
+                
+                
+                  Chromium (total)
+                  0.176
+                  0.072
+                
+                
+                  Lead
+                  0.134
+                  0.062
+                
+                
+                  Nickel
+                  0.262
+                  0.176
+                
+                
+                  Titanium
+                  0.253
+                  0.110
+                
+              
+              (o) Casting contact cooling water.
+              
+                PSNS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium cast
+                
+                
+                  Chromium (total)
+                  27.000
+                  10.950
+                
+                
+                  Lead
+                  20.430
+                  9.486
+                
+                
+                  Nickel
+                  40.140
+                  27.000
+                
+                
+                  Titanium
+                  38.680
+                  16.780
+                
+              
+            
+            
+              § 421.307
+              [Reserved]
+            
+          
+          
+            Subpart AC—Secondary Tungsten and Cobalt Subcategory
+            
+              Source:
+              50 FR 38386, Sept. 20, 1985, unless otherwise noted.
+            
+            
+              § 421.310
+              Applicability: Description of the secondary tungsten and cobalt subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of tungsten or cobalt at secondary tungsten and cobalt facilities processing tungsten or tungsten carbide scrap raw materials.
+            
+            
+              
+              § 421.311
+              Specialized definitions.
+              For the purpose of this subpart the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part 401 shall ap

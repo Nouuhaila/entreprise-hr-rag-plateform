@@ -1,0 +1,118 @@
+t 403 and achieve the following pretreatment standards for existing sources. The mass of wastewater pollutants in primary lead process wastewater introduced into a POTW shall not exceed the following values:
+              (a) Subpart G—Sinter Plant Materials Handling Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of sinter production
+                
+                
+                  Lead
+                  100.800
+                  46.800
+                
+                
+                  Zinc
+                  367.200
+                  151.200
+                
+              
+              
+              (b) Subpart G—Blast Furnace Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or polluntant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pound per billion pounds) of blast furnance lead bullion produced
+                  
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+              
+              (c) Subpart G—Blast Furnace Slag Granulation.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pound per billion pounds) of blast furance lead bullion produced
+                  
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+              
+              (d) Subpart G—Dross Reverberatory Slag Granulation.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of slag, speiss, or matte granulated
+                  
+                
+                
+                  Lead
+                  1,612.000
+                  748.400
+                
+                
+                  Zinc
+                  5,872.000
+                  2,418.000
+                
+              
+              (e) Subpart G—Dross Reverberatory Furnance Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of dross reverberatory furnace production
+                  
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000

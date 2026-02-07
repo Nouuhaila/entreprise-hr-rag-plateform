@@ -1,0 +1,127 @@
+2.226
+                
+              
+              
+              (l) Subpart G—Laundering of Uniforms.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of lead bullion produce
+                
+                
+                  Lead
+                  4.340
+                  2.015
+                
+                
+                  Zinc
+                  15.810
+                  6.510
+                
+              
+            
+            
+              § 421.74
+              Standards of performance for new sources.
+              Any new source subject to this subpart must achieve the following performance standards:
+              (a) Subpart G—Sinter Plant Materials Handling Wet Air Pollution Control.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of sinter production
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .000
+                  .000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Subpart G—Blast Furnace Wet Air Pollution Control.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of blast furnace lead bullion produced
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .000
+                  .000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Subpart G—Blast Furnace Slag Granulation.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of blast furnance lead bullion produced
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .000

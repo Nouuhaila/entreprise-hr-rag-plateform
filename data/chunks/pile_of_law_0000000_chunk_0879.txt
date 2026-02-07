@@ -1,0 +1,135 @@
+5.333
+                
+                
+                  Zinc
+                  41.850
+                  17.230
+                
+                
+                  Ammonia (as N)
+                  5,469.000
+                  2,404.000
+                
+                
+                  Total suspended solids
+                  615.400
+                  492.300
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (b) Subpart J—Acid Leach Wet Air Pollution
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungstic acid (as W) produced
+                
+                
+                  Lead
+                  1.003
+                  0.466
+                
+                
+                  Zinc
+                  3.653
+                  1.504
+                
+                
+                  Ammonia (as N)
+                  477.400
+                  209.900
+                
+                
+                  Total suspended solids
+                  53.720
+                  42.970
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (c) Subpart J—Alkali Leach Wash.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of sodium tungstate (as W) produced
+                
+                
+                  Lead
+                  0.000
+                  0.000
+                
+                
+                  Zinc
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+                
+                  Total suspended solids
+                  0.000
+                  0.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (d) Subpart J—Alkali Leach Wash Condensate.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of sodium tungstate (as W) produced
+                
+                
+                  Lead
+                  5.372
+                  2.494
+                
+                
+                  Zinc
+                  19.570
+                  8.057
+                
+                
+                  Ammonia (as N)
+                  2,557.000
+                  1,124.000
+                
+                
+                  Total suspended solids
+                  287.800

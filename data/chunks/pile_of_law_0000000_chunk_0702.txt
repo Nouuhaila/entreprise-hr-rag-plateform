@@ -1,0 +1,122 @@
+0.160
+                
+                
+                  O&G
+                  0.107
+                  
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 6.0 to 9.0.
+              
+              (2) Carbon plate mills.
+              
+              
+                Subpart G
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.227
+                  0.0851
+                
+                
+                  O&G
+                  0.0568
+                  
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 6.0 to 9.0
+              
+              (3) Specialty plate mills.
+              
+              
+                Subpart G
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.100
+                  0.0376
+                
+                
+                  O&G
+                  0.0250
+                  (1)
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 6.0 to 9.0
+              
+              
+              (d) Pipe and tube mills, carbon and specialty.
+              
+              
+                Subpart G
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.212
+                  0.0795
+                
+                
+                  O&G
+                  0.0530
+                  
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 6.0 to 9.0
+              
+            
+            
+              § 420.73
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              The Agency has determined that there are not significant quantities of toxic pollutants in hot forming wastewaters after compliance with applicable BPT limitations. Accordingly, since the BPT level of treatment provides adequate control, the Agency is not promulgating more stringent BAT limitations.
+            
+            
+              § 420.74
+              New source performance standards (NSPS).
+              The dis

@@ -1,0 +1,54 @@
+Copper (T)
+                  3.3
+                  1.0
+                
+                
+                  Nickel (T)
+                  3.3
+                  1.0
+                
+              
+              In cases where POTWs find it necessary to impose mass limitations, the following equivalent mass limitations are provided as an alternate: The limitations for cobalt (T), copper (T), and nickel (T), are the same as specified in § 415.652.
+            
+            
+              § 415.655
+              New source performance standards (NSPS).
+              Any new source subject to this subpart must achieve the following new source performance standards (NSPS): The limitations for pH, TSS, cobalt (T), copper (T), and nickel (T) are the same as specified in § 415.652.
+            
+            
+              § 415.656
+              Pretreatment standards for new sources (PSNS).
+              Except as provided in 40 CFR 403.7, any new source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for new sources (PSNS): The limitations for cobalt (T), copper (T), and nickel (T), are the same as specified in § 415.654.
+            
+            
+              § 415.657
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+              Except as provided in 40 CFR 125.30 through 125.32 any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): The limitations are the same for TSS and pH as specified in § 415.652.
+            
+          
+          
+            Subpart BN—Sodium Chlorate Production Subcategory
+            
+              Source:
+              49 FR 33428, Aug. 22, 1984, unless otherwise noted.
+            
+            
+              § 415.660
+              Applicability; description of the sodium chlorate production subcategory.
+              The provisions of this subpart are applicable to discharges and to the introduction of pollutants into treatment works which are publicly owned resulting from the production of sodium chlorate.
+            
+            
+              § 415.661
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations, and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) The term product shall mean sodium chlorate.
+              (c) The term chromium shall mean the total chromium present in the process wastewater stream exiting the wastewater treatment system.
+              (d) The term chlorine shall mean the total residual chlorine present in the process wastewater stream exiting the wastewater treatment system.
+              (e) The term antimony shall mean the total antimony present in the process wastewater stream exiting the wastewater treatment system.
+            
+            
+              § 415.662
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+
+              (a) E

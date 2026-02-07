@@ -1,0 +1,112 @@
+Casting crucible wash water.
+              
+                NSPS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium cast
+                
+                
+                  Chromium (total)
+                  0.176
+                  0.072
+                
+                
+                  Lead
+                  0.134
+                  0.062
+                
+                
+                  Nickel
+                  0.262
+                  0.176
+                
+                
+                  Titanium
+                  0.253
+                  0.110
+                
+                
+                  Oil and grease
+                  4.770
+                  4.770
+                
+                
+                  Total suspended solids
+                  7.155
+                  5.724
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (o) Casting contact cooling water.
+              
+                NSPS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium cast
+                
+                
+                  Chromium (total)
+                  27.000
+                  10.950
+                
+                
+                  Lead
+                  20.430
+                  9.486
+                
+                
+                  Nickel
+                  40.140
+                  27.000
+                
+                
+                  Titanium
+                  38.680
+                  16.780
+                
+                
+                  Oil and grease
+                  729.700
+                  729.700
+                
+                
+                  Total suspended solids
+                  1,095.000
+                  875.700
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+            
+            
+              § 421.305
+              Pretreatment standards for existing sources.
+              Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources. The mass of wastewater pollutants in primary and secondary titanium process wastewater introduced into a POTW must not exceed the following values:
+              (a) Chlorination off-gas wet air pollution control.
+              
+                PSES for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average

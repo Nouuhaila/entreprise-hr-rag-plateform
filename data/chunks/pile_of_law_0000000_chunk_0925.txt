@@ -1,0 +1,129 @@
+.408
+                
+                
+                  Ammonia (as N)
+                  129.300
+                  56.840
+                
+              
+              (c) Subpart L—Precipitation and Filtration of Film Stripping Solutions.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver precipitated
+                
+                
+                  Copper
+                  73.690
+                  35.120
+                
+                
+                  Zinc
+                  58.720
+                  24.180
+                
+                
+                  Ammonia (as N)
+                  7,674.000
+                  3,374.000
+                
+              
+              (d) Subpart L—Precipitation and Filtration of Photographic Solutions.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver precipitated
+                
+                
+                  Copper
+                  34.048
+                  16.226
+                
+                
+                  Zinc
+                  27.132
+                  11.172
+                
+                
+                  Ammonia (as N)
+                  3,545.000
+                  1,559.000
+                
+              
+              (e) Subpart L—Precipitation and Filtration of Photographic Solutions Wet Air Pollution Control.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver from precipitation and filtration of photographic solutions
+                
+                
+                  Copper
+                  15.540
+                  7.406
+                
+                
+                  Zinc
+                  12.380
+                  5.099
+                
+                
+                  Ammonia (as N)
+                  1,618.000
+                  711.400
+                
+              
+              (f) Subpart L—Electrolytic Refining.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver from electrolytic refining
+                
+                
+                  Copper
+                  .973
+                  .464
+                
+                
+                  Zinc
+                  .775
+                  .319
+                
+                
+                  Ammonia (as N)
+                  101.300
+                  44.540
+                
+              
+
+              (g) Subpart L—Furnace Wet Air Pollution Control.
+              
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average

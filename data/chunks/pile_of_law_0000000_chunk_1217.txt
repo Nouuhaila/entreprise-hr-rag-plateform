@@ -1,0 +1,78 @@
+82, as amended at 48 FR 31404, July 8, 1983; 80 FR 67894, Nov. 3, 2015; 82 FR 43500, Sept. 18, 2017]
+          
+          
+            
+            § 423.14
+            Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT). [Reserved]
+          
+          
+            § 423.15
+            New source performance standards (NSPS).
+            (a) 1982 NSPS. Any new source as of November 19, 1982, subject to paragraph (a) of this section, must achieve the following new source performance standards, in addition to the limitations in § 423.13 of this part, established on November 3, 2015. In the case of conflict, the more stringent requirements apply:
+            (1) pH. The pH of all discharges, except once through cooling water, shall be within the range of 6.0-9.0.
+            (2) PCBs. There shall be no discharge of polychlorinated biphenyl compounds such as those commonly used for transformer fluid.
+            (3) Low volume waste sources, FGD wastewater, flue gas mercury control wastewater, combustion residual leachate, and gasification wastewater. The quantity of pollutants discharged in low volume waste sources, FGD wastewater, flue gas mercury control wastewater, combustion residual leachate, and gasification wastewater shall not exceed the quantity determined by multiplying the flow of low volume waste sources times the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                NSPS
+                Maximum for any 1 day (mg/l)
+                Average of dailyvalues for 30
+                  consecutive days
+                  shall not exceed
+                  (mg/l)
+                
+              
+              
+                TSS
+                100.0
+                30.0
+              
+              
+                Oil and grease
+                20.0
+                15.0
+              
+            
+            (4) Chemical metal cleaning wastes. The quantity of pollutants discharged in chemical metal cleaning wastes shall not exceed the quantity determined by multiplying the flow of chemical metal cleaning wastes times the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                NSPS
+                Maximum forany 1 day
+                  (mg/l)
+                
+                Average of dailyvalues for 30
+                  consecutive days
+                  shall not exceed
+                  (mg/l)
+                
+              
+              
+                TSS
+                100.0
+                30.0
+              
+              
+                Oil and grease
+                20.0
+                15.0
+              
+              
+                Copper, total
+                1.0
+                1.0
+              
+              
+                Iron, total
+                1.0
+                1.0
+              
+            
+            (5) [Reserved]
+            (6) Bottom ash transport water. The quantity of pollutants discharged in bottom ash transport water shall not exceed the quantity determined by multiplying the flow of the bottom ash transport water times the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                NSPS
+                Maximum forany 1 day

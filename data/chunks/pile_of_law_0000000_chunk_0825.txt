@@ -1,0 +1,137 @@
+) of aluminum scrap screened and milled
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (c) Subpart C—Dross Washing.
+              
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of dross washed
+                
+                
+                  Lead
+                  3.043
+                  1.413
+                
+                
+                  Zinc
+                  11.090
+                  4.565
+                
+                
+                  Ammonia (as N)
+                  1,449.000
+                  636.000
+                
+              
+              (d) Subpart C—Demagging Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (lb/million lbs) of aluminum demagged
+                
+                
+                  Lead
+                  0.216
+                  0.100
+                
+                
+                  Zinc
+                  0.786
+                  0.324
+                
+                
+                  Amomonia (as N)
+                  102.800
+                  45.180
+                
+              
+              (e) Subpart C—Delacquering Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum delacquered
+                
+                
+                  Lead
+                  0.093
+                  0.043
+                
+                
+                  Zinc
+                  0.340
+                  0.140
+                
+                
+                  Ammonia (as N)
+                  44.389
+                  19.514
+                
+                
+                  Total phenolics (4-AAP) method) 1
+                  
+                  0.004
+                  
+                
+                
+                  1 At the source.
+              
+              (f) Subpart C—Direct Chill Casting Contact Cooling.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum cast
+                
+                
+                  Lead
+                  .372
+                  .173
+                
+                
+                  Zinc
+                  1.356
+                  .558
+                
+                
+                  Ammonia (as N)
+                  177.200
+                  77.800

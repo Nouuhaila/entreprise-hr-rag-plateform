@@ -1,0 +1,32 @@
+Specialized definitions.
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+              (b) The term process wastewater means any water which, during manufacturing or processing, comes into direct contact with or results from the production or use of any raw material, intermediate product, finished product, by-product, or waste product. The term “process wastewater” does not include contaminated nonprocess wastewater, as defined below.
+              (c) The term process wastewater pollutants means pollutants present in process wastewater.
+              (d) The term contaminated nonprocess wastewater shall mean any water which, during manufacturing or processing, comes into incidental contact with any raw material, intermediate product, finished product, by-product or waste product by means of (1) rainfall runoff; (2) accidental spills; (3) accidental leaks caused by the failure of process equipment, which are repaired within the shortest reasonable time not to exceed 24 hours after discovery; and (4) discharges from safety showers and related personal safety equipment: Provided, that all reasonable measures have been taken (i) to prevent, reduce and control such contact to the maximum extent feasible; and (ii) to mitigate the effects of such contact once it has occurred.
+            
+            
+              § 415.412
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT): There shall be no discharge of process wastewater pollutants to navigable waters, except as provided for in part 419 of this chapter (39 FR 16560).
+            
+          
+          
+            Subpart AP—Hydrogen Cyanide Production Subcategory
+            
+              § 415.420
+              Applicability; description of the hydrogen cyanide production subcategory.
+              This subpart applies to discharges to waters of the United States and introduction of pollutants into publicly owned treatment works resulting from the production of hydrogen cyanide by the Andrussow process.
+            
+            
+              § 415.421
+              Specialized definitions.
+              For the purposes of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) The term product means hydrogen cyanide.
+              (c) The term Cyanide A means those cyanides amenable to chlorination and is determined by the methods specified in 40 CFR 136.3.
+            
+            
+              § 415.422
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the deg

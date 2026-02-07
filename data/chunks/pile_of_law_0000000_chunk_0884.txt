@@ -1,0 +1,120 @@
+for existing sources. The mass of wastewater pollutants in primary tungsten process wastewater introduced into a POTW shall not exceed the following values:
+              (a) Subpart J—Tungstic Acid Rinse.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungstic acid (as W) produced
+                
+                
+                  Lead
+                  11.490
+                  5.333
+                
+                
+                  Zinc
+                  41.850
+                  17.230
+                
+                
+                  Ammonia (as N)
+                  5,469.000
+                  2,404.000
+                
+              
+              (b) Subpart J—Acid Leach Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungstic acid (as W) produced
+                
+                
+                  Lead
+                  1.003
+                  0.466
+                
+                
+                  Zinc
+                  3.653
+                  1.504
+                
+                
+                  Ammonia (as N)
+                  477.400
+                  209.900
+                
+              
+              (c) Subpart J—Alkali Leach Wash.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungstate (as W) produced
+                
+                
+                  Lead
+                  0.000
+                  0.000
+                
+                
+                  Zinc
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+              
+              (d) Subpart J—Alkali Leach Wash Condensate.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of sodium tungstate (as W) produced
+                
+                
+                  Lead
+                  5.372
+                  2.494
+                
+                
+                  Zinc
+                  19.570
+                  8.057
+                
+                
+                  Ammonia (as N)
+                  2,557.000
+                  1,124.000
+                
+              
+              (e) Subpart J—Ion Exchange Raffinate (Commingled With Other Process or Nonprocess Waters).
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average

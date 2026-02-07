@@ -1,0 +1,129 @@
+Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of platinum precipitated
+                
+                
+                  Copper
+                  6.656
+                  3.172
+                
+                
+                  Cyanide (total)
+                  1.040
+                  0.416
+                
+                
+                  Zinc
+                  5.304
+                  2.184
+                
+                
+                  Combined metals
+                  1.560
+                  
+                
+                
+                  Ammonia (as N)
+                  693.200
+                  304.700
+                
+              
+              
+              (j) Palladium precipitation and filtration.
+              
+                PSNS for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of platinum precipitated
+                
+                
+                  Copper
+                  7.680
+                  3.660
+                
+                
+                  Cyanide (Total)
+                  1.200
+                  0.480
+                
+                
+                  Zinc
+                  6.120
+                  2.520
+                
+                
+                  Combined Metals
+                  1.800
+                  
+                
+                
+                  Ammonia (as N)
+                  799.800
+                  351.600
+                
+              
+              (k) Other platinum group metals precipitation and filtration.
+              
+                PSNS for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of other platinum group metals precipitated
+                
+                
+                  Copper
+                  6.656
+                  3.172
+                
+                
+                  Cyanide (total)
+                  1.040
+                  0.416
+                
+                
+                  Zinc
+                  5.304
+                  2.184
+                
+                
+                  Combined metals
+                  1.560
+                  
+                
+                
+                  Ammonia (as N)
+                  693.200
+                  304.700
+                
+              
+              (l) Spent solution from PGC salt production.
+              
+                PSNS for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold contained in PGC product
+                
+                
+                  Copper
+                  1.152
+                  0.549

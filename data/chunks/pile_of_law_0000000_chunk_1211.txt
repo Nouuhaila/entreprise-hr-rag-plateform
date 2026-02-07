@@ -1,0 +1,53 @@
+cation of the best available technology economically achievable (BAT).
+            Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this part must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+            (a) There shall be no discharge of polychlorinated biphenyl compounds such as those commonly used for transformer fluid.
+            (b)(1) For any plant with a total rated electric generating capacity of 25 or more megawatts, the quantity of pollutants discharged in once through cooling water from each discharge point shall not exceed the quantity determined by multiplying the flow of once through cooling water from each discharge point times the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                BAT Effluent Limitations
+                Maximum concentration (mg/l)
+              
+              
+                Total residual chlorine
+                0.20
+              
+            
+            (2) Total residual chlorine may not be discharged from any single generating unit for more than two hours per day unless the discharger demonstrates to the permitting authority that discharge for more than two hours is required for macroinvertebrate control. Simultaneous multi-unit chlorination is permitted.
+            (c)(1) For any plant with a total rated generating capacity of less than 25 megawatts, the quantity of pollutants discharged in once through cooling water shall not exceed the quantity determined by multiplying the flow of once through cooling water sources times the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                BAT effluent limitations
+                Maximum concentration (mg/l)
+                Average concentration (mg/l)
+              
+              
+                Free available chlorine
+                0.5
+                0.2
+              
+            
+            (2) Neither free available chlorine nor total residual chlorine may be discharged from any unit for more than two hours in any one day and not more than one unit in any plant may discharge free available or total residual chlorine at any one time unless the utility can demonstrate to the Regional Administrator or State, if the State has NPDES permit issuing authority, that the units in a particular location cannot operate at or below this level of chlorination.
+            (d)(1) The quantity of pollutants discharged in cooling tower blowdown shall not exceed the quantity determined by multiplying the flow of cooling tower blowdown times the concentration listed below:
+            
+              
+                Pollutant or pollutant property
+                BAT effluent limitations
+                Maximum concentration (mg/l)
+                Average concentration (mg/l)
+              
+              
+                Free available chlorine
+                0.5
+                0.2
+              
+            
+            
+              
+                Pollutant or pollutant property
+                Maximum for any 1 day −(mg/l)
+                Average of daily values for 30 consecutive days shall not exceed  = (mg/l)
+              
+              
+                The 126 priority pollutants (Appendix A) contained in

@@ -1,0 +1,62 @@
+0000612
+                  Total Plant.
+                
+                
+                  12. National Steel, Granite City, IL
+                  IL 0000329
+                  Total Plant.
+                
+                
+                  13. National Steel, Portage, IN
+                  IN 0000337
+                  Total Plant.
+                
+                
+                  14. National Steel, Weirton, WV
+                  WV 0003336
+                  Outfall B.
+                
+                
+                  15. Republic Steel, Gadsden, AL
+                  AL 0003522
+                  Total Plant.
+                
+                
+                  16. Republic Steel, 1 Chicago, IL 0002593
+                  IL. 0002593
+                  Discharge to POTW.
+                
+                
+                  17. U.S. Steel, Lorain, OH
+                  OH 0001562
+                  Pipe Mill Lagoon.
+                
+                
+                  18. U.S. Steel, Provo, UT
+                  UT 0000361
+                  Total Plant.
+                
+                
+                  19. U.S. Steel, Fairless Hills, PA
+                  PA 0013463
+                  Terminal Treatment Plant.
+                
+                
+                  20. U.S. Steel, Gary, IN
+                  IN 0000281
+                  Terminal Lagoons.
+                
+                
+                  21. U.S. Steel, 1 Chicago, IL
+                  IL 0002691
+                  Discharge to POTW.
+                
+                
+                  1 The request for alternative effluent limitations for these plants are for indirect discharges to POTWs
+              
+              (2) The information to be submitted with the request for consideration of alternative effluent limitations is to include:
+              (i) A schematic diagram of the existing wastewater treatment facility showing each source of wastewater, cooling water, and other waters entering the treatment facility; discharge and recycle flow rates for each water source and each major treatment component;
+              (ii) Existing monitoring data relating to discharges to and from the central treatment facility including pollutant concentrations, flows and mass loadings; As a minimum, monitoring data should be provided for a six month period of normal operation of the production and treatment facilities. The complete data as well as a data summary including the maximum, minimum, and mean gross discharge loadings and the standard deviation of the discharge loadings for each monitored pollutant should be provided. Any supplemental monitoring data for toxic pollutants should also be provided.
+              (iii) A scale map of the area of the plant served by the wastewater treatment facility, including the treatment facility and water supply and discharge points;
+
+              (iv) An estimate of the least costly investment required to meet the generally applicable limitations or standards for the facility and a description of such treatment system including schematic diagrams showing the major treatment system components and flow rates through the system. As a minimum, the cost estimates should be comprised of a single page summary for each water pollution control system showing estimated installed direct cost totals for mechanical equipment; piping and instrumentation; foundations and structural components; and, electrical components. Indirect costs for contingencies, overhead and p

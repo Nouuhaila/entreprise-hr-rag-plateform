@@ -1,0 +1,31 @@
+ly reduced by technologies known to the Administrator (paragraph (8)(a)(iii)); or
+              (4) The wastestream contains only pollutants which are compatible with the POTW (paragraph (8)(b)(i)).
+              FT = The average daily flow (at least a 30-day average) through the combined treatment facility (includes Fi, FD and unregulated streams).
+              N = The total number of regulated streams.
+            
+            
+            (ii) Alternative mass limit.
+            
+            
+              EC15NO91.013
+            
+            
+              where
+              
+              MT = the alternative mass limit for a pollutant in the combined wastestream.
+              Mi = the categorical Pretreatment Standard mass limit for a pollutant in the regulated stream i (the categorical pretreatment mass limit multiplied by the appropriate measure of production).
+              Fi = the average flow (at least a 30-day average) of stream i to the extent that it is regulated for such pollutant.
+              FD=the average daily flow (at least a 30-day average) from: (a) Boiler blowdown streams, non-contact cooling streams, stormwater streams, and demineralizer backwash streams; provided, however, that where such streams contain a significant amount of a pollutant, and the combination of such streams, prior to treatment, with an Industrial User's regulated process wastestream(s) will result in a substantial reduction of that pollutant, the Control Authority, upon application of the Industrial User, may exercise its discretion to determine whether such stream(s) should be classified as diluted or unregulated. In its application to the Control Authority, the Industrial User must provide engineering, production, sampling and analysis and such other information so that the Control Authority can make its determination; or (b) sanitary wastestreams where such streams are not regulated by a categorical Pretreatment Standard; or (c) from any process wastestreams which were or could have been entirely exempted from categorical Pretreatment Standards pursuant to paragraph 8 of the NRDC v. Costle Consent Decree (12 ERC 1833) for one or more of the following reasons (see appendix D of this part):
+              (1) The pollutants of concern are not detectable in the effluent from the Industrial User (paragraph (8)(a)(iii));
+              (2) The pollutants of concern are present only in trace amounts and are neither causing nor likely to cause toxic effects (paragraph (8)(a)(iii));
+
+              (3) The pollutants of concern are present in amounts too small to be effectively reduced by technologies known to the Administrator (paragraph (8)(a)(iii)); or
+              
+              (4) The wastestream contains only pollutants which are compatible with the POTW (paragraph (8)(b)(i)).
+              FT = The average flow (at least a 30-day average) through the combined treatment facility (includes Fi, FD and unregulated streams).
+              N = The total number of regulated streams.
+            
+            
+            (2) Alternate limits below detection limit. An alternative pretreatment limit may not be used if the alternative limit is below the analytical detection limit for any of the regulated pollutants.
+            (3) Self-monitoring. Self-monitoring required to insure compliance with the alternative categorical limit shall be conducted in accordance with the requirements of § 403.12(g).
+            (4) Choice of monitoring location

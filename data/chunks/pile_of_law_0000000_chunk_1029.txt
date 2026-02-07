@@ -1,0 +1,138 @@
+Mercury
+                  1.038
+                  0.415
+                
+                
+                  Silver
+                  1.702
+                  0.706
+                
+                
+                  Zinc
+                  6.059
+                  2.532
+                
+                
+                  Gold
+                  0.415
+                  
+                
+                
+                  Oil and Grease
+                  83.000
+                  49.800
+                
+                
+                  Total suspended solids
+                  170.200
+                  80.930
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (h) Condenser blowdown.
+              
+                BPT Limitations for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of mercury condensed
+                
+                
+                  Lead
+                  5.796
+                  2.760
+                
+                
+                  Mercury
+                  3.450
+                  1.380
+                
+                
+                  Silver
+                  5.658
+                  2.346
+                
+                
+                  Zinc
+                  20.150
+                  8.418
+                
+                
+                  Gold
+                  1.380
+                  
+                
+                
+                  Oil and Grease
+                  276.000
+                  165.600
+                
+                
+                  Total suspended solids
+                  565.800
+                  269.100
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (i) Mercury cleaning bath water.
+              
+                BPT Limitations for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of mercury condensed
+                
+                
+                  Lead
+                  0.588
+                  0.280
+                
+                
+                  Mercury
+                  0.350
+                  0.140
+                
+                
+                  Silver
+                  0.574
+                  0.238
+                
+                
+                  Zinc
+                  2.044
+                  0.854
+                
+                
+                  Gold
+                  0.140
+                  
+                
+                
+                  Oil and Grease
+                  28.000
+                  16.800
+                
+                
+                  Total suspended solids
+                  57.400
+                  27.300

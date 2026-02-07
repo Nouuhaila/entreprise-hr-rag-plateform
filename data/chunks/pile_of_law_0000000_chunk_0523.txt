@@ -1,0 +1,85 @@
+TSS
+                  0.06
+                  .02
+                
+                
+                  Surfactants
+                  0.03
+                  .01
+                
+                
+                  Oil and grease
+                  0.12
+                  .04
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+            
+            
+              § 417.96
+              Pretreatment standards for new sources.
+              Any new source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403.
+              [60 FR 33954, June 29, 1995]
+            
+          
+          
+            Subpart J—Air—SO3 Sulfation and Sulfonation Subcategory
+            
+              § 417.100
+              Applicability; description of the air—SO3 sulfation and sulfonation subcategory.
+
+              The provisions of this subpart are applicable to discharges resulting from the manufacture of sulfonic acids and sulfuric acid esters by means of sulfation and sulfonation employing air and sulfur trioxide (SO3), in either continuous or batch processes.
+            
+            
+              § 417.101
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+              (b) The term anhydrous product shall mean the theoretical product that would result if all water were removed from the actual product.
+              (c) The term surfactant shall mean those methylene blue active substances amenable to measurement by the method described in “Methods for Chemical Analysis of Water and Wastes,” 1971, Environmental Protection Agency, Analytical Quality Control Laboratory, page 131.
+            
+            
+              § 417.102
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kilograms per 1,000 kg of anhydrous product)
+                
+                
+                  BOD5
+                  
+                  0.90
+                  0.30
+                
+                
+                  COD
+                  4.05
+                  1.35
+                
+                
+                  TSS
+                  0.09
+                  .03
+                
+                
+                  Surfactants
+                  0.90
+                  .30
+                
+                
+                  Oil and grease
+                  0.15

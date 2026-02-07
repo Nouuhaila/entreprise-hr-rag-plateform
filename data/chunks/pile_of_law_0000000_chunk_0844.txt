@@ -1,0 +1,110 @@
+ion pounds) of lead bullion produced
+                
+                
+                  Lead
+                  8.745
+                  3.975
+                
+                
+                  Zinc
+                  7.738
+                  3.233
+                
+                
+                  Total suspended solids
+                  217.300
+                  103.400
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (l) Subpart G—Laundering of Uniforms.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of lead bullion produced
+                
+                
+                  Lead
+                  25.580
+                  11.630
+                
+                
+                  Zinc
+                  22.630
+                  9.455
+                
+                
+                  Total suspended solids
+                  635.500
+                  302.300
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              [49 FR 8803, Mar. 8, 1984; 49 FR 26739, June 29, 1984, as amended at 49 FR 29795, July 24, 1984]
+            
+            
+              § 421.73
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable:
+              (a) Subpart G—Sinter Plant Materials Handling Wet Air Pollution Control.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of sinter production
+                
+                
+                  Lead
+                  100.800
+                  46.800
+                
+                
+                  Zinc
+                  367.200
+                  151.200
+                
+              
+              (b) Subpart G—Blast Furnace Wet Air Pollution Control.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kkg (pounds per billion pounds) of blast furnace lead bullion produced
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000

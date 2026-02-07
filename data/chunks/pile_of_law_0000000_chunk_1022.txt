@@ -1,0 +1,117 @@
+1,692.000
+                  743.900
+                
+                
+                  Cobalt
+                  1.777
+                  0.889
+                
+              
+              (d) Cobalt reduction decant.
+              
+                PSNS for the Primary Nickel and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cobalt produced
+                
+                
+                  Copper
+                  27.390
+                  13.050
+                
+                
+                  Nickel
+                  11.770
+                  7.917
+                
+                
+                  Ammonia (as N)
+                  2,852.000
+                  1,254.000
+                
+                
+                  Cobalt
+                  2.996
+                  1.498
+                
+              
+            
+            
+              § 421.237
+              [Reserved]
+            
+          
+          
+            Subpart V—Secondary Nickel Subcategory
+            
+              Source:
+              50 FR 38360, Sept. 20, 1985, unless otherwise noted.
+            
+            
+              § 421.240
+              Applicability: Description of the secondary nickel subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of nickel by secondary nickel facilities processing slag, spent acids, or scrap metal raw materials.
+            
+            
+              § 421.241
+              Specialized definitions.
+              For the purpose of this subpart the general definitions, abbreviations, and methods of analysis set forth in 40 CFR 401 shall apply to this subpart.
+            
+            
+              §§ 421.242-421.243
+              [Reserved]
+            
+            
+              § 421.244
+              Standards of performance for new sources.
+              Any new source subject to this subpart shall achieve the following new source performance standards:
+              (a) Slag reclaim tailings.
+              
+                NSPS for the Secondary Nickel Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of slag input to reclaim process
+                
+                
+                  Chromium (total)
+                  5.653
+                  2.313
+                
+                
+                  Copper
+                  24.410
+                  12.850
+                
+                
+                  Nickel
+                  24.670
+                  16.320
+                
+                
+                  Total suspended solids
+                  526.800
+                  250.500
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Acid reclaim leaching filtrate.
+              
+                NSPS for the Secondary Nickel Subcategory
+                
+                  Pollutant or pollutant property

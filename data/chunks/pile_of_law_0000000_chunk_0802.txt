@@ -1,0 +1,127 @@
+Benzo(a)pyrene
+                  .000
+                  
+                
+                
+                  Antimony
+                  .000
+                  .000
+                
+                
+                  Cyanide
+                  .000
+                  .000
+                
+                
+                  Nickel
+                  .000
+                  .000
+                
+                
+                  Aluminum
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+              
+              (j) Subpart B—Potline Wet Air Pollution Control (Operated Without Cathode Reprocessing).
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of aluminum produced from electrolytic reduction
+                
+                
+                  Benzo(a)pyrene
+                  0.028
+                  0.013
+                
+                
+                  Antimony
+                  1.618
+                  .721
+                
+                
+                  Nickel
+                  .461
+                  .310
+                
+                
+                  Aluminum
+                  5.120
+                  2.271
+                
+                
+                  Fluoride
+                  49.860
+                  22.130
+                
+              
+
+              (k) Subpart B—Potline Wet Air Pollution Control (Operated With Cathode Reprocessing and Not Commingled With Other Process or Nonprocess Waters).
+              
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of aluminum produced from electrolytic reduction
+                
+                
+                  Benzo(a)pyrene
+                  0.028
+                  0.013
+                
+                
+                  Antimony
+                  10.060
+                  4.525
+                
+                
+                  Cyanide
+                  3.771
+                  1.676
+                
+                
+                  Nickel
+                  1.928
+                  .838
+                
+                
+                  Aluminum
+                  6.537
+                  2.933
+                
+                
+                  Fluoride
+                  703.900
+                  318.500
+                
+              
+              (l) Potline Wet Air Pollution Control Cooperated With Cathode Reprocessing and Commingled With Other Process or Nonprocess Wastewaters).
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of aluminum produced from electrolytic reduction
+                
+                
+                  Ben

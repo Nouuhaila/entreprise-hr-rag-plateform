@@ -1,0 +1,141 @@
+Arsenic
+                  3.628
+                  1.488
+                
+                
+                  Lead
+                  .731
+                  .339
+                
+                
+                  Zinc
+                  2.662
+                  1.096
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (c) Subpart M—Kettle Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead produced from refining
+                
+                
+                  Antimony
+                  .087
+                  .039
+                
+                
+                  Arsenic
+                  .063
+                  .026
+                
+                
+                  Lead
+                  .013
+                  .006
+                
+                
+                  Zinc
+                  .046
+                  .019
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (d) Subpart M—Lead Paste Desulfurization.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead processed through desulfurization
+                
+                
+                  Antimony
+                  .000
+                  .000
+                
+                
+                  Arsenic
+                  .000
+                  .000
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (e) Subpart M—Casting Contact Cooling.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead cast
+                
+                
+                  Animony
+                  .042
+                  .019
+                
+                
+                  Arsenic
+                  .031
+                  .013
+                
+                
+                  Lead
+                  .006
+                  .003
+                
+                
+                  Zinc
+                  .022
+                  .009
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (f) Subpart M—Truck Wash.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average

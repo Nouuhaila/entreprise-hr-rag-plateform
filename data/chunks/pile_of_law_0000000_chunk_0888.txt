@@ -1,0 +1,129 @@
+Lead
+                  11.490
+                  5.333
+                
+                
+                  Zinc
+                  41.850
+                  17.230
+                
+                
+                  Ammonia (as N)
+                  5,469.000
+                  2,404.000
+                
+              
+              (b) Subpart J—Acid Leach Wet Air Pollution Control.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any one day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million) of tungstic acid (as W) produced
+                
+                
+                  Lead
+                  1.003
+                  0.466
+                
+                
+                  Zinc
+                  3.653
+                  1.504
+                
+                
+                  Ammonia (as N)
+                  477.400
+                  209.900
+                
+              
+              (c) Subpart J—Alkali Leach Wash.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any one day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million) of sodium tungstate (as W) produced
+                
+                
+                  Lead
+                  0.000
+                  0.000
+                
+                
+                  Zinc
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+              
+              (d) Subpart J—Alkali Leach Wash Condensate.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any one day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million) of sodium tungstate (as W) produced
+                
+                
+                  Lead
+                  5.372
+                  2.494
+                
+                
+                  Zinc
+                  19.570
+                  8.057
+                
+                
+                  Ammonia (as N)
+                  2,557.000
+                  1,124.000
+                
+              
+              (e) Subpart J—Ion Exchange Raffinate (Commingled With Other Process or Nonprocess Waters).
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any one day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million) of ammonium tungstate (as W) produced
+                
+                
+                  Lead
+                  24.780
+                  11.500
+                
+                
+                  Zinc
+                  90.240
+                  37.160
+                
+                
+                  Ammonia (as N)
+                  11,790.000
+                  5,185.000
+                
+              
+
+              (f) Subpart J—Ion Exchange Raffinate (Not Commingled With Other Process or Nonprocess Waters).

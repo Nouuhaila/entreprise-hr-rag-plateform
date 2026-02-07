@@ -1,0 +1,136 @@
+rol.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of concentrate digested
+                
+                
+                  Lead
+                  .174
+                  .081
+                
+                
+                  Zinc
+                  .635
+                  .261
+                
+                
+                  Ammonia (as N)
+                  82.910
+                  36.450
+                
+                
+                  Fluoride
+                  21.770
+                  12.440
+                
+              
+              (b) Subpart K—Solvent Extraction Raffinate.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of concentrate digested
+                
+                
+                  Lead
+                  2.592
+                  1.203
+                
+                
+                  Zinc
+                  9.442
+                  3.888
+                
+                
+                  Ammonia (as N)
+                  1,233.000
+                  542.5000
+                
+                
+                  
+                  Fluoride
+                  324.000
+                  185.100
+                
+              
+              (c) Subpart K—Solvent Extraction Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of concentrate digested
+                
+                
+                  Lead
+                  .069
+                  .032
+                
+                
+                  Zinc
+                  .251
+                  .103
+                
+                
+                  Ammonia (as N)
+                  32.790
+                  14.420
+                
+                
+                  Fluoride
+                  8.610
+                  4.920
+                
+              
+              (d) Subpart K—Precipitation and Filtration.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of concentrate digested
+                
+                
+                  Lead
+                  3.833
+                  1.780
+                
+                
+                  Zinc
+                  13.960
+                  5.750
+                
+                
+                  Ammonia (as N)
+                  1,825.000
+                  802.200
+                
+                
+                  Fluoride
+                  479.100
+                  273.800
+                
+              
+              (e) Subpart K—Precipitation and Filtration Wet Air Pollution Control.
+              
+                PSES

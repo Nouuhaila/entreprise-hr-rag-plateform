@@ -1,0 +1,67 @@
+Lead
+                  0.000413
+                  0.000138
+                
+                
+                  Zinc
+                  0.000620
+                  0.000207
+                
+              
+              [47 FR 23284, May 27, 1982, as amended at 47 FR 41739, Sept. 22, 1982; 67 FR 64268, Oct. 17, 2002]
+            
+            
+              § 420.47
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+              (a) Electric arc furnace steelmaking—semi-wet. No discharge of process wastewater pollutants to navigable waters.
+              (b) Basic oxygen furnace steelmaking—wet-suppressed combustion. [Reserved]
+              (c) Basic oxygen furnace steelmaking—wet—open combustion; electric arc furnace steelmaking—wet. [Reserved]
+              (d) Basic oxygen furnace steelmaking—semi-wet. (1) No discharge of process wastewater pollutants to navigable waters.
+              (2) If the permittee demonstrates to the satisfaction of the permitting authority that safety considerations prevent attainment of these limitations, the permitting authority may establish alternative limitations on a best professional judgment basis.
+              [47 FR 23284, May 27, 1982, as amended at 67 FR 64268, Oct. 17, 2002]
+            
+            
+              § 420.48
+              Pretreatment standards compliance dates.
+              Compliance with the pretreatment standards for existing sources set forth in § 420.45(d) of this subpart is required not later than October 17, 2005 whether or not the pretreatment authority issues or amends a pretreatment permit requiring such compliance.
+              [67 FR 64268, Oct. 17, 2002]
+            
+          
+          
+            Subpart E—Vacuum Degassing Subcategory
+            
+              § 420.50
+              Applicability; description of the vacuum degassing subcategory.
+              The provisions of this subpart are applicable to discharges and to the introduction of pollutants into publicly owned treatment works resulting from vacuum degassing operations conducted by applying a vacuum to molten steel.
+            
+            
+              § 420.51
+              [Reserved]
+            
+            
+              § 420.52
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              
+              
+                Subpart E
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.0156
+                  0.00521
+                
+                
+                  pH
+                  (1)
+                  (1)

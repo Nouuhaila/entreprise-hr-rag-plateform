@@ -1,0 +1,71 @@
+of the Act for a new source within the mixed and blend fertilizer subcategory which is a user of a publicly owned treatment works and a major contributing industry as defined in 40 CFR part 128 (and which would be a new source subject to section 306 of the Act, if it were to discharge pollutants to the navigable waters), shall be the same standard as set forth in 40 CFR part 128, for existing sources, except that, for the purpose of this section, 40 CFR 128.121, 128.122, 128.132 and 128.133 shall not apply. The following pretreatment standard establishes the quantity or quality of pollutants or pollutant properties controlled by this section which may be discharged to a publicly owned treatment works by a new source subject to the provisions of this subpart:
+              
+                
+                  Pollutant or pollutant property
+                  Pretreatment standard
+                
+                
+                  BOD5
+                  
+                  No limitations.
+                
+                
+                  TSS
+                    Do.
+                
+                
+                  pH
+                    Do.
+                
+                
+                  Ammonia (as N)
+                  30 mg/l.
+                
+                
+                  Nitrate (as N)
+                    Do.
+                
+                
+                  Total phosphorus (as P)
+                  35 mg/l.
+                
+              
+            
+            
+              § 418.77
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology.
+              The following limitations establish the quantity or quality of pollutants or pollutant properties, which may be discharged by a point source subject to the provisions of this subpart after application of the best conventional pollutant control technology: There shall be no discharge of process waste water pollutants to navigable waters.
+              [44 FR 50742, Aug. 29, 1979]
+            
+          
+        
+        
+          Pt. 419
+          PART 419—PETROLEUM REFINING POINT SOURCE CATEGORY
+          
+            
+              Subpart A—Topping Subcategory
+              Sec.
+              419.10
+              Applicability; description of the topping subcategory.
+              419.11
+              Specialized definitions.
+              419.12
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              419.13
+
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              
+              419.14
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+              419.15
+              Pretreatment standards for existing sources (PSES).
+              419.16
+              Standards of performance for new sources (NSPS).
+              419.17
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart B—Cracking Subcategory
+              419.20
+              Applicability; description of the cracking

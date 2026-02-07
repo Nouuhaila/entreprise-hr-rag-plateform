@@ -1,0 +1,20 @@
+(a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) The term bauxite shall mean ore containing alumina monohydrate or alumina trihydrate which serves as the principal raw material for the production of alumina by the Bayer process or by the combination process.
+              (c) The term product shall mean alumina.
+              (d) For all impoundments the term within the impoundment for purposes of calculating the volume of process wastewater which may be discharged, shall mean the surface area within the impoundment at the maximum capacity plus the area of the inside and outside slopes of the impoundment dam and the surface area between the outside edge of the impoundment dam and seepage ditches upon which rain falls and is returned to the impoundment. For the purpose of such calculations, the surface area allowance for external appurtenances to the impoundment shall not be more than 30 percent of the water surface area within the impoundment dam at maximum capacity.
+              (e) The term pond water surface area for the purpose of calculating the volume of waste water shall mean the area within the impoundment for rainfall and the actual water surface area for evaporation.
+              [39 FR 12825, Apr. 8, 1974, as amended at 40 FR 48348, Oct. 15, 1975]
+            
+            
+              § 421.12
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart, shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available:
+              (a) Subject to the provisions of paragraph (b) of this section, the following limitations establish the quantity or quality of pollutants or pollutant properties which may be discharged by a point source subject to the provisions of this subpart after application of the best practicable control technology currently available: There shall be no discharge of process waste water pollutants to navigable waters.
+
+              (b) During any calendar month there may be discharged from the overflow of a process waste water impoundment either a volume of process waste water equal to the difference between the precipitation for that month that falls within the impoundment and the evaporation within the impoundment for that month, or, if greater, a volume of process waste water equal to the difference between the mean precipitation for that month that falls within the impoundment and the mean evaporation for that month as established by the National Climatic Center, National Oceanic and Atmospheric Administration, for the area in which such impoundment is located (or as otherwise determined if no monthly data have been established by the National Climatic Center).
+              [39 FR 12825, Apr. 8, 1974, as amended at 50 FR 38342, Sept. 20, 1985]
+            
+            
+              § 421.13
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              Except as provided in 4

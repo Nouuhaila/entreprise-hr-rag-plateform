@@ -1,0 +1,125 @@
+Ammonia (as N)
+                  85.310
+                  37.500
+                
+              
+              (c) Spent plating solutions.
+              
+                BAT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/liter of spent plating solution used as a raw material
+                
+                
+                  Copper
+                  1.280
+                  0.610
+                
+                
+                  Cyanide (total)
+                  0.200
+                  0.080
+                
+                
+                  Zinc
+                  1.020
+                  0.420
+                
+                
+                  Gold
+                
+                
+                  Combined metals
+                  0.300
+                  
+                
+                
+                  Ammonia (as N)
+                  133.300
+                  58.600
+                
+              
+              (d) Spent cyanide stripping solutions.
+              
+                BAT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold produced by cyanide stripping
+                
+                
+                  Copper
+                  4.736
+                  2.257
+                
+                
+                  Cyanide (total)
+                  0.740
+                  0.296
+                
+                
+                  Zinc
+                  3.774
+                  1.554
+                
+                
+                  Combined metals
+                  1.110
+                  
+                
+                
+                  Ammonia (as N)
+                  493.200
+                  216.800
+                
+              
+              (e) Refinery wet air pollution control 2.
+              
+              
+                
+                  2 This allowance applies to either acid or alkaline wet air pollution control scrubbers. If both acid and alkaline wet air pollution control scrubbers are present in a particular facility the same allowance applies to each.
+              
+              
+                BAT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of precious metals, including silver, produced in refinery
+                
+                
+                  Copper
+                  1.280
+                  0.610
+                
+                
+                  Cyanide (total)
+                  0.200
+                  0.080
+                
+                
+                  Zinc
+                  1.020
+                  0.420
+                
+                
+                  Combined metals
+                  0.300
+                  
+                
+                
+                  Ammonia (as N)
+                  133.300
+                  58.600

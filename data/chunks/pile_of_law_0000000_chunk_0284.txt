@@ -1,0 +1,62 @@
+Subpart D—Woven Fabric Finishing Subcategory
+              410.40
+              Applicability; description of the woven fabric finishing subcategory.
+              410.41
+              Specialized definitions.
+              410.42
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              410.43
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              410.44
+              Pretreatment standards for existing sources (PSES).
+              410.45
+              New source performance standards (NSPS).
+              410.46
+              Pretreatment standards for new sources (PSNS).
+              410.47
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT). [Reserved]
+            
+            
+              Subpart E—Knit Fabric Finishing Subcategory
+              410.50
+              Applicability; description of the knit fabric finishing subcategory.
+              410.51
+              Specialized definitions.
+              410.52
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              410.53
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              410.54
+              Pretreatment standards for existing sources (PSES).
+              410.55
+              New source performance standards (NSPS).
+              410.56
+              Pretreatment standards for new sources (PSNS).
+              410.57
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT). [Reserved]
+            
+            
+              Subpart F—Carpet Finishing Subcategory
+              410.60
+              Applicability; description of the carpet finishing subcategory.
+              410.61
+              Specialized definitions.
+              410.62
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              410.63
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              410.64
+              Pretreatment standards for existing sources (PSES).
+              410.65
+              New source performance standards (NSPS).
+              410.66
+              Pretreatment standards for new sources (PSNS).
+              410.67
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT). [Reserved]
+            
+            
+              Subpart G—Stock and Yarn Finishing Subcategory
+              410.70
+              Applicability; description of the stock and yarn finishing subcategory.
+              410.71
+              Specializ

@@ -1,0 +1,48 @@
+Cyclohexyl Mercaptan/Cyclohexanol + Hydrogen sulfide
+              Ethyl Mercaptan/Ethanol + Hydrogen sulfide
+              Methanol/H.P. Synthesis from natural gas via synthetic gas
+              Oxo Alcohols, C7-C11/Carbonation & hydrogenation of C6-C10 Olefins
+              Polyoxypropylene diamine/Polypropylene glycol + Ammonia
+              n-Propyl alcohol/Hydrogenation of propionaldehyde, Oxo process
+              SAN resin/Suspension polymerization
+              Styrene/Dehydrogenation of ethylbenzene
+              Styrene/Dehydration of methyl benzyl alcohol (coproduct of propylene oxide)
+              1-Tetralol, 1-Tetralone mix/Oxidation of tetralin (1,2,3,4-Tetrahydronaphthalene)
+              3,3,3-Trifluoropropene/Catalyzed hydrogen fluoride exchange with chlorinated propane
+              Vinyl toluene/Dehydrogenation (thermal) of ethyltoluene
+              Copper
+              Methylhydroabietate/Esterification of hydroabietic acid (rosin) with methanol
+              Acetaldehyde/Oxidation of ethylene with cupric chloride catalyst
+              Acetic acid/Catalytic oxidation of butane
+              Acetone/Dehydrogenation of isopropanol
+              Acrylamide/Catalytic hydration of acrylonitrile
+              Acrylic acid/Oxidation of propylene via acrolein
+              Acrylonitrile/Propylene ammoxidation
+              Adipic acid/Oxidation of cyclohexanol-cyclohexanone mixture
+              Adipic acid/Oxidation of cyclohexane via cyclohexanol-cyclohexanone mixture
+              Allynitrile/Allychloride + sodium cyanide
+              Aniline/Hydrogenation of nitrobenzene
+              Benzofurans, 2,3-Dihydro-2,2-dimethyl-7-benzofuranol/ from o-Nitrophenol + Methallyl chloride
+              n-Butyl alcohol/Hydrogenation of n-Butyraldehyde, Oxo process
+              1,4-Butanediol/Hydrogenation of 1,4-butynediol
+              Butryolactone/Dehydrogenation of 1,4-butanediol
+              Caprolactam/From cyclohexane via cyclohexanone and its oxime
+              Lilian (hydroxydihydrocitronellal)/Hydration and oxidation of citronellol
+              1,2-Dichloroethane/Oxyhydrochlorination of ethylene
+              Dialkyldithiocarbamates, metal salts/Dialkylamines + carbon disulfide
+              2-Ethylhexanol/from n-Butyraldehyde by Aldo condensation and hydrogenation
+              Fatty amines/Hydrogenation of fatty nitriles (batch)
+              Geraniol/B-Myrcene + Hydrogen chloride, esterification of geranyl chloride, hydrolysis of geranyl acetate
+              Furfuryl alcohol/Hydrogenation of furfural
+              Geranial (Citral)/Oxidation of geraniol (copper catalyst)
+              Glyoxal/Oxidation of ethylene glycol
+              Isobutanol/Hydrogenation of isobutyraldehyde, Oxo process
+              Isopropanol/Catalytic hydrogenation of acetone
+              2-Mercaptobenzothiazoles, copper salt/2-Mercaptobenzothiazole + copper salt
+              Methanol/High pressure synthesis from natural gas via synthetic gas
+              Methanol/Low pressure synthesis from natural gas via synthetic gas
+              Methyl ethyl ketone/Dehydrogenation of sec-Butanol
+              Oxo alcohols, C7-C11/Carbonation & hydrogenation of C6-C10 olefins
+              Phenol/Liquid phase oxidation of benzoic acid
+              Polyoxyalkylene amines/Polyoxyalkylene glycol + ammonia
+              Polyphenylene oxide/Solution polymerization of 2,6-xylenol by oxidative coupling (cuprous salt catalyst)

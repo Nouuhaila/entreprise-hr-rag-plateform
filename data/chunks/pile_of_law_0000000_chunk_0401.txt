@@ -1,0 +1,68 @@
+ed]
+              415.82
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.83
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              415.84
+              [Reserved]
+              415.85
+              New source performance standards (NSPS).
+              415.86
+              Pretreatment standards for new sources (PSNS).
+              415.87
+              [Reserved]
+            
+            
+              Subpart I—Hydrogen Peroxide Production Subcategory
+              415.90
+              Applicability; description of the hydrogen peroxide production subcategory.
+              415.91
+              Specialized definitions.
+              415.92
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+            
+            
+              Subpart J—Nitric Acid Production Subcategory [Reserved]
+            
+            
+              Subpart K—Potassium Metal Production Subcategory
+              415.110
+              Applicability; description of the potassium metal production subcategory.
+              415.111
+              Specialized definitions. [Reserved]
+              415.112
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.113
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              415.114
+              [Reserved]
+              415.115
+              New source performance standards (NSPS).
+              415.116
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart L—Potassium Dichromate Production Subcategory
+              415.120
+              Applicability; description of the potassium dichromate production subcategory.
+              415.121
+              Specialized definitions. [Reserved]
+              415.122
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.123
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              415.124
+              Pretreatment standards for existing sources (PSES).
+              415.125
+              New source performance standards (NSPS).
+              415.126
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart M—Potassium Sulfate Production Subcategory
+              415.130
+              Applicability; description of the potassium sulfate production subcategory.
+              415.131
+              Specialized definitions. [Reserved]
+              415.132
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by t

@@ -1,0 +1,109 @@
+§ 421.293
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable:
+              (a) Tin smelter SO2 scrubber.
+              
+                BAT Limitations for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of crude tapped tin produced
+                
+                
+                  Arsenic
+                  12.790
+                  5.703
+                
+                
+                  Lead
+                  2.575
+                  1.196
+                
+                
+                  Iron
+                  11.040
+                  5.611
+                
+                
+                  Tin
+                  3.495
+                  2.024
+                
+              
+              (b) Dealuminizing rinse.
+              
+                BAT Limitations for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of dealuminized scrap produced
+                
+                
+                  Lead
+                  0.010
+                  0.005
+                
+                
+                  Cyanide (total)
+                  0.007
+                  0.003
+                
+                
+                  Fluoride
+                  1.225
+                  0.697
+                
+                
+                  Tin
+                  0.013
+                  0.008
+                
+              
+              (c) Tin mud acid neutralization filtrate.
+              
+                BAT Limitations for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of neutralized dewatered tin mud produced
+                
+                
+                  Lead
+                  1.413
+                  0.656
+                
+                
+                  Cyanide (total)
+                  1.009
+                  0.404
+                
+                
+                  Fluoride
+                  176.600
+                  100.400
+                
+                
+                  Tin
+                  1.918
+                  1.110
+                
+              
+              (d) Tin hydroxide wash.
+              
+                BAT Limitations for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average

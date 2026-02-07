@@ -1,0 +1,120 @@
+0.000206
+                  0.0000688
+                
+                
+                  Zinc
+                  0.000275
+                  0.0000918
+                
+              
+              (4) Fume scrubber.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for new sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kilograms per day
+                
+                
+                  Lead
+                  0.0368
+                  0.0123
+                
+                
+                  Zinc
+                  0.0491
+                  0.0164
+                
+                Note: The above limitations shall be applicable for each fume scrubber associated with hydrochloric acid pickling operations.
+              
+              (c) Combination acid pickling (spent acid solutions and rinse waters)—(1) Rod, wire, and coil.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for new sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Chromium
+                  0.000292
+                  0.000117
+                
+                
+                  Nickel
+                  0.000263
+                  0.0000876
+                
+              
+              (2) Bar, billet, and bloom.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for new sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Chromium
+                  0.000167
+                  0.0000667
+                
+                
+                  Nickel
+                  0.000150
+                  0.0000501
+                
+              
+              (3) Strip, sheet, and plate—continuous.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for new sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Chromium
+                  0.000710
+                  0.000284
+                
+                
+                  Nickel
+                  0.000638
+                  0.000213
+                
+              
+              (4) Strip, sheet, and plate—batch.
+                
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for new sources
+                  Maximum for any 1 day
+                  Average of daily values fo

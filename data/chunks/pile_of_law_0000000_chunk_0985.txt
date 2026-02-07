@@ -1,0 +1,130 @@
+46
+                  12.60
+                
+                
+                  Zinc
+                  91.98
+                  38.43
+                
+                
+                  Fluoride
+                  2,205.00
+                  1,254.00
+                
+                
+                  Total suspended solids
+                  2,583.00
+                  1,229.00
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Chlorinator wet air pollution control.
+              
+                NSPS for the Primary and Secondary Germanium and Gallium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of germanium chlorinated
+                
+                
+                  Arsenic
+                  27.530
+                  12.250
+                
+                
+                  Lead
+                  5.531
+                  2.634
+                
+                
+                  Zinc
+                  19.230
+                  8.034
+                
+                
+                  Fluoride
+                  461.000
+                  262.100
+                
+                
+                  Total suspended solids
+                  540.000
+                  256.800
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Germanium hydrolysis filtrate.
+              
+                NSPS for the Primary and Secondary Germanium and Gallium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for 1 one day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg pounds per million pounds) of germanium hydrolyzed
+                
+                
+                  Arsenic
+                  39.440
+                  17.550
+                
+                
+                  Lead
+                  7.925
+                  3.774
+                
+                
+                  Zinc
+                  27.550
+                  11.510
+                
+                
+                  Fluoride
+                  660.500
+                  375.500
+                
+                
+                  Total suspended solids
+                  773.700
+                  368.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (d) Acid wash and rinse water.
+              
+                NSPS for the Primary and Secondary Germanium and Gallium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of germanium washed
+                
+                
+                  Arsenic

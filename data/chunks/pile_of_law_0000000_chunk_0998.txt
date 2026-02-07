@@ -1,0 +1,114 @@
+Fluoride
+                  801.400
+                  455.700
+                
+                
+                  Total suspended solids
+                  938.800
+                  446.500
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (e) Depleted rhenium scrubbing solution.
+              
+                BPT Limitations for the Primary Molybdenum and Rhenium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of molybdenum sulfide roasted
+                
+                
+                  Arsenic
+                  1.497
+                  0.666
+                
+                
+                  Lead
+                  0.301
+                  0.143
+                
+                
+                  Nickel
+                  1.375
+                  0.909
+                
+                
+                  Selenium
+                  0.881
+                  0.394
+                
+                
+                  Molybdenum
+                  [Reserved]
+                  [Reserved]
+                
+                
+                  Ammonia (as N)
+                  95.440
+                  41.960
+                
+                
+                  Fluoride
+                  25.060
+                  14.250
+                
+                
+                  Total suspended solids
+                  29.360
+                  13.960
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              [50 FR 38355, Sept. 20, 1985, as amended at 55 FR 31701, Aug. 3, 1990]
+            
+            
+              § 421.213
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable:
+              (a) Molybdenum sulfide leachate.
+              
+                BAT Limitations for the Primary Molybdenum and Rhenium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds million pounds) of molybdenum sulfide leached
+                
+                
+                  Arsenic
+                  0.644
+                  0.287
+                
+                
+                  Lead
+                  0.130
+                  0.060
+                
+                
+                  Nickel
+                  0.255
+                  0.171
+                
+                
+                  Selenium
+                  0.380
+                  0.171

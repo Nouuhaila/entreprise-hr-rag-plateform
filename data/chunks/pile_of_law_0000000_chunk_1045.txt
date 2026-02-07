@@ -1,0 +1,133 @@
+ls Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of palladium precipitated
+                
+                
+                  Copper
+                  11.400
+                  6.000
+                
+                
+                  Cyanide (total)
+                  1.740
+                  0.720
+                
+                
+                  Zinc
+                  8.760
+                  3.660
+                
+                
+                  Ammonia (as N)
+                  799.800
+                  351.600
+                
+                
+                  Combined metals
+                  1.800
+                  
+                
+                
+                  Total suspended solids
+                  246.000
+                  117.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (k) Other platinum group metals precipitation and filtration.
+              
+                BPT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of other platinum group metals precipitated
+                
+                
+                  Copper
+                  9.880
+                  5.200
+                
+                
+                  Cyanide (total)
+                  1.508
+                  0.624
+                
+                
+                  Zinc
+                  7.592
+                  3.172
+                
+                
+                  Ammonia (as N)
+                  693.200
+                  304.700
+                
+                
+                  Combined metals
+                  1.560
+                  
+                
+                
+                  Total suspended solids
+                  213.200
+                  101.400
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (l) Spent solution from PGC salt production.
+              
+                BPT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold contained in PGC product
+                
+                
+                  Copper
+                  1.710
+                  0.900
+                
+                
+                  Cyanide (total)
+                  0.261
+                  0.108
+                
+                
+                  Zinc
+                  1.314
+                  0.549
+                
+                
+                  Ammonia (as N)
+                  120.000
+                  52.740
+                
+                
+                  Combined metals
+                  0.270

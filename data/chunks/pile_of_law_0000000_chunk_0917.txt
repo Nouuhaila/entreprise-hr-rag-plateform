@@ -1,0 +1,125 @@
+mg/troy ounce of silver produced from leaching or silver precipitated
+                
+                
+                  Copper
+                  5.671
+                  2.703
+                
+                
+                  Zinc
+                  4.519
+                  1.861
+                
+                
+                  Ammonia (as N)
+                  590.500
+                  259.600
+                
+              
+              (j) Subpart L—Precipitation and Filtration of Nonphotographic Solutions.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver precipitated
+                
+                
+                  Copper
+                  3.930
+                  1.873
+                
+                
+                  Zinc
+                  3.132
+                  1.290
+                
+                
+                  Ammonia (as N)
+                  409.300
+                  179.900
+                
+              
+              (k) Subpart L—Floor and Equipment Washdown.
+              
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver production
+                
+                
+                  Copper
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+            
+            
+              § 421.124
+              Standards of performance for new sources.
+              Any new source subject to this subpart shall achieve the following new source performance standards:
+              (a) Subpart L—Film Stripping.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver from film stripping
+                
+                
+                  Copper
+                  64.450
+                  30.720
+                
+                
+                  Zinc
+                  51.360
+                  21.150
+                
+                
+                  Ammonia (as N)
+                  6,712.000
+                  2,951.000
+                
+                
+                  Total suspended solids
+                  755.300
+                  604.200
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Subpart L—Film Stripping Wet Air Pollution Control and Precipitation and Filtration of Film Stripping Solutions Wet Air Pollution Control.
+              
+                NSPS
+                
+                  Pollutant or pollutant property

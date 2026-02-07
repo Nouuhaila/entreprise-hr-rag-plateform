@@ -1,0 +1,131 @@
+Nickel
+                  1.997
+                  1.321
+                
+                
+                  Titanium
+                  0.978
+                  0.426
+                
+                
+                  Oil and grease
+                  20.800
+                  12.480
+                
+                
+                  Total suspended solids
+                  42.640
+                  20.280
+                
+                
+                  
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) TiCl4 handling wet air pollution control.
+              
+                BPT Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of TiCl4 handled
+                
+                
+                  Chromium (total)
+                  0.082
+                  0.034
+                
+                
+                  Lead
+                  0.079
+                  0.037
+                
+                
+                  Nickel
+                  0.359
+                  0.237
+                
+                
+                  Titanium
+                  0.176
+                  0.077
+                
+                
+                  Oil and grease
+                  3.740
+                  2.244
+                
+                
+                  Total suspended solids
+                  7.667
+                  3.647
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (d) Reduction area wet air pollution control.
+              
+                BPT Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium produced
+                
+                
+                  Chromium (total)
+                  18.170
+                  7.435
+                
+                
+                  Lead
+                  17.350
+                  8.261
+                
+                
+                  Nickel
+                  79.300
+                  52.450
+                
+                
+                  Titanium
+                  38.820
+                  16.930
+                
+                
+                  Oil and grease
+                  826.100
+                  495.600
+                
+                
+                  Total suspended solids
+                  1,693.000
+                  805.400
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (e) Melt cell wet air pollution control.
+              
+                BPT Limitations for the Primary and Secondary Titanium Subcategory

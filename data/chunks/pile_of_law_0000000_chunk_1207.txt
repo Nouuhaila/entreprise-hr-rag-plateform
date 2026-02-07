@@ -1,0 +1,18 @@
+red gasification wastewater.
+            (r) The term combustion residual leachate means leachate from landfills or surface impoundments containing combustion residuals. Leachate is composed of liquid, including any suspended or dissolved constituents in the liquid, that has percolated through waste or other materials emplaced in a landfill, or that passes through the surface impoundment's containment structure (e.g., bottom, dikes, berms). Combustion residual leachate includes seepage and/or leakage from a combustion residual landfill or impoundment unit. Combustion residual leachate includes wastewater from landfills and surface impoundments located on non-adjoining property when under the operational control of the permitted facility.
+            (s) The term oil-fired unit means a generating unit that uses oil as the primary or secondary fuel source and does not use a gasification process or any coal or petroleum coke as a fuel source. This definition does not include units that use oil only for start up or flame-stabilization purposes.
+            (t) The phrase “as soon as possible” means November 1, 2018 (except for purposes of § 423.13(g)(1)(i) and (k)(1)(i), and § 423.16(e) and (g), in which case it means November 1, 2020), unless the permitting authority establishes a later date, after receiving information from the discharger, which reflects a consideration of the following factors:
+            (1) Time to expeditiously plan (including to raise capital), design, procure, and install equipment to comply with the requirements of this part.
+            (2) Changes being made or planned at the plant in response to:
+            (i) New source performance standards for greenhouse gases from new fossil fuel-fired electric generating units, under sections 111, 301, 302, and 307(d)(1)(C) of the Clean Air Act, as amended, 42 U.S.C. 7411, 7601, 7602, 7607(d)(1)(C);
+            (ii) Emission guidelines for greenhouse gases from existing fossil fuel-fired electric generating units, under sections 111, 301, 302, and 307(d) of the Clean Air Act, as amended, 42 U.S.C. 7411, 7601, 7602, 7607(d); or
+            (iii) Regulations that address the disposal of coal combustion residuals as solid waste, under sections 1006(b), 1008(a), 2002(a), 3001, 4004, and 4005(a) of the Solid Waste Disposal Act of 1970, as amended by the Resource Conservation and Recovery Act of 1976, as amended by the Hazardous and Solid Waste Amendments of 1984, 42 U.S.C. 6906(b), 6907(a), 6912(a), 6944, and 6945(a).
+
+            (3) For FGD wastewater requirements only, an initial commissioning period for the treatment system to optimize the installed equipment.
+            (4) Other factors as appropriate.
+            [47 FR 52304, Nov. 19, 1982, as amended at 77 FR 29834, May 18, 2012; 80 FR 67893, Nov. 3, 2015; 82 FR 43500, Sept. 18, 2017]
+          
+          
+            § 423.12
+            Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+            (a) In establishing the limitations set forth in this section, EPA took into account all information it was able to collect, develop and solicit with respect to factors (such as age and size of plant, utilization of facilities, raw materials, manufacturing processes, non-water quality environmental impacts, control and treatment technology available, energy requirements and costs) which can affe

@@ -1,0 +1,118 @@
+0.262
+                  0.176
+                
+                
+                  Titanium
+                  0.253
+                  0.110
+                
+              
+              (o) Casting contact cooling water.
+              
+                PSES for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium cast
+                
+                
+                  Chromium (total)
+                  27.000
+                  10.950
+                
+                
+                  Lead
+                  20.430
+                  9.486
+                
+                
+                  Nickel
+                  40.140
+                  27.000
+                
+                
+                  Titanium
+                  38.680
+                  16.780
+                
+              
+            
+            
+              § 421.306
+              Pretreatment standards for new sources.
+              Except as provided in 40 CFR 403.7, any new source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for new sources. The mass of wastewater pollutants in primary and secondary titanium process wastewater introduced into a POTW shall not exceed the following values:
+
+              (a) Chlorination off-gas wet air pollution control.
+              
+              
+                PSNS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of TiCl4 produced
+                
+                
+                  Chromium (total)
+                  0.346
+                  0.140
+                
+                
+                  Lead
+                  0.262
+                  0.122
+                
+                
+                  Nickel
+                  0.515
+                  0.346
+                
+                
+                  Titanium
+                  0.496
+                  0.215
+                
+              
+              (b) Chlorination area-vent wet air pollution control.
+              
+                PSNS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of TiCl4 produced
+                
+                
+                  Chromium (total)
+                  0.385
+                  0.156
+                
+                
+                  Lead
+                  0.291
+                  0.135
+                
+                
+                  Nickel
+                  0.572
+                  0.385
+                
+                
+                  Titanium
+                  0.551
+                  0.239
+                
+              
+              (c) TiCl4 handling wet air pollution control.
+              
+                PSNS for the Primary

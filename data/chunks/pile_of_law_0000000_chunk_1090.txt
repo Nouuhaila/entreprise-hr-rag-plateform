@@ -1,0 +1,132 @@
+NSPS for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tin hydroxide washed
+                
+                
+                  Lead
+                  3.347
+                  1.554
+                
+                
+                  Cyanide (total)
+                  2.391
+                  0.956
+                
+                
+                  Fluoride
+                  418.400
+                  237.900
+                
+                
+                  Tin
+                  4.542
+                  2.630
+                
+                
+                  Total suspended solids
+                  179.300
+                  143.400
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (e) Spent electrowinning solution from new scrap.
+              
+                NSPS for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cathode tin produced
+                
+                
+                  Lead
+                  4.704
+                  2.184
+                
+                
+                  Cyanide (total)
+                  3.360
+                  1.344
+                
+                
+                  Fluoride
+                  588.000
+                  334.300
+                
+                
+                  Tin
+                  6.384
+                  3.696
+                
+                
+                  Total suspended solids
+                  252.000
+                  201.600
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (f) Spent electrowinning solution from municipal solid waste.
+              
+                NSPS for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of MSW scrap used as raw material
+                
+                
+                  Lead
+                  0.033
+                  0.015
+                
+                
+                  Cyanide (total)
+                  0.024
+                  0.010
+                
+                
+                  Fluoride
+                  4.165
+                  2.368
+                
+                
+                  Tin
+                  0.045
+                  0.026
+                
+                
+                  Total suspended solids
+                  1.785
+                  1.428
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range o

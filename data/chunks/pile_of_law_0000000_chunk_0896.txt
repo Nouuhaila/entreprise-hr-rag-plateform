@@ -1,0 +1,113 @@
+Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .000
+                  .000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              [49 FR 8817, Mar. 8, 1984, as amended at 49 FR 29795, July 24, 1984; 50 FR 12253, Mar. 28, 1985]
+            
+            
+              § 421.113
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable:
+              (a) Subpart K—Concentrate Digestion Wet Air Pollution Control.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of concentrate digested
+                
+                
+                  Lead
+                  .174
+                  .081
+                
+                
+                  Zinc
+                  .635
+                  .261
+                
+                
+                  Ammonia (as N)
+                  82.910
+                  36.450
+                
+                
+                  Fluoride
+                  21.770
+                  12.440
+                
+              
+              (b) Subpart K—Solvent Extraction Raffinate.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/Kg (pounds per million pounds) of concentrate digested
+                
+                
+                  Lead
+                  2.592
+                  1.203
+                
+                
+                  Zinc
+                  9.442
+                  3.888
+                
+                
+                  Ammonia (as N)
+                  1,233.000
+                  542.5000
+                
+                
+                  Fluoride
+                  324.000
+                  185.100
+                
+              
+              (c) Subpart K—Solvent Extraction Wet Air Pollution Control.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of concentrate digested
+                
+                
+                  Lead

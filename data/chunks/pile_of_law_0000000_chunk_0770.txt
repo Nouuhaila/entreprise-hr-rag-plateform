@@ -1,0 +1,134 @@
+0.000209
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 6.0 to 9.0.
+              
+              (2) Recirculation—multiple stands.
+              
+              
+                Subpart J
+                
+                  Pollutant or pollutant property
+                  BCT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.00626
+                  0.00313
+                
+                
+                  O&G
+                  0.00261
+                  0.00104
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 6.0 to 9.0.
+              
+              (3) Combination.
+              
+              
+                Subpart J
+                
+                  Pollutant or pollutant property
+                  BCT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.0751
+                  0.0376
+                
+                
+                  O&G
+                  0.0313
+                  0.0125
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 6.0 to 9.0.
+              
+              (4) Direct application—single stand.
+              
+              
+                Subpart J
+                
+                  Pollutant or pollutant property
+                  BCT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.0225
+                  0.0113
+                
+                
+                  O&G
+                  0.00939
+                  0.00376
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 6.0 to 9.0.
+              
+              (5) Direct application—multiple stands.
+              
+              
+                Subpart J
+                
+                  Pollutant or pollutant property
+                  BCT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.100
+                  0.0501
+                
+                
+                  O&G
+                  0.0417
+                  0.0167
+                
+                
+                  pH
+                  (1)
+                  (1)

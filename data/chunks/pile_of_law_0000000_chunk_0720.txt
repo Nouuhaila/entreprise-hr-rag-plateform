@@ -1,0 +1,116 @@
+nt source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              (a) Sulfuric acid pickling (spent acid solutions and rinse waters)—(1) Rod, wire and coil.
+                
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.0818
+                  0.0350
+                
+                
+                  O&G 1
+                  
+                  0.0350
+                  0.0117
+                
+                
+                  Lead
+                  0.000526
+                  0.000175
+                
+                
+                  Zinc
+                  0.000701
+                  0.000234
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  1 The limitations for oil and grease shall be applicable when acid pickling wastewaters are treated with cold rolling wastewaters.
+                
+                  2 Within the range of 6.0 to 9.0.
+              
+              (2) Bar, billet and bloom.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.0263
+                  0.0113
+                
+                
+                  O&G 1
+                  
+                  0.0113
+                  0.00375
+                
+                
+                  Lead
+                  0.000169
+                  0.0000563
+                
+                
+                  Zinc
+                  0.000225
+                  0.0000751
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  1 The limitations for oil and grease shall be applicable when acid pickling wastewaters are treated with cold rolling wastewaters.
+                
+                  2 Within the range of 6.0 to 9.0.
+              
+              (3) Strip, sheet and plate.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.0526
+                  0.0225
+                
+                
+                  O&G 1
+                  
+                  0.0225
+                  0.00751

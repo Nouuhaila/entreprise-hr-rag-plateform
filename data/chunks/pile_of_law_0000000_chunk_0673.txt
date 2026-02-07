@@ -1,0 +1,44 @@
+l Authority in accordance with 40 CFR 403.12(b)(3).
+              (b) The average rate of production reported by the owner or operator in accordance with 40 CFR 403.12(b)(3) shall be based not upon the design production capacity but rather upon a reasonable measure of actual production of the facility, such as the production during the high month of the previous year, or the monthly average for the highest of the previous 5 years. For new sources or new dischargers, actual production shall be estimated using projected production.
+              (c) If, due to a change of circumstances, the average rate of production for an operation reported by the owner or operator of the facility to the Control Authority in accordance with 40 CFR 403.12(b)(3) does not represent a reasonable measure of actual production of that operation, the owner or operator must submit to the Control Authority a modified average rate of production.
+              [49 FR 21029, May 17, 1984; 49 FR 24726, June 15, 1984; 49 FR 25634, June 22, 1984]
+            
+            
+              § 420.05
+              Pretreatment standards compliance date.
+              The final compliance date for the categorical pretreatment standards set forth in 40 CFR part 420 is July 10, 1985.
+              [48 FR 46943, Oct. 14, 1983]
+            
+            
+              § 420.06
+              Removal credits for phenols (4AAP).
+              Removal allowances pursuant to 40 CFR 403.7(a)(1) may be granted for phenols (4AAP) limited in 40 CFR part 420 when used as an indicator or surrogate pollutant.
+              [49 FR 21029, May 17, 1984]
+            
+            
+              § 420.07
+              Effluent limitations guidelines and standards for pH.
+              (a) The pH level in process wastewaters subject to a subpart within this part shall be within the range of 6.0 to 9.0.
+              (b) The pH level shall be monitored at the point of discharge to the receiving water or at the point at which the wastewater leaves the wastewater treatment facility operated to treat effluent subject to that subpart.
+              [67 FR 64261, Oct. 17, 2002]
+            
+            
+              § 420.08
+              Non-process wastewater and storm water.
+              Permit and pretreatment control authorities may provide for increased loadings for non-process wastewaters defined at § 420.02 and for storm water from the immediate process area in NPDES permits and pretreatment control mechanisms using best professional judgment, but only to the extent such non-process wastewaters result in an increased flow.
+              [67 FR 64261, Oct. 17, 2002]
+            
+          
+          
+            Subpart A—Cokemaking Subcategory
+            
+              § 420.10
+              Applicability.
+              The provisions of this subpart are applicable to discharges and the introduction of pollutants into publicly owned treatment works resulting from by-product and other cokemaking operations.
+              [67 FR 64261, Oct. 17, 2002]
+            
+            
+              § 420.11
+              Specialized definitions.
+              (a) For the cokemaking subcategory, the term product means the production of coke plus coke breeze.
+              (b) The term by-product cokemaking means operations in which coal is heated in the absence of air to produce metallurgical coke (furnace coke and foundry coke), and the recovery of by-products derived from the gases and liquids that are d

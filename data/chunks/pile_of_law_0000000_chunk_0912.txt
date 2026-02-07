@@ -1,0 +1,132 @@
+e of silver precipitated
+                
+                
+                  Copper
+                  50.540
+                  26.600
+                
+                
+                  Zinc
+                  38.836
+                  16.226
+                
+                
+                  Ammonia (as N)
+                  3,545.000
+                  1,559.000
+                
+                
+                  Total suspended solids
+                  1,090.600
+                  518.700
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (e) Subpart L—Precipitation and Filtration of Photographic Solutions Wet Air Pollution Control.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver from precipitation and filtration of photographic solutions
+                
+                
+                  Copper
+                  23.070
+                  12.140
+                
+                
+                  Zinc
+                  17.730
+                  7.406
+                
+                
+                  Ammonia (as N)
+                  1,618.000
+                  711.400
+                
+                
+                  Total suspended solids
+                  497.800
+                  236.800
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (f) Subpart L—Electrolytic Refining.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver from electrolytic refining
+                
+                
+                  Copper
+                  1.444
+                  .760
+                
+                
+                  Zinc
+                  1.110
+                  .464
+                
+                
+                  Ammonia (as N)
+                  101.300
+                  44.540
+                
+                
+                  Total suspended solids
+                  31.160
+                  14.820
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+
+              (g) Subpart L—Furnace Wet Air Pollution Control.
+              
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver roasted, smelted, or dried
+                
+                
+                  Copper
+                  1.273
+                  .670
+                
+                
+                  Zinc
+                  .9

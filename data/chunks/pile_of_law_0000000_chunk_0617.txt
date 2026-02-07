@@ -1,0 +1,133 @@
+Pollutant or pollutant property
+                  Pretreatment standards for new sources—maximum for any 1 day
+                
+                
+                  
+                  Milligrams per liter (mg/l)
+                
+                
+                  Oil and grease
+                  100
+                
+                
+                  Ammonia
+                  
+                    1 100
+                
+                
+                  1 Where the discharge to the POTW consists solely of sour waters, the owner or operator has the option of complying with this limit or the daily maximum mass limitation for ammonia set forth in § 419.23 (a) and (b).
+              
+            
+            
+              § 419.26
+              Standards of performance for new sources (NSPS).
+
+              (a) Any new source subject to this subpart must achieve the following new source performance standards (NSPS):
+              
+              
+                
+                  Pollutant or pollutant property
+                  NSPS effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed
+                
+                
+                  
+                  Metric units (kilograms per 1,000 m3 of feedstock)
+                
+                
+                  BOD5
+                  
+                  16.3
+                  8.7
+                
+                
+                  TSS
+                  11.3
+                  7.2
+                
+                
+                  COD 1
+                  
+                  118.0
+                  61
+                
+                
+                  oil and grease
+                  4.8
+                  2.6
+                
+                
+                  Phenolic compounds
+                  0.119
+                  0.058
+                
+                
+                  Ammonia (as N)
+                  18.8
+                  8.6
+                
+                
+                  Sulfide
+                  0.105
+                  0.048
+                
+                
+                  Total chromium
+                  0.24
+                  0.14
+                
+                
+                  Hexavalent chromium
+                  0.020
+                  0.0088
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  
+                  English units (pounds per 1,000 bbl of feedstock)
+                
+                
+                  BOD5
+                  
+                  5.8
+                  3.1
+                
+                
+                  TSS
+                  4.0
+                  2.5
+                
+                
+                  COD 1
+                  
+                  41.5
+                  21
+                
+                
+                  Oil and grease
+                  1.7
+                  0.93
+                
+                
+                  Phenolic compounds
+                  0.042
+                  0.020
+                
+                
+                  Ammonia (as N)
+                  6.6
+                  3.0
+                
+                
+                  Sulfide
+                  0.037
+                  0.017
+                
+                
+                  Total chromium
+                  0.084

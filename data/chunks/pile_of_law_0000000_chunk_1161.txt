@@ -1,0 +1,125 @@
+Nickel
+                  1.091
+                  0.721
+                
+                
+                  Ammonia (as N)
+                  75.710
+                  33.280
+                
+                
+                  Total suspended solids
+                  23.290
+                  11.080
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Sand chlorination off-gas wet air pollution control.
+              
+                BPT Limitations for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zironium dioxide and hafnium dioxide produced
+                
+                
+                  Chromium (total)
+                  19.130
+                  7.825
+                
+                
+                  Cyanide (total)
+                  12.610
+                  5.216
+                
+                
+                  Lead
+                  18.260
+                  8.694
+                
+                
+                  Nickel
+                  83.460
+                  55.210
+                
+                
+                  Ammonia (as N)
+                  5,795.000
+                  2,547.000
+                
+                
+                  Total suspended solids
+                  1,782.000
+                  847.700
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Sand chlorination area-vent wet air pollution control.
+              
+                BPT Limitations for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium dioxide and hafnium dioxide produced
+                
+                
+                  Chromium (total)
+                  3.751
+                  1.534
+                
+                
+                  Cyanide (total)
+                  2.472
+                  1.023
+                
+                
+                  Lead
+                  3.580
+                  1.705
+                
+                
+                  Nickel
+                  16.370
+                  10.830
+                
+                
+                  Ammonia (as N)
+                  1,136.000
+                  449.500
+                
+                
+                  Total suspended solids
+                  349.500
+                  166.200
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (d) SiCl4 purification wet air pollution control.
+              
+                BPT Limitations for the Primary Zirconium and Hafnium Subcategory

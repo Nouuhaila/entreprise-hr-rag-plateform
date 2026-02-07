@@ -1,0 +1,133 @@
+0.000
+                
+                
+                  Lead
+                  0.000
+                  0.000
+                
+                
+                  Nickel
+                  0.000
+                  0.000
+                
+                
+                  Iron
+                  0.000
+                  0.000
+                
+                
+                  Molybdenum
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+              
+              (d) Molybdenum drying wet air pollution control.
+              
+                BAT Limitations for the Secondary Molybdenum and Vanadium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of molybdenum produced
+                
+                
+                  Arsenic
+                  0.000
+                  0.000
+                
+                
+                  Chromium
+                  0.000
+                  0.000
+                
+                
+                  Lead
+                  0.000
+                  0.000
+                
+                
+                  Nickel
+                  0.000
+                  0.000
+                
+                
+                  Iron
+                  0.000
+                  0.000
+                
+                
+                  Molybdenum
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+              
+              (e) Pure Grade Molybdenum.
+              
+                BAT Limitations for the Secondary Molybdenum and Vanadium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of pure molybdenum produced
+                
+                
+                  Arsenic
+                  32.359
+                  14.434
+                
+                
+                  Chromium
+                  8.614
+                  3.492
+                
+                
+                  Lead
+                  6.518
+                  3.026
+                
+                
+                  Nickel
+                  12.804
+                  8.614
+                
+                
+                  Iron
+                  27.936
+                  14.201
+                
+                
+                  Molybdenum
+                  [Reserved]
+                  [Reserved]
+                
+                
+                  Ammonia (as N)
+                  9638.000
+                  4237.000
+                
+              
+              [50 FR 38357, Sept. 20, 1985, as amended at 55 FR 31703, 31704, Aug. 3, 1990]
+            
+            
+              § 421.224
+              Standards of performance for new sources.
+              Any new source subject to this subpart shall achieve the following new source performance standards:
+              (a) Leach tailings.
+              
+                NSPS for the Secondary Molybdenum and Vanadi

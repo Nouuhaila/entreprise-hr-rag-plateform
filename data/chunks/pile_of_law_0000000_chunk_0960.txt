@@ -1,0 +1,106 @@
+5 FR 36932, Sept. 7, 1990]
+            
+            
+              § 421.153
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable:
+              (a) Solvent extraction raffinate from bertrandite ore.
+              
+                BAT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium carbonate produced from bertrandite ore as beryllium
+                  
+                
+                
+                  Beryllium
+                  1,842.000
+                  831.000
+                
+                
+                  Chromium (total)
+                  831.000
+                  336.900
+                
+                
+                  Copper
+                  2,875.000
+                  1,370.000
+                
+                
+                  Cyanide (total)
+                  449.200
+                  179.700
+                
+                
+                  Ammonia (as N)
+                  299,400.000
+                  131,600.000
+                
+                
+                  Fluoride
+                  78,610.000
+                  44,700.000
+                
+              
+              (b) Solvent extraction raffinate from beryl ore.
+              
+                BAT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium carbonate produced from beryl ore as beryllium
+                  
+                
+                
+                  Beryllium
+                  180.4
+                  81.4
+                
+                
+                  Chromium (total)
+                  81.4
+                  33.0
+                
+                
+                  Copper
+                  281.6
+                  134.2
+                
+                
+                  Cyanide (total)
+                  44.0
+                  17.6
+                
+                
+                  Ammonia (as N)
+                  29,330.0
+                  12,890.0
+                
+                
+                  Fluoride
+                  7,700.0
+                  4,378.0
+                
+              
+              (c) Beryllium carbonate filtrate.
+              
+              
+                BAT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium carbonate produced as beryllium

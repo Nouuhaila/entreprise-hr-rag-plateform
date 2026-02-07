@@ -1,0 +1,65 @@
+of chlorination.
+            (10)(i) Cooling tower blowdown. The quantity of pollutants discharged in cooling tower blowdown shall not exceed the quantity determined by multiplying the flow of cooling tower blowdown times the concentration listed below:
+            
+              
+                Pollutant or pollutant property
+                NSPS
+                Maximum concentration(mg/l)
+                
+                Average concentration(mg/l)
+                
+              
+              
+                Free available chlorine
+                0.5
+                0.2
+              
+            
+            
+              
+                Pollutant or pollutant property
+                NSPS
+                Maximum forany 1 day
+                  (mg/l)
+                
+                Average of dailyvalues for 30
+                  consecutive days
+                  shall not exceed
+                  (mg/l)
+                
+              
+              
+                The 126 priority pollutants (appendix A) contained in chemicals added for cooling tower maintenance, except:
+                (1)
+                (1)
+              
+              
+                Chromium, total
+                0.2
+                0.2
+              
+              
+                zinc, total
+                1.0
+                1.0
+              
+              
+                1 No detectable amount.
+            
+            (ii) Neither free available chlorine nor total residual chlorine may be discharged from any unit for more than two hours in any one day and not more than one unit in any plant may discharge free available or total residual chlorine at any one time unless the utility can demonstrate to the Regional Administrator or state, if the state has NPDES permit issuing authority, that the units in a particular location cannot operate at or below this level of chlorination.
+            (iii) At the permitting authority's discretion, instead of the monitoring in 40 CFR 122.11(b), compliance with the standards for the 126 priority pollutants in paragraph (a)(10)(i) of this section may be determined by engineering calculations which demonstrate that the regulated pollutants are not detectable in the final discharge by the analytical methods in 40 CFR part 136.
+            (11) Coal pile runoff. Subject to the provisions of paragraph (a)(12) of this section, the quantity or quality of pollutants or pollutant parameters discharged in coal pile runoff shall not exceed the standards specified below:
+            
+              
+                Pollutant or pollutant property
+                NSPS for any time
+              
+              
+                TSS
+                not to exceed 50 mg/l.
+              
+            
+            (12) Coal pile runoff. Any untreated overflow from facilities designed, constructed, and operated to treat the coal pile runoff which results from a 10 year, 24 hour rainfall event shall not be subject to the standards in paragraph (a)(11) of this section.
+
+            (13) At the permitting authority's discretion, the quantity of pollutant allowed to be discharged may be expressed as a concentration limitation instead of any mass based limitations specified in paragraphs (a)(3) through (10) of this section. Concentration limits shall be based on the concentrations specified in this section.
+            (14) In the event that wastestreams from various sources are combined for treatment or discharge, the quantity of eac

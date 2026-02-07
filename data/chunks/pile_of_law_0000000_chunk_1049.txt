@@ -1,0 +1,136 @@
+(total)
+                  0.200
+                  0.080
+                
+                
+                  Zinc
+                  1.020
+                  0.420
+                
+                
+                  Combined metals
+                  0.300
+                  
+                
+                
+                  Ammonia (as N)
+                  133.300
+                  58.600
+                
+              
+              (f) Gold solvent extraction raffinate and wash water.
+              
+                BAT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold produced by solvent extraction
+                
+                
+                  Copper
+                  0.806
+                  0.384
+                
+                
+                  Cyanide (total)
+                  0.126
+                  0.050
+                
+                
+                  Zinc
+                  0.643
+                  0.265
+                
+                
+                  Combined metals
+                  0.189
+                  
+                
+                
+                  Ammonia (as N)
+                  83.980
+                  36.920
+                
+              
+              (g) Gold spent electrolyte.
+              
+                BAT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold produced by electrolysis
+                
+                
+                  Copper
+                  0.0111
+                  0.0053
+                
+                
+                  Cyanide (total)
+                  0.0017
+                  0.0007
+                
+                
+                  Zinc
+                  0.0089
+                  0.0037
+                
+                
+                  Combined metals
+                  0.0030
+                  
+                
+                
+                  
+                  Ammonia (as N)
+                  1.1600
+                  0.5100
+                
+              
+              (h) Gold precipitation and filtration.
+              
+                BAT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold precipitated
+                
+                
+                  Copper
+                  5.632
+                  2.684
+                
+                
+                  Cyanide (total)
+                  0.880
+                  0.352
+                
+                
+                  Zinc
+                  4.488
+                  1.848
+                
+                
+                  Combined metals
+                  1.320
+                  
+                
+                
+                  Ammonia (as N)
+                  586.500
+                  257.800
+                
+              
+              (i) Platinum precipita

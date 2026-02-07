@@ -1,0 +1,75 @@
+03.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources.
+              
+                Subpart F
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for existing sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Lead
+                  0.0000939
+                  0.0000313
+                
+                
+                  Zinc
+                  0.000141
+                  0.0000469
+                
+              
+            
+            
+              
+              § 420.66
+              Pretreatment standards for new sources (PSNS).
+              Any new source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for new sources.
+              
+                Subpart F
+                
+                  Pollutant or pollutant property
+                  Pretreatment standards for new sources
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Lead
+                  0.0000939
+                  0.0000313
+                
+                
+                  Zinc
+                  0.000141
+                  0.0000469
+                
+              
+            
+            
+              § 420.67
+              [Reserved]
+            
+          
+          
+            Subpart G—Hot Forming Subcategory
+            
+              § 420.70
+              Applicability; description of the hot forming subcategory.
+              The provisions of this subpart are applicable to discharges and to the introduction of pollutants into publicly owned treatment works resulting from hot forming operations conducted in primary, section, flat, and pipe and tube mills.
+            
+            
+              § 420.71
+              Specialized definitions.
+              (a) The term hot forming means those steel operations in which solidified, heated steel is shaped by rolls.
+              (b) The term primary mill means those steel hot forming operations that reduce ingots to blooms or slabs by passing the ingots between rotating steel rolls. The first hot forming operation performed on solidified steel after it is removed from the ingot molds is carried out on a “primary mill”.
+              (c) The term section mill means those steel hot forming operations that produce a variety of finished and semi-finished steel products other than the products of those mills specified below in paragraphs (d), (e), (g), and (h) of this section.
+              (d) The term flat mill means those steel hot forming operations that reduce heated slabs to plates, strip and sheet, or skelp.
+              (e) The term pipe and tube mill means those steel hot forming operations that produce butt welded or seamless tubular steel products.
+              (f) The term scarfing means those steel surface co

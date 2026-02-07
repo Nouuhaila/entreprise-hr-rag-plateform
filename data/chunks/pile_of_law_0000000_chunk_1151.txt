@@ -1,0 +1,113 @@
+(1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+            
+            
+              § 421.323
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable:
+              (a) Refinery sump filtrate.
+              
+                BAT Limitations for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium processed in the refinery
+                
+                
+                  Chromium (total)
+                  27.14
+                  11.00
+                
+                
+                  Copper
+                  93.88
+                  44.74
+                
+                
+                  Nickel
+                  40.34
+                  27.14
+                
+                
+                  Fluoride
+                  2,567.00
+                  1,459.00
+                
+              
+              (b) Slag leach reslurry.
+              
+                BAT Limitations for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium processed in the refinery
+                
+                
+                  Chromium (total)
+                  1.689
+                  0.685
+                
+                
+                  Copper
+                  5.844
+                  2.785
+                
+                
+                  Nickel
+                  2.511
+                  1.689
+                
+                
+                  Fluoride
+                  159.800
+                  90.860
+                
+              
+              
+              (c) Solvent extraction raffinate filtrate.
+              
+                BAT Limitations for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium processed in the refinery
+                
+                
+                  Chromium (total)
+                  2.357
+                  0.955
+                
+                
+                  Copper
+                  8.152
+                  3.885
+                
+                
+                  Nickel
+                  3.503
+                  2.357
+                
+                
+                  Fluoride
+                  222.900
+                  126.700
+                
+              
+              (d) Digestion wet air pollution control.
+              
+                BAT Limitations for the Se

@@ -1,0 +1,129 @@
+r million pounds) of uranium processed in the refinery
+                
+                
+                  Chromium (total)
+                  1.689
+                  0.685
+                
+                
+                  Copper
+                  5.844
+                  2.785
+                
+                
+                  Nickel
+                  2.511
+                  1.689
+                
+                
+                  Fluoride
+                  159.800
+                  90.860
+                
+              
+              (c) Solvent extraction raffinate filtrate.
+              
+                PSNS for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium processed in the refinery
+                
+                
+                  Chromium (total)
+                  2.357
+                  0.955
+                
+                
+                  Copper
+                  8.152
+                  3.885
+                
+                
+                  Nickel
+                  3.503
+                  2.357
+                
+                
+                  Fluoride
+                  222.900
+                  126.700
+                
+              
+              (d) Digestion wet air pollution control.
+              
+              
+                PSNS for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium processed in the refinery
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Copper
+                  0.000
+                  0.000
+                
+                
+                  Nickel
+                  0.000
+                  0.000
+                
+                
+                  Fluoride
+                  0.000
+                  0.000
+                
+              
+              (e) Evaporation and denitration wet air pollution control.
+              
+                PSNS for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium trioxide produced
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Copper
+                  0.000
+                  0.000
+                
+                
+                  Nickel
+                  0.000
+                  0.000
+                
+                
+                  Fluoride
+                  0.000
+                  0.000
+                
+              
+              (f) Hydrofluorination alkaline scrubber.
+              
+                PSNS for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day

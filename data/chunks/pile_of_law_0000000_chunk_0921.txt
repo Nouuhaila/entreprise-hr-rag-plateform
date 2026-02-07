@@ -1,0 +1,112 @@
+Zinc
+                  3.132
+                  1.290
+                
+                
+                  Ammonia (as N)
+                  409.300
+                  179.900
+                
+                
+                  Total suspended solids
+                  46.050
+                  36.840
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (k) Subpart L—Floor and Equipment Washdown.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver production
+                
+                
+                  Copper
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .000
+                  .000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              [49 FR 8821, Mar. 8, 1984, as amended at 49 FR 29795, July 24, 1984]
+            
+            
+              § 421.125
+              Pretreatment standards for existing sources.
+              Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources. The mass of wastewater pollutants in secondary silver process wastewater introduced into a POTW must not exceed the following values.
+              (a) Subpart L—Film Stripping.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver from film stripping
+                
+                
+                  Copper
+                  64.450
+                  30.720
+                
+                
+                  Zinc
+                  51.360
+                  21.150
+                
+                
+                  Ammonia (as N)
+                  6,712.000
+                  2,951.000
+                
+              
+              (b) Subpart L—Film Stripping Wet Air Pollution Control and Precipitation and Filtration of Film Stripping Solutions Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver from precipitation and filtration of film stripping solutions
+                
+                
+                  Copper
+                  1.242
+                  .592

@@ -1,0 +1,98 @@
+ll not exceed—
+                
+                
+                  
+                  Metric units (kg/kkg of seafood)
+                
+                
+                  TSS
+                  55
+                  17
+                
+                
+                  Oil and grease
+                  0.56
+                  0.21
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (lb/1,000 lb of seafood)
+                
+                
+                  TSS
+                  55
+                  17
+                
+                
+                  Oil and grease
+                  0.56
+                  0.21
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+            
+            
+              § 408.236
+              Pretreatment standards for new sources.
+
+              Any new source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403. In addition, the following pretreatment standard establishes the quantity or quality of pollutants or pollutant properties controlled by this section which may be discharged to a publicly owned treatment works by a new source subject to the provisions of this subpart:
+              
+              
+                
+                  Pollutant or pollutant property
+                  Pretreatment standard
+                
+                
+                  BOD5
+                  
+                  No limitation.
+                
+                
+                  TSS
+                    Do.
+                
+                
+                  pH
+                    Do.
+                
+                
+                  Oil and grease
+                    Do.
+                
+              
+              [40 FR 55790, Dec. 1, 1975, as amended at 60 FR 33946, June 29, 1995]
+            
+            
+              § 408.237
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): The limitations shall be the same as those specified for conventional pollutants (which are defined in § 401.16) in § 408.232 of this subpart for the best practicable control technology currently available (BPT).
+              [51 FR 24997, July 9, 1986]
+            
+          
+          
+            Subpart X—Mechanized Clam Processing Subcategory
+            
+              Source:
+              40 FR 55791, Dec. 1, 1975, unless otherwise noted.
+            
+            
+              § 408.240
+              Applicability; description of the mechanized clam processing subcategory.
+              The provisions of this subpart are applicable to discharges resulting from mechanized clam processing.
+            
+            
+              § 408.241
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Excep

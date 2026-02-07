@@ -1,0 +1,124 @@
+AT Limitations for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium tetrafluoride produced
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Copper
+                  0.000
+                  0.000
+                
+                
+                  Nickel
+                  0.000
+                  0.000
+                
+                
+                  Fluoride
+                  0.000
+                  0.000
+                
+              
+              (h) Magnesium reduction and casting floor wash.
+              
+                BAT Limitations for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium produced by magnesium reduction
+                
+                
+                  Chromium (total)
+                  0.011
+                  0.005
+                
+                
+                  Copper
+                  0.039
+                  0.018
+                
+                
+                  Nickel
+                  0.017
+                  0.011
+                
+                
+                  Fluoride
+                  1.054
+                  0.599
+                
+              
+              (i) Laundry wastewater.
+              
+                BAT Limitations for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium produced by magnesium reduction
+                
+                
+                  Chromium (total)
+                  0.036
+                  0.014
+                
+                
+                  Copper
+                  0.123
+                  0.059
+                
+                
+                  Nickel
+                  0.053
+                  0.036
+                
+                
+                  Fluoride
+                  3.360
+                  1.910
+                
+              
+            
+            
+              
+              § 421.324
+              Standards of performance for new sources.
+              Any new source subject to this subpart shall achieve the following new source performance standards:
+              (a) Refinery sump filtrate.
+              
+                NSPS for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium processed in the refinery
+                
+                
+                  Chromium (total)
+                  27.14
+                  11.00
+                
+                
+                  Copper
+                  93.88
+                  44

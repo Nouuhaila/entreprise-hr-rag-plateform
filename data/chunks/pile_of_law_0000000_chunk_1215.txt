@@ -1,0 +1,38 @@
+d in flue gas mercury control wastewater shall not exceed the quantity determined by multiplying the flow of flue gas mercury control wastewater times the concentration for TSS listed in § 423.12(b)(11).
+            (2) For any electric generating unit with a total nameplate generating capacity of less than or equal to 50 megawatts or that is an oil-fired unit, the quantity of pollutants discharged in flue gas mercury control wastewater shall not exceed the quantity determined by multiplying the flow of flue gas mercury control wastewater times the concentration for TSS listed in § 423.12(b)(11).
+            (j)(1)(i) Gasification wastewater. Except for those discharges to which paragraph (j)(2) of this section applies, the quantity of pollutants in gasification wastewater shall not exceed the quantity determined by multiplying the flow of gasification wastewater times the concentration listed in the table following this paragraph (j)(1)(i). Dischargers must meet the effluent limitations in this paragraph by a date determined by the permitting authority that is as soon as possible beginning November 1, 2018, but no later than December 31, 2023. These effluent limitations apply to the discharge of gasification wastewater generated on and after the date determined by the permitting authority for meeting the effluent limitations, as specified in this paragraph.
+            
+              
+                Pollutant or pollutant property
+                BAT Effluent limitations
+                Maximum forany 1 day
+                
+                Average of dailyvalues for 30
+                  consecutive days
+                  shall not exceed
+                
+              
+              
+                Arsenic, total (ug/L)
+                4
+              
+              
+                Mercury, total (ng/L)
+                1.8
+                1.3
+              
+              
+                Selenium, total (ug/L)
+                453
+                227
+              
+              
+                Total dissolved solids (mg/L)
+                38
+                22
+              
+            
+            
+            (ii) For discharges of gasification wastewater generated before the date determined by the permitting authority, as specified in paragraph (j)(1)(i) of this section, the quantity of pollutants discharged in gasification wastewater shall not exceed the quantity determined by multiplying the flow of gasification wastewater times the concentration for TSS listed in § 423.12(b)(11).
+            (2) For any electric generating unit with a total nameplate generating capacity of less than or equal to 50 megawatts or that is an oil-fired unit, the quantity of pollutants discharged in gasification wastewater shall not exceed the quantity determined by multiplying the flow of gasification wastewater times the concentration listed for TSS in § 423.12(b)(11).
+            (k)(1)(i) Bottom ash transport water. Except for those discharges to which paragraph (k)(2) of this section applies, or when the bottom ash transport water is used in the FGD scrubber, there shall be no discharge of pollutants in bottom ash transport water. Dischargers must meet the discharge limitation in this paragraph by a date determined by the permitting authority that is as soon as possible beginning November 1, 2020, but no later than December 31, 2023. This limitation applies to the discharge of bottom ash transport water generated on and after the date determi

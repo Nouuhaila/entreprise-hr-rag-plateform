@@ -1,0 +1,123 @@
+mitations for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium and hafnium produced
+                
+                
+                  Chromium (total)
+                  4.262
+                  1.728
+                
+                
+                  Cyanide (total)
+                  2.304
+                  0.921
+                
+                
+                  Lead
+                  3.225
+                  1.497
+                
+                
+                  Nickel
+                  6.335
+                  4.262
+                
+                
+                  Ammonia (as N)
+                  1,535.000
+                  675.000
+                
+              
+              (n) Zirconium chip crushing wet air pollution control.
+              
+                BAT Limitations for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium and hafnium produced
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Cyanide (total)
+                  0.000
+                  0.000
+                
+                
+                  Lead
+                  0.000
+                  0.000
+                
+                
+                  Nickel
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+              
+              (o) Acid leachate from zirconium metal production.
+              
+                BAT Limitations for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of pure zirconium produced
+                
+                
+                  Chromium (total)
+                  10.900
+                  4.420
+                
+                
+                  Cyanide (total)
+                  5.893
+                  2.357
+                
+                
+                  Lead
+                  8.250
+                  3.831
+                
+                
+                  Nickel
+                  16.210
+                  10.900
+                
+                
+                  Ammonia (as N)
+                  3,928.000
+                  1,674.000
+                
+              
+              (p) Acid leachate from zirconium alloy production.
+              
+                BAT Limitations for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium contained in allo

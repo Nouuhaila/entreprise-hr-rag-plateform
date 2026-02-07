@@ -1,0 +1,64 @@
+TTO
+                  2.13
+                
+              
+              (h) In addition to paragraphs (a), (b), (c), (d), (e), (f), and (g) the following shall apply: An existing source submitting a certification in lieu of monitoring pursuant to § 413.03 of this regulation must implement the toxic organic management plan approved by the control authority.
+
+              (Secs. 301, 304, 306, 307, 308, and 501 of the Clean Water Act (the Federal Water Pollution Control Act Amendments of 1972, 33 U.S.C. 1251 et. seq., as amended by the Clean Water Act of 1977, Pub. L. 95-217))
+              [46 FR 9467, Jan. 28, 1981, as amended at 48 FR 32484, July 15, 1983; 48 FR 43681, Sept. 26, 1983]
+            
+          
+          
+            Subpart C—Electroplating of Speciality Metals Subcategory [Reserved]
+          
+          
+            Subpart D—Anodizing Subcategory
+            
+              § 413.40
+              Applicability: Description of the anodizing subcategory.
+              The provisions of this subpart apply to discharges of process wastewater resulting from the anodizing of ferrous or nonferrous materials.
+            
+            
+              § 413.41
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) The term sq m (“sq ft”) shall mean the area plated expressed in square meters (square feet).
+              (b) The term operation shall mean any step in the anodizing process in which a metal is cleaned, anodized, or colored when each such step is followed by a rinse.
+            
+            
+              §§ 413.42-413.43
+              [Reserved]
+            
+            
+              § 413.44
+              Pretreatment standards for existing sources.
+              Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources (PSES):
+              (a) No user introducing wastewater pollutants into a publicly owned treatment works under the provisions of this subpart shall augment the use of process wastewater or otherwise dilute the wastewater as a partial or total substitute for adequate treatment to achieve compliance with this standard.
+
+              (b) For a source discharging less than 38,000 liters (10,000 gal) per calendar day of electroplating process wastewater the following limitations shall apply:
+              
+                Subpart D—Anodizing Facilities Discharging Less Than 38,000 Liters Per Day PSES Limitations (mg/l)
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Average of daily values for 4 consecutive monitoring days shall not exceed
+                
+                
+                  CN, A
+                  5.0
+                  2.7
+                
+                
+                  Pb
+                  0.6
+                  0.4
+                
+                
+                  Cd
+                  1.2
+                  0.7
+                
+              
+              (c) For plants discharging 38,000 liters (10,000 gal) or more per calendar day of electroplating process wastewater the following limitations shall apply:
+              
+                Subpart D—Anodizing Facilities Discharging 38,000 Liters or More Per Day PSES Limit

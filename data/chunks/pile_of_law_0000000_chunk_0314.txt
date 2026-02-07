@@ -1,0 +1,74 @@
+b. 20, 1974, unless otherwise noted.
+          
+          
+            Subpart A—Nonleaching Subcategory
+            
+              § 411.10
+              Applicability; description of the nonleaching subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the process in which several mineral ingredients (limestone or other natural sources of calcium carbonate, silica, alumina, and iron together with gypsum) are used in the manufacturing of cement and in which kiln dust is not contracted with water as an integral part of the process and water is not used in wet scrubbers to control kiln stack emissions.
+            
+            
+              § 411.11
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+            
+            
+              § 411.12
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              
+                
+                  Effluent characteristic
+                  Effluent limitations (maximum for any 1 day)
+                
+                
+                  
+                  Metric units (kg/kkg of product)
+                
+                
+                  TSS
+                  0.005.
+                
+                
+                  Temperature (heat)
+                  Not to exceed 3 °C rise above inlet temperature.
+                
+                
+                  pH
+                  Within the range 6.0 to 9.0.
+                
+                
+                  
+                  English units (lb/1,000 lb of product)
+                
+                
+                  TSS
+                  0.005.
+                
+                
+                  Temperature (heat)
+                  Not to exceed 3 °C rise above inlet temperature.
+                
+                
+                  pH
+                  Within the range 6.0 to 9.0.
+                
+              
+              [39 FR 6591, Feb. 20, 1974, as amended at 60 FR 33950, June 29, 1995]
+            
+            
+              § 411.13
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              The following limitations establish the quantity or quality of pollutants or pollutant properties, controlled by this section, which may be discharged by a point source subject to the provisions of this subpart after application of the best available technology economically achievable.
+              
+                
+                  Effluent characteristic
+                  Effluent limitations (maximum for any 1 day)
+                
+                
+                  Temperature (heat)
+                  Not to exceed 3 °C rise above inlet temperature.
+                
+              
+              [44 FR 50741, Aug. 29, 1979]

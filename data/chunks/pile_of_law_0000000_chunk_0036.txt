@@ -1,0 +1,23 @@
+ng to prevent untreated Overflows from occurring. The POTW must also demonstrate that it will monitor and verify the data required in paragraph (h)(1)(iii) of this section, to insure that Industrial Users are containing, ceasing or reducing operations during POTW System Overflow; and
+            (iii) All Industrial Users to which the POTW proposes to apply this provision have demonstrated the ability and commitment to collect and make available, upon request by the POTW, State Director or EPA Regional Administrator, daily flow reports or other data sufficient to demonstrate that all Discharges from regulated processes containing the pollutant for which the allowance is requested were contained, reduced or otherwise ceased, as appropriate, during all circumstances in which an Overflow event was reasonably expected to occur; or
+            (2)(i) The Consistent Removal claimed is reduced pursuant to the following equation:
+            
+              ER14OC05.000
+            
+            
+              Where:
+              
+              rm = POTW's Consistent Removal rate for that pollutant as established under paragraphs (a)(1) and (b)(2) of this section
+              rc = removal corrected by the Overflow factor
+              Z = hours per year that Overflows occurred between the Industrial User(s) and the POTW Treatment Plant, the hours either to be shown in the POTW's current NPDES permit application or the hours, as demonstrated by verifiable techniques, that a particular Industrial User's Discharge Overflows between the Industrial User and the POTW Treatment Plant; and
+            
+            
+
+            (ii) The POTW is complying with all NPDES permit requirements and any additional requirements in any order or decree, issued pursuant to the Clean Water Act affecting combined sewer overflows. These requirements include, but are not limited to, any combined sewer overflow requirements that conform to the Combined Sewer Overflow Control Policy.
+            [49 FR 31221, Aug. 3, 1984, as amended at 51 FR 20430, June 4, 1986; 53 FR 42435, Nov. 5, 1987; 58 FR 9386, Feb. 19, 1993; 58 FR 18017, Apr. 7, 1993; 70 FR 60193, Oct. 14, 2005]
+          
+          
+            § 403.8
+            Pretreatment Program Requirements: Development and Implementation by POTW.
+            (a) POTWs required to develop a pretreatment program. Any POTW (or combination of POTWs operated by the same authority) with a total design flow greater than 5 million gallons per day (mgd) and receiving from Industrial Users pollutants which Pass Through or Interfere with the operation of the POTW or are otherwise subject to Pretreatment Standards will be required to establish a POTW Pretreatment Program unless the NPDES State exercises its option to assume local responsibilities as provided for in § 403.10(e). The Regional Administrator or Director may require that a POTW with a design flow of 5 mgd or less develop a POTW Pretreatment Program if he or she finds that the nature or volume of the industrial influent, treatment process upsets, violations of POTW effluent limitations, contamination of municipal sludge, or other circumstances warrant in order to prevent Interference with the POTW or Pass Through.
+            (b) Deadline for Program Approval. A POTW which meets the criteria of paragraph (a) of this section must receive approval of a POTW Pretreatment Program no later than 3 years after the reissuance or modification of its existing NPDES permit but in

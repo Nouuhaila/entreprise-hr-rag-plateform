@@ -1,0 +1,132 @@
+Ammonia (as N)
+                  368.200
+                  161.900
+                
+                
+                  Total suspended solids
+                  41.430
+                  33.150
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (j) Subpart J—Ammonium Paratungstate Conversion to Oxides Water of Formation.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungstic oxide (as W) produced
+                
+                
+                  Lead
+                  0.018
+                  0.008
+                
+                
+                  Zinc
+                  0.064
+                  0.026
+                
+                
+                  Ammonia (as N)
+                  8.398
+                  3.692
+                
+                
+                  Total suspended solids
+                  0.945
+                  0.756
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (k) Subpart J—Reduction to Tungsten Wet Air Pollution Control.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten metal produced
+                
+                
+                  Lead
+                  .862
+                  .400
+                
+                
+                  Zinc
+                  3.142
+                  1.294
+                
+                
+                  Ammonia (as N)
+                  410.600
+                  180.500
+                
+                
+                  Total suspended solids
+                  46.200
+                  36.960
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1Within the range of 7.0 to 10.0 at all times.
+              
+              (l) Subpart J—Reduction to Tungsten Water of Formation.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tungsten metal produced
+                
+                
+                  Lead
+                  .137
+                  .064
+                
+                
+                  Zinc
+                  .499
+                  .205
+                
+                
+                  Ammonia (as N)
+                  65.190
+                  28.660
+                
+                
+                  Total suspended solids
+                  7.335
+                  5.868
+                
+                
+                  pH
+                  (1)

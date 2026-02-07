@@ -1,0 +1,129 @@
+(a) Furnace wet air pollution control.
+              
+                BPT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of precious metals, including silver, incinerated or smelted
+                
+                
+                  Copper
+                  136.400
+                  71.800
+                
+                
+                  Cyanide (total)
+                  20.820
+                  8.616
+                
+                
+                  Zinc
+                  104.800
+                  43.800
+                
+                
+                  Ammonia (as N)
+                  9,571.000
+                  4,207.000
+                
+                
+                  Combined metals
+                  21.54
+                  
+                
+                
+                  Total suspended solids
+                  2,944.000
+                  1,400.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Raw material granulation.
+              
+                BPT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of precious metal in the granulated raw material
+                
+                
+                  Copper
+                  12.050
+                  6.340
+                
+                
+                  Cyanide (total)
+                  1.839
+                  0.761
+                
+                
+                  Zinc
+                  9.256
+                  3.867
+                
+                
+                  Ammonia (as N)
+                  845.100
+                  371.500
+                
+                
+                  Combined metals
+                  1.902
+                  
+                
+                
+                  Total suspended solids
+                  259.900
+                  123.600
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Spent plating solutions.
+              
+                BPT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/liter of spent plating solution used as a raw material
+                
+                
+                  Copper
+                  1.900
+                  1.000
+                
+                
+                  Cyanide (total)
+                  0.290
+                  0.120
+                
+                
+                  Zinc
+                  1.460
+                  0.610
+                
+                
+                  Ammonia (as N)

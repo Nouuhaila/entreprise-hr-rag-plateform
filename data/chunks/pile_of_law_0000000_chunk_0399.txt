@@ -1,0 +1,74 @@
+alloy
+              Nickel
+              Azo dyes, metallized/Azo dye + metal acetate
+              Zinc
+              Organic pigments/Azo pigments by diazotization and coupling
+              [52 FR 42568, Nov. 5, 1987, as amended at 54 FR 27352, June 29, 1989; 57 FR 41844, Sept. 11, 1992]
+            
+          
+        
+        
+          
+          Pt. 415
+          PART 415—INORGANIC CHEMICALS MANUFACTURING POINT SOURCE CATEGORY
+          
+            
+              Subpart A—Aluminum Chloride Production Subcategory
+              Sec.
+              415.01
+              Compliance dates for pretreatment standards for existing sources.
+              415.10
+              Applicability; description of the aluminum chloride production subcategory.
+              415.11
+              Specialized definitions. [Reserved]
+              415.12-415.13
+              [Reserved]
+              415.14
+              Pretreatment standards for existing sources (PSES).
+              415.15
+              [Reserved]
+            
+            
+              Subpart B—Aluminum Sulfate Production Subcategory
+              415.20
+              Applicability; description of the aluminum sulfate production subcategory.
+              415.21
+              Specialized definitions. [Reserved]
+              415.22
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.23
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              415.24
+              Pretreatment standards for existing sources (PSES).
+              415.25
+              New source performance standards (NSPS).
+              415.26
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart C—Calcium Carbide Production Subcategory
+              415.30
+              Applicability; description of the calcium carbide production subcategory.
+              415.31
+              Specialized definitions. [Reserved]
+              415.32
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.33
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              415.34
+              [Reserved]
+              415.35
+              New source performance standards (NSPS).
+              415.36
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart D—Calcium Chloride Production Subcategory
+              415.40
+              Applicability; description of the calcium chloride production subcategory.
+              415.41
+              Specialized definitions.
+              415.42
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.43
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology econom

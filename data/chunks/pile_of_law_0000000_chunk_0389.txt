@@ -1,0 +1,155 @@
+4,6-Dinitro-o-cresol
+                  277
+                  78
+                
+                
+                  2,4-Dinitrophenol
+                  4,291
+                  1,207
+                
+                
+                  Ethylbenzene
+                  380
+                  142
+                
+                
+                  Fluoranthene
+                  54
+                  22
+                
+                
+                  Fluorene
+                  47
+                  19
+                
+                
+                  Hexachlorobenzene
+                  794
+                  196
+                
+                
+                  Hexachlorobutadiene
+                  380
+                  142
+                
+                
+                  Hexachloroethane
+                  794
+                  196
+                
+                
+                  Methyl Chloride
+                  295
+                  110
+                
+                
+                  Methylene Chloride
+                  170
+                  36
+                
+                
+                  Naphthalene
+                  47
+                  19
+                
+                
+                  Nitrobenzene
+                  6,402
+                  2,237
+                
+                
+                  2-Nitrophenol
+                  231
+                  65
+                
+                
+                  4-Nitrophenol
+                  576
+                  162
+                
+                
+                  Phenanthrene
+                  47
+                  19
+                
+                
+                  Phenol
+                  47
+                  19
+                
+                
+                  Pyrene
+                  48
+                  20
+                
+                
+                  Tetrachloroethylene
+                  164
+                  52
+                
+                
+                  Toluene
+                  74
+                  28
+                
+                
+                  Total Chromium
+                  2,770
+                  1,110
+                
+                
+                  Total Copper
+                  3,380
+                  1,450
+                
+                
+                  Total Cyanide
+                  1,200
+                  420
+                
+                
+                  Total Lead
+                  690
+                  320
+                
+                
+                  Total Nickel
+                  3,980
+                  1,690
+                
+                
+                  Total Zinc 2
+                  
+                  2,610
+                  1,050
+                
+                
+                  1,2,4-Trichlorobenzene
+                  794
+                  196
+                
+                
+                  
+                  1,1,1-Trichloroethane
+                  59
+                  22
+                
+                
+                  1,1,2-Trichloroethane
+                  127
+                  32
+                
+                
+                  Trichloroethylene
+                  69
+                  26
+                
+                
+                  Vinyl Chloride
+                  172
+                  97
+                
+                
+                  1 All units are micrograms per liter.
+                
+                  2 To

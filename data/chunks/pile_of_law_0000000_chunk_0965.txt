@@ -1,0 +1,131 @@
+427.956
+                
+                
+                  Fluoride
+                  255.605
+                  145.330
+                
+              
+              (n) Alumium Iron Sludge (AIS) Area Wastewater.
+              
+                BAT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of total beryllium carbonate produced as beryllium
+                
+                
+                  Beryllium
+                  383.760
+                  173.160
+                
+                
+                  Chromium (Total)
+                  173.160
+                  70.200
+                
+                
+                  Copper
+                  599.040
+                  285.480
+                
+                
+                  Cyanide (Total)
+                  93.600
+                  37.440
+                
+                
+                  Ammonia (as N)
+                  62384.400
+                  27424.800
+                
+                
+                  Fluoride
+                  16380.000
+                  9313.200
+                
+              
+              (o) Bertrandite Ore Leaching Scrubber.
+              
+                BAT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg of bertrandite ore processed
+                
+                
+                  Beryllium
+                  1.239
+                  0.559
+                
+                
+                  Chromium (Total)
+                  0.559
+                  0.227
+                
+                
+                  Copper
+                  1.934
+                  0.922
+                
+                
+                  Cyanide (Total)
+                  0.302
+                  0.121
+                
+                
+                  Ammonia (as N)
+                  201.416
+                  88.545
+                
+                
+                  Fluoride
+                  52.885
+                  30.069
+                
+              
+              
+              (p) Bertrandite Ore Countercurrent and Decantation (CCD) Scrubber.
+              
+                BAT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg of bertrandite ore processed
+                
+                
+                  Beryllium
+                  0.083
+                  0.037
+                
+                
+                  Chromium (Total)
+                  0.037
+                  0.015
+                
+                
+                  Copper
+                  0.129
+                  0.062
+                
+                
+                  Cyanide (Total)
+                  0.020
+                  0.008
+                
+                
+                  Ammonia (as N)
+                  13.463
+                  5.919

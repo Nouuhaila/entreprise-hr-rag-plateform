@@ -1,0 +1,64 @@
+he normal wheat flour milling subcategory.
+              406.31
+              Specialized definitions.
+              406.32
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              406.33
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              406.34
+              Pretreatment standards for existing sources.
+              406.35
+              Standards of performance for new sources.
+              406.36
+              Pretreatment standards for new sources.
+              406.37
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+            
+            
+              Subpart D—Bulgur Wheat Flour Milling Subcategory
+              406.40
+              Applicability; description of the bulgur wheat flour milling subcategory.
+              406.41
+              Specialized definitions.
+              406.42
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              406.43
+              [Reserved]
+              406.44
+              Pretreatment standards for existing sources.
+              406.45
+              Standards of performance for new sources.
+              406.46
+              Pretreatment standards for new sources.
+              406.47
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+            
+            
+              Subpart E—Normal Rice Milling Subcategory
+              406.50
+              Applicability; description of the normal rice milling subcategory.
+              406.51
+              Specialized definitions.
+              406.52
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              406.53
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              406.54
+              Pretreatment standards for existing sources.
+              406.55
+              Standards of performance for new sources.
+              406.56
+              Pretreatment standards for new sources.
+              406.57
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+            
+            
+              Subpart F—Parboiled Rice Processing Subcategory
+              406.60
+              Applicability; description of the parboiled rice processing subcategory.
+              406.61
+              Specialized definitions.
+              406.62
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              406.63
+              [Reserved]

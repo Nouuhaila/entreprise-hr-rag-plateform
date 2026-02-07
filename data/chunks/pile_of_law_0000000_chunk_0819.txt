@@ -1,0 +1,128 @@
+.880
+                
+              
+              (g) Subpart C—Ingot Conveyor Casting Contact Cooling (When Chlorine Demagging Wet Air Pollution Control is Not Practiced On-Site).
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (lb/million lbs) of aluminum cast
+                
+                
+                  Lead
+                  0.019
+                  0.009
+                
+                
+                  Zinc
+                  0.068
+                  0.028
+                
+                
+                  Aluminum
+                  0.409
+                  0.182
+                
+                
+                  Ammonia (as N)
+                  8.931
+                  3.926
+                
+              
+              (h) Subpart C—Ingot Conveyor Casting Contact Cooling (When Chloride Demagging Wet Air Pollution Control is Practiced On Site).
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum cast
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Aluminum
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (i) Subpart C—Stationary Casting Contact Cooling.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum cast
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Aluminum
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (j) Subpart C—Shot Casting Contact Cooling.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum cast
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Aluminum
+                  .000
+                  .000

@@ -1,0 +1,33 @@
+means megawatt(s);
+            (9) Mwh means megawatt hour(s);
+            (10) hp means horsepower;
+            (11) mm means millimeter(s);
+            (12) cm means centimeter;
+            (13) m means meter(s);
+            (14) in. means inch;
+            (15) ft means foot (feet);
+            (16) l means liter(s);
+            (17) cu m means cubic meter(s);
+            (18) k cu m means 1000 cubic meter(s);
+            (19) gal means gallon(s);
+            (20) cu ft means cubic foot (feet);
+            
+            (21) mg means milligram(s);
+            (22) g means gram(s);
+            (23) kg means kilogram(s);
+            (24) kkg means 1000 kilogram(s);
+            (25) lb means pound(s);
+            (26) sq m means square meter(s);
+            (27) ha means hectare(s);
+            (28) sq ft means square foot (feet); and
+            (29) ac means acre(s).
+            [39 FR 4532, Feb. 1, 1974, as amended at 58 FR 45038, Aug. 25, 1994; 80 FR 37125, June 29, 2015; 83 FR 5209, Feb. 6, 2018; 84 FR 56671, Oct. 22, 2019; 85 FR 22342, Apr. 21, 2020]
+          
+          
+            § 401.12
+            Law authorizing establishment of effluent limitations guidelines for existing sources, standards of performance for new sources and pretreatment standards of new and existing sources.
+            (a) Section 301(a) of the Act provides that “except as in compliance with this section and sections 302, 306, 307, 318, 402 and 404 of this Act, the discharge of any pollutant by any person shall be unlawful.”
+            (b) Section 301(b) of the Act requires the achievement by not later than July 1, 1977, of effluent limitations for point sources, other than publicly owned treatment works, which require the application of the best practicable control technology currently available as determined by the Administrator pursuant to section 304(b)(1) of the Act. Section 301(b) also requires the achievement by not later than July 1, 1983, of effluent limitations for point sources, other than publicly owned treatment works, which require the application of the best available technology economically achievable which will result in reasonable further progress toward the national goal of eliminating the discharge of all pollutants, as determined in accordance with regulations issued by the Administrator pursuant to section 304(b)(2) of the Act.
+            (c) Section 304(b) of the Act requires the Administrator to publish regulations providing guidelines for effluent limitations setting forth the degree of effluent reduction attainable through the application of the best practicable control technology currently available and the degree of effluent reduction attainable through the application of the best control measures and practices achievable including treatment techniques, process and procedure innovations, operating methods and other alternatives.
+            (d) Section 304(c) of the Act requires the Administrator, after consultation with appropriate Federal and State agencies and other interested persons to issue information on the process, procedures, or operating methods which result in the elimination or reduction of the discharge of pollutants to implement standards of performance under section 306 of the Act.
+            (e) Section 306(b)(1)(B) of the Act requires the Administrator, after a category of sources is included in a list published pursuant to section 306(b)(1)(A) of the Act, to propose regulations establishing Federal standa

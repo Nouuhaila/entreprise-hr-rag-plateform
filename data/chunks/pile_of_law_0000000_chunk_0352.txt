@@ -1,0 +1,87 @@
+ls expressed in square meters (square feet).
+              (b) The term operation shall mean any step in the chemical milling or etching processes in which metal is chemically or electrochemically removed from the work piece and which is followed by a rinse; this includes related metal cleaning operations which preceded chemical milling or etching, when each operation is followed by a rinse.
+            
+            
+              
+              §§ 413.62-413.63
+              [Reserved]
+            
+            
+              § 413.64
+              Pretreatment standards for existing sources.
+              Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources (PSES):
+              (a) No User introducing wastewater pollutants into publicly owned treatment works under the provisions of this subpart shall augment the use of process wastewater or otherwise dilute the wastewater as a partial or total substitute for adequate treatment to achieve compliance with this standard.
+              (b) For a source discharging less than 38,000 liters (10,000 gal.) per calendar day of electroplating process wastewater the following limitations shall apply:
+              
+                Subpart F—Chemical Etching and Milling Facilities Discharging Less Than 38,000 Liters Per Day PSES Limitations (mg/l)
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Average of daily values for 4 consecutive monitoring days shall not exceed
+                
+                
+                  CN, A
+                  5.0
+                  2.7
+                
+                
+                  Pb
+                  0.6
+                  0.4
+                
+                
+                  Cd
+                  1.2
+                  0.7
+                
+              
+              (c) For plants discharging 38,000 liters (10,000 gal.) or more per calendar day of electroplating process wastewater the following limitations shall apply:
+              
+                Subpart F—Chemicals Etching and Milling Facilities Discharging 38,000 Liters or More Per Day PSES Limitations (mg/l)
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Average of daily values for 4 consecutive monitoring days shall not exceed
+                
+                
+                  CN, T
+                  1.9
+                  1.0
+                
+                
+                  Cu
+                  4.5
+                  2.7
+                
+                
+                  Ni
+                  4.1
+                  2.6
+                
+                
+                  Cr
+                  7.0
+                  4.0
+                
+                
+                  Zn
+                  4.2
+                  2.6
+                
+                
+                  Pb
+                  0.6
+                  0.4
+                
+                
+                  Cd
+                  1.2
+                  0.7
+                
+                
+                  Total metals
+                  10.5
+                  6.8
+                
+              
+              (d) Alternatively, the following mass-based standards are equivalent to and may app

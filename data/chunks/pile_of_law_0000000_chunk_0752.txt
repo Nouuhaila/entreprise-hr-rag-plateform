@@ -1,0 +1,133 @@
+combination acid pickling wastewaters.
+                
+                  2 Within the range of 6.0 to 9.0.
+              
+              (2) Recirculation—multiple stands.
+              
+              
+                Subpart J
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.00626
+                  0.00313
+                
+                
+                  O&G
+                  0.00261
+                  0.00104
+                
+                
+                  Chromium 1
+                  
+                  0.000104
+                  0.0000418
+                
+                
+                  Lead
+                  0.0000469
+                  0.0000156
+                
+                
+                  Nickel 1
+                  
+                  0.0000939
+                  0.0000313
+                
+                
+                  Zinc
+                  0.0000313
+                  0.0000104
+                
+                
+                  Naphthalene
+                  0.0000104
+                  
+                
+                
+                  Tetrachloroethylene
+                  0.0000156
+                  
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  1 The limitations for chromium and nickel shall be applicable in lieu of those for lead and zinc when cold rolling wastewaters are treated with descaling or combination acid pickling wastewaters.
+                
+                  2 Within the range of 6.0 to 9.0.
+              
+              (3) Combination.
+              
+              
+                Subpart J
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.0751
+                  0.0376
+                
+                
+                  O&G
+                  0.0313
+                  0.0125
+                
+                
+                  Chromium 1
+                  
+                  0.00125
+                  0.000501
+                
+                
+                  Lead
+                  0.000563
+                  0.000188
+                
+                
+                  Nickel 1
+                  
+                  0.00113
+                  0.000376
+                
+                
+                  Zinc
+                  0.000376
+                  0.000125
+                
+                
+                  Naphthalene
+                  0.000125
+                  
+                
+                
+                  Tetrachloroethylene
+                  0.000188
+                  
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  1 The limitations for chromium and nickel shall be applicable in lieu of

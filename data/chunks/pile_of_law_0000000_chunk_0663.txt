@@ -1,0 +1,75 @@
+32. 200 °F Softening Point Unfluxed Asphalt
+              43. Asphalt Oxidizing
+              89. Asphalt Emulsifying
+              Lube Processes
+              21. Hydrofining, Hydrofinishing, Lube Hydrofining
+              22. White Oil Manufacture
+              23. Propane Dewaxing, Propane Deasphalting, Propane Fractioning, Propane Deresining
+              24. Duo Sol, Solvent Treating, Solvent Extraction, Duotreating, Solvent Dewaxing, Solvent Deasphalting
+              25. Lube Vac Twr, Oil Fractionation, Batch Still (Naphtha Strip), Bright Stock Treating
+              26. Centrifuge and Chilling
+              27. MEK Dewaxing, Ketone Dewaxing, MEK-Toluene Dewaxing
+              28. Deoiling (wax)
+              29. Naphthenic Lubes Production
+              30. SO2 Extraction
+              34. Wax Pressing
+              35. Wax Plant (with Neutral Separation)
+              36. Furfural Extraction
+              37. Clay Contacting—Percolation
+              38. Wax Sweating
+              39. Acid Treating
+              40. Phenol Extraction
+              Reforming and Alkylation Processes
+              8. H2SO4 Alkylation
+              12. Catalytic Reforming
+              [50 FR 28528, July 12, 1985; 50 FR 32414, Aug. 12, 1985]
+            
+          
+        
+        
+          Pt. 420
+          PART 420—IRON AND STEEL MANUFACTURING POINT SOURCE CATEGORY
+          
+            
+              General Provisions
+              Sec.
+              420.01
+              Applicability.
+              420.02
+              General definitions.
+              420.03
+              Alternative effluent limitations representing the degree of effluent reduction attainable by the application of best practicable control technology currently available, best available technology economically achievable, best available demonstrated control technology, and best conventional pollutant control technology (the “water bubble”).
+              420.04
+              Calculation of pretreatment standards.
+              420.05
+              Pretreatment standards compliance date.
+              420.06
+              Removal credits for phenols (4AAP).
+              420.07
+              Effluent limitations guidelines and standards for pH.
+              420.08
+              Non-process wastewater and storm water.
+            
+            
+              Subpart A—Cokemaking Subcategory
+              420.10
+              Applicability.
+              420.11
+              Specialized definitions.
+              420.12
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              420.13
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              420.14
+              New source performance standards (NSPS).
+              420.15
+              Pretreatment standards for existing sources (PSES).
+              420.16
+              Pretreatment standards for new sources (PSNS).
+              420.17
+              Effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional technology (BCT).
+              420.18
+              Pretreatment standards compliance dates.
+            
+            
+              Subpart B—Sintering Subcategory

@@ -1,0 +1,128 @@
+ondary Germanium and Gallium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of germanium chlorinated
+                
+                
+                  Arsenic
+                  131.700
+                  58.590
+                
+                
+                  Lead
+                  26.460
+                  12.600
+                
+                
+                  Zinc
+                  91.980
+                  38.430
+                
+                
+                  Fluoride
+                  2,205.000
+                  1,254.000
+                
+              
+              (b) Chlorinator wet air pollution control.
+              
+                BAT Limitations for the Primary and Secondary Germanium and Gallium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of germanium chlorinated
+                
+                
+                  Arsenic
+                  27.530
+                  12.250
+                
+                
+                  Lead
+                  5.531
+                  2.634
+                
+                
+                  Zinc
+                  19.230
+                  8.034
+                
+                
+                  Fluoride
+                  461.000
+                  262.100
+                
+              
+              (c) Germanium hydrolysis filtrate.
+              
+                BAT Limitations for the Primary and Secondary Germanium and Gallium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of germanium hydrolyzed
+                
+                
+                  Arsenic
+                  39.440
+                  17.550
+                
+                
+                  Lead
+                  7.925
+                  3.774
+                
+                
+                  Zinc
+                  27.550
+                  11.510
+                
+                
+                  Fluoride
+                  660.500
+                  375.500
+                
+              
+              (d) Acid wash and rinse water.
+              
+                BAT Limitations for the Primary and Secondary Germanium and Gallium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of germanium washed
+                
+                
+                  Arsenic
+                  325.50
+                  144.80
+                
+                
+                  Lead
+                  65.40
+                  31.14
+                
+                
+                  Zinc
+                  227.40
+                  94.99
+                
+                
+                  Fluoride
+                  5,450.00
+                  3,099.00

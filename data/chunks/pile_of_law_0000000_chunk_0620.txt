@@ -1,0 +1,96 @@
+or not the facility includes any process in addition to topping, cracking, and petrochemical operations. The provisions of this subpart shall not be applicable, however, to facilities that include the processes specified in subpart D or E of this part.
+            
+            
+              § 419.31
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) The general definitions, abbreviations, and methods of analysis set forth in part 401 of this chapter and the specialized definitions set forth in § 419.11 shall apply.
+              (b) The term petrochemical operations shall mean the production of second-generation petrochemicals (i.e., alcohols, ketones, cumene, styrene, etc.) or first generation petrochemicals and isomerization products (i.e., BTX, olefins, cyclohexane, etc.) when 15 percent or more of refinery production is as first-generation petrochemicals and isomerization products.
+            
+            
+              § 419.32
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              (a) Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              
+                
+                  Pollutant or pollutant property
+                  BPT Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed
+                
+                
+                  
+                  Metric units (kilograms per 1,000 m3 of feedstock)
+                
+                
+                  BOD5
+                  
+                  34.6
+                  18.4
+                
+                
+                  TSS
+                  23.4
+                  14.8
+                
+                
+                  COD 1
+                  
+                  210.0
+                  109.0
+                
+                
+                  Oil and grease
+                  11.1
+                  5.9
+                
+                
+                  Phenolic compound
+                  0.25
+                  0.120
+                
+                
+                  Ammonia as N
+                  23.4
+                  10.6
+                
+                
+                  Sulfide
+                  0.22
+                  0.099
+                
+                
+                  Total chromium
+                  0.52
+                  0.30
+                
+                
+                  Hexavalent chromium
+                  0.046
+                  0.020
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  
+                  English units (pounds per 1,000 bbl of feedstock)
+                
+                
+                  BOD5
+                  
+                  12.1
+                  6.5
+                
+                
+                  TSS
+                  8.3
+                  5.25
+                
+                
+                  COD 1
+                  
+                  74.0
+                  38.4

@@ -1,0 +1,18 @@
+be signed in accordance with paragraph (l) of this section and include the certification statement in § 403.6(a)(2)(ii). Non-detectable sample results may only be used as a demonstration that a pollutant is not present if the EPA approved method from 40 CFR part 136 with the lowest minimum detection level for that pollutant was used in the analysis.
+            (iv) Any grant of the monitoring waiver by the Control Authority must be included as a condition in the User's control mechanism. The reasons supporting the waiver and any information submitted by the User in its request for the waiver must be maintained by the Control Authority for 3 years after expiration of the waiver.
+
+            (v) Upon approval of the monitoring waiver and revision of the User's control mechanism by the Control Authority, the Industrial User must certify on each report with the statement below, that there has been no increase in the pollutant in its wastestream due to activities of the Industrial User:
+            
+            
+              Based on my inquiry of the person or persons directly responsible for managing compliance with the Pretreatment Standard for 40 CFR _______ [specify applicable National Pretreatment Standard part(s)], I certify that, to the best of my knowledge and belief, there has been no increase in the level of ______ [list pollutant(s)] in the wastewaters due to the activities at the facility since filing of the last periodic report under 40 CFR 403.12(e)(1).
+            
+            
+            (vi) In the event that a waived pollutant is found to be present or is expected to be present based on changes that occur in the User's operations, the User must immediately: Comply with the monitoring requirements of paragraph (e)(1) of this section or other more frequent monitoring requirements imposed by the Control Authority; and notify the Control Authority.
+            (vii) This provision does not supersede certification processes and requirements established in categorical Pretreatment Standards, except as otherwise specified in the categorical Pretreatment Standard.
+            (3) The Control Authority may reduce the requirement in paragraph (e)(1) of this section to a requirement to report no less frequently than once a year, unless required more frequently in the Pretreatment Standard or by the Approval Authority, where the Industrial User meets all of the following conditions:
+            (i) The Industrial User's total categorical wastewater flow does not exceed any of the following:
+            (A) 0.01 percent of the design dry weather hydraulic capacity of the POTW, or 5,000 gallons per day, whichever is smaller, as measured by a continuous effluent flow monitoring device unless the Industrial User discharges in batches;
+            (B) 0.01 percent of the design dry weather organic treatment capacity of the POTW; and
+            (C) 0.01 percent of the maximum allowable headworks loading for any pollutant regulated by the applicable categorical Pretreatment Standard for which approved local limits were developed by a POTW in accordance with § 403.5(c) and paragraph (d) of this section;
+            (ii) The Industrial User has not been in significant noncompliance, as defined in § 403.8(f)(2)(viii), for any time in the past two years;
+            (iii) The Industrial User does not have daily flow rates, production levels, or pollutant levels that vary so significantly that decreasing the reporting requirement for this In

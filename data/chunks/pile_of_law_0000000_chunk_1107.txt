@@ -1,0 +1,126 @@
+0.474
+                
+                
+                  Titanium
+                  0.679
+                  0.295
+                
+              
+              (h) Chip crushing wet air pollution control.
+              
+                BAT Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium produced
+                
+                
+                  Chromium (total)
+                  0.848
+                  0.344
+                
+                
+                  Lead
+                  0.642
+                  0.298
+                
+                
+                  Nickel
+                  1.261
+                  0.848
+                
+                
+                  Titanium
+                  1.215
+                  0.527
+                
+              
+              (i) Acid leachate and rinse water.
+              
+                BAT Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium produced
+                
+                
+                  Chromium (total)
+                  4.381
+                  1.776
+                
+                
+                  Lead
+                  3.315
+                  1.539
+                
+                
+                  Nickel
+                  6.512
+                  4.381
+                
+                
+                  Titanium
+                  6.275
+                  2.723
+                
+              
+              (j) Sponge crushing and screening wet air pollution control.
+              
+                BAT Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium produced
+                
+                
+                  Chromium (total)
+                  0.239
+                  0.097
+                
+                
+                  Lead
+                  0.181
+                  0.084
+                
+                
+                  Nickel
+                  0.356
+                  0.239
+                
+                
+                  Titanium
+                  0.343
+                  0.149
+                
+              
+              (k) Acid pickle and wash water.
+              
+                BAT Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium pickled
+                
+                
+                  Chromium (total)
+                  0.023
+                  0.009
+                
+                
+                  Lead

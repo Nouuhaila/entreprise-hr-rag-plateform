@@ -1,0 +1,106 @@
+1,124.000
+                
+              
+              (e) Subpart J—Ion Exchange Raffinate (Commingled With Other Process or Nonprocess Waters).
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of ammonium tungstate (as W) produced
+                
+                
+                  Lead
+                  24.780
+                  11.500
+                
+                
+                  Zinc
+                  90.240
+                  37.160
+                
+                
+                  Ammonia (as N)
+                  11,790.000
+                  5,185.000
+                
+              
+              (f) Subpart J—Ion Exchange Raffinate (Not Commingled With Other Process or Nonprocess Waters).
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of ammonium tungstate (as W) produced
+                
+                
+                  Lead
+                  24.780
+                  11.500
+                
+                
+                  Zinc
+                  90.240
+                  37.160
+                
+                
+                  Ammonia (as N) 1
+                  
+                  11,790.000
+                  5,185.000
+                
+                
+                  1 The effluent limitation for this pollutant does not apply if a) the motor liquor feed to the ion exchange process or the raffinate from the ion exchange process contains sulfates at concentrations exceeding 1000 mg/1; b) this mother liquor or raffinate is treated by ammonia steam stripping; and c) such mother liquor or raffinate is not commingled with any other process or nonprocess waters prior to steam stripping for ammonia removal.
+              
+
+              (g) Subpart J—Calcium Tungstate Precipitate Wash.
+              
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any one day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per/million pounds) of calcium tungstate (as W) produced
+                
+                
+                  Lead
+                  20.670
+                  9.594
+                
+                
+                  Zinc
+                  75.280
+                  31.000
+                
+                
+                  Ammonia (as N)
+                  9,838.000
+                  4,325.000
+                
+              
+              (h) Subpart J—Crystallization and Drying of Ammonium Paratungstate.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any one day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per/million pounds) of ammonium paratungstate (as W) produced
+                
+                
+                  Lead

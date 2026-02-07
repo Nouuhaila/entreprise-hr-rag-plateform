@@ -1,0 +1,133 @@
+tations for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold refined electrolytically
+                
+                
+                  Lead
+                  83.160
+                  39.600
+                
+                
+                  Mercury
+                  49.500
+                  19.800
+                
+                
+                  Silver
+                  81.180
+                  33.660
+                
+                
+                  Zinc
+                  289.100
+                  120.800
+                
+                
+                  Gold
+                  19.800
+                  
+                
+                
+                  Oil and grease
+                  3,960.000
+                  2,376.000
+                
+                
+                  Total suspended solids
+                  8,118.000
+                  3,861.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (d) Electrolyte preparation wet air pollution control.
+              
+                BPT Limitations for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver in electrolyte produced
+                
+                
+                  Lead
+                  0.021
+                  0.010
+                
+                
+                  Mercury
+                  0.013
+                  0.005
+                
+                
+                  Silver
+                  0.021
+                  0.009
+                
+                
+                  Zinc
+                  0.073
+                  0.031
+                
+                
+                  Gold
+                  0.005
+                  
+                
+                
+                  Oil and Grease
+                  1.000
+                  0.600
+                
+                
+                  Total suspended solids
+                  2.050
+                  0.975
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (e) Calciner wet air pollution control.
+              
+                BPT Limitations for the Primary Precious Metals and Mercury Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of mercury condensed
+                
+                
+                  Lead
+                  78.200
+                  37.240
+                
+                
+                  Mercury
+                  46.550
+                  18.620
+                
+                
+                  Silver
+                  76.340

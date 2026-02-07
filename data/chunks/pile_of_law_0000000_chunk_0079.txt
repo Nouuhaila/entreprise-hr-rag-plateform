@@ -1,0 +1,89 @@
+detention period should be based on a 24-hour average daily flow value. The average daily flow should in turn be based upon the average of the daily flows during the same month of the previous year. Grab sampling should be employed where the pollutants being evaluated are those, such as cyanide and phenol, which may not be held for an extended period because of biological, chemical or physical interaction which take place after sample collection and affect the results.
+            [49 FR 31225, Aug. 3, 1984]
+          
+          
+            Appendix F to Part 403 [Reserved]
+          
+          
+            Pt. 403, App. G
+            Appendix G to Part 403—Pollutants Eligible for a Removal Credit
+            
+              I. Regulated Pollutants in Part 503 Eligible for a Removal Credit
+              
+                Pollutants
+                Use or disposal practice
+                LA
+                SD
+                I
+              
+              
+                Arsenic
+                X
+                X
+                X
+              
+              
+                Beryllium
+                
+                
+                X
+              
+              
+                Cadmium
+                X
+                
+                X
+              
+              
+                Chromium
+                
+                X
+                X
+              
+              
+                Copper
+                X
+              
+              
+                Lead
+                X
+                
+                X
+              
+              
+                Mercury
+                X
+                
+                X
+              
+              
+                Molybdenum
+                X
+              
+              
+                Nickel
+                X
+                X
+                X
+              
+              
+                Selenium
+                X
+              
+              
+                Zinc
+                X
+              
+              
+                Total hydrocarbons
+                
+                
+                X 1
+                
+              
+              Key:
+              LA—land application.
+              SD—surface disposal site without a liner and leachate collection system.
+              I—firing of sewage sludge in a sewage sludge incinerator.
+              
+                1 The following organic pollutants are eligible for a removal credit if the requirements for total hydrocarbons (or carbon monoxide) in subpart E in 40 CFR part 503 are met when sewage sludge is fired in a sewage sludge incinerator: Acrylonitrile, ldrin/Dieldrin(total), Benzene, Benzidine, Benzo(a)pyrene, Bis(2-chloroethyl)ether, Bis(2-ethylhexyl)phthalate, Bromodichloromethane, Bromoethane, Bromoform, Carbon tetrachloride, Chlordane, Chloroform, Chloromethane, DDD, DDE, DDT, Dibromochloromethane, Dibutyl phthalate, 1,2-dichloroethane, 1,1-dichloroethylene, 2,4-dichlorophenol, 1,3-dichloropropene, Diethyl phthalate, 2,4-dinitrophenol, 1,2-diphenylhydrazine, Din-butyl phthalate, Endosulfan, Endrin, Ethylbenzene, Heptachlor, Heptachlor epoxide, Hexachlorobutadiene, Alphahexachlorocyclohexane, Beta-hexachlorocyclohexane, Hexachlorocyclopentadiene, Hexachloroethane, Hydrogen cyanide, Isophorone, Lindane, Methylene chloride, Nitrobenzene, N-Nitrosodimethylamine, N-Nitrosodi-n-propylamine, Pentachlorophenol, Phenol, Polychlorinated biphenyls, 2,3,7,8-tetrachlorodibenzo-p-dioxin, 1,1,2,2,-tetrachloroethane, Tetrachlo

@@ -1,0 +1,145 @@
+ntimony
+                  .000
+                  .000
+                
+                
+                  Arsenic
+                  .000
+                  .000
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (h) Subpart M—Battery Case Classification.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead scrap produced
+                
+                
+                  Antimony
+                  .000
+                  .000
+                
+                
+                  Arsenic
+                  .000
+                  .000
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (i) Subpart M—Employee Handwash.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead produced from smelting
+                
+                
+                  Antimony
+                  .052
+                  .023
+                
+                
+                  Arsenic
+                  .038
+                  .015
+                
+                
+                  Lead
+                  .008
+                  .004
+                
+                
+                  Zinc
+                  .028
+                  .011
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (j) Subpart M—Employee Respirator Wash.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead produced from smelting
+                
+                
+                  Antimony
+                  .085
+                  .038
+                
+                
+                  Arsenic
+                  .061
+                  .025
+                
+                
+                  Lead
+                  .012
+                  .006
+                
+                
+                  Zinc
+                  .045
+                  .018
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+              
+              (k) Subpart M—Laundering of Uniforms.
+              
+              
+                PSNS
+                
+                  Pollutant or pollutant property

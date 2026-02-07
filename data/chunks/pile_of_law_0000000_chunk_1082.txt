@@ -1,0 +1,105 @@
+antalum
+                  2.196
+                  
+                
+              
+            
+            
+              § 421.287
+              [Reserved]
+            
+          
+          
+            Subpart AA—Secondary Tin Subcategory
+            
+              Source:
+              50 FR 38376, Sept. 20, 1985, unless otherwise noted.
+            
+            
+              § 421.290
+              Applicability: Description of the secondary tin subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of tin at secondary tin facilities utilizing either pyrometallurgical or hydrometallurgical processes to recover tin from secondary materials.
+            
+            
+              § 421.291
+              Specialized definitions.
+              For the purpose of this subpart the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+            
+            
+              § 421.292
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable technology currently available:
+              (a) Tin smelter SO2 scrubber.
+              
+                BPT Limitations for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of crude tapped tin metal produced
+                
+                
+                  Arsenic
+                  19.220
+                  8.554
+                
+                
+                  Lead
+                  3.863
+                  1.840
+                
+                
+                  Iron
+                  11.040
+                  5.611
+                
+                
+                  Tin
+                  3.495
+                  2.024
+                
+                
+                  Total suspended solids
+                  377.100
+                  179.400
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Dealuminizing rinse.
+              
+                BPT Limitations for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of dealuminized scrap produced
+                
+                
+                  Lead
+                  0.015
+                  0.007
+                
+                
+                  Cyanide (total)
+                  0.010
+                  0.004
+                
+                
+                  Fluoride
+                  1.225
+                  0.700
+                
+                
+                  Tin

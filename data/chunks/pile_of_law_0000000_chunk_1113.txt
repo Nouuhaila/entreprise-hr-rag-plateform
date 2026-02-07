@@ -1,0 +1,137 @@
+) of titanium produced
+                
+                
+                  Chromium (total)
+                  4.381
+                  1.776
+                
+                
+                  Lead
+                  3.315
+                  1.539
+                
+                
+                  Nickel
+                  6.512
+                  4.381
+                
+                
+                  Titanium
+                  6.275
+                  2.723
+                
+                
+                  Oil and grease
+                  118.400
+                  118.400
+                
+                
+                  Total suspended solids
+                  177.600
+                  142.100
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (j) Sponge crushing and screening wet air pollution control.
+              
+                NSPS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium produced
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Lead
+                  0.000
+                  0.000
+                
+                
+                  Nickel
+                  0.000
+                  0.000
+                
+                
+                  Titanium
+                  0.000
+                  0.000
+                
+                
+                  Oil and grease
+                  0.000
+                  0.000
+                
+                
+                  Total suspended solids
+                  0.000
+                  0.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (k) Acid pickle and wash water.
+              
+              
+                NSPS for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium pickled
+                
+                
+                  Chromium (total)
+                  0.023
+                  0.009
+                
+                
+                  Lead
+                  0.017
+                  0.008
+                
+                
+                  Nickel
+                  0.034
+                  0.023
+                
+                
+                  Titanium
+                  0.032
+                  0.014
+                
+                
+                  Oil and grease
+                  0.610
+                  0.610
+                
+                
+                  Total suspended solids
+                  0.915
+                  0.732
+                
+                
+                  pH
+                  (1)
+                  (1)

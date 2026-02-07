@@ -1,0 +1,121 @@
+Copper
+                  64.450
+                  30.720
+                
+                
+                  Zinc
+                  51.360
+                  21.150
+                
+                
+                  Ammonia (as N)
+                  6,712.000
+                  2,951.000
+                
+              
+              (b) Subpart L—Film Stripping Wet Air Pollution Control and Precipitation and Filtration of Film Stripping Solutions Wet Air Pollution Control.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver from precipitation and filtration of film stripping solutions
+                
+                
+                  Copper
+                  1.242
+                  .592
+                
+                
+                  Zinc
+                  .990
+                  .408
+                
+                
+                  
+                  Ammonia (as N)
+                  129.300
+                  56.840
+                
+              
+              (c) Subpart L—Precipitation and Filtration of Film Stripping Solutions.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver precipitated
+                
+                
+                  Copper
+                  73.690
+                  35.120
+                
+                
+                  Zinc
+                  58.720
+                  24.180
+                
+                
+                  Ammonia (as N)
+                  7,674.000
+                  3,374.000
+                
+              
+              (d) Subpart L—Precipitation and Filtration of Photographic Solutions.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver precipitated
+                
+                
+                  Copper
+                  34.048
+                  16.226
+                
+                
+                  Zinc
+                  27.132
+                  11.172
+                
+                
+                  Ammonia (as N)
+                  3,545.000
+                  1,559.000
+                
+              
+              (e) Subpart L—Precipitation and Filtration of Photographic Solutions Wet Air Pollution Control.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver from precipitation and filtration of photographic solutions
+                
+                
+                  Copper
+                  15.540
+                  7.406
+                
+                
+                  Zinc
+                  12.380
+                  5.099

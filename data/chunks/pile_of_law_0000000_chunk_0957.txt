@@ -1,0 +1,137 @@
+0.000
+                
+                
+                  Fluoride
+                  0.000
+                  0.000
+                
+                
+                  Total suspended solids
+                  0.000
+                  0.000
+                
+                
+                  pH
+                  
+                    1
+                  
+                  
+                    1
+                  
+                
+                
+                  1Within the range of 7.5 to 10.0 at all times.
+              
+              (k) Beryl Ore Gangue Dewatering.
+              
+                BPT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryl ore processed
+                
+                
+                  Beryllium
+                  1.283
+                  0.574
+                
+                
+                  Chromium (Total)
+                  0.459
+                  0.188
+                
+                
+                  Copper
+                  1.982
+                  1.043
+                
+                
+                  Cyanide (Total)
+                  0.302
+                  0.125
+                
+                
+                  Ammonia (as N)
+                  139.032
+                  61.120
+                
+                
+                  Fluoride
+                  36.505
+                  20.756
+                
+                
+                  Total Suspended Solids
+                  42.763
+                  20.339
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (l) Bertrandite Ore Gangue Dewatering.
+              
+                BPT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of bertrandite ore processed
+                
+                
+                  Beryllium
+                  3.279
+                  1.466
+                
+                
+                  Chromium (Total)
+                  1.173
+                  0.480
+                
+                
+                  Copper
+                  5.064
+                  2.665
+                
+                
+                  Cyanide (Total)
+                  0.773
+                  0.320
+                
+                
+                  Ammonia (as N)
+                  355.245
+                  156.169
+                
+                
+                  Fluoride
+                  93.275
+                  53.034
+                
+                
+                  Total Suspended Solids
+                  109.265
+                  51.968
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (m) Beryl Ore Processing.
+              
+                BPT Limitations

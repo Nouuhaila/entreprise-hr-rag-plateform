@@ -1,0 +1,116 @@
+s.
+              Except as provided in 40 CFR 403.7, any new source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for new sources. The mass of wastewater pollutants in primary aluminum process wastewater introduced into a POTW shall not exceed the following values:
+              (a) Subpart B—Anode and Cathode Paste Plant Wet Air Pollution Control.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of paste produced
+                
+                
+                  Benzo(a)pyrene
+                  .000
+                  
+                
+                
+                  Nickel
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+              
+              (b) Subpart B—Anode Contact Cooling and Briquette Quenching.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of anodes cast
+                
+                
+                  Benzo(a)pyrene
+                  0.007
+                  0.003
+                
+                
+                  Nickel
+                  .115
+                  .077
+                
+                
+                  
+                  Fluoride
+                  12.440
+                  5.518
+                
+              
+              (c) Subpart B—Anode Bake Plant Wet Air Pollution Control.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of anodes baked
+                
+                
+                  Benzo(a)pyrene
+                  .000
+                  
+                
+                
+                  Nickel
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+              
+              (d) Subpart B—Cathode Reprocessing (Operated With Dry Potline Scrubbing and Not Commingled With Other Process or Nonprocess Waters).
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cryolite recovered
+                
+                
+                  Benzo(a)pyrene
+                  1.181
+                  0.547
+                
+                
+                  Cyanide
+                  157.600
+                  70.060
+                
+                
+                  Nickel
+                  80.570
+                  35.030
+                
+                
+                  Fluoride

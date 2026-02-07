@@ -1,0 +1,70 @@
+[Reserved]
+            
+            
+              Subpart H—Primary Zinc Subcategory
+              421.80
+              Applicability: Description of the primary zinc subcategory.
+              421.81
+              Specialized definitions.
+              421.82
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              421.83
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              421.84
+              Standards of performance for new sources.
+              421.85
+              Pretreatment standards for existing sources.
+              421.86
+              Pretreatment standards for new sources.
+              421.87
+              [Reserved]
+            
+            
+              Subpart I—Metallurgical Acid Plants Subcategory
+              421.90
+              Applicability: Description of the metallurgical acid plants subcategory.
+              421.91
+              Specialized definitions.
+              421.92
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              421.93
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              421.94
+              Standards of performance for new sources.
+              421.95
+              Pretreatment standards for existing sources.
+              421.96
+              Pretreatment standards for new sources.
+              421.97
+              [Reserved]
+            
+            
+              Subpart J—Primary Tungsten Subcategory
+              421.100
+              Applicability: Description of the primary tungsten subcategory.
+              421.101
+              Specialized definitions.
+              421.102
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              421.103
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              421.104
+              Standards of performance for new sources.
+              
+              421.105
+              Pretreatment standards for existing sources.
+              421.106
+              Pretreatment standards for new sources.
+              421.107
+              [Reserved]
+            
+            
+              Subpart K—Primary Columbium-Tantalum Subcategory
+              421.110
+              Applicability: Description of the primary columbium-tantalum subcategory.
+              421.111
+              Specialized definitions.
+              421.112
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              421.113
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.

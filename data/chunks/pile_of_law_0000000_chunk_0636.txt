@@ -1,0 +1,115 @@
+Asphalt emulsifying
+                  
+                  12
+                
+              
+              
+                
+                  Process
+                  Capacity (1,000 bbl per stream day)
+                  Capacity relative to throughput
+                  Weighting Factor
+                  Processing configuration
+                
+                
+                  Crude:
+                
+                
+                  Atm
+                  125.0
+                  1.0
+                  
+                  
+                
+                
+                  Vacuum
+                  60.0
+                  0.48
+                  
+                  
+                
+                
+                  Desalting
+                  125.0
+                  1.0
+                  
+                  
+                
+                
+                   Total
+                  
+                  2.48
+                   × 1
+                   = 2.48
+                
+                
+                  Cracking-FCC
+                  41.0
+                  0.328
+                  
+                  
+                
+                
+                  Hydrocracking
+                  20.0
+                  0.160
+                  
+                  
+                
+                
+                   Total
+                  
+                  0.488
+                   × 6
+                   = 2.93
+                
+                
+                  Lubes
+                  5.3
+                  0.042
+                  
+                  
+                
+                
+                   
+                  4.0
+                  0.032
+                  
+                  
+                
+                
+                   
+                  4.9
+                  0.039
+                  
+                  
+                
+                
+                   Total
+                  
+                  0.113
+                   × 13
+                   = 1.47
+                
+                
+                  Asphalt
+                  4.0
+                  0.032
+                   × 12
+                  = .38
+                
+                
+                  Refinery process configuration
+                  
+                  
+                  
+                   = 7.26
+                
+                Notes:
+                See table § 419.42(b)(2) for process factor. Process factor = 0.88.
+                See table § 419.42(b)(1) for size factor for 125,000 bbl per stream day lube refinery. Size factor = 0.97.
+                To calculate the limits for each parameter, multiply the limit § 419.42(a) by both the process factor and size factor. BOD5 limit (maximum for any 1 day) = 17.9 × 0.88 × 0.97 = 15.3 lb. per 1,000 bbl of feedstock.
+              
+              (c) The provisions of § 419.12(c) apply to discharges of process wastewater pollutants attributable to ballast water by a point source subject to the provisions of this subpart.
+              (d) The quantity and quality of pollutants or pollutant properties controlled by this paragraph, attributable to once-through cooling water, are excluded from the discharge allowed by paragraph (b) of this section. Once-through cooling water may be discharged with a total organic carbon concentration not to exceed 5 mg/l.
+              (e) Effluent limitations for contaminated runoff. The following effluent limitations constitute the quantity and quality of pollutants

@@ -1,0 +1,105 @@
+Total suspended solids
+                  786.200
+                  374.100
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (e) Subpart J—Ion Exchange Raffinate (Commingled With Other Process or Nonprocess Waters).
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of ammonium tungstate (as W) produced
+                
+                
+                  Lead
+                  37.160
+                  17.700
+                
+                
+                  Zinc
+                  129.200
+                  53.970
+                
+                
+                  Ammonia (as N)
+                  11,790.000
+                  5,185.000
+                
+                
+                  Total Suspended solids
+                  3,627.000
+                  1,726.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+              
+              (f) Subpart J—Ion Exchange Raffinate (Not Commingled With Other Process or Nonprocess Waters).
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of ammonium tungstate (as W) produced
+                
+                
+                  Lead
+                  37.160
+                  17.700
+                
+                
+                  Zinc
+                  129.200
+                  53.970
+                
+                
+                  Ammonia (as N) (2)
+                  11,790.000
+                  5,185.000
+                
+                
+                  Total suspended solids
+                  3,627.000
+                  1,726.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.0 to 10.0 at all times.
+                
+                  2 The effluent limitation guideline for this pollutant does not apply if (a) the mother liquor feed to the ion exchange process or the raffinate from the ion exchange process contains sulfates at concentrations exceeding 1000 mg/l; (b) this mother liquor or raffinate is treated by ammonia steam stripping; and (c) such mother liquor or raffinate is not commingled with any other process or nonprocess waters prior to steam stripping for ammonia removal.
+              
+              (g) Subpart J—Calcium Tungstate Precipitate Wash.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of calcium tungstate (as W) produce

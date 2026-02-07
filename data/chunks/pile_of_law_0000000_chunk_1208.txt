@@ -1,0 +1,24 @@
+(a) In establishing the limitations set forth in this section, EPA took into account all information it was able to collect, develop and solicit with respect to factors (such as age and size of plant, utilization of facilities, raw materials, manufacturing processes, non-water quality environmental impacts, control and treatment technology available, energy requirements and costs) which can affect the industry subcategorization and effluent levels established. It is, however, possible that data which would affect these limitations have not been available and, as a result, these limitations should be adjusted for certain plants in this industry. An individual discharger or other interested person may submit evidence to the Regional Administrator (or to the State, if the State has the authority to issue NPDES permits) that factors relating to the equipment or facilities involved, the process applied, or other such factors related to such discharger are fundamentally different from the factors considered in the establishment of the guidelines. On the basis of such evidence or other available information, the Regional Administrator (or the State) will make a written finding that such factors are or are not fundamentally different for that facility compared to those specified in the Development Document. If such fundamentally different factors are found to exist, the Regional Administrator or the State shall establish for the discharger effluent limitations in the NPDES Permit either more or less stringent than the limitations established herein, to the extent dictated by such fundamentally different factors. Such limitations must be approved by the Administrator of the Environmental Protection Agency. The Administrator may approve or disapprove such limitations, specify other limitations, or initiate proceedings to revise these regulations. The phrase “other such factors” appearing above may include significant cost differentials. In no event may a discharger's impact on receiving water quality be considered as a factor under this paragraph.
+            (b) Any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction by the application of the best practicable control technology currently available (BPT):
+            (1) The pH of all discharges, except once through cooling water, shall be within the range of 6.0-9.0.
+            (2) There shall be no discharge of polychlorinated biphenyl compounds such as those commonly used for transformer fluid.
+            (3) The quantity of pollutants discharged from low volume waste sources shall not exceed the quantity determined by multiplying the flow of low volume waste sources times the concentration lised in the following table:
+            
+              
+                Pollutant or pollutant property
+                BPT effluent limitations
+                Maximum for any 1 day (mg/l)
+                Average of daily values for 30 consecutive days shall not exceed (mg/l)
+              
+              
+                TSS
+                100.0
+                30.0
+              
+              
+                Oil and grease
+                20.0
+                15.0
+              
+            
+            (4) The quantity of pollutants discharged in fly ash and bottom ash transport water shall not exceed the quantity determined by multiplying the flow of fly ash and bottom ash transport water times the concentra

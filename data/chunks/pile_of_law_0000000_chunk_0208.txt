@@ -1,0 +1,87 @@
+amended at 60 FR 33943, June 29, 1995]
+            
+            
+              § 408.125
+              Standards of performance for new sources.
+              The following standards of performance establish the quantity or quality of pollutants or pollutant properties, controlled by this section, which may be discharged by a new source subject to the provisions of this subpart:
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kg/kkg of seafood)
+                
+                
+                  BOD5
+                  
+                  63
+                  25
+                
+                
+                  TSS
+                  25
+                  10
+                
+                
+                  Oil and grease
+                  4.0
+                  1.6
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (lb/1,000 lb of seafood)
+                
+                
+                  BOD5
+                  
+                  63
+                  25
+                
+                
+                  TSS
+                  25
+                  10
+                
+                
+                  Oil and grease
+                  4.0
+                  1.6
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+            
+            
+              § 408.126
+              Pretreatment standards for new sources.
+              Any new source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403.
+              [60 FR 33943, June 29, 1995]
+            
+            
+              § 408.127
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): The limitations shall be the same as those specified for conventional pollutants (which are defined in § 401.16) in § 408.122 of this subpart for the best practicable control technology currently available (BPT).
+              [51 FR 24997, July 9, 1986]
+            
+          
+          
+            Subpart M—Breaded Shrimp Processing in the Contiguous States Subcategory
+            
+              § 408.130
+              Applicability; description of the breaded shrimp processing in the contiguous States subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the processing of breaded shrimp in the contiguous States by existing facilities processing more than 908 kg (2000 lbs) of raw material per day on any day during a calendar year and all new sources.
+              [40 FR 55781, Dec. 1, 1975]

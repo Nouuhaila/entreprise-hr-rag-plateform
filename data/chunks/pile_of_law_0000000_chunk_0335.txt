@@ -1,0 +1,76 @@
+y Metals Subcategory [Reserved]
+            
+            
+              Subpart D—Anodizing Subcategory
+              413.40
+              Applicability: Description of the anodizing subcategory.
+              413.41
+              Specialized definitions.
+              413.42-413.43
+              [Reserved]
+              413.44
+              Pretreatment standards for existing sources.
+            
+            
+              Subpart E—Coatings Subcategory
+              413.50
+              Applicability: Description of the coatings subcategory.
+              413.51
+              Specialized definitions.
+              413.52-413.53
+              [Reserved]
+              413.54
+              Pretreatment standards for existing sources.
+            
+            
+              Subpart F—Chemical Etching and Milling Subcategory
+              413.60
+              Applicability: Description of the chemical etching and milling subcategory.
+              413.61
+              Specialized definitions.
+              413.62-413.63
+              [Reserved]
+              413.64
+              Pretreatment standards for existing sources.
+            
+            
+              Subpart G—Electroless Plating Subcategory
+              413.70
+              Applicability: Description of the electroless plating subcategory.
+              413.71
+              Specialized definitions.
+              413.72-413.73
+              [Reserved]
+              413.74
+              Pretreatment standards for existing sources.
+            
+            
+              Subpart H—Printed Circuit Board Subcategory
+              413.80
+              Applicability: Description of the printed circuit board subcategory.
+              413.81
+              Specialized definitions.
+              413.82-413.83
+              [Reserved]
+              413.84
+              Pretreatment standards for existing sources.
+            
+          
+          
+            Authority:
+            Secs. 301, 304(g), 307, 308, 309, 402, 405, 501(a), Clean Water Act, as amended, (33 U.S.C. 1311, 1314(g), 1317, 1318, 1319, 1322, 1325 and 1341(a)).
+          
+          
+            Source:
+            46 FR 9467, Jan. 28, 1981, unless otherwise noted.
+          
+          
+            General Provisions
+            
+              § 413.01
+              Applicability and compliance dates.
+              (a) This part shall apply to electroplating operations in which metal is electroplated on any basis material and to related metal finishing operations as set forth in the various subparts, whether such operations are conducted in conjunction with electroplating, independently, or as part of some other operation. The compliance deadline for metals and cyanide at integrated facilities shall be June 30, 1984. The compliance date for metals and cyanide at non-integrated facilities shall be April 27, 1984. Compliance with TTO for all facilities shall be July 15, 1986. These part 413 standards shall not apply to a facility which must comply with all the pollutant limitations listed in § 433.15 (metal finishing PSES).
+              (b) Operations similar to electroplating which are specifically excepted from coverage of this part include:
+              (1) Electrowinning and electrorefining conducted as a part of nonferrous metal smelting and refining (40 CFR part 421);
+              (2) Metal surface preparation and conversion coating conducted as a part of coil coating (40 CFR part 465);
+              (3) Metal s

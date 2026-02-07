@@ -1,0 +1,115 @@
+t limitations for TOC shall be established at a ratio of 2.2 to 1 to the applicable effluent limitations for BOD5
+                
+              
+              [47 FR 46446, Oct. 18, 1982, as amended at 50 FR 28523, July 12, 1985; 50 FR 32414, Aug. 12, 1985]
+            
+            
+              § 419.34
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+              (a) Any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT):
+              
+                
+                  Pollutant or pollutant property
+                  BCT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed
+                
+                
+                  
+                  Metric units (kilograms per 1,000 m3 of feedstock)
+                
+                
+                  BOD5
+                  
+                  34.6
+                  18.4
+                
+                
+                  TSS
+                  23.4
+                  14.8
+                
+                
+                  Oil and grease
+                  11.1
+                  5.9
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (pounds per 1,000 bbl of feedstock)
+                
+                
+                  BOD5
+                  
+                  12.1
+                  6.5
+                
+                
+                  TSS
+                  8.3
+                  5.25
+                
+                
+                  Oil and grease
+                  3.9
+                  2.1
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 6.0 to 9.0.
+              
+
+              (b) The limits set forth in paragraph (a) of this section are to be multiplied by the following factors to calculate the maximum for any one day and maximum average of daily values for thirty consecutive days.
+              (1) Size factor.
+              
+                
+                  1,000 bbl of feedstock per stream day
+                  Size factor
+                
+                
+                  Less than 24.9
+                  0.73
+                
+                
+                  25.0 to 49.9
+                  0.76
+                
+                
+                  50.0 to 74.9
+                  0.83
+                
+                
+                  75.0 to 99.9
+                  0.91
+                
+                
+                  100.0 to 124.9
+                  0.99
+                
+                
+                  125.0 to 149.9
+                  1.08
+                
+                
+                  150.0 or greater
+                  1.13
+                
+              
+              (2) Process factor.
+              
+                
+                  Process configuration
+                  Process factor
+                
+                
+                  Less than 4.49
+                  0.73

@@ -1,0 +1,107 @@
+ent reduction attainable by the application of the best available technology economically achievable (BAT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT):
+              
+                Subpart H—Hydrofluoric Acid
+                
+                  Pollutant or pollutant property
+                  BAT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (or pounds per 1,000 lb) of product
+                
+                
+                  Fluoride (T)
+                  3.4
+                  1.6
+                
+                
+                  Nickel (T)
+                  0.020
+                  0.0060
+                
+                
+                  Zinc (T)
+                  0.072
+                  0.022
+                
+              
+            
+            
+              § 415.84
+              [Reserved]
+            
+            
+              § 415.85
+              New source performance standards (NSPS).
+              Any new source subject to this subpart must achieve the following new source performance standards (NSPS):
+              
+                Subpart H—Hydrofluoric Acid
+                
+                  Pollutant or pollutant property
+                  NSPS effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (or pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  6.0
+                  3.0
+                
+                
+                  Fluoride (T)
+                  3.4
+                  1.6
+                
+                
+                  Nickel (T)
+                  0.020
+                  0.0060
+                
+                
+                  Zinc (T)
+                  0.072
+                  0.022
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+            
+            
+              § 415.86
+              Pretreatment standards for new sources (PSNS).
+
+              Except as provided in 40 CFR 403.7, any new source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following Pretreatment Standards for New Sources (PSNS):
+              
+              
+                Subpart H—Hydrofluoric Acid
+                
+                  Pollutant or pollutant property
+                  PSNS effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Milligrams per liter
+                
+                
+                  Fluoride (T)
+                  100
+                  50
+                
+                
+                  Nickel (T)
+                  0.66
+                  0.20

@@ -1,0 +1,130 @@
+of uranium tetrafluoride produced
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Copper
+                  0.000
+                  0.000
+                
+                
+                  Nickel
+                  0.000
+                  0.000
+                
+                
+                  Fluoride
+                  0.000
+                  0.000
+                
+                
+                  Total suspended solids
+                  0.000
+                  0.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (h) Magnesium reduction and casting floor wash.
+              
+                BPT Limitations for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium produced by magnesium reduction
+                
+                
+                  Chromium (total)
+                  0.013
+                  0.005
+                
+                
+                  Copper
+                  0.057
+                  0.030
+                
+                
+                  Nickel
+                  0.058
+                  0.038
+                
+                
+                  Fluoride
+                  1.054
+                  0.599
+                
+                
+                  Total suspended solids
+                  1.234
+                  0.587
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (i) Laundry wastewater.
+              
+                BPT Limitations for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium produced by magnesium reduction
+                
+                
+                  Chromium (total)
+                  0.084
+                  0.035
+                
+                
+                  Copper
+                  0.365
+                  0.192
+                
+                
+                  Nickel
+                  0.369
+                  0.244
+                
+                
+                  Fluoride
+                  6.720
+                  3.821
+                
+                
+                  Total suspended solids
+                  7.872
+                  3.744
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+            
+            
+              § 421.323
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              Except as provided

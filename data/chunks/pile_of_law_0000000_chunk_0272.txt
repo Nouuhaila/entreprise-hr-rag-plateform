@@ -1,0 +1,114 @@
+net limitations:
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kilograms per 1,000 kg of melt)
+                
+                
+                  BOD5
+                  
+                  1.02
+                  0.34
+                
+                
+                  
+                  English units (pounds per ton of melt)
+                
+                
+                  BOD5
+                  
+                  2.04
+                  0.68
+                
+              
+              [39 FR 10524, Mar. 20, 1974, as amended at 60 FR 33949, June 29, 1995]
+            
+            
+              § 409.23
+              [Reserved]
+            
+            
+              § 409.24
+              Pretreatment standards for existing sources.
+
+              Any existing source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403. In addition, the following pretreatment standard establishes the quantity or quality of pollutants or pollutant properties controlled by this section which may be discharged to a publicly owned treatment works by a point source subject to the provisions of this subpart.
+              
+                
+                  Pollutant or pollutant property
+                  Pretreatment standard
+                
+                
+                  pH
+                  No limitation.
+                
+                
+                  BOD5
+                  
+                    Do.
+                
+                
+                  TSS
+                    Do.
+                
+              
+              [40 FR 6440, Feb. 11, 1975, as amended at 60 FR 33949, June 29, 1995]
+            
+            
+              § 409.25
+              Standards of performance for new sources.
+              The following standards of performance establish the quantity or quality of pollutants or pollutant properties, controlled by this section, which may be discharged by a new source subject to the provisions of this subpart:
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kilograms per 1,000 kg of melt)
+                
+                
+                  BOD5
+                  
+                  0.18
+                  0.09
+                
+                
+                  TSS
+                  .11
+                  .035
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (pounds per ton of melt)
+                
+                
+                  BOD5
+                  
+                  0.36
+                  0.18
+                
+                
+                  TSS
+                  .21
+                  .07
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6

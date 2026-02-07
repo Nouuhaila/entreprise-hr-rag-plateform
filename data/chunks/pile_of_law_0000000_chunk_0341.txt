@@ -1,0 +1,111 @@
+s a partial or total substitute for adequate treatment to achieve compliance with this standard.
+              (b) For a source discharging less than 38,000 liters (10,000 gal.) per calendar day of electroplating process wastewater the following limitations shall apply:
+              
+                Subpart A—Common Metals Facilities Discharging Less Than 38,000 Liters Per Day PSES Limitations (mg/l)
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Average of daily values for 4 consecutive monitoring days shall not exceed
+                
+                
+                  CN, A
+                  5.0
+                  2.7
+                
+                
+                  Pb
+                  .6
+                  .4
+                
+                
+                  Cd
+                  1.2
+                  .7
+                
+              
+
+              (c) For plants discharging 38,000 liters (10,000 gal) or more per calendar day of electroplating process wastewater the following limitations shall apply:
+              
+              
+                Subpart A—Common Metals Facilities Discharging 38,000 Liters or More Per Day PSES Limitations (mg/l)
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Average of daily values for 4 consecutive monitoring days shall not exceed
+                
+                
+                  CN, T
+                  1.9
+                  1.0
+                
+                
+                  Cu
+                  4.5
+                  2.7
+                
+                
+                  Ni
+                  4.1
+                  2.6
+                
+                
+                  Cr
+                  7.0
+                  4.0
+                
+                
+                  Zn
+                  4.2
+                  2.6
+                
+                
+                  Pb
+                  .6
+                  .4
+                
+                
+                  Cd
+                  1.2
+                  .7
+                
+                
+                  Total metals
+                  10.5
+                  6.8
+                
+              
+              (d) Alternatively, the following mass-based standards are equivalent to and may be applied in place of those limitations specified under paragraph (c) of this section upon prior agreement between a source subject to these standards and the publicly owned treatment works receiving such regulated wastes:
+              
+                Subpart A—Common Metals Facilities Discharging 38,000 Liters or More Per Day PSES Limitations (mg/sq m-Operation)
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Average of daily values for 4 consecutive monitoring days shall not exceed
+                
+                
+                  CN, T
+                  74
+                  39
+                
+                
+                  Cu
+                  176
+                  105
+                
+                
+                  Ni
+                  160
+                  100
+                
+                
+                  Cr
+                  273
+                  156
+                
+                
+                  Zn
+                  164
+                  102
+                
+                
+                  Pb

@@ -1,0 +1,20 @@
+int source subject to this subpart must achieve the following effluent limitations representing the application of BCT:
+              (a) For CAFO production areas: the CAFO shall attain the same limitations and requirements as § 412.43(a).
+              (b) For CAFO land application areas: the CAFO shall attain the same limitations and requirements as § 412.43(b).
+            
+            
+              § 412.45
+              Effluent limitations attainable by the application of the best available technology economically achievable (BAT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the application of BAT:
+              (a) For CAFO production areas: the CAFO shall attain the same limitations and requirements as § 412.43(a).
+              (b) For CAFO land application areas: the CAFO shall attain the same limitations and requirements as § 412.43(b).
+            
+            
+              § 412.46
+              New source performance standards (NSPS).
+              Any new source subject to this subpart must achieve the following effluent limitations representing the application of NSPS:
+              (a) For CAFO production areas. There must be no discharge of manure, litter, or process wastewater pollutants into waters of the U.S. from the production area, subject to paragraphs (a)(1) through (a)(3) of this section.
+              (1) Any CAFO subject to this subpart may request that the Director establish NPDES permit best management practice effluent limitations designed to ensure no discharge of manure, litter, or process wastewater based upon a site-specific evaluation of the CAFO's open surface manure storage structure. The NPDES permit best management practice effluent limitations must address the CAFO's entire production area. In the case of any CAFO using an open surface manure storage structure for which the Director establishes such effluent limitations, “no discharge of manure, litter, or process wastewater pollutants,” as used in this section, means that the storage structure is designed, operated, and maintained in accordance with best management practices established by the Director on a site-specific basis after a technical evaluation of the storage structure. The technical evaluation must address the following elements:
+              (i) Information to be used in the design of the open manure storage structure including, but not limited to, the following: minimum storage periods for rainy seasons, additional minimum capacity for chronic rainfalls, applicable technical standards that prohibit or otherwise limit land application to frozen, saturated, or snow-covered ground, planned emptying and dewatering schedules consistent with the CAFO's Nutrient Management Plan, additional storage capacity for manure intended to be transferred to another recipient at a later time, and any other factors that would affect the sizing of the open manure storage structure.
+              (ii) The design of the open manure storage structure as determined by the most recent version of the National Resource Conservation Service's Animal Waste Management (AWM) software. CAFOs may use equivalent design software or procedures as approved by the Director.
+              (iii) All inputs used in the open manure storage structure design including actual climate data for the previous 30 years consisting of historical av

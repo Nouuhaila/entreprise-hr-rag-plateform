@@ -1,0 +1,89 @@
+TSS
+                100.0
+                30.0
+              
+              
+                Oil and grease
+                20.0
+                15.0
+              
+            
+            (4) The quantity of pollutants discharged in fly ash and bottom ash transport water shall not exceed the quantity determined by multiplying the flow of fly ash and bottom ash transport water times the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                BPT effluent limitations
+                Maximum for any 1 day (mg/l)
+                Average of daily values for 30 consecutive days shall not exceed (mg/l)
+              
+              
+                TSS
+                100.0
+                30.0
+              
+              
+                Oil and grease
+                20.0
+                15.0
+              
+            
+
+            (5) The quantity of pollutants discharged in metal cleaning wastes shall not exceed the quantity determined by multiplying the flow of metal cleaning wastes times the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                BPT effluent limitations
+                Maximum for any 1 day (mg/l)
+                Average of daily values for 30 consecutive days shall not exceed (mg/l)
+              
+              
+                TSS
+                100.0
+                30.0
+              
+              
+                Oil and grease
+                20.0
+                15.0
+              
+              
+                Copper, total
+                1.0
+                1.0
+              
+              
+                Iron, total
+                1.0
+                1.0
+              
+            
+            (6) The quantity of pollutants discharged in once through cooling water shall not exceed the quantity determined by multiplying the flow of once through cooling water sources times the concentation listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                BPT effluent limitations
+                Maximum concentration (mg/l)
+                Average concentration (mg/l)
+              
+              
+                Free available chlorine
+                0.5
+                0.2
+              
+            
+            (7) The quantity of pollutants discharged in cooling tower blowdown shall not exceed the quantity determined by multiplying the flow of cooling tower blowdown sources times the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                BPT effluent limitations
+                Maximum concentration (mg/l)
+                Average concentration (mg/l)
+              
+              
+                Free available chlorine
+                0.5
+                0.2
+              
+            
+            (8) Neither free available chlorine nor total residual chlorine may be discharged from any unit for more than two hours in any one day and not more than one unit in any plant may discharge free available or total residual chlorine at any one time unless the utility can demonstrate to the Regional Administrator or State, if the State has NPDES permit issuing authority, that the units in a particular location cannot operate at or below this level or chlorination.
+            (9) Subject to the provisions of parag

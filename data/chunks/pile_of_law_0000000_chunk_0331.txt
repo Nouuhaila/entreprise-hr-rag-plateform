@@ -1,0 +1,38 @@
+o sample and analyze manure, litter, process waste water, and soil;
+              (5) Results from manure, litter, process waste water, and soil sampling;
+              (6) Explanation of the basis for determining manure application rates, as provided in the technical standards established by the Director.
+              (7) Calculations showing the total nitrogen and phosphorus to be applied to each field, including sources other than manure, litter, or process wastewater;
+              (8) Total amount of nitrogen and phosphorus actually applied to each field, including documentation of calculations for the total amount applied;
+              (9) The method used to apply the manure, litter, or process wastewater;
+              (10) Date(s) of manure application equipment inspection.
+              [68 FR 7269, Feb. 12, 2003, as amended at 73 FR 70485, Nov. 20, 2008]
+            
+          
+          
+            Subpart D—Swine, Poultry, and Veal Calves
+            
+              § 412.40
+              Applicability.
+              This subpart applies to operations defined as concentrated animal feeding operations (CAFOs) under 40 CFR 122.23 and includes the following animals: swine; chickens; turkeys; and veal calves. This subpart does not apply to such CAFOs with less than the following capacities: 2,500 swine each weighing 55 lbs. or more; 10,000 swine each weighing less than 55 lbs.; 30,000 laying hens or broilers if the facility uses a liquid manure handling system; 82,000 laying hens if the facility uses other than a liquid manure handling system; 125,000 chickens other than laying hens if the facility uses other than a liquid manure handling system; 55,000 turkeys; and 1,000 veal calves.
+            
+            
+              §§ 412.41-412.42
+              [Reserved]
+            
+            
+              § 412.43
+              Effluent limitations attainable by the application of the best practicable control technology currently available (BPT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the application of BPT:
+              (a) For CAFO production areas. (1) The CAFO shall attain the same limitations and requirements as § 412.31(a)(1) through (a)(2).
+              (2) The CAFO shall attain the limitations and requirements of this paragraph as of the date of permit coverage.
+              (b) For CAFO land application areas. (1) The CAFO shall attain the same limitations and requirements as § 412.31(b)(1) and (b)(2).
+              (2) The CAFO shall attain the limitations and requirements of this paragraph by February 27, 2009.
+              [68 FR 7269, Feb. 12, 2003, as amended at 71 FR 6984, Feb. 10, 2006; 72 FR 40250, July 24, 2007]
+            
+            
+              
+              § 412.44
+              Effluent limitations attainable by the application of the best conventional pollutant control technology (BCT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the application of BCT:
+              (a) For CAFO production areas: the CAFO shall attain the same limitations and requirements as § 412.43(a).
+              (b) For CAFO land application areas: the CAFO shall attain the same limitations and requirements as § 412.43(b).

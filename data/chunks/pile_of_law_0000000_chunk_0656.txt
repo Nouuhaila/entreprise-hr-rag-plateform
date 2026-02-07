@@ -1,0 +1,67 @@
+(2) See the comprehensive example in subpart D, § 419.43(c)(2).
+              (d) The provisions of § 419.13(d) apply to discharges of process wastewater pollutants attributable to ballast water by a point source subject to the provisions of this subpart.
+              (e) The quantity and quality of pollutants or pollutant properties controlled by this paragraph, attributable to once-through cooling water, are excluded from the discharge allowed by paragraph (b) of this section. Once-through cooling water may be discharged with a total organic carbon concentration not to exceed 5 mg/l.
+              (f) Effluent limitations for contaminated runoff. The following effluent limitations constitute the quantity and quality of pollutants or pollutant properties controlled by this paragraph and attributable to contaminated runoff, which may be discharged after the application of the best available technology economically achievable by a point source subject to this subpart.
+              (1) If wastewater consists solely of contaminated runoff and is not commingled or treated with process wastewater, it may be discharged if it does not exceed 110 mg/l total organic carbon (TOC) based upon an analysis of any single grab or composite sample.
+
+              (2) If contaminated runoff is commingled or treated with process wastewater, or if wastewater consisting solely of contaminated runoff which exceeds 110 mg/l TOC is not commingled or treated with any other type of wastewater, the quantity of pollutants discharged shall not exceed the quantity determined by multiplying the flow of contaminated runoff as determined by the permit writer times the concentrations listed in the following table:
+              
+                
+                  Pollutant or pollutant property
+                  BAT effluent limitations for contaminated runoff
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed
+                
+                
+                  
+                  Metric units (kilograms per 1,000 m3 of flow)
+                
+                
+                  Phenolic compounds (4AAP)
+                  0.35
+                  0.17
+                
+                
+                  Total chromium
+                  0.60
+                  0.21
+                
+                
+                  Hexavalent chromium
+                  0.062
+                  0.028
+                
+                
+                  COD 1
+                  
+                  360.
+                  180.
+                
+                
+                  
+                  English units (pounds per 1,000 gallons of flow)
+                
+                
+                  Phenolic compounds (4AAP)
+                  0.0029
+                  0.0014
+                
+                
+                  Total chromium
+                  0.0050
+                  0.0018
+                
+                
+                  Hexavalent chromium
+                  0.00052
+                  0.00023
+                
+                
+                  COD 1
+                  
+                  3.0
+                  1.5
+                
+                
+
+                  1 In any case in which the applicant can demonstrate that the chloride ion concentration in the effluent exceeds 1,000 mg/l (1,000 ppm), the permitting authority may substitute TOC as a parameter in lieu of COD. A TOC

@@ -1,0 +1,36 @@
+achieve the following pretreatment standards for new sources (PSNS): The limitations for cadmium (T), selenium (T), and zinc (T), are the same as specified in § 415.644(a).
+
+              (b) Except as provided in 40 CFR 403.7, any new source subject to this subpart and producing cadmium salts which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for new sources (PSNS): The limitations for cadmium (T), selenium (T), and zinc (T) are the same as specified in § 415.644(b).
+            
+            
+              § 415.647
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+              (a) Except as provided in 40 CFR 125.30 through 125.32 any existing point source subject to this subpart and producing cadmium pigments must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): The limitations are the same for TSS and pH as specified in § 415.642(a).
+              (b) Except as provided in 40 CFR 125.30 through 125.32 any existing point source subject to this subpart and producing cadmium salts must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): The limitations are the same for TSS and pH as specified in § 415.642(b).
+            
+          
+          
+            Subpart BM—Cobalt Salts Production Subcategory
+            
+              Source:
+              49 FR 33427, Aug. 22, 1984, unless otherwise noted.
+            
+            
+              § 415.650
+              Applicability; description of the cobalt salts production subcategory.
+              The provisions of this subpart are applicable to discharges and to the introduction of pollutants into treatment works which are publicly owned resulting from the production of cobalt salts.
+            
+            
+              § 415.651
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations, and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) The term product shall mean cobalt salts.
+              (c) The term cobalt shall mean the total cobalt present in the process wastewater stream exiting the wastewater treatment system.
+              (d) The term copper shall mean the total copper present in the process wastewater stream exiting the wastewater treatment system.
+              (e) The term nickel shall mean the total nickel present in the process wastewater stream exiting the wastewater treatment system.
+            
+            
+              § 415.652
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              Except as provided in 40 CFR 125.30 through 125.32 any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available

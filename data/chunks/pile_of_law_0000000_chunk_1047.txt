@@ -1,0 +1,112 @@
+Total Suspended Solids
+                  2050.000
+                  975.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              [50 FR 38365, Sept. 20, 1985, as amended at 55 FR 31705, 31706, Aug. 3, 1990]
+            
+            
+              § 421.263
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable:
+              (a) Furnace wet air pollution control.
+              
+              
+                BAT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of precious metals, including silver, incinerated or smelted
+                
+                
+                  Copper
+                  5.760
+                  2.745
+                
+                
+                  Cyanide (total)
+                  0.900
+                  0.360
+                
+                
+                  Zinc
+                  4.590
+                  1.890
+                
+                
+                  Combined metals
+                  1.350
+                  
+                
+                
+                  Ammonia (as N)
+                  599.900
+                  263.700
+                
+              
+              (b) Raw material granulation.
+              
+                BAT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of precious metals in the granulated raw material
+                
+                
+                  Copper
+                  0.819
+                  0.390
+                
+                
+                  Cyanide (total)
+                  0.128
+                  0.051
+                
+                
+                  Zinc
+                  0.653
+                  0.269
+                
+                
+                  Combined metals
+                  0.192
+                  
+                
+                
+                  Palladium
+                  0.064
+                  
+                
+                
+                  Platinum
+                  0.064
+                  
+                
+                
+                  Ammonia (as N)
+                  85.310
+                  37.500
+                
+              
+              (c) Spent plating solutions.
+              
+                BAT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average

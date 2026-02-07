@@ -1,0 +1,123 @@
+nge of 6.0 to 9.0.
+              
+              (4) Pipe, tube and other products.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  New source performance standars
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.0204
+                  0.00876
+                
+                
+                  O&G 1
+                  
+                  0.00876
+                  0.00292
+                
+                
+                  Lead
+                  0.000131
+                  0.0000438
+                
+                
+                  Zinc
+                  0.000175
+                  0.0000584
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  1 The limitations for oil and grease shall be applicable when acid pickling wastewaters are treated with cold rolling wastewaters.
+                
+                  2 Within the range of 6.0 to 9.0.
+              
+              (5) Fume scrubbers.
+                
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  New source performance standars
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kilograms per day
+                
+                
+                  TSS
+                  5.72
+                  2.45
+                
+                
+                  O&G 1
+                  
+                  2.45
+                  0.819
+                
+                
+                  Lead
+                  0.0368
+                  0.0123
+                
+                
+                  Zinc
+                  0.0491
+                  0.0164
+                
+                
+                  pH
+                  (2)
+                  (2)
+                
+                
+                  1 The limitations for oil and grease shall be applicable when acid pickling wastewaters are treated with cold rolling wastewaters.
+                
+                  2 Within the range of 6.0 to 9.0.
+              
+              The above limitations shall be applicable to each fume scrubber associated with a sulfuric acid pickling operation.
+              (b) Hydrochloric acid pickling (spent acid solutions and rinse waters)—(1) Rod, wire, and coil.
+              
+              
+                Subpart I
+                
+                  Pollutant or pollutant property
+                  New source performance standards
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.0175
+                  0.00751
+                
+                
+                  O&G 1
+                  
+                  0.00751
+                  0.00250
+                
+                
+                  Lead
+                  0.000113
+                  0.00003

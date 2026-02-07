@@ -1,0 +1,75 @@
+415.503-415.505
+              [Reserved]
+              415.506
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart AY—Potassium Iodide Production Subcategory
+              415.510
+              Applicability; description of the potassium iodide production subcategory.
+              415.511
+              Specialized definitions.
+              415.512
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+            
+            
+              Subpart AZ—Potassium Permanganate Production Subcategory [Reserved]
+            
+            
+              
+              Subpart BA—Silver Nitrate Production Subcategory
+              415.530
+              Applicability; description of the silver nitrate production subcategory.
+              415.531
+              Specialized definitions.
+              415.532
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.533
+              [Reserved]
+              415.534
+              Pretreatment standards for existing sources (PSES).
+            
+            
+              Subpart BB—Sodium Bisulfite Production Subcategory
+              415.540
+              Applicability; description of the sodium bisulfite production subcategory.
+              415.541
+              Specialized definitions.
+              415.542
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.543
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              415.544
+              [Reserved]
+              415.545
+              New source performance standards (NSPS).
+              415.546
+              Pretreatment standards for new sources (PSNS).
+              415.547
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+            
+            
+              Subpart BC—Sodium Fluoride Production Subcategory
+              415.550
+              Applicability; description of the sodium fluoride production subcategory.
+              415.551
+              Specialized definitions.
+              415.552
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              415.553
+              [Reserved]
+              415.554
+              Pretreatment standards for existing sources (PSES).
+              415.555
+              [Reserved]
+              415.556
+              Pretreatment standards for new sources (PSNS).
+            
+            
+              Subpart BD—Sodium Hydrosulfide Production Subcategory [Reserved]
+            
+            
+              Subpart BE—Sodium Hydrosulfite Production Subcategory [Reserved]
+            
+            
+              Subpart BF—Sodium Silicofluoride Production Subcategory [Reserved]

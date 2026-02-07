@@ -1,0 +1,115 @@
+itation and Filtration of Nonphotographic Solutions.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver precipitated
+                
+                
+                  Copper
+                  5.833
+                  3.070
+                
+                
+                  Zinc
+                  4.482
+                  1.873
+                
+                
+                  Ammonia (as N)
+                  409.300
+                  179.900
+                
+                
+                  Total suspended solids
+                  125.900
+                  59.870
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (k) Subpart L—Floor and Equipment Washdown.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver production
+                
+                
+                  Copper
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .000
+                  .000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              [49 FR 8821, Mar. 8, 1984, as amended at 49 FR 29795, July 24, 1984]
+            
+            
+              § 421.123
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable:
+              (a) Subpart L—Film Stripping.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver from film stripping
+                
+                
+                  Copper
+                  64.450
+                  30.720
+                
+                
+                  Zinc
+                  51.360
+                  21.150
+                
+                
+                  Ammonia (as N)
+                  6,712.000
+                  2,951.000
+                
+              
+              (b) Subpart L—Film Stripping Wet Air Pollution Control and Precip

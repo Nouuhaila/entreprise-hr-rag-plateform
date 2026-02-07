@@ -1,0 +1,127 @@
+8.152
+                  3.885
+                
+                
+                  Nickel
+                  3.503
+                  2.357
+                
+                
+                  Fluoride
+                  222.900
+                  126.700
+                
+              
+              (d) Digestion wet air pollution control.
+              
+                BAT Limitations for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium processed in the refinery
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Copper
+                  0.000
+                  0.000
+                
+                
+                  Nickel
+                  0.000
+                  0.000
+                
+                
+                  Fluoride
+                  0.000
+                  0.000
+                
+              
+              (e) Evaporation and denitration wet air pollution control.
+              
+                BAT Limitations for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium trioxide produced
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Copper
+                  0.000
+                  0.000
+                
+                
+                  Nickel
+                  0.000
+                  0.000
+                
+                
+                  Fluoride
+                  0.000
+                  0.000
+                
+              
+              (f) Hydrofluorination alkaline scrubber.
+              
+                BAT Limitations for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium tetrafluoride produced
+                
+                
+                  Chromium (total)
+                  0.007
+                  0.003
+                
+                
+                  Copper
+                  0.026
+                  0.012
+                
+                
+                  Nickel
+                  0.011
+                  0.007
+                
+                
+                  Fluoride
+                  0.700
+                  0.398
+                
+              
+              (g) Hydrofluorination water scrubber.
+              
+                BAT Limitations for the Secondary Uranium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of uranium tetrafluoride produced
+                
+                
+                  Chr

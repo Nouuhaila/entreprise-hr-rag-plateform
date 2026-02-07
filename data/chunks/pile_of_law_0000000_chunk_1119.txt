@@ -1,0 +1,132 @@
+Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium pickled
+                
+                
+                  Chromium (total)
+                  0.023
+                  0.009
+                
+                
+                  Lead
+                  0.017
+                  0.008
+                
+                
+                  Nickel
+                  0.034
+                  0.023
+                
+                
+                  Titanium
+                  0.032
+                  0.014
+                
+              
+              (l) Scrap milling wet air pollution control.
+              
+                PSES for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of scrap milled
+                
+                
+                  Chromium (total)
+                  0.084
+                  0.034
+                
+                
+                  Lead
+                  0.064
+                  0.030
+                
+                
+                  Nickel
+                  0.125
+                  0.084
+                
+                
+                  Titanium
+                  0.120
+                  0.052
+                
+              
+              (m) Scrap detergent wash water.
+              
+                PSES for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of scrap washed
+                
+                
+                  Chromium (total)
+                  6.684
+                  2.710
+                
+                
+                  Lead
+                  5.058
+                  2.348
+                
+                
+                  Nickel
+                  9.935
+                  6.684
+                
+                
+                  Titanium
+                  9.574
+                  4.155
+                
+              
+              (n) Casting crucible wash water.
+              
+                PSES for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium cast
+                
+                
+                  Chromium (total)
+                  0.176
+                  0.072
+                
+                
+                  Lead
+                  0.134
+                  0.062
+                
+                
+                  Nickel
+                  0.262
+                  0.176
+                
+                
+                  Titanium
+                  0.253
+                  0.110
+                
+              
+              (o) Casting contact cooling water.
+              
+                PSES for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  M

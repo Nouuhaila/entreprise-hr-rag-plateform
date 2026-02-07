@@ -1,0 +1,47 @@
+ol-A, hydrogenated (Biscyclohexanol-A)/Hydrogenation of Bisphenol-A
+              Butadiene (1,3)/Extractive distillation of C-4 pyrolyzates
+              n-Butanol/Hydrogenation of n-Butyraldehyde, Oxo process
+              1,3-Butylene glycol/Hydrogenation of acetaldol
+              1,4-Butanediol/Hydrogenation of 1,4-butynediol
+              Butylenes (mixed)/Distillation pf C4 pyrolyzates
+              4-Chloro-2-aminophenol/Hydrogenation of 4-Chloro-2-nitrophenol
+              Lilial (hydroxydihydrocitronellal)/Hydration and oxidation of citronellol
+              Cycloparaffins/Catalytic hydrogenation of aromatics in kerosene solvent
+              Cyclohexanol/Hydrogenation of phenol, distillation
+              Cyclohexanone/From phenol via cyclohexanol by hydrogenation-dehydrogenation
+              Dialkyldithiocarbamates, metal salts/Dialkylamines + carbon disulfide
+              Ethylamine/Reductive amination of ethanol
+              Ethylamines (mono, di, tri)/Reductive ammination (ammonia + hydrogen) of ethanol
+              Isoeugenol, high % trans/Separation of mixed cis & trans isoeugenols
+              2-Ethylhexanol/from n-Butyraldehyde by Aldol condensation and hydrogenation
+              Fatty acids, hydrogenated/tallow & coco acids + Hydrogen
+              Fatty amines/Hydrogenation of fatty nitriles (batch)
+              Fatty amines/Hydrogenation of tallow & coco nitriles
+              Glyoxal-urea formaldehyde textile resin/condensation to N-bis(hydroxymethyl) ureas & N,N′-(dihydroxyethyl) ureas
+              11-hexadecenal/Coupling rxns, low pressure hydrogenation
+              Hexahydrophthalic anhydride/Condensation of butadiene & maleic anhydride (Diels-Alder reaction) + hydrogenation
+              Isobutanol/Hydrogenation of isobutyraldehyde, Oxo process
+              Diisobutyl amine/Ammonolysis of isobutanol
+              Isopropyl amines (mono, di)/Reductive ammination (Ammonia + Hydrogen) of isopropanol
+              Linalool/Pyrolysis of 2-Pinanol
+              Methanol/High pressure synthesis from natural gas via synthetic gas
+              Methanol/Low pressure sythesis fron natural gas via synthetic gas
+              Methanol/Butane oxidation
+              Tris-(hydroxymethyl) methyl amine/Hydrogenation of tris(hydroxymethyl) nitromethane
+              N-Methyl morpholine/Morpholine + Methanol
+              N-Ethyl morpholine/Morpholine + Ethanol
+              2-Methyl-7,8-epoxy octadecane/Coupling reactions, low pressure hydrogenation, epoxidation
+              Alpha-Olefins/Ethylene oligomer, & Zeigler Cat.
+              Petroleum hydrocarbon resins, hydrogenated/Hydrogenation of petroleum hydrocarbon resin products
+              Pinane/Hydrogenation of A-Pinene
+              2-Pinanol/Reduction of pinane hydroperoxide
+              Bis-(p-Octylphenol) sulfide, Nickel salt/p-Octylphenol + sulfur chloride (S2C12), neutralize with Nickel base
+
+              Piperazine/Reductive amination of ethanol amine (ammonia & hydrogenation, metal catalyst)
+              
+              N,N-Dimethylpiperazine/Condensation piperazine + formaldehyde, hydrogenation
+              Polyoxylalkylene amines/Polyoxyalkylene glycol + Ammonia
+              Polyoxypropylene diamine/Polypropylene glycol + Ammonia
+              2-Amino-2-methyl-1-propanol/Hydrogenation of 2-Nitro 2-methyl-1-propanol
+              3-Methoxypropyl amine/Reductive amination of acrylamide with methanol & hydrogen
+              N-Propylamine/Reductive

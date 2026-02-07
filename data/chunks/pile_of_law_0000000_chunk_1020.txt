@@ -1,0 +1,133 @@
+Ammonia (as N)
+                  4.515
+                  1.985
+                
+                
+                  Cobalt
+                  0.005
+                  0.002
+                
+                
+                  Total suspended solids
+                  0.508
+                  0.406
+                
+                
+                  pH
+                  
+                    1
+                  
+                  
+                    1
+                  
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Nickel reduction decant.
+              
+                NSPS for the Primary Nickel and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of nickel produced
+                
+                
+                  Copper
+                  16.250
+                  7.744
+                
+                
+                  Nickel
+                  6.982
+                  4.697
+                
+                
+                  Ammonia (as N)
+                  1,692.000
+                  743.900
+                
+                
+                  Cobalt
+                  1.777
+                  0.889
+                
+                
+                  Total suspended solids
+                  190.400
+                  152.300
+                
+                
+                  pH
+                  
+                    1
+                  
+                  
+                    1
+                  
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (d) Cobalt reduction decant.
+              
+                NSPS for the Primary Nickel and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cobalt produced
+                
+                
+                  Copper
+                  27.390
+                  13.050
+                
+                
+                  Nickel
+                  11.770
+                  7.917
+                
+                
+                  Ammonia (as N)
+                  2,852.000
+                  1,254.000
+                
+                
+                  Cobalt
+                  2.996
+                  1.498
+                
+                
+                  Total suspended solids
+                  321.000
+                  256.800
+                
+                
+                  pH
+                  
+                    1
+                  
+                  
+                    1
+                  
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+            
+            
+              § 421.235
+              [Reserved]
+            
+            
+              § 421.236
+              Pretreatment standards for new sources.
+              Except as provided in 40 CFR 403.7, any new source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with a 40 C

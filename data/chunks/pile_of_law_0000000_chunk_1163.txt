@@ -1,0 +1,129 @@
+Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium dioxide and hafnium dioxide produced
+                
+                
+                  Chromium (total)
+                  0.987
+                  0.404
+                
+                
+                  Cyanide (total)
+                  0.651
+                  0.269
+                
+                
+                  Lead
+                  0.942
+                  0.449
+                
+                
+                  Nickel
+                  4.308
+                  2.850
+                
+                
+                  Ammonia (as N)
+                  299.100
+                  131.500
+                
+                
+                  Total suspended solids
+                  92.000
+                  43.760
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (g) Zirconium filtrate.
+              
+                BPT Limitations for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium dioxide and hafnium dioxide produced
+                
+                
+                  Chromium (total)
+                  17.070
+                  6.982
+                
+                
+                  Cyanide (total)
+                  11.250
+                  4.655
+                
+                
+                  Lead
+                  16.290
+                  7.758
+                
+                
+                  Nickel
+                  74.480
+                  49.260
+                
+                
+                  Ammonia (as N)
+                  5,171.000
+                  2,273.000
+                
+                
+                  Total suspended solids
+                  1,590.000
+                  756.400
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (h) Hafnium filtrate.
+              
+                BPT Limitations for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium dioxide and hafnium dioxide produced
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Cyanide (total)
+                  0.000
+                  0.000
+                
+                
+                  Lead
+                  0.000
+                  0.000
+                
+                
+                  Nickel
+                  0.000
+                  0.000

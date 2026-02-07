@@ -1,0 +1,141 @@
+any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead processed through desulfurization
+                
+                
+                  Antimony
+                  .000
+                  .000
+                
+                
+                  Arsenic
+                  .000
+                  .000
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .000
+                  .000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (e) Subpart M—Casting Contact Cooling
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead cast
+                
+                
+                  Antimony
+                  .634
+                  .283
+                
+                
+                  Arsenic
+                  .462
+                  .190
+                
+                
+                  Lead
+                  .093
+                  .044
+                
+                
+                  Zinc
+                  .323
+                  .135
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  9.061
+                  4.310
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (f) Subpart M—Truck Wash.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead produced from smelting
+                
+                
+                  Antimony
+                  .060
+                  .027
+                
+                
+                  Arsenic
+                  .044
+                  .018
+                
+                
+                  Lead
+                  .009
+                  .004
+                
+                
+                  Zinc
+                  .031
+                  .013
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .861
+                  .410
+                
+                
+                  pH
+                  (1)
+                  (1)

@@ -1,0 +1,93 @@
+74
+                  39
+                  21
+                
+                
+                  107
+                  65
+                  45
+                
+                
+                  169
+                  89
+                  49
+                
+                
+                  160
+                  100
+                  70
+                
+                
+                  164
+                  102
+                  70
+                
+                
+                  176
+                  105
+                  70
+                
+                
+                  273
+                  156
+                  98
+                
+                
+                  365
+                  229
+                  160
+                
+                
+                  374
+                  232
+                  160
+                
+                
+                  401
+                  241
+                  160
+                
+                
+                  410
+                  267
+                  195
+                
+                
+                  623
+                  257
+                  223
+                
+                
+                  935
+                  609
+                  445
+                
+              
+            
+          
+          
+            Subpart A—Electroplating of Common Metals Subcategory
+            
+              § 413.10
+              Applicability: Description of the electroplating of common metals subcategory.
+              The provisions of this subpart apply to dischargers of pollutants in process wastewaters resulting from the process in which a ferrous or nonferrous basis material is electroplated with copper, nickel, chromium, zinc, tin, lead, cadmium, iron, aluminum, or any combination thereof.
+            
+            
+              § 413.11
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) The term sq m [“sq ft”] shall mean the area plated expressed in square meters [square feet].
+              (b) The term operation shall mean any step in the electroplating process in which a metal is electrodeposited on a basis material and which is followed by a rinse; this includes the related operations of alkaline cleaning, acid pickle, stripping, and coloring when each operation is followed by a rinse.
+            
+            
+              §§ 413.12-413.13
+              [Reserved]
+            
+            
+              § 413.14
+              Pretreatment standards for existing sources.
+              Except as provided in §§ 403.7 and 403.13 of this title, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources (PSES):
+              (a) No user introducing wastewater pollutants into a publicly owned treatment works under the provisions of this subpart shall augment the use of process wastewater or otherwise dilute the wastewater as a partial or total substitute for adequate treatment to achieve compliance with this standard.
+              (b) For a source discharging less than 38,000 liters (10,000 gal.) per calendar day of electroplating process wastewater the following limitations shall apply:
+              
+                Subpart A—Common Metals Facilities Discharging Less Than 38,000 Liters Per Day PSES Limitations (m

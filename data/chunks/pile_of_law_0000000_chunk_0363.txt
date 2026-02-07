@@ -1,0 +1,46 @@
+414.100
+              Applicability; description of the subcategory of direct discharge point sources that do not use end-of-pipe biological treatment.
+              414.101
+              Toxic pollutant effluent limitations and standards for direct discharge point sources that do not use end-of-pipe biological treatment.
+            
+            
+              Subpart K—Indirect Discharge Point Sources
+              414.110
+              Applicability; description of the subcategory of indirect discharge point sources.
+              414.111
+              Toxic pollutant standards for indirect discharge point sources.
+              Appendix A to Part 414—Non-Complexed Metal-Bearing Waste Streams and Cyanide-Bearing Waste Streams
+              Appendix B to Part 414—Complexed Metal-Bearing Waste Streams
+            
+          
+          
+            Authority:
+            Secs. 301, 304, 306, 307, and 501, Pub. L. 92-500, 86 Stat. 816, Pub. L. 95-217, 91 Stat. 156, Pub. L. 100-4, 101 Stat. 7 (33 U.S.C. 1311, 1314, 1316, 1317, and 1361).
+          
+          
+            Source:
+            52 FR 42568, Nov. 5, 1987, unless otherwise noted.
+          
+          
+            Subpart A—General
+            
+              § 414.10
+              General definitions.
+              As used in this part:
+              (a) Except as provided in this regulation, the general definitions, abbreviations and methods of analysis set forth in part 401 of this chapter shall apply to this part.
+              (b) Pretreatment control authority means:
+              (1) The POTW if the POTW's submission for its pretreatment program has been approved in accordance with the requirements of 40 CFR 403.11, or
+              (2) The Approval Authority if the submission has not been approved.
+              (c) Priority pollutants means the toxic pollutants listed in 40 CFR 401.15.
+            
+            
+              § 414.11
+              Applicability.
+              (a) The provisions of this part are applicable to process wastewater discharges from all establishments or portions of establishments that manufacture the organic chemicals, plastics, and synthetic fibers (OCPSF) products or product groups covered by subparts B through H of this regulation and are included within the following U.S. Department of Commerce Bureau of the Census Standard Industrial Classification (SIC) major groups:
+              (1) SIC 2821—Plastic Materials, Synthetic Resins, and Nonvulcanizable Elastomers,
+              (2) SIC 2823—Cellulosic Man-Made Fibers,
+              (3) SIC 2824—Synthetic Organic Fibers, Except Cellulosic,
+              (4) SIC 2865—Cyclic Crudes and Intermediates, Dyes, and Organic Pigments,
+              (5) SIC 2869—Industrial Organic Chemicals, Not Elsewhere Classified.
+              (b) The provisions of this part are applicable to wastewater discharges from OCPSF research and development, pilot plant, technical service and laboratory bench scale operations if such operations are conducted in conjunction with and related to existing OCPSF manufacturing activities at the plant site.
+              (c) Notwithstanding paragraph (a) of this section, the provisions of this part are not applicable to discharges resulting from the manufacture of OCPSF products if the products are included in the following SIC subgroups and have in the past been reported by the establishment under these subgroups and not under the SIC groups listed in paragraph (a) o

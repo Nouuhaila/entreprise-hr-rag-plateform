@@ -1,0 +1,135 @@
+total)
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+                
+                  Fluoride
+                  0.000
+                  0.000
+                
+                
+                  Total suspended solids
+                  0.000
+                  0.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (i) Chip treatment wastewater.
+              
+                BPT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium scrap chips treated
+                  
+                
+                
+                  Beryllium
+                  9.533
+                  4.263
+                
+                
+                  Chromium (total)
+                  3.410
+                  1.395
+                
+                
+                  Copper
+                  14.730
+                  7.750
+                
+                
+                  Cyanide (total)
+                  2.248
+                  0.930
+                
+                
+                  Ammonia (as N)
+                  1,033.000
+                  454.200
+                
+                
+                  Fluoride
+                  271.300
+                  154.200
+                
+                
+                  Total suspended solids
+                  317.800
+                  151.100
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (j) Beryllium Pebble Plant Area Vent Wet Air Pollution Control.
+              
+                BPT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium pebbles produced
+                  
+                
+                
+                  Beryllium
+                  0.000
+                  0.000
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Copper
+                  0.000
+                  0.000
+                
+                
+                  Cyanide (total)
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+                
+                  Fluoride
+                  0.000
+                  0.000
+                
+                
+                  Total suspended solids
+                  0.000
+                  0.000
+                
+                
+                  pH
+                  
+                    1

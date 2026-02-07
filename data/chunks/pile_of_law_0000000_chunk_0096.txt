@@ -1,0 +1,56 @@
+0.016
+                  0.008
+                
+                
+                  TSS
+                  0.020
+                  .010
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+            
+            
+              § 405.46
+              Pretreatment standards for new sources.
+              Any new source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403.
+              [60 FR 33934, June 29, 1995]
+            
+            
+              § 405.47
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): The limitations shall be the same as those specified for conventional pollutants (which are defined in § 401.16) in § 405.42 of this subpart for the best practicable control technology currently available (BPT).
+              [51 FR 24996, July 9, 1986]
+            
+          
+          
+            Subpart E—Cottage Cheese and Cultured Cream Cheese Subcategory
+            
+              § 405.50
+              Applicability; description of the cottage cheese and cultured cream cheese subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the manufacture of cottage cheese and cultured cream cheese.
+            
+            
+              § 405.51
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) The term “BOD5 input” shall mean the biochemical oxygen demand of the materials entered into process. It can be calculated by multiplying the fats, proteins and carbohydrates by factors of 0.890, 1.031 and 0.691 respectively. Organic acids (e.g., lactic acids) should be included as carbohydrates. Composition of input materials may be based on either direct analyses or generally accepted published values.
+            
+            
+              § 405.52
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+
+              (a) For plants processing more than 25,000 lb/day of milk equivalent (more than 2,600 lb/day of BOD5 input).
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—

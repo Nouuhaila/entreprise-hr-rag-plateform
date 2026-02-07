@@ -1,0 +1,125 @@
+llutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum produced from electrolytic reduction
+                
+                
+                  Benzo(a)pyrene
+                  0.045
+                  0.021
+                
+                
+                  Nickel
+                  .738
+                  .496
+                
+                
+                  Fluoride
+                  79.790
+                  35.400
+                
+              
+              (i) Subpart B—Degassing Wet Air Pollution Control.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum produced from electrolytic reduction
+                
+                
+                  Benzo(a)pyrene
+                  .000
+                  
+                
+                
+                  Nickel
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+              
+              (j) Subpart B—Pot Repair and Pot Soaking.
+              
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum produced from electrolytic reduction
+                
+                
+                  Benzo(a)pyrene
+                  .000
+                  
+                
+                
+                  Nickel
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+              
+              (k) Subpart B—Direct Chill Casting Contact Cooling.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum product from direct chill casting
+                
+                
+                  Benzo(a)pyrene
+                  (1)
+                  (1)
+                
+                
+                  Nickel
+                  .731
+                  .492
+                
+                
+                  Fluoride
+                  79.080
+                  35.090
+                
+                
+                  1 There shall be no discharge allowance for this pollutant.
+              
+              (l) Subpart B—Continuous Rod Casting Contact Cooling.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of aluminum product from rod casting
+                
+                
+                  Benzo(a)pyrene

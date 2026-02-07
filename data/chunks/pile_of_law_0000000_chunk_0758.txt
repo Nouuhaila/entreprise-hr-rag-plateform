@@ -1,0 +1,111 @@
+Pollutant or pollutant property
+                  BAT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Chromium 1
+                  
+                  0.0000209
+                  0.0000084
+                
+                
+                  Lead
+                  0.0000094
+                  0.0000031
+                
+                
+                  Nickel 1
+                  
+                  0.0000188
+                  0.0000063
+                
+                
+                  Zinc
+                  0.0000063
+                  0.0000021
+                
+                
+                  1 The limitations for chromium and nickel shall be applicable in lieu of those for lead and zinc when cold forming wastewaters are treated with descaling or combination acid pickling wastewaters.
+              
+              (2) Using oil solutions.
+              
+              
+                Subpart J
+                
+                  Pollutant or pollutant property
+                  BAT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  Chromium 1
+                  
+                  0.0000209
+                  0.0000084
+                
+                
+                  Lead
+                  0.0000094
+                  0.0000031
+                
+                
+                  Nickel 1
+                  
+                  0.0000188
+                  0.0000063
+                
+                
+                  Zinc
+                  0.0000063
+                  0.0000021
+                
+                
+                  Naphthalene
+                  0.0000021
+                  
+                
+                
+                  Tetrachloroethylene
+                  0.0000031
+                  
+                
+                
+                  1 The limitations for chromium and nickel shall be applicable in lieu of those for lead and zinc when cold forming wastewaters are treated with descaling or combination acid pickling wastewaters.
+              
+              [47 FR 23284, May 27, 1982, as amended at 49 FR 21035, May 17, 1984]
+            
+            
+              § 420.104
+              New source performance standards (NSPS).
+              The discharge of wastewater pollutants from any new source subject to this subpart shall not exceed the standards set forth below.
+              (a) Cold rolling mills—(1) Recirculation—single stand.
+              
+              
+                Subpart J
+                
+                  Pollutant or pollutant property
+                  New source performance standards
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  0.00125
+                  0.000626
+                
+                
+                  O&G
+                  0.000522

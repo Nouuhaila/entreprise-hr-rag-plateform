@@ -1,0 +1,96 @@
+§ 415.422
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              
+              
+                Subpart AP—Hydrogen Cyanide
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (or pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  8.6
+                  3.2
+                
+                
+                  Cyanide A
+                  0.10
+                  0.021
+                
+                
+                  Total Cyanide
+                  0.65
+                  0.23
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 10.5.
+              
+            
+            
+              § 415.423
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT):
+              
+                Subpart AP—Hydrogen Cyanide
+                
+                  Pollutant or pollutant property
+                  BAT effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (or pounds per 1,000 lb) of product
+                
+                
+                  Cyanide A
+                  0.10
+                  0.021
+                
+                
+                  Total Cyanide
+                  0.65
+                  0.23
+                
+                
+                  Total Residual Chlorine
+                  0.086
+                  0.051
+                
+              
+            
+            
+              § 415.424
+              [Reserved]
+            
+            
+              § 415.425
+              New source performance standards (NSPS).
+              Any new source subject to this subpart must achieve the following new source performance standards (NSPS):
+              
+                Subpart AP—Hydrogen Cyanide
+                
+                  Pollutant or pollutant property
+                  NSPS effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (or pounds per 1,000 lb) of product
+                
+                
+                  TS

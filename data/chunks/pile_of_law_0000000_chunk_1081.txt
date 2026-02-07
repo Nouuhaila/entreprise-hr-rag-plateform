@@ -1,0 +1,139 @@
+Zinc
+                  20.600
+                  8.484
+                
+                
+                  Tantalum
+                  9.090
+                  
+                
+              
+              (c) Tantalum sludge leach and rinse.
+              
+                PSNS for the Secondary Tantalum Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of equivalent pure tantalum powder produced
+                
+                
+                  Copper
+                  262.800
+                  125.200
+                
+                
+                  Lead
+                  57.480
+                  26.690
+                
+                
+                  
+                  Nickel
+                  112.900
+                  75.960
+                
+                
+                  Zinc
+                  209.400
+                  86.230
+                
+                
+                  Tantalum
+                  92.390
+                  
+                
+              
+              (d) Tantalum powder acid wash and rinse.
+              
+                PSNS for the Secondary Tantalum Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tantalum powder produced
+                
+                
+                  Copper
+                  0.448
+                  0.214
+                
+                
+                  Lead
+                  0.098
+                  0.046
+                
+                
+                  Nickel
+                  0.193
+                  0.130
+                
+                
+                  Zinc
+                  0.357
+                  0.147
+                
+                
+                  Tantalum
+                  0.158
+                  
+                
+              
+              (e) Leaching wet air pollution control.
+              
+                PSNS for the Secondary Tantalum Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of equivalent pure tantalum powder produced
+                
+                
+                  Copper
+                  6.246
+                  2.977
+                
+                
+                  Lead
+                  1.366
+                  0.634
+                
+                
+                  Nickel
+                  2.684
+                  1.806
+                
+                
+                  Zinc
+                  4.978
+                  2.050
+                
+                
+                  Tantalum
+                  2.196
+                  
+                
+              
+            
+            
+              § 421.287
+              [Reserved]
+            
+          
+          
+            Subpart AA—Secondary Tin Subcategory
+            
+              Source:
+              50 FR 38376, Sept. 20, 1985, unless otherwise noted.
+            
+            
+              § 421.290

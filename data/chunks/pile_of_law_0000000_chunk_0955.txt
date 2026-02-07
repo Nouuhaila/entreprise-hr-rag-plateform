@@ -1,0 +1,136 @@
+Copper
+                  437.0
+                  230.0
+                
+                
+                  Cyanide (total)
+                  66.7
+                  27.6
+                
+                
+                  Ammonia (as N)
+                  30,660.0
+                  13,480.0
+                
+                
+                  Fluoride
+                  160,308.0
+                  71,201.0
+                
+                
+                  Total suspended solids
+                  9,430.0
+                  4,485.0
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (g) Process water.
+              
+                BPT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium pebbles produced
+                  
+                
+                
+                  Beryllium
+                  215.00
+                  96.14
+                
+                
+                  Chromium (total)
+                  76.91
+                  31.46
+                
+                
+                  Copper
+                  332.10
+                  174.80
+                
+                
+                  Cyanide (total)
+                  50.69
+                  20.98
+                
+                
+                  Ammonia (as N)
+                  23,300.00
+                  10,240.00
+                
+                
+                  Fluoride
+                  6,118.00
+                  3,479.00
+                
+                
+                  Total suspended solids
+                  7,167.00
+                  3,409.00
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (h) Fluoride furnace scrubber.
+              
+              
+                BPT Limitations for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium pebbles produced
+                  
+                
+                
+                  Beryllium
+                  0.000
+                  0.000
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Copper
+                  0.000
+                  0.000
+                
+                
+                  Cyanide (total)
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+                
+                  Fluoride
+                  0.000
+                  0.000
+                
+                
+                  Total suspended solids
+                  0.000
+                  0.00

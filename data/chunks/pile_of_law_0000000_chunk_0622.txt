@@ -1,0 +1,78 @@
+7.5 to 7.99
+                  1.28
+                
+                
+                  8.0 to 8.49
+                  1.39
+                
+                
+                  8.5 to 8.99
+                  1.51
+                
+                
+                  9.0 to 9.49
+                  1.65
+                
+                
+                  9.5 or greater
+                  1.72
+                
+              
+              (3) See the comprehensive example in subpart D, § 419.42(b)(3).
+              (c) The provisions of § 419.12(c) apply to discharges of process wastewater pollutants attributable to ballast water by a point source subject to the provisions of this subpart.
+              (d) The quantity and quality of pollutants or pollutant properties controlled by this paragraph, attributable to once-through cooling water, are excluded from the discharge allowed by paragraph (b) of this section. Once-through cooling water may be discharged with a total organic carbon concentration not to exceed 5 mg/l.
+              (e) Effluent limitations for contaminated runoff. The following effluent limitations constitute the quantity and quality of pollutants or pollutant properties controlled by this paragraph and attributable to contaminated runoff, which may be discharged after the application of the best practicable control technology currently available by a point source subject to this subpart.
+              (1) If wastewater consists solely of contaminated runoff and is not commingled or treated with process wastewater, it may be discharged if it does not exceed 15 mg/l oil and grease and 110 mg/l total organic carbon (TOC) based upon an analysis of any single grab or composite sample.
+              (2) If contaminated runoff is commingled or treated with process wastewater, or if wastewater consisting solely of contaminated runoff which exceeds 15 mg/l oil and grease or 110 mg/l TOC is not commingled or treated with any other type of wastewater, the quantity of pollutants discharged shall not exceed the quantity determined by multiplying the flow of contaminated runoff as determined by the permit writer times the concentrations listed in the following table:
+              
+                
+                  Pollutant or pollutant property
+                  BPT effluent limitations for contaminated runoff
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed
+                
+                
+                  
+                  Metric units (kilograms per 1,000 m3 of flow)
+                
+                
+                  BOD5
+                  
+                  48.
+                  26.
+                
+                
+                  TSS
+                  33.
+                  21.
+                
+                
+                  COD 1
+                  
+                  360.
+                  180.
+                
+                
+                  Oil and grease
+                  15.
+                  8.
+                
+                
+                  Phenolic compounds (4AAP)
+                  0.35
+                  0.17
+                
+                
+                  Total chromium
+                  0.73
+                  0.43
+                
+                
+                  Hexavalent chromium
+                  0.062
+                  0.028
+                
+                
+                  pH
+                  (2)
+                  (2

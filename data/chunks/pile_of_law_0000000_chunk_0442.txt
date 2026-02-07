@@ -1,0 +1,72 @@
+Nickel (T)
+                  0.33
+                  0.17
+                
+              
+              In cases where POTWs find it necessary to impose mass limitations, the following equivalent mass limitations are provided as an alternate: The limitations for Iron (T), Chromium (T), and Nickel (T) are the same as specified in § 415.225(c).
+            
+            
+              § 415.227
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): The limitations are the same for TSS and pH as specified in § 415.222.
+              [47 FR 55227, Dec. 8, 1982]
+            
+          
+          
+            Subpart W—Aluminum Fluoride Production Subcategory
+            
+              § 415.230
+              Applicability; description of the aluminum fluoride production subcategory.
+              This subpart applies to discharges to waters of the United States and introduction of pollutants into publicy owned treatment works resulting from the production of aluminum fluoride.
+            
+            
+              § 415.231
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) The term product means aluminum fluoride produced by the dry process in which partially dehydrated alumina hydrate is reacted with hydrofluoric acid gas.
+            
+            
+              § 415.232
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              
+                Subpart W—Aluminum Fluoride
+                
+                  BPT effluent limitations
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Kg/kkg (or pounds per 1,000 lb) of product
+                
+                
+                  TSS
+                  2.4
+                  1.2
+                
+                
+                  Fluoride (T)
+                  1.3
+                  0.63
+                
+                
+                  Chromium (T)
+                  0.015
+                  0.0045
+                
+                
+                  
+                  Nicket (T)
+                  0.0079
+                  0.0024
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.

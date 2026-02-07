@@ -1,0 +1,135 @@
+29.000
+                  12.920
+                
+                
+                  Oil and grease
+                  83.330
+                  83.330
+                
+                
+                  Total suspended solids
+                  125.000
+                  100.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (g) Cobalt sludge leaching wet air pollution control.
+              
+                NSPS for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cobalt produced from cobalt sludge
+                
+                
+                  Copper
+                  45.80
+                  21.83
+                
+                
+                  Nickel
+                  19.68
+                  13.24
+                
+                
+                  Ammonia (as N)
+                  4,770.00
+                  2,097.00
+                
+                
+                  Cobalt
+                  98.756
+                  43.295
+                
+                
+                  Tungsten
+                  124.50
+                  55.46
+                
+                
+                  Oil and grease
+                  357.80
+                  357.80
+                
+                
+                  Total suspended solids
+                  536.70
+                  429.40
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (h) Crystallization decant.
+              
+                NSPS for the Secondary Tungsten and Cobalt Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cobalt produced
+                
+                
+                  Copper
+                  53.310
+                  25.410
+                
+                
+                  Nickel
+                  22.910
+                  15.410
+                
+                
+                  Ammonia (as N)
+                  5,552.000
+                  2,441.000
+                
+                
+                  Cobalt
+                  114.954
+                  50.397
+                
+                
+                  Tungsten
+                  144.900
+                  64.560
+                
+                
+                  Oil and grease
+                  416.500
+                  416.500
+                
+                
+                  Total suspended solids
+                  624.800
+                  499.800
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (i) Acid wash decant.
+              
+              
+                NSPS for the Secondary Tungsten

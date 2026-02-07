@@ -1,0 +1,129 @@
+pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (i) Chip treatment wastewater.
+              
+                NSPS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium scrap chips treated
+                
+                
+                  Beryllium
+                  6.355
+                  2.868
+                
+                
+                  Chromium (total)
+                  2.868
+                  1.163
+                
+                
+                  Copper
+                  9.920
+                  4.728
+                
+                
+                  Cyanide (total)
+                  1.550
+                  0.620
+                
+                
+                  Ammonia (as N)
+                  1,033.000
+                  454.200
+                
+                
+                  Fluoride
+                  271.300
+                  154.200
+                
+                
+                  Total suspended solids
+                  116.300
+                  93.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (j) Beryllium pebble plant area vent wet air pollution control.
+              
+                NSPS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryllium pebbles produced
+                
+                
+                  Beryllium
+                  0.000
+                  0.000
+                
+                
+                  Chromium (total)
+                  0.000
+                  0.000
+                
+                
+                  Copper
+                  0.000
+                  0.000
+                
+                
+                  Cyanide (total)
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+                
+                  Fluoride
+                  0.000
+                  0.000
+                
+                
+                  Total suspended solids
+                  0.000
+                  0.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (k) Beryl Ore Gangue Dewatering.
+              
+              
+                NSPS for the Primary Beryllium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of beryl ore processed

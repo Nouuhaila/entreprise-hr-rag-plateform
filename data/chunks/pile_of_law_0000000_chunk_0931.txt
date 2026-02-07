@@ -1,0 +1,139 @@
+ations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead produced from smelting
+                
+                
+                  Antimony
+                  .077
+                  .035
+                
+                
+                  Arsenic
+                  .056
+                  .023
+                
+                
+                  Lead
+                  .011
+                  .005
+                
+                
+                  Zinc
+                  .039
+                  .016
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  1.107
+                  .527
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (j) Subpart M—Employee Respirator Wash.
+              
+                BPT Effulent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead produced from smelting
+                
+                
+                  Antimony
+                  .126
+                  .056
+                
+                
+                  Arsenic
+                  .092
+                  .038
+                
+                
+                  Lead
+                  .018
+                  .009
+                
+                
+                  Zinc
+                  .064
+                  .027
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  1.804
+                  .858
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (k) Subpart M—Laundering of Uniforms.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of lead produced from smelting
+                
+                
+                  Antimony
+                  .367
+                  .164
+                
+                
+                  Arsenic
+                  .268
+                  .110
+                
+                
+                  Lead
+                  .054
+                  .026
+                
+                
+                  Zinc
+                  .187
+                  .078
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  5.248
+                  2.496

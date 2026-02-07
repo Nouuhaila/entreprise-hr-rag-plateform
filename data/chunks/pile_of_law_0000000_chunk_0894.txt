@@ -1,0 +1,132 @@
+dried
+                  
+                
+                
+                  Lead
+                  25.430
+                  12.110
+                
+                
+                  Zinc
+                  88.390
+                  36.930
+                
+                
+                  Ammonia (as N)
+                  8,070.000
+                  3,548.000
+                
+                
+                  Fluoride
+                  2,119.000
+                  1,211.000
+                
+                
+                  Total suspended solids
+                  2,482.000
+                  1,181.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (g) Subpart K—Oxides Calcining Wet Air Pollution Control.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of columbium-tantalum oxide dried
+                
+                
+                  Lead
+                  16.140
+                  7.685
+                
+                
+                  Zinc
+                  56.100
+                  23.440
+                
+                
+                  Ammonia (as N)
+                  5,122.000
+                  2,252.000
+                
+                
+                  Fluoride
+                  1,345.000
+                  768.500
+                
+                
+                  Total suspended solids
+                  1,576.000
+                  749.200
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (h) Subpart K—Reduction of Tantalum Salt to Metal.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tantalum salt reduced
+                
+                
+                  Lead
+                  69.750
+                  33.220
+                
+                
+                  Zinc
+                  242.500
+                  101.300
+                
+                
+                  Ammonia (as N)
+                  22,140.000
+                  9,732.000
+                
+                
+                  Fluoride
+                  5,813.000
+                  3,322.000
+                
+                
+                  Total suspended solids
+                  6,809.000
+                  3,239.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (i) Subpart K—Reduction of Tantalum Salt to Metal Wet Air Pollution Control.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day

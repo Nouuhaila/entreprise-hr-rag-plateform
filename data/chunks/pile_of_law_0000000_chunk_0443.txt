@@ -1,0 +1,59 @@
+Chromium (T)
+                  0.015
+                  0.0045
+                
+                
+                  
+                  Nicket (T)
+                  0.0079
+                  0.0024
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+              [47 FR 28278, June 29, 1982, as amended at 47 FR 55227, Dec. 8, 1982]
+            
+            
+              § 415.233
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT): The limitations for Fluoride(T), Chromium(T), and Nickel(T) are the same as specified in § 415.232.
+            
+            
+              § 415.234
+              [Reserved]
+            
+            
+              § 415.235
+              New source performance standards (NSPS).
+              Any new source subject to this subpart must achieve the following new source performance standards (NSPS): The limitations are the same as specified in § 415.232.
+            
+            
+              § 415.236
+              [Reserved]
+            
+            
+              § 415.237
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): The limitations are the same for TSS and pH as specified in § 415.232.
+            
+          
+          
+            Subpart X—Ammonium Chloride Production Subcategory
+            
+              § 415.240
+              Applicability; description of the ammonium chloride production subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of ammonium chloride by the reaction of anhydrous ammonia with hydrogen chloride gas and by the recovery process from Solvay process wastes.
+            
+            
+              § 415.241
+              Specialized definitions.
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+              (b) The term product shall mean ammonium chloride.
+              (c) The term process wastewater means any water which, during manufacturing or processing, comes into direct contact with or results from the production or use of any raw material, intermediate product, finished product, by-product, or waste product. The term “process wastewater” does not include contaminated nonprocess wastewater, as defined below.
+              (d) The term process wastewater pollutants means pollutants present in process wastewater.
+              (e) The term contaminated nonprocess wastewater shall mean any water wh

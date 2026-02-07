@@ -1,0 +1,116 @@
+10.000
+                  4.000
+                
+                
+                  Zinc
+                  51.000
+                  21.000
+                
+                
+                  Combined metals
+                  15.000
+                  
+                
+                
+                  Ammonia (as N)
+                  6665.000
+                  2930.000
+                
+                
+                  Total Suspended Solids
+                  750.000
+                  600.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              [50 FR 38365, Sept. 20, 1985, as amended at 55 FR 31708, Aug. 3, 1990]
+            
+            
+              § 421.265
+              Pretreatment standards for existing sources.
+              Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources. The mass of wastewater pollutants in secondary precious metals process wastewater introduced into a POTW must not exceed the following values:
+              (a) Furnace wet air pollution control.
+              
+                PSES for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of precious metals, including silver, incinerated or smelted
+                
+                
+                  Copper
+                  5.760
+                  2.745
+                
+                
+                  Cyanide (total)
+                  0.900
+                  0.360
+                
+                
+                  Zinc
+                  4.590
+                  1.890
+                
+                
+                  Combined metals
+                  1.350
+                  
+                
+                
+                  Ammonia (as N)
+                  599.900
+                  263.700
+                
+              
+              (b) Raw material granulation.
+              
+                PSES for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of precious metals in the granulated raw material
+                
+                
+                  Copper
+                  0.819
+                  0.390
+                
+                
+                  Cyanide (total)
+                  0.128
+                  0.051
+                
+                
+                  Zinc
+                  0.653
+                  0.269
+                
+                
+                  Combined metals
+                  0.192
+                  
+                
+                
+                  Ammonia (as N)
+                  85.310
+                  37.500
+                
+              
+              (c) Spent plating solutions.
+              
+                PSES for the Secondary Precious Metals Subcategory

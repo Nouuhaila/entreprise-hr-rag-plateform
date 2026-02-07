@@ -1,0 +1,31 @@
+to implement National Pretreatment Standards to control pollutants which pass through or interfere with treatment processes in Publicly Owned Treatment Works (POTWs) or which may contaminate sewage sludge.
+            (b) This regulation applies:
+            (1) To pollutants from non-domestic sources covered by Pretreatment Standards which are indirectly discharged into or transported by truck or rail or otherwise introduced into POTWs as defined below in § 403.3;
+            (2) To POTWs which receive wastewater from sources subject to National Pretreatment Standards;
+            (3) To States which have or are applying for National Pollutant Discharge Elimination System (NPDES) programs approved in accordance with section 402 of the Act; and
+            (4) To any new or existing source subject to Pretreatment Standards. National Pretreatment Standards do not apply to sources which Discharge to a sewer which is not connected to a POTW Treatment Plant.
+            [46 FR 9439, Jan. 28, 1981, as amended at 48 FR 2776, Jan. 21, 1983; 60 FR 33932, June 29, 1995]
+          
+          
+            § 403.2
+            Objectives of general pretreatment regulations.
+            By establishing the responsibilities of government and industry to implement National Pretreatment Standards this regulation fulfills three objectives:
+            (a) To prevent the introduction of pollutants into POTWs which will interfere with the operation of a POTW, including interference with its use or disposal of municipal sludge;
+            (b) To prevent the introduction of pollutants into POTWs which will pass through the treatment works or otherwise be incompatible with such works; and
+            (c) To improve opportunities to recycle and reclaim municipal and industrial wastewaters and sludges.
+          
+          
+            § 403.3
+            Definitions.
+            For the purposes of this part:
+            (a) Except as discussed below, the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part 401 shall apply to this regulation.
+            (b) The term Act means Federal Water Pollution Control Act, also known as the Clean Water Act, as amended, 33 U.S.C. 1251, et seq.
+            
+            (c) The term Approval Authority means the Director in an NPDES State with an approved State pretreatment program and the appropriate Regional Administrator in a non-NPDES State or NPDES State without an approved State pretreatment program.
+            (d) The term Approved POTW Pretreatment Program or Program or POTW Pretreatment Program means a program administered by a POTW that meets the criteria established in this regulation (§§ 403.8 and 403.9) and which has been approved by a Regional Administrator or State Director in accordance with § 403.11 of this regulation.
+            (e) The term Best Management Practices or BMPs means schedules of activities, prohibitions of practices, maintenance procedures, and other management practices to implement the prohibitions listed in § 403.5(a)(1) and (b). BMPs also include treatment requirements, operating procedures, and practices to control plant site runoff, spillage or leaks, sludge or waste disposal, or drainage from raw materials storage.
+            (f) The term Control Authority refers to:
+
+            (1) The POTW if the POTW's Pretreatment Program Submission has been approved in accordance with the requirements of § 403.11; or
+            
+            (2) The Approval A

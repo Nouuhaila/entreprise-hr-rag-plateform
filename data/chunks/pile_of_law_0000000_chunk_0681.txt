@@ -1,0 +1,35 @@
+(2) Increased loadings, not to exceed 25 percent of the above limitations, are allowed for by-product coke plants which include indirect ammonia recovery systems but only to the extent that such systems generate an increased effluent volume.
+              (c) Cokemaking—non-recovery. Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this segment must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): There shall be no discharge of process wastewater pollutants to waters of the U.S.
+              [47 FR 23284, May 27, 1982, as amended at 67 FR 64264, Oct. 17, 2002]
+            
+            
+              § 420.18
+              Pretreatment standards compliance dates.
+              Compliance with the pretreatment standards for existing sources set forth in § 420.15 of this subpart is required not later than October 17, 2005 whether or not the pretreatment authority issues or amends a pretreatment permit requiring such compliance. Until that date, the pretreatment standards for existing sources set forth in Subpart A of title 40 of the Code of Federal Regulations, revised as of July 1, 2001, shall continue to apply.
+              [67 FR 64264, Oct. 17, 2002]
+            
+          
+          
+            Subpart B—Sintering Subcategory
+            
+              § 420.20
+              Applicability; description of the sintering subcategory.
+              The provisions of this subpart are applicable to discharges and to the introduction of pollutants into publicly owned treatment works resulting from sintering operations conducted by the heating of iron bearing wastes (mill scale and dust from blast furnaces and steelmaking furnaces) together with fine iron ore, limestone, and coke fines in an ignition furnace to produce an agglomerate for charging to the blast furnace.
+            
+            
+              § 420.21
+              Specialized definitions.
+              As used in this subpart:
+              (a) For the sintering subcategory, the term product means sinter agglomerated from iron-bearing materials.
+              (b) The term dry air pollution control system means an emission control system that utilizes filters to remove iron-bearing particles (fines) from blast furnace or sintering off-gases.
+              (c) The term minimum level (ML) means the level at which the analytical system gives recognizable signals and an acceptable calibration point. For 2,3,7,8-tetrachlorodibenzofuran, the minimum level is 10 pg/L per EPA Method 1613B for water and wastewater samples.
+              (d) The term pg/L means picograms per liter (ppt = 1.0 × 10-12 gm/L).
+              (e) The term sintering means a process for agglomerating iron-bearing materials into small pellets (sinter) that can be charged to a blast furnace.
+              (f) The term wet air pollution control system means an emission control system that utilizes water to clean process or furnace off-gases.
+              [67 FR 64264, Oct. 17, 2002]
+            
+            
+              § 420.22
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must

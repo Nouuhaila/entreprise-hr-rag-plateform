@@ -1,0 +1,128 @@
+ered
+                
+                
+                  Benzo(a)pyrene
+                  1.181
+                  0.547
+                
+                
+                  Cyanide
+                  157.600
+                  70.060
+                
+                
+                  Nickel
+                  80.570
+                  35.030
+                
+                
+                  Fluoride
+                  29,430.000
+                  13,310.000
+                
+              
+              (e) Subpart B—Cathode Reprocessing (Operated With Dry Potline Scrubbing and Commingled With Other Process or Nonprocess Waters).
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of cryolite recovered
+                
+                
+                  Benzo(a)pyrene
+                  1.181
+                  0.547
+                
+                
+                  Cyanide
+                  157.600
+                  70.060
+                
+                
+                  Nickel
+                  19.270
+                  12.960
+                
+                
+                  Fluoride
+                  2,084.000
+                  924.800
+                
+              
+              (f) Subpart B—Potline Wet Air Pollution Control.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum produced from electrolytic reduction
+                
+                
+                  Benzo(a)pyrene
+                  .000
+                  
+                
+                
+                  Nickel
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+              
+              (g) Subpart B—Potroom Wet Air Pollution Control.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum produced from electrolytic reduction
+                
+                
+                  Benzo(a)pyrene
+                  .000
+                  
+                
+                
+                  Nickel
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+              
+              (h) Subpart B—Potline SO2 Emissions Wet Air Pollution Control.
+              
+                PSNS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of aluminum produced from electrolytic reduction
+                
+                
+                  Benzo(a)pyrene
+                  0.045
+                  0.021

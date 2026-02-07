@@ -1,0 +1,61 @@
+ng less than 38,000 l (10,000 gal) per calendar day of electroplating process wastewater:
+              
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                
+                
+                  
+                  Milligrams per liter ­(mg/l)
+                
+                
+                  TTO
+                  4.57
+                
+              
+              (g) In addition to paragraphs (a), (c), (d), and (e) of this section, the following limitation shall apply for plants discharging 38,000 l (10,000 gal) or more per calendar day of electroplating process wastewater:
+              
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                
+                
+                  
+                  Milligrams per liter ­(mg/l)
+                
+                
+                  TTO
+                  2.13
+                
+              
+              (h) In addition to paragraphs (a), (b), (c), (d), (e), (f), and (g) of this section, the following shall apply: An existing source submitting a certification in lieu of monitoring pursuant to § 413.03 of this regulation must implement the toxic organic management plan approved by the control authority.
+
+              (Secs. 301, 304, 306, 307, 308, and 501 of the Clean Water Act (the Federal Water Pollution Control Act Amendments of 1972, 33 U.S.C. 1251 et. seq., as amended by the Clean Water Act of 1977, Pub. L. 95-217))
+              [46 FR 9467, Jan. 28, 1981, as amended at 48 FR 32484, July 15, 1983; 48 FR 43681, Sept. 26, 1983]
+            
+          
+          
+            
+            Subpart H—Printed Circuit Board Subcategory
+            
+              § 413.80
+              Applicability: Description of the printed circuit board subcategory.
+              The provisions of this subpart apply to the manufacture of printed circuit boards, including all manufacturing operations required or used to convert an insulating substrate to a finished printed circuit board. The provisions set forth in other subparts of this category are not applicable to the manufacture of printed circuit boards.
+            
+            
+              § 413.81
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) The term sq ft (“sq m”) shall mean the area of the printed circuit board immersed in an aqueous process bath.
+              (b) The term operation shall mean any step in the printed circuit board manufacturing process in which the board is immersed in an aqueous process bath which is followed by a rinse.
+            
+            
+              §§ 413.82-413.83
+              [Reserved]
+            
+            
+              § 413.84
+              Pretreatment standards for existing sources.
+              Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources (PSES):
+              (a) No user introducing wastewater pollutants into a publicly owned treatment works under the provisions of this subpart shall augment the use of process wastewater or otherwise dilute the wastewater as a partial or total substitute for adequate treatment to achieve compliance with this standard.
+              (b) For a source discharging l

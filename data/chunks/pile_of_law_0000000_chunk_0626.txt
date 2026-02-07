@@ -1,0 +1,113 @@
+Cracking and coking
+                  0.0218
+                  0.0098
+                
+                
+                  Asphalt
+                  0.0117
+                  0.0053
+                
+                
+                  Lube
+                  0.0549
+                  0.0248
+                
+                
+                  Reforming and alkylation
+                  0.0196
+                  0.0088
+                
+                
+                  
+                  English units (pounds per 1,000 bbl of feedstock)
+                
+                
+                  Phenolic compounds (4AAP):
+                
+                
+                  Crude
+                  0.013
+                  0.003
+                
+                
+                  Cracking and coking
+                  0.147
+                  0.036
+                
+                
+                  Asphalt
+                  0.079
+                  0.019
+                
+                
+                  Lube
+                  0.369
+                  0.090
+                
+                
+                  Reforming and alkylation
+                  0.132
+                  0.032
+                
+                
+                  Total chromium:
+                
+                
+                  Crude
+                  0.011
+                  0.004
+                
+                
+                  Cracking and coking
+                  0.119
+                  0.041
+                
+                
+                  Asphalt
+                  0.064
+                  0.022
+                
+                
+                  Lube
+                  0.299
+                  0.104
+                
+                
+                  Reforming and alkylation
+                  0.107
+                  0.037
+                
+                
+                  Hexavalent chromium:
+                
+                
+                  Crude
+                  0.0007
+                  0.0003
+                
+                
+                  Cracking and coking
+                  0.0076
+                  0.0034
+                
+                
+                  Asphalt
+                  0.0041
+                  0.0019
+                
+                
+                  Lube
+                  0.0192
+                  0.0087
+                
+                
+                  Reforming and alkylation
+                  0.0069
+                  0.0031
+                
+              
+              
+              (2) See the comprehensive example in subpart D, § 419.43(c)(2).
+              (d) The provisions of § 419.13(d) apply to discharges of process wastewater pollutants attributable to ballast water by a point source subject to the provisions of this subpart.
+              (e) The quantity and quality of pollutants or pollutant properties controlled by this paragraph, attributable to once-through cooling water, are excluded from the discharge allowed by paragraph (b) of this section. Once-through cooling water may be discharged with a total organic carbon concentration not to exceed 5 mg/l.
+              (f) Effluent limitations for contaminated runoff. The following effluent limitations constitute the quantity and quality of pollutants or pollutant properties controlled by this paragraph and attributable to contaminated runoff, which may be discharged after the application of the best available technology economically achievable by a point source subject to this sub

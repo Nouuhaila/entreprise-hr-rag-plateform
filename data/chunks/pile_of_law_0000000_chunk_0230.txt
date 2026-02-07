@@ -1,0 +1,65 @@
+he degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): The limitations shall be the same as those specified for conventional pollutants (which are defined in § 401.16) in § 408.202(b)(2) of this subpart for the best practicable control technology currently available (BPT).
+              [51 FR 24998, July 9, 1986]
+            
+          
+          
+            Subpart U—Non-Alaskan Conventional Bottom Fish Processing Subcategory
+            
+              Source:
+              40 FR 55788, Dec. 1, 1975, unless otherwise noted.
+            
+            
+              § 408.210
+              Applicability; description of the non-Alaskan conventional bottom fish processing subcategory.
+
+              The provisions of this subpart are applicable to discharges resulting from the processing of bottom fish outside of Alaska in which the unit operations are carried out predominately through manual methods. However, the use of scaling machines and/or skinning machines are considered to be normal practice within this subcategory. The provisions of this subpart apply to the processing of currently, commercially processed species of bottom fish such as flounder, ocean perch, haddock, cod, sea catfish, sole, halibut, and rockfish. These provisions apply to existing facilities processing more than 1816 kg (4000 lbs) of raw material per day on any day during a calendar year and all new sources.
+            
+            
+              § 408.211
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) The term seafood shall mean the raw material, including freshwater and saltwater fish and shellfish, to be processed, in the form in which it is received at the processing plant.
+            
+            
+              § 408.212
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kilograms per 1,000 kg of seafood)
+                
+                
+                  TSS
+                  3.6
+                  2.0
+                
+                
+                  Oil and grease
+                  1.0
+                  0.55
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (pounds per 1,000 lb of seafood)
+                
+                
+                  TSS
+                  3.6
+                  2.0
+                
+                
+                  Oil and grease
+                  1.0

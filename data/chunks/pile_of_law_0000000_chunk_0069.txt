@@ -1,0 +1,23 @@
+t the variance be granted) and an explanation of how the recommended alternative discharge limits were derived;
+            (C) The supporting evidence submitted to the Administrator (or his delegate); and
+            (D) Other information considered by the Administrator (or his delegate) in developing the recommended alternative discharge limits;
+            (iii) Notify the Director and the POTW of his or her determination; and
+            (iv) Send the information described in paragraphs (l)(2) (i) and (ii) of this section to the Requestor (and to the Industrial User where they are not the same).
+            (m) Request for hearing. (1) Within 30 days following the date of receipt of the notice of the decision of the Administrator's delegate on a variance request, the requester or any other interested person may submit a petition to the Regional Administrator for a hearing to reconsider or contest the decision. If such a request is submitted by a person other than the Industrial User the person shall simultaneously serve a copy of the request on the Industrial User.
+            (2) If the Regional Administrator declines to hold a hearing and the Regional Administrator affirms the findings of the Administrator's delegate the requester may submit a petition for a hearing to the Environmental Appeals Board (which is described in § 1.25 of this title) within 30 days of the Regional Administrator's decision.
+            [46 FR 9439, Jan. 28, 1981, as amended at 49 FR 5132, Feb. 10, 1984; 50 FR 38811, Sept. 25, 1985; 51 FR 16030, Apr. 30, 1986; 54 FR 258, Jan. 4, 1989; 57 FR 5347, Feb. 13, 1992; 58 FR 18017, Apr. 7, 1993; 60 FR 33932, June 29, 1995; 70 FR 60198, Oct. 14, 2005]
+          
+          
+            § 403.14
+            Confidentiality.
+            (a) EPA authorities. In accordance with 40 CFR part 2, any information submitted to EPA pursuant to these regulations may be claimed as confidential by the submitter. Any such claim must be asserted at the time of submission in the manner prescribed on the application form or instructions, or, in the case of other submissions, by stamping the words “confidential business information” on each page containing such information. If no claim is made at the time of submission, EPA may make the information available to the public without further notice. If a claim is asserted, the information will be treated in accordance with the procedures in 40 CFR part 2 (Public Information).
+            (b) Effluent data. Information and data provided to the Control Authority pursuant to this part which is effluent data shall be available to the public without restriction.
+            (c) State or POTW. All other information which is submitted to the State or POTW shall be available to the public at least to the extent provided by 40 CFR 2.302.
+          
+          
+            § 403.15
+            Net/Gross calculation.
+            (a) Application. Categorical Pretreatment Standards may be adjusted to reflect the presence of pollutants in the Industrial User's intake water in accordance with this section. Any Industrial User wishing to obtain credit for intake pollutants must make application to the Control Authority. Upon request of the Industrial User, the applicable Standard will be calculated on a “net” basis (i.e., adjusted to reflect credit for pollutants in the intake water) if the requirements of paragraph (b) of this section are met.
+            (b) Criteria. (1) Either:
+
+            (i) The a

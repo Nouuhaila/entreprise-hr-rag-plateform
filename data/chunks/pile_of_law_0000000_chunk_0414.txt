@@ -1,0 +1,49 @@
+pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+            
+            
+              § 415.23
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT):
+              (a) Subject to the provisions of paragraph (b) of this section there shall be no discharge of process wastewater pollutants into navigable waters.
+              (b) A process wastewater impoundment which is designed, constructed, and operated so as to contain the precipitation from the 25-year, 24-hour rainfall event as established by the National Climatic Center, National Oceanic and Atmospheric Administration for the area in which such impoundment is located may discharge that volume of process wastewater which is equivalent to the volume of precipitation that falls within the impoundment in excess of that attributable to the 25-year, 24-hour rainfall event, when such event occurs.
+            
+            
+              § 415.24
+              Pretreatment standards for existing sources (PSES).
+              Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources (PSES):
+              
+                Subpart B—Aluminum Sulfate
+                
+                  Pollutant or pollutant property
+                  PSES limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days
+                
+                
+                  
+                  Milligrams per liter (mg/l)
+                
+                
+                  Zinc
+                  5.0
+                  2.5
+                
+              
+            
+            
+              § 415.25
+              New source performance standards (NSPS).
+              Any new source subject to this subpart must achieve the following new source performance standards (NSPS):
+              (a) Subject to the provisions of paragraph (b) of this section there shall be no discharge of process wastewater pollutants into navigable waters.
+              (b) A process wastewater impoundment which is designed, constructed, and operated so as to contain the precipitation from the 25-year, 24-hour rainfall event as established by the National Climatic Center, National Oceanic and Atmospheric Administration for the area in which such impoundment is located may discharge that volume of process wastewater which is equivalent to the volume of precipitation that falls within the impoundment in excess of that attributable to the 25-year, 24-hour rainfall event, when such event occurs.
+            
+            
+              § 415.26
+              Pretreatment standards for new sources (PSNS).
+              Except as provided in § 403.7, any new source subject to this subpart which introduces pollutants into a publicly o

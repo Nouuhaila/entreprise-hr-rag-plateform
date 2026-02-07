@@ -1,0 +1,150 @@
+Hexachlorobutadiene
+                600
+                
+                
+                
+              
+              
+                Iron
+                
+                  3 78
+                
+                
+                
+              
+              
+                Lead
+                
+                
+                  3 100
+                
+                  3 100
+                
+              
+              
+                Lindane
+                84
+                
+                  3 28
+                
+                  3 28
+                
+              
+              
+                Malathion
+                
+                0.63
+                0.63
+                
+              
+              
+                Mercury
+                
+                
+                  3 100
+                
+                  3 100
+                
+              
+              
+                Molybdenum
+                
+                40
+                40
+                
+              
+              
+                Nickel
+                
+                
+                
+                  3 100
+                
+              
+              
+                N-Nitrosodimethylamine
+                2.1
+                0.088
+                0.088
+                
+              
+              
+                Pentachlorophenol
+                30
+                
+                
+                
+              
+              
+                Phenol
+                
+                82
+                82
+                
+              
+              
+                Polychlorinated biphenyls
+                4.6
+                <50
+                <50
+                
+              
+              
+                Selenium
+                
+                4.8
+                4.8
+                4.8
+              
+              
+                Toxaphene
+                10
+                
+                  3 26
+                
+                  3 26
+                
+              
+              
+                Trichloroethylene
+                
+                  3 10
+                9500
+                
+                  3 10
+                
+              
+              
+                
+                Zinc
+                
+                4500
+                4500
+                4500
+              
+              
+                1 Active sewage sludge unit without a liner and leachate collection system.
+              
+                2 Active sewage sludge unit with a liner and leachate collection system.
+              
+                3 Value expressed in grams per kilogram—dry weight basis.
+              
+                Key: LA—land application.
+              I—incineration.
+            
+            [60 FR 54768, Oct. 25, 1995, as amended at 65 FR 42567, Aug. 4, 1999; 70 FR 60198, Oct. 14, 2005]
+          
+        
+        
+          Pt. 405
+          PART 405—DAIRY PRODUCTS PROCESSING POINT SOURCE CATEGORY
+          
+            
+              Subpart A—Receiving Stations Subcategory
+              Sec.
+              405.10
+              Applicability; description of the receiving stations subcategory.
+              405.11
+              Specialized definitions.
+              405.12
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.

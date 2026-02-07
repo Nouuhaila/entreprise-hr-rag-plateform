@@ -1,0 +1,126 @@
+21.000
+                
+                
+                  Combined metals
+                  15.000
+                  
+                
+                
+                  Ammonia (as N)
+                  6665.000
+                  2930.000
+                
+              
+              
+              [50 FR 38365, Sept. 20, 1985, as amended at 55 FR 31706, Aug. 3, 1990; 55 FR 36932, Sept. 7, 1990]
+            
+            
+              § 421.264
+              Standards of performance for new sources.
+              Any new source subject to this subpart shall achieve the following new source performance standards:
+              (a) Furnace wet air pollution control.
+              
+                NSPS for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of precious metals, including silver, incinerated or smelted
+                
+                
+                  Copper
+                  5.760
+                  2.745
+                
+                
+                  Cyanide (total)
+                  0.900
+                  0.360
+                
+                
+                  Zinc
+                  4.590
+                  1.890
+                
+                
+                  Combined metals
+                  1.350
+                  
+                
+                
+                  Ammonia (as N)
+                  599.900
+                  263.700
+                
+                
+                  Total suspended solids
+                  67.500
+                  54.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Raw material granulation.
+              
+                NSPS for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of precious metals in the granulated raw material
+                
+                
+                  Copper
+                  0.819
+                  0.390
+                
+                
+                  Cyanide (total)
+                  0.128
+                  0.051
+                
+                
+                  Zinc
+                  0.653
+                  0.269
+                
+                
+                  Combined metals
+                  0.192
+                  
+                
+                
+                  Ammonia (as N)
+                  85.310
+                  37.500
+                
+                
+                  Total suspended solids
+                  9.600
+                  7.680
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Spent plating solutions.
+              
+                NSPS for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day

@@ -1,0 +1,95 @@
+mg/kg (pounds per million pounds) of uranium produced by magnesium reduction
+                
+                
+                  Chromium (total)
+                  0.036
+                  0.014
+                
+                
+                  Copper
+                  0.123
+                  0.059
+                
+                
+                  Nickel
+                  0.053
+                  0.036
+                
+                
+                  Fluoride
+                  3.360
+                  1.910
+                
+              
+            
+            
+              § 421.327
+              [Reserved]
+            
+          
+          
+            Subpart AE—Primary Zirconium and Hafnium Subcategory
+            
+              Source:
+              50 FR 38395, Sept. 20, 1985, unless otherwise noted.
+            
+            
+              § 421.330
+              Applicability: Description of the primary zirconium and hafnium subcategory.
+              The provisions of this subpart are applicable to discharges resulting from the production of zirconium or hafnium at primary zirconium and hafnium facilities. There are two levels of BPT, BAT, NSPS, PSES and PSNS provisions for this subpart. Facilities which only produce zirconium or zirconium/nickel alloys by magnesium reduction of zirconium dioxide are exempt from regulations. All other facilities are subject to these regulations.
+            
+            
+              § 421.331
+              Specialized definitions.
+
+              For the purpose of this subpart the general definitions, abbreviations, and methods of analysis set forth in 40 CFR part 401 shall apply to this subpart.
+            
+            
+              § 421.332
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable technology currently available:
+              (a) Sand drying wet air pollution control.
+              
+                BPT Limitations for the Primary Zirconium and Hafnium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium dioxide and hafnium dioxide produced
+                
+                
+                  Chromium (total)
+                  0.250
+                  0.102
+                
+                
+                  Cyanide (total)
+                  0.165
+                  0.068
+                
+                
+                  Lead
+                  0.239
+                  0.114
+                
+                
+                  Nickel
+                  1.091
+                  0.721
+                
+                
+                  Ammonia (as N)
+                  75.710
+                  33.280
+                
+                
+                  Total suspended solids
+                  23.290
+                  11.080
+                
+                
+                  pH
+                  (1)

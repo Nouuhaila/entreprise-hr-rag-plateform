@@ -1,0 +1,113 @@
+hin the range of 7.5 to 10.0 at all times.
+              
+              (j) Subpart K—Tantalum Powder Wash.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tantalum powder washed
+                
+                
+                  Lead
+                  5.721
+                  2.656
+                
+                
+                  Zinc
+                  20.840
+                  8.582
+                
+                
+                  Ammonia (as N)
+                  2,724.000
+                  1,198.000
+                
+                
+                  Fluoride
+                  715.200
+                  408.700
+                
+                
+                  Total suspended solids
+                  306.500
+                  245.200
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (k) Subpart K—Consolidation and Casting Contact Cooling.
+              
+                NSPS
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of columbium or tantalum cast or consolidated
+                
+                
+                  Lead
+                  .000
+                  .000
+                
+                
+                  Zinc
+                  .000
+                  .000
+                
+                
+                  Ammonia (as N)
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+                
+                  Total suspended solids
+                  .000
+                  .000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              [49 FR 8817, Mar. 8, 1984, as amended at 49 FR 29795, July 24, 1984; 50 FR 12253, Mar. 28, 1985]
+            
+            
+              § 421.115
+              Pretreatment standards for existing sources.
+              Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources. The mass of wastewater pollutants in primary columbium-tantalum process wastewater introduced into a POTW shall not exceed the following values:
+              (a) Subpart K—Concentrate Digestion Wet Air Pollution Control.
+              
+                PSES
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of concentrate digested
+                
+                
+                  Lead
+                  .1

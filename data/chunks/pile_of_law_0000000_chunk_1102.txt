@@ -1,0 +1,133 @@
+Lead
+                  4.973
+                  2.368
+                
+                
+                  Nickel
+                  22.730
+                  15.040
+                
+                
+                  Titanium
+                  11.130
+                  4.854
+                
+                
+                  Oil and grease
+                  236.800
+                  142.100
+                
+                
+                  Total suspended solids
+                  485.400
+                  230.900
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (j) Sponge crushing and screening wet air pollution control.
+              
+                BPT Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium produced
+                
+                
+                  Chromium (total)
+                  2.847
+                  1.165
+                
+                
+                  Lead
+                  2.717
+                  1.294
+                
+                
+                  Nickel
+                  12.420
+                  8.217
+                
+                
+                  Titanium
+                  6.082
+                  2.653
+                
+                
+                  Oil and grease
+                  129.400
+                  77.640
+                
+                
+                  Total suspended solids
+                  265.300
+                  126.200
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (k) Acid pickle and wash water.
+              
+                BPT Limitations for the Primary and Secondary Titanium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of titanium pickled
+                
+                
+                  Chromium (total)
+                  0.027
+                  0.011
+                
+                
+                  Lead
+                  0.026
+                  0.012
+                
+                
+                  Nickel
+                  0.117
+                  0.077
+                
+                
+                  Titanium
+                  0.057
+                  0.025
+                
+                
+                  Oil and grease
+                  1.220
+                  0.732
+                
+                
+                  Total suspended solids
+                  2.501
+                  1.190
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (l) Scrap milling wet air pollution control.

@@ -1,0 +1,68 @@
+y of pollutant allowed to be discharged may be expressed as a concentration limitation instead of any mass based limitations specified in paragraphs (a)(3) through (10) of this section. Concentration limits shall be based on the concentrations specified in this section.
+            (14) In the event that wastestreams from various sources are combined for treatment or discharge, the quantity of each pollutant or pollutant property controlled in paragraphs (a)(1) through (13) of this section attributable to each controlled waste source shall not exceed the specified limitation for that waste source.
+            (b) 2015 NSPS. Any new source as of November 17, 2015, subject to paragraph (b) of this section, must achieve the following new source performance standards:
+            (1) pH. The pH of all discharges, except once through cooling water, shall be within the range of 6.0-9.0.
+            (2) PCBs. There shall be no discharge of polychlorinated biphenyl compounds such as those commonly used for transformer fluid.
+            (3) Low volume waste sources. The quantity of pollutants discharged from low volume waste sources shall not exceed the quantity determined by multiplying the flow of low volume waste sources times the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                NSPS
+                Maximum forany 1 day
+                  (mg/l)
+                
+                Average of dailyvalues for 30
+                  consecutive days
+                  shall not exceed
+                  (mg/l)
+                
+              
+              
+                TSS
+                100.0
+                30.0
+              
+              
+                Oil and grease
+                20.0
+                15.0
+              
+            
+            (4) Chemical metal cleaning wastes. The quantity of pollutants discharged in chemical metal cleaning wastes shall not exceed the quantity determined by multiplying the flow of chemical metal cleaning wastes times the concentration listed in the following table:
+            
+              
+                Pollutant or pollutant property
+                NSPS
+                Maximum forany 1 day
+                  (mg/l)
+                
+                Average of dailyvalues for 30
+                  consecutive days
+                  shall not exceed
+                  (mg/l)
+                
+              
+              
+                TSS
+                100.0
+                30.0
+              
+              
+                Oil and grease
+                20.0
+                15.0
+              
+              
+                Copper, total
+                1.0
+                1.0
+              
+              
+                Iron, total
+                1.0
+                1.0
+              
+            
+            (5) [Reserved]
+            (6) Bottom ash transport water. There shall be no discharge of pollutants in bottom ash transport water. Whenever bottom ash transport water is used in any other plant process or is sent to a treatment system at the plant, the resulting effluent must comply with the discharge standard in this paragraph.
+            (7) Fly ash transport water. There shall be no discharge of pollutants in fly ash transport water. Whenever fly ash transport water is used in any other plant process or is sent to a treatment system at the plant, the resulting effluent must comply with the dischar

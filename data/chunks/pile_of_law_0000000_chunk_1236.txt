@@ -1,0 +1,69 @@
+Applicability; description of the covered electric furnaces and other smelting operations with wet air pollution control devices subcategory.
+
+              The provisions of this subpart are applicable to discharges resulting from the smelting of ferroalloys in covered electric furnaces or other smelting operations, not elsewhere included in this part, with wet air pollution control devices. This subcategory includes those electric furnaces of such construction or configuration (known as covered, closed, sealed, semi-covered or semi-closed furnaces) that the furnace off-gases are not burned prior to collection and cleaning, and which off-gases are cleaned after collection in a wet air pollution control device such as a scrubber, ‘wet’ baghouse, etc. This subcategory also includes those non- electric furnace smelting operations, such as exothermic (i.e., aluminothermic or silicothermic) smelting, ferromanganese refining, etc., where these are controlled for air pollution by wet air pollution control devices. This subcategory does not include noncontact cooling water or those furnaces which utilize dry dust collection techniques, such as dry baghouses.
+            
+            
+              § 424.21
+              Specialized definitions.
+              For the purpose of this subpart:
+              (a) Except as provided below, the general definitions, abbreviations and methods of analysis set forth in part 401 of this chapter shall apply to this subpart.
+              (b) The term Mwh shall mean megawatt hour(s) of electrical energy consumed in the smelting process (furnace power consumption).
+            
+            
+              § 424.22
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kg/Mwh)
+                
+                
+                  TSS
+                  0.419
+                  0.209
+                
+                
+                  Chromium total
+                  .008
+                  .004
+                
+                
+                  Chromium VI
+                  .0008
+                  .0004
+                
+                
+                  Manganese total
+                  .084
+                  .042
+                
+                
+                  Cyanide total
+                  .004
+                  .002
+                
+                
+                  Phenols
+                  .006
+                  .004
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (lb/Mwh)
+                
+                
+                  TSS
+                  .922
+                  .461

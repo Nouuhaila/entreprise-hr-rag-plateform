@@ -1,0 +1,114 @@
+[47 FR 46446, Oct. 18, 1982, as amended at 50 FR 28522, 28523, July 12, 1985; 50 FR 32414, Aug. 12, 1985]
+            
+            
+              § 419.23
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT).
+              (a) Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable:
+              
+                
+                  Pollutant or pollutant property
+                  BAT Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed
+                
+                
+                  
+                  Metric units (kilograms per 1,000 m3 of feedstock)
+                
+                
+                  COD 1
+                  
+                  210
+                  109
+                
+                
+                  Ammonia as N
+                  18.8
+                  8.5
+                
+                
+                  Sulfide
+                  0.18
+                  0.082
+                
+                
+                  
+                  English units (pounds per 1,000 bbl of feedstock)
+                
+                
+                  COD 1
+                  
+                  74.0
+                  38.4
+                
+                
+                  Ammonia as N
+                  6.6
+                  3.0
+                
+                
+                  Sulfide
+                  0.065
+                  0.029
+                
+                
+                  1 See footnote following table in § 419.13(d).
+              
+
+              (b) The limits set forth in paragraph (a) of this section are to be multiplied by the following factors to calculate the maximum for any one day and maximum average of daily values for thirty consecutive days.
+              (1) Size factor.
+              
+                
+                  1,000 bbl of feedstock per stream day
+                  Size factor
+                
+                
+                  Less than 24.9
+                  0.91
+                
+                
+                  25.0 to 49.9
+                  0.95
+                
+                
+                  50.0 to 74.9
+                  1.04
+                
+                
+                  75.0 to 99.9
+                  1.13
+                
+                
+                  100.0 to 124.9
+                  1.23
+                
+                
+                  125.0 to 149.9
+                  1.35
+                
+                
+                  150.0 or greater
+                  1.41
+                
+              
+              (2) Process factor.
+              
+                
+                  Process configuration
+                  Process factor
+                
+                
+                  Less than 2.49
+                  0.58
+                
+                
+                  2.5 to 3.49
+                  0.63
+                
+                
+                  3.5 to 4.49
+                  0.74
+                
+                
+                  4.5 to 5.49
+                  0.88

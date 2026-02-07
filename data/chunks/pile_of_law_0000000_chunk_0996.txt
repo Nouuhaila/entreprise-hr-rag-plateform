@@ -1,0 +1,123 @@
+ion attainable by the application of the best practicable control technology currently available.
+              Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitation representing the degree of effluent reduction attainable by the application of the best practicable technology currently available:
+              (a) Molybdenum sulfide leachate.
+              
+                BPT Limitations for the Primary Molybdenum Rhenium Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of molybdenum sulfide leached
+                
+                
+                  Arsenic
+                  0.968
+                  0.431
+                
+                
+                  Lead
+                  0.195
+                  0.093
+                
+                
+                  Nickle
+                  0.889
+                  0.588
+                
+                
+                  Selenium
+                  0.570
+                  0.255
+                
+                
+                  Molybdenum
+                  [Reserved]
+                  [Reserved].
+                
+                
+                  Ammonia (as N)
+                  61.720
+                  27.130
+                
+                
+                  Fluoride
+                  16.210
+                  9.214
+                
+                
+                  Total suspended solids
+                  18.980
+                  9.029
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Roaster SO2 scrubber.
+              
+                BPT Limitations for the Primary Molybdenum and Rhenium Subcategory
+                
+                  Pollutant of pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of molybdenum sulfide roasted
+                
+                
+                  Arsenic
+                  3.509
+                  1.561
+                
+                
+                  Lead
+                  0.705
+                  0.336
+                
+                
+                  Nickel
+                  3.224
+                  2.133
+                
+                
+                  Selenium
+                  2.065
+                  0.924
+                
+                
+                  Molybdenum
+                  [Reserved]
+                  [Reserved].
+                
+                
+                  Ammonia (as N)
+                  223.800
+                  98.390
+                
+                
+                  Fluoride
+                  58.770
+                  33.410
+                
+                
+                  Total suspended solids
+                  68.840
+                  32.740
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Mo

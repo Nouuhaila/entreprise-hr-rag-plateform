@@ -1,0 +1,134 @@
+75.0 to 99.9
+                  0.81
+                
+                
+                  100.0 to 124.9
+                  0.88
+                
+                
+                  125.0 to 149.9
+                  0.97
+                
+                
+                  150.0 to 174.9
+                  1.05
+                
+                
+                  175.0 to 199.9
+                  1.14
+                
+                
+                  200.0 or greater
+                  1.19
+                
+              
+              (2) Process factor.
+              
+                
+                  Process configuration
+                  Process factor
+                
+                
+                  Less than 6.49
+                  0.81
+                
+                
+                  6.5 to 7.49
+                  0.88
+                
+                
+                  7.5 to 7.99
+                  1.00
+                
+                
+                  8.0 to 8.49
+                  1.09
+                
+                
+                  8.5 to 8.99
+                  1.19
+                
+                
+                  9.0 to 9.49
+                  1.29
+                
+                
+                  9.5 to 9.99
+                  1.41
+                
+                
+                  10.0 to 10.49
+                  1.53
+                
+                
+                  10.5 to 10.99
+                  1.67
+                
+                
+                  11.0 to 11.49
+                  1.82
+                
+                
+                  11.5 to 11.99
+                  1.98
+                
+                
+                  12.0 to 12.49
+                  2.15
+                
+                
+                  
+                  12.5 to 12.99
+                  2.34
+                
+                
+                  13.0 or greater
+                  2.44
+                
+              
+              (3) Example of the application of the above factors. Example—Lube refinery 125, 000 bbl per stream day throughput.
+              
+                Calculation of the Process Configuration
+                
+                  Process category
+                  Process included
+                  Weighting factor
+                
+                
+                  Crude
+                  Atm crude distillationVacuum, crude distillation
+                    Desalting
+                  
+                  1
+                
+                
+                  Cracking and coking
+                  Fluid cat. crackingVis-breaking
+                    Thermal cracking
+                    Moving bed cat. cracking
+                    Hydrocracking
+                    Fluid coking
+                    Delayed coking
+                  
+                  6
+                
+                
+                  Lube
+                  Further defined in the development document
+                  13
+                
+                
+                  Asphalt
+                  Asphalt productionAsphalt oxidation
+                    Asphalt emulsifying
+                  
+                  12
+                
+              
+              
+                
+                  Process
+                  Capacity (1,000 bbl per stream day)
+                  Capacity relative to throughput
+                  Weighting Factor
+                  Processing configuration

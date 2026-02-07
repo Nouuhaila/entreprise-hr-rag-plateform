@@ -1,0 +1,126 @@
+et Air Pollution Control.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of aluminum produced from electrolytic reduction
+                
+                
+                  Benzo(a)pyrene
+                  (1)
+                  (1)
+                
+                
+                  Antimony
+                  5.036
+                  2.244
+                
+                
+                  Nickel
+                  1.435
+                  .965
+                
+                
+                  Aluminum
+                  15.940
+                  7.071
+                
+                
+                  Fluoride
+                  155.300
+                  68.880
+                
+                
+                  1 There shall be no discharge allowance for this pollutant.
+              
+              (p) Subpart B—Pot Repair and Pot Soaking.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of aluminum produced from electrolytic reduction
+                
+                
+                  Benzo(a)pyrene
+                  .000
+                  
+                
+                
+                  Antimony
+                  .000
+                  .000
+                
+                
+                  Nickel
+                  .000
+                  .000
+                
+                
+                  Aluminum
+                  .000
+                  .000
+                
+                
+                  Fluoride
+                  .000
+                  .000
+                
+              
+              (q) Subpart B—Direct Chill Casting Contact Cooling.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pound per million pounds) of aluminum product from direct chill casting
+                
+                
+                  Benzo(a)pyrene
+                  (1)
+                  (1)
+                
+                
+                  Antimony
+                  2.565
+                  1.143
+                
+                
+                  Nickel
+                  .731
+                  .492
+                
+                
+                  
+                  Aluminum
+                  8.120
+                  3.602
+                
+                
+                  Fluoride
+                  79.080
+                  35.090
+                
+                
+                  1 There shall be no discharge allowance for this pollutant.
+              
+              (r) Subpart B—Continuous Rod Casting Contact Cooling.
+              
+                BAT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average

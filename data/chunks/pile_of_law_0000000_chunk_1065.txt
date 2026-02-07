@@ -1,0 +1,129 @@
+(f) Gold solvent extraction raffinate and wash water.
+              
+                PSNS for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold produced by solvent extraction
+                
+                
+                  Copper
+                  0.806
+                  0.384
+                
+                
+                  Cyanide (total)
+                  0.126
+                  0.050
+                
+                
+                  Zinc
+                  0.643
+                  0.265
+                
+                
+                  Combined metals
+                  0.189
+                  
+                
+                
+                  Ammonia (as N)
+                  83.980
+                  36.920
+                
+              
+              (g) Gold spent electrolyte.
+              
+                PSNS for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold produced by electrolysis
+                
+                
+                  Copper
+                  0.011
+                  0.005
+                
+                
+                  Cyanide (total)
+                  0.002
+                  0.001
+                
+                
+                  Zinc
+                  0.009
+                  0.004
+                
+                
+                  Combined metals
+                  0.300
+                  
+                
+                
+                  Ammonia (as N)
+                  1.160
+                  0.510
+                
+              
+              (h) Gold precipitation and filtration.
+              
+                PSNS for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of gold precipitated
+                
+                
+                  Copper
+                  5.632
+                  2.684
+                
+                
+                  Cyanide (total)
+                  0.880
+                  0.352
+                
+                
+                  Zinc
+                  4.488
+                  1.848
+                
+                
+                  Combined metals
+                  1.320
+                  
+                
+                
+                  Ammonia (as N)
+                  586.500
+                  257.800
+                
+              
+              (i) Platinum precipitation and filtration.
+              
+                PSNS for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of platinum precipitated
+                
+                
+                  Copper
+                  6.656

@@ -1,0 +1,96 @@
+nt or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of zirconium contained in alloys produced
+                
+                
+                  Chromium (total)
+                  0.292
+                  0.118
+                
+                
+                  Cyanide (total)
+                  0.158
+                  0.063
+                
+                
+                  Lead
+                  0.221
+                  0.103
+                
+                
+                  Nickel
+                  0.434
+                  0.292
+                
+                
+                  Ammonia (as N)
+                  105.200
+                  46.240
+                
+              
+            
+            
+              § 421.337
+              [Reserved]
+            
+          
+        
+        
+          Pt. 422
+          PART 422—PHOSPHATE MANUFACTURING POINT SOURCE CATEGORY
+          
+            
+              Subpart A—Phosphorus Production Subcategory
+              Sec.
+              422.10
+              Applicability; description of the phosphorus production subcategory.
+            
+            
+              Subpart B—Phosphorus Consuming Subcategory
+              422.20
+              Applicability; description of the phosphorus consuming subcategory.
+            
+            
+              Subpart C—Phosphate Subcategory
+              422.30
+              Applicability; description of the phosphate subcategory.
+            
+            
+              Subpart D—Defluorinated Phosphate Rock Subcategory
+              422.40
+              Applicability; description of the defluorinated phosphate rock subcategory.
+              422.41
+              Specialized definitions.
+              422.42
+              Effluent limitations and guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              422.43
+              Effluent limitations and guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              422.44
+              [Reserved]
+              422.45
+              Standards of performance for new sources.
+              422.46
+              [Reserved]
+              422.47
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology.
+            
+            
+              Subpart E—Defluorinated Phosphoric Acid Subcategory
+              422.50
+              Applicability; description of the defluorinated phosphoric acid subcategory.
+              422.51
+              Specialized definitions.
+              422.52
+              Effluent limitations and guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+              422.53
+              Effluent limitations and guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable.
+              422.54
+              [Reserved]
+              422.55
+              Standards of performance for new sources.
+              422.56
+              [Reserved

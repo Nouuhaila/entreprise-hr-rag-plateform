@@ -1,0 +1,19 @@
+irements, operating procedures, and practices to control plant site runoff, spillage or leaks, sludge or waste disposal, or drainage from raw materials storage.
+            (f) The term Control Authority refers to:
+
+            (1) The POTW if the POTW's Pretreatment Program Submission has been approved in accordance with the requirements of § 403.11; or
+            
+            (2) The Approval Authority if the Submission has not been approved.
+            (g) The term Director means the chief administrative officer of a State or Interstate water pollution control agency with an NPDES permit program approved pursuant to section 402(b) of the Act and an approved State pretreatment program.
+            (h) The term Water Management Division Director means one of the Directors of the Water Management Divisions within the Regional offices of the Environmental Protection Agency or this person's delegated representative.
+            (i) The term Indirect Discharge or Discharge means the introduction of pollutants into a POTW from any non-domestic source regulated under section 307(b), (c) or (d) of the Act.
+            (j) The term Industrial User or User means a source of Indirect Discharge.
+            (k) The term Interference means a Discharge which, alone or in conjunction with a discharge or discharges from other sources, both:
+            (1) Inhibits or disrupts the POTW, its treatment processes or operations, or its sludge processes, use or disposal; and
+            (2) Therefore is a cause of a violation of any requirement of the POTW's NPDES permit (including an increase in the magnitude or duration of a violation) or of the prevention of sewage sludge use or disposal in compliance with the following statutory provisions and regulations or permits issued thereunder (or more stringent State or local regulations): Section 405 of the Clean Water Act, the Solid Waste Disposal Act (SWDA) (including title II, more commonly referred to as the Resource Conservation and Recovery Act (RCRA), and including State regulations contained in any State sludge management plan prepared pursuant to subtitle D of the SWDA), the Clean Air Act, the Toxic Substances Control Act, and the Marine Protection, Research and Sanctuaries Act.
+            (l) The term National Pretreatment Standard, Pretreatment Standard, or Standard means any regulation containing pollutant discharge limits promulgated by the EPA in accordance with section 307 (b) and (c) of the Act, which applies to Industrial Users. This term includes prohibitive discharge limits established pursuant to § 403.5.
+            (m)(1) The term New Source means any building, structure, facility or installation from which there is or may be a Discharge of pollutants, the construction of which commenced after the publication of proposed Pretreatment Standards under section 307(c) of the Act which will be applicable to such source if such Standards are thereafter promulgated in accordance with that section, provided that:
+            
+            (i) The building, structure, facility or installation is constructed at a site at which no other source is located; or
+            (ii) The building, structure, facility or installation totally replaces the process or production equipment that causes the discharge of pollutants at an existing source; or
+            (iii) The production or wastewater generating processes of the building, structure, facility or installation are substantially independent of an e

@@ -1,0 +1,133 @@
+Cyanide (total)
+                  0.261
+                  0.108
+                
+                
+                  Zinc
+                  1.314
+                  0.549
+                
+                
+                  Ammonia (as N)
+                  120.000
+                  52.740
+                
+                
+                  Combined metals
+                  0.270
+                  
+                
+                
+                  Total suspended solids
+                  36.900
+                  17.550
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (m) Equipment and floor wash.
+              
+                BPT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of precious metals, including silver, produced in refinery
+                
+                
+                  Copper
+                  0.000
+                  0.000
+                
+                
+                  Cyanide (total)
+                  0.000
+                  0.000
+                
+                
+                  Zinc
+                  0.000
+                  0.000
+                
+                
+                  Ammonia (as N)
+                  0.000
+                  0.000
+                
+                
+                  Combined metals
+                  0.000
+                  0.000
+                
+                
+                  Total suspended solids
+                  0.000
+                  0.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (n) Preliminary treatment.
+              
+                BPT Limitations for the Secondary Precious Metals Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of total precious metals produced through this operation
+                
+                
+                  Copper
+                  95.000
+                  50.000
+                
+                
+                  Cyanide (Total)
+                  14.500
+                  6.000
+                
+                
+                  Zinc
+                  73.000
+                  30.500
+                
+                
+                  Ammonia (as N)
+                  6665.000
+                  2930.000
+                
+                
+                  Combined Metals
+                  15.000
+                  
+                
+                
+                  Total Suspended Solids
+                  2050.000
+                  975.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              [50 FR 38365, Sept. 20, 1985, as amended at 55 FR 31705, 31706, Aug. 3,

@@ -1,0 +1,90 @@
+ablish the quantity or quality of pollutants or pollutant properties, controlled by this section, which may be discharged by a new source subject to the provisions of this subpart:
+              
+                
+                  Effluent characteristic
+                  Effluent limitations
+                  Maximum for any 1 day
+                  Average of daily values for 30 consecutive days shall not exceed—
+                
+                
+                  
+                  Metric units (kg/Mwh)
+                
+                
+                  TSS
+                  0.024
+                  0.012
+                
+                
+                  Chromium total
+                  .0008
+                  .0004
+                
+                
+                  Chromium VI
+                  .00008
+                  .00004
+                
+                
+                  Manganese total
+                  .008
+                  .0039
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  
+                  English units (lb/Mwh)
+                
+                
+                  TSS
+                  .052
+                  .026
+                
+                
+                  Chromium total
+                  .0017
+                  .0009
+                
+                
+                  Chromium VI
+                  .0002
+                  .0001
+                
+                
+                  Manganese total
+                  .017
+                  .0086
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range 6.0 to 9.0.
+              
+            
+            
+              § 424.16
+              Pretreatment standards for new sources.
+              Any new source subject to this subpart that introduces process wastewater pollutants into a publicly owned treatment works must comply with 40 CFR part 403.
+              [60 FR 33957, June 29, 1995]
+            
+            
+              § 424.17
+              Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology.
+              Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): The limitations shall be the same as those specified for conventional pollutants (which are defined in § 401.16) in § 424.12 of this subpart for the best practicable control technology currently available (BPT).
+              [51 FR 25000, July 9, 1986]
+            
+          
+          
+            Subpart B—Covered Electric Furnaces and Other Smelting Operations With Wet Air Pollution Control Devices Subcategory
+            
+              § 424.20
+              Applicability; description of the covered electric furnaces and other smelting operations with wet air pollution control devices subcategory.
+
+              The provisions of this subpart are applicable to discharges resulting from the smelting of ferroalloys in covered electric furnaces or other smelting operations, not elsewhere included in this part, with wet air pollution control devices. Th

@@ -1,0 +1,119 @@
+for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of tin metal produced
+                
+                
+                  Lead
+                  7.012
+                  3.256
+                
+                
+                  Cyanide (total)
+                  5.009
+                  2.004
+                
+                
+                  Fluoride
+                  876.500
+                  498.400
+                
+                
+                  Tin
+                  9.517
+                  5.510
+                
+                
+                  Total suspended solids
+                  375.700
+                  300.500
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+            
+            
+              § 421.295
+              Pretreatment standards for existing sources.
+              Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources. The mass of wastewater pollutants in secondary tin process wastewater introduced into a POTW must not exceed the following values:
+              (a) Tin smelter SO2 scrubber.
+              
+              
+                PSES for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of crude tapped tin produced
+                
+                
+                  Arsenic
+                  12.790
+                  5.703
+                
+                
+                  Lead
+                  2.575
+                  1.196
+                
+                
+                  Iron
+                  11.040
+                  5.611
+                
+                
+                  Tin
+                  3.495
+                  2.024
+                
+              
+              (b) Dealuminizing rinse.
+              
+                PSES for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/kg (pounds per million pounds) of dealuminized scrap produced
+                
+                
+                  Lead
+                  0.010
+                  0.005
+                
+                
+                  Cyanide (total)
+                  0.007
+                  0.003
+                
+                
+                  Fluoride
+                  1.225
+                  0.697
+                
+                
+                  Tin
+                  0.013
+                  0.008
+                
+              
+              (c) Tin mud acid neutralization filtrate.
+              
+                PSES for the Secondary Tin Subcategory
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average

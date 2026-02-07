@@ -1,0 +1,123 @@
+Ammonia (as N)
+                  6,712.000
+                  2,951.000
+                
+                
+                  Total suspended solids
+                  2,065.000
+                  981.800
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (b) Subpart L—Film Stripping Wet Air Pollution Control and Precipitation and Filtration of Film Stripping Solutions Wet Air Pollution Control.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver from precipitation and filtration of film stripping solutions
+                
+                
+                  Copper
+                  1.843
+                  .970
+                
+                
+                  Zinc
+                  1.416
+                  .592
+                
+                
+                  Ammonia (as N)
+                  129.300
+                  56.840
+                
+                
+                  Total suspended solids
+                  39.770
+                  18.920
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (c) Subpart L—Precipitation and Filtration of Film Stripping Solutions.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver precipitated
+                
+                
+                  Copper
+                  109.400
+                  57.570
+                
+                
+                  Zinc
+                  84.050
+                  35.120
+                
+                
+                  Ammonia (as N)
+                  7,674.000
+                  3,374.000
+                
+                
+                  Total suspended solids
+                  2,361.000
+                  1,123.000
+                
+                
+                  pH
+                  (1)
+                  (1)
+                
+                
+                  1 Within the range of 7.5 to 10.0 at all times.
+              
+              (d) Subpart L—Precipitation and Filtration of Photographic Solutions.
+              
+                BPT Effluent Limitations
+                
+                  Pollutant or pollutant property
+                  Maximum for any 1 day
+                  Maximum for monthly average
+                
+                
+                  
+                  mg/troy ounce of silver precipitated
+                
+                
+                  Copper
+                  50.540
+                  26.600
+                
+                
+                  Zinc
+                  38.836
+                  16.226
+                
+                
+                  Ammonia (as N)
+                  3,545.000
+                  1,559.000
