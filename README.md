@@ -4,7 +4,7 @@ Production-ready Retrieval-Augmented Generation (RAG) pipeline for HR and Compli
 
 ------------------------------------------------------------------------
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project implements a scalable, production-oriented RAG (Retrieval-Augmented Generation) system designed for HR and compliance document processing.
 
@@ -19,7 +19,7 @@ It includes:
 
 ------------------------------------------------------------------------
 
-## 🧠 Why RAG Instead of Fine-Tuning?
+##  Why RAG Instead of Fine-Tuning?
 
 Fine-tuning permanently modifies model weights and is expensive to
 retrain when documents change.
@@ -43,17 +43,22 @@ Benefits:
 
 ------------------------------------------------------------------------
 
-## 🏗 Production RAG Architecture
+##  Production RAG Architecture
 
-Pipeline:
+### Pipeline
 
-Raw Datasets (HuggingFace) ↓ Ingestion (loaders.py) ↓ Metadata
-Enrichment (metadata.csv) ↓ Chunking (chunker.py) ↓ Embeddings
-(embeddings.py) ↓ Vector Indexing (Qdrant) ↓ Filtered Semantic Retrieval
+Raw Datasets (HuggingFace)  
+→ Ingestion (`loaders.py`)  
+→ Metadata Enrichment (`metadata.csv`)  
+→ Chunking (`chunker.py`)  
+→ Embeddings (`embeddings.py`)  
+→ Vector Indexing (Qdrant)  
+→ Filtered Semantic Retrieval
+
 
 ------------------------------------------------------------------------
 
-## 📦 Handling Large Unstructured Datasets (2--3GB)
+##  Handling Large Unstructured Datasets (2--3GB)
 
 The system is designed to scale:
 
@@ -101,7 +106,7 @@ This enables filtered retrieval such as:
 
 ------------------------------------------------------------------------
 
-## 🔄 Scalable Ingestion Pipeline
+##  Scalable Ingestion Pipeline
 
 Modular design:
 
@@ -122,7 +127,7 @@ Design principles:
 
 ------------------------------------------------------------------------
 
-## 🧮 Vector Database Preparation
+##  Vector Database Preparation
 
 -   Normalized embeddings
 -   Cosine similarity metric
@@ -132,7 +137,7 @@ Design principles:
 
 ------------------------------------------------------------------------
 
-## ⚙️ Setup & Run
+##  Setup & Run
 
 ### 1. Create Environment
 
