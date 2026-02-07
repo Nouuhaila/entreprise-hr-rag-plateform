@@ -73,7 +73,7 @@ Even when tested with small subsets, the architecture supports multi-GB corpora.
 
 ------------------------------------------------------------------------
 
-## 🗂 Metadata Schema Design
+## Metadata Schema Design
 
 Each document includes:
 
