@@ -43,19 +43,18 @@ Benefits:
 
 ------------------------------------------------------------------------
 
-##  Production RAG Architecture
+# Production RAG Architecture
 
-### Pipeline
+HuggingFace Dataset\
+→ Ingestion (`loaders.py`)\
+→ Metadata Attachment (`metadata.csv`)\
+→ Chunking (`chunker.py`)\
+→ Validation (`validator.py`)\
+→ Embeddings (`embeddings.py`)\
+→ Vector Indexing (Qdrant)\
+→ Filtered Retrieval
 
-Raw Datasets (HuggingFace)  
-→ Ingestion (`loaders.py`)  
-→ Metadata Enrichment (`metadata.csv`)  
-→ Chunking (`chunker.py`)  
-→ Embeddings (`embeddings.py`)  
-→ Vector Indexing (Qdrant)  
-→ Filtered Semantic Retrieval
-
-
+Retrieval Quality \> Model Size
 ------------------------------------------------------------------------
 
 ##  Handling Large Unstructured Datasets (2--3GB)
@@ -71,32 +70,54 @@ The system is designed to scale:
 
 Even when tested with small subsets, the architecture supports multi-GB corpora.
 
-------------------------------------------------------------------------
+-----------------------------------------------------------------------
+## Dataset Strategy
 
-## Metadata Schema Design
+All datasets are sourced **programmatically** using the Hugging Face `datasets` library.
 
-Each document includes:
+This ensures:
+- reproducibility (one-line dataset load)
+- stable versions
+- scalable ingestion design
+- subset scaling (0.2%, 0.5%, 1%, 2–5%…)
 
--   doc_id
--   dataset_name
--   subset
--   split
--   department
--   document_type
--   category
--   region
--   created_at
+### Datasets used
 
-Each chunk inherits document metadata and stores:
+- **pile-of-law/pile-of-law** (subset: `cfr`)  
+- **lex_glue** (config: `eurlex`)  
+- **alzoubi36/policy_qa**  
+-  **joelniklaus/Multi_Legal_Pile** (`en_legislation`)
 
--   chunk_id
--   doc_id
--   chunk_index
--   dataset_name
--   department
--   document_type
--   region
--   text
+---
+## Metadata Schema (Document-level)
+
+`data/metadata.csv` (no header — column order is enforced in code):
+
+| field | meaning |
+|------|---------|
+| doc_id | unique document id |
+| file_name | relative path under `data/raw/` |
+| dataset_name | HF dataset id |
+| subset | HF config/subset |
+| split | dataset split |
+| subset_percent | used subset percent |
+| department | HR / Compliance |
+| document_type | Policy / Law / Handbook / SOP / etc. |
+| category | Compliance / Policy / Regulation / etc. |
+| region | EU / Global / etc. |
+| year | if unknown → `unknown` |
+| source | e.g. `huggingface:<dataset>` |
+| created_at | ISO timestamp |
+
+### Chunk-level metadata
+
+`data/chunks_metadata.csv` **includes a header** and each chunk inherits parent metadata:
+
+- `chunk_id`, `doc_id`, `chunk_index`
+- `chunk_file`
+- `dataset_name`, `subset`, `split`
+- `department`, `document_type`, `category`, `region`
+- `created_at`
 
 This enables filtered retrieval such as:
 
@@ -104,26 +125,38 @@ This enables filtered retrieval such as:
 -   region="EU"
 -   document_type="policy"
 
+---
+
+## Chunking Strategy
+
+Implemented in `ingestion/chunker.py`.
+
+- `CHUNK_SIZE_CHARS = 3500`
+- `CHUNK_OVERLAP_CHARS = 400`
+
+This approximates ~800–1200 tokens depending on text density and preserves continuity across boundaries.
+
+# Data Validation
+
+Implemented validation checks:
+
+-   Empty chunk detection
+-   Missing file handling
+-   Metadata completeness enforcement
+-   Controlled dataset slicing
+-   Batch-safe indexing
+
+Validation ensures ingestion stability and production-readiness.
+
 ------------------------------------------------------------------------
 
-##  Scalable Ingestion Pipeline
+# Repository Structure
 
-Modular design:
-
--   ingestion/loaders.py → dataset loading
--   ingestion/chunker.py → chunk generation
--   vectorstore/embeddings.py → embedding creation
--   vectorstore/qdrant_setup.py → collection setup
--   vectorstore/index_chunks.py → vector indexing
--   vectorstore/search_test.py → retrieval testing
-
-Design principles:
-
--   Separation of concerns
--   Batch processing
--   Idempotent indexing
--   Reproducibility
--   Production-ready structure
+hr-compliance-rag/ ├── data/ │ ├── raw/ │ ├── processed/ │ ├──
+metadata.csv │ └── chunks_metadata.csv ├── ingestion/ │ ├── loaders.py │
+├── chunker.py │ └── validator.py ├── vectorstore/ │ ├── embeddings.py │
+├── qdrant_setup.py │ ├── index_chunks.py │ └── search_test.py ├──
+notebooks/ ├── api/ ├── README.md └── requirements.txt
 
 ------------------------------------------------------------------------
 
@@ -138,25 +171,26 @@ Design principles:
 ------------------------------------------------------------------------
 
 ##  Setup & Run
-
-### 1. Create Environment
+### Create Environment
 
 python -m venv .venv .venv`\Scripts`{=tex}`\activate`{=tex} 
 pip install -r requirements.txt
 
-### 2. Run Qdrant (Docker)
+# 1. Ingestion
+python -m ingestion.loaders --percent 0.01
 
-docker run -p 6333:6333 qdrant/qdrant
+# 2. Chunking
+python -m ingestion.chunker
 
-### 3. Create Collection
+# 3. Validation
+python -m ingestion.validator
 
+# 4. Setup Qdrant
 python -m vectorstore.qdrant_setup
 
-### 4. Index Chunks
-
+# 5. Indexing
 python -m vectorstore.index_chunks
 
-### 5. Test Search
-
+# 6. Test retrieval
 python -m vectorstore.search_test
 
