@@ -17,7 +17,7 @@ def main():
             collection_name=COLLECTION_NAME,
             vectors_config=VectorParams(size=dim, distance=Distance.COSINE),
         )
-        print(f"✅ Created collection '{COLLECTION_NAME}' with dim={dim}")
+        print(f"Created collection '{COLLECTION_NAME}' with dim={dim}")
         return
 
     info = client.get_collection(COLLECTION_NAME)
@@ -31,15 +31,15 @@ def main():
         pass
 
     if size is not None and size != dim:
-        print(f"❌ Dimension mismatch: collection size={size} but embedding_dim={dim}")
+        print(f" Dimension mismatch: collection size={size} but embedding_dim={dim}")
         print("   Fix: delete & recreate collection, or use the matching embedding model.")
     else:
-        print(f"✅ Collection '{COLLECTION_NAME}' exists and dim looks OK ({dim}).")
+        print(f"Collection '{COLLECTION_NAME}' exists and dim looks OK ({dim}).")
 
     if distance is not None and str(distance).upper() != "COSINE":
-        print(f"⚠️ Distance mismatch: collection distance={distance} (expected COSINE)")
+        print(f"Distance mismatch: collection distance={distance} (expected COSINE)")
     else:
-        print("✅ Distance looks OK (COSINE).")
+        print("Distance looks OK (COSINE).")
 
 if __name__ == "__main__":
     main()

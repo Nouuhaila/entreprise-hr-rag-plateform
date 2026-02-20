@@ -12,13 +12,13 @@ def main():
     existing = [c.name for c in client.get_collections().collections]
     if COLLECTION_NAME in existing:
         client.delete_collection(collection_name=COLLECTION_NAME)
-        print(f"🗑️ Deleted collection {COLLECTION_NAME}")
+        print(f"Deleted collection {COLLECTION_NAME}")
 
     client.create_collection(
         collection_name=COLLECTION_NAME,
         vectors_config=VectorParams(size=dim, distance=Distance.COSINE),
     )
-    print(f"✅ Recreated collection {COLLECTION_NAME} dim={dim}")
+    print(f"Recreated collection {COLLECTION_NAME} dim={dim}")
 
 if __name__ == "__main__":
     main()
