@@ -311,6 +311,6 @@ python -m vectorstore.index_builder
 # 6. Test retrieval
 python -m vectorstore.retriever
 
-# 7. Run evaluation (Week 2)
+# 7. Run evaluation 
 python -m vectorstore.evaluation
 
