@@ -1,11 +1,12 @@
 import os
 import csv
-from typing import List, Dict, Any
+import hashlib
+from typing import List, Dict, Any, Tuple
 
 from qdrant_client import QdrantClient
 from qdrant_client.models import PointStruct
 
-from vectorstore.embeddings import embed_texts
+from vectorstore.embedding_generator import embed_texts
 
 QDRANT_URL = "http://localhost:6333"
 COLLECTION_NAME = "hr_chunks"
@@ -20,6 +21,24 @@ def read_text(path: str) -> str:
     with open(path, "r", encoding="utf-8") as f:
         return f.read()
 
+import hashlib
+
+def stable_point_id(payload: dict) -> int:
+    """
+    Return a stable UNSIGNED INT id for Qdrant.
+    hash chunk_id into 64-bit int.
+    """
+    chunk_id = str(payload.get("chunk_id") or "").strip()
+    if not chunk_id:
+        # fallback
+        doc_id = str(payload.get("doc_id") or "").strip()
+        chunk_index = str(payload.get("chunk_index") or "").strip()
+        chunk_id = f"{doc_id}::{chunk_index}"
+
+    # 64-bit unsigned int from sha1 digest
+    h = hashlib.sha1(chunk_id.encode("utf-8")).digest()
+    return int.from_bytes(h[:8], byteorder="big", signed=False)
+
 
 def main():
     client = QdrantClient(url=QDRANT_URL)
@@ -33,29 +52,30 @@ def main():
 
     print(f"Found {len(rows)} chunks in metadata.")
 
-    points: List[PointStruct] = []
-    texts: List[str] = []
+    batch_texts: List[str] = []
+    batch_payloads: List[Dict[str, Any]] = []
 
     def flush():
-        nonlocal points, texts
-        if not points:
+        nonlocal batch_texts, batch_payloads
+        if not batch_payloads:
             return
 
-        vectors = embed_texts(texts)  
+        vectors = embed_texts(batch_texts, batch_size=32, show_progress=False, normalize=True)
 
-        upsert_points: List[PointStruct] = []
-        for p, vec in zip(points, vectors):
-            upsert_points.append(PointStruct(id=p.id, vector=vec, payload=p.payload))
+        points: List[PointStruct] = []
+        for payload, vec in zip(batch_payloads, vectors):
+            pid = stable_point_id(payload)
+            points.append(PointStruct(id=pid, vector=vec, payload=payload))
 
-        client.upsert(collection_name=COLLECTION_NAME, points=upsert_points)
-        print(f"Upserted {len(upsert_points)} points")
+        client.upsert(collection_name=COLLECTION_NAME, points=points)
+        print(f"Upserted {len(points)} points")
 
-        points, texts = [], []
+        batch_texts, batch_payloads = [], []
 
-    for idx, r in enumerate(rows):
-        chunk_file = r.get("chunk_file", "")  
-        chunk_basename = os.path.basename(chunk_file)  
-        chunk_path = os.path.join(CHUNKS_DIR, chunk_basename)  
+    for r in rows:
+        chunk_file = r.get("chunk_file", "") or ""
+        chunk_basename = os.path.basename(chunk_file)
+        chunk_path = os.path.join(CHUNKS_DIR, chunk_basename)
 
         if not os.path.exists(chunk_path):
             print(f"[SKIP] missing: {chunk_path}")
@@ -79,18 +99,17 @@ def main():
             "category": r.get("category", ""),
             "region": r.get("region", ""),
             "created_at": r.get("created_at", ""),
-            "text": text,  
+            "text": text,  #
         }
 
-        point_id = idx + 1  
-        points.append(PointStruct(id=point_id, vector=[], payload=payload))
-        texts.append(text)
+        batch_payloads.append(payload)
+        batch_texts.append(text)
 
-        if len(points) >= BATCH_SIZE:
+        if len(batch_payloads) >= BATCH_SIZE:
             flush()
 
     flush()
-    print("Done indexing")
+    print("Done indexing.")
 
 
 if __name__ == "__main__":

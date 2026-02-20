@@ -14,7 +14,7 @@ data/processed/
 data/*.csv
 data/*.json
 
-# qdrant local volume (si tu utilises un dossier local)
+# qdrant local volume 
 qdrant_storage/
 
 # OS / IDE

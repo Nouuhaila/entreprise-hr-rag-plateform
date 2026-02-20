@@ -50,9 +50,11 @@ HuggingFace Dataset\
 → Metadata Attachment (`metadata.csv`)\
 → Chunking (`chunker.py`)\
 → Validation (`validator.py`)\
-→ Embeddings (`embeddings.py`)\
-→ Vector Indexing (Qdrant)\
-→ Filtered Retrieval
+→ Embeddings (`vectorstore/embedding_generator.py`)
+→ Vector Indexing (`vectorstore/index_builder.py`)
+→ Metadata Filtering (`vectorstore/metadata_filter.py`)
+→ Semantic Retrieval (`vectorstore/retriever.py`)
+→ Retrieval Evaluation (`vectorstore/evaluation.py`)
 
 Retrieval Quality \> Model Size
 ------------------------------------------------------------------------
@@ -152,12 +154,38 @@ Validation ensures ingestion stability and production-readiness.
 
 # Repository Structure
 
-hr-compliance-rag/ ├── data/ │ ├── raw/ │ ├── processed/ │ ├──
-metadata.csv │ └── chunks_metadata.csv ├── ingestion/ │ ├── loaders.py │
-├── chunker.py │ └── validator.py ├── vectorstore/ │ ├── embeddings.py │
-├── qdrant_setup.py │ ├── index_chunks.py │ └── search_test.py ├──
-notebooks/ ├── api/ ├── README.md └── requirements.txt
-
+hr-compliance-rag/
+│
+├── data/
+│ ├── raw/ 
+│ ├── processed/ 
+│ ├── metadata.csv
+│ └── chunks_metadata.csv
+│
+├── ingestion/
+│ ├── loaders.py
+│ ├── chunker.py
+│ └── validator.py 
+│
+├── vectorstore/
+│ ├── embedding_generator.py 
+│ ├── qdrant_setup.py 
+│ ├── index_builder.py 
+│ ├── metadata_filter.py
+│ ├── retriever.py 
+│ ├── evaluation.py
+│ └── reset_collection.py 
+│
+├── notebooks/
+│
+├── api/ 
+│
+├── evaluation/
+│ ├── queries.jsonl 
+│ └── report.md
+│
+├── README.md 
+└── requirements.txt
 ------------------------------------------------------------------------
 
 ##  Vector Database Preparation
@@ -169,6 +197,95 @@ notebooks/ ├── api/ ├── README.md └── requirements.txt
 -   Persistent Qdrant storage
 
 ------------------------------------------------------------------------
+## Embedding Model
+
+- Model: `sentence-transformers/all-MiniLM-L6-v2`
+- Embedding dimension: **384**
+- Normalized embeddings: **Enabled**
+- Similarity metric: **Cosine**
+- Batch processing supported (32–64 texts per batch)
+
+Model selected for:
+- Strong semantic understanding
+- Lightweight architecture
+- High throughput
+- Low latency in production environments
+
+------------------------------------------------------------------------
+
+## Vector Database Configuration
+
+- Engine: **Qdrant**
+- Distance metric: **Cosine**
+- Persistent local storage
+- Batch upserts (64 points per batch)
+- Stable deterministic chunk IDs
+- Metadata payload indexing
+
+Each stored chunk includes:
+
+- Chunk ID
+- Parent document ID
+- Full metadata fields
+- Original text
+- Timestamp (`created_at`)
+
+This enables precise and filtered semantic retrieval.
+
+------------------------------------------------------------------------
+
+## Semantic Retrieval Pipeline
+
+Retrieval workflow:
+
+1. Query text → embedding generation
+2. Optional metadata filter construction
+3. Top-K similarity search in Qdrant
+4. Ranked chunk return with metadata payload
+5. Context ready for LLM integration (Week 3)
+
+Supported metadata filters:
+
+- `department`
+- `category`
+- `document_type`
+- `region`
+- `dataset_name`
+- `created_at` (range filtering)
+
+------------------------------------------------------------------------
+
+## Retrieval Evaluation (Week 2 Validation)
+
+Evaluation performed on structured test queries.
+
+### Quality Metrics
+
+| Precision@5 
+| Recall@5     
+| MRR@5        
+
+### Performance Metrics
+
+| Avg Latency            
+| P95 Latency            
+| Embedding Throughput  
+
+Full evaluation report available at:
+
+`evaluation/report.md`
+
+------------------------------------------------------------------------
+## Scalability Considerations
+
+- Designed for multi-GB document corpora
+- Memory-safe ingestion pipeline
+- Batch embedding generation
+- Persistent vector indexing
+- Metadata-driven compliance filtering
+- Production-ready modular design
+
+Retrieval quality is prioritized over model size.
 
 ##  Setup & Run
 ### Create Environment
@@ -189,8 +306,11 @@ python -m ingestion.validator
 python -m vectorstore.qdrant_setup
 
 # 5. Indexing
-python -m vectorstore.index_chunks
+python -m vectorstore.index_builder
 
 # 6. Test retrieval
-python -m vectorstore.search_test
+python -m vectorstore.retriever
+
+# 7. Run evaluation (Week 2)
+python -m vectorstore.evaluation
 

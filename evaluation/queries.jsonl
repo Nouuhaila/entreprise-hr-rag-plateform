@@ -1,0 +1,10 @@
+{"query":"notice period termination policy","expected_doc_id":"pile_of_law_0000000","filters":{"department":"Compliance"}}
+{"query":"regulatory requirements for employee compliance","expected_doc_id":"pile_of_law_0000000","filters":{"department":"Compliance","category":"Regulation"}}
+{"query":"what does cfr say about compliance obligations","expected_doc_id":"pile_of_law_0000000","filters":{"department":"Compliance","document_type":"law"}}
+{"query":"legal regulation obligations for companies","expected_doc_id":"pile_of_law_0000000","filters":{"category":"Regulation"}}
+{"query":"compliance law penalties and enforcement","expected_doc_id":"pile_of_law_0000000","filters":{"department":"Compliance","document_type":"law","category":"Regulation"}}
+{"query":"regulation compliance standards and requirements","expected_doc_id":"pile_of_law_0000000","filters":{"department":"Compliance"}}
+{"query":"legal framework regulation compliance","expected_doc_id":"pile_of_law_0000000","filters":{"department":"Compliance","category":"Regulation"}}
+{"query":"cfr compliance regulation overview","expected_doc_id":"pile_of_law_0000000","filters":{"department":"Compliance"}}
+{"query":"what are the obligations in a regulation","expected_doc_id":"pile_of_law_0000000","filters":{"category":"Regulation"}}
+{"query":"compliance department legal regulation guidance","expected_doc_id":"pile_of_law_0000000","filters":{"department":"Compliance"}}
