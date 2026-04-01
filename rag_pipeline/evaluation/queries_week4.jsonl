@@ -1,0 +1,7 @@
+{"question": "What are the GDPR data retention requirements for employee records?", "filters": {"region": "EU"}, "top_k": 5}
+{"question": "What disciplinary procedures apply before termination?", "filters": {"department": "HR"}, "top_k": 5}
+{"question": "What are the anti-discrimination policies for hiring?", "filters": {"category": "Policy"}, "top_k": 5}
+{"question": "What are the whistleblower protection obligations?", "filters": {"department": "Compliance"}, "top_k": 5}
+{"question": "What are compliance obligations?", "filters": {"department": "Compliance"}, "top_k": 5}
+{"question": "What is the notice period for termination?", "filters": {"department": "HR"}, "top_k": 3}
+{"question": "What are compliance obligations?", "filters": {"department": "Compliance"}, "top_k": 5}

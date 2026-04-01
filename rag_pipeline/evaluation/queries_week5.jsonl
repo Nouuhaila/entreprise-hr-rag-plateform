@@ -1,0 +1,15 @@
+{"question": "What is the maximum number of vacation days an employee can take?", "category": "simple_policy", "top_k": 5}
+{"question": "What are the rules for remote work?", "category": "simple_policy", "filters": {"department": "HR"}, "top_k": 5}
+{"question": "What documents govern employee leave policy?", "category": "simple_policy", "filters": {"category": "Policy"}, "top_k": 5}
+{"question": "What are all the compliance obligations under EU regulations?", "category": "complex_compliance", "filters": {"region": "EU"}, "top_k": 5}
+{"question": "What are compliance obligations?", "category": "complex_compliance", "filters": {"department": "Compliance"}, "top_k": 5}
+{"question": "What whistleblower protections are required by law?", "category": "complex_compliance", "filters": {"department": "Compliance"}, "top_k": 5}
+{"question": "Which laws and policies together govern employee termination?", "category": "multi_doc", "top_k": 5}
+{"question": "How do EU regulations and internal HR policies align on data retention?", "category": "multi_doc", "filters": {"region": "EU"}, "top_k": 5}
+{"question": "What are the regulatory and internal requirements for anti-discrimination in hiring?", "category": "multi_doc", "top_k": 5}
+{"question": "What are employee rights?", "category": "ambiguous", "top_k": 5}
+{"question": "What should I do?", "category": "ambiguous", "top_k": 5}
+{"question": "Tell me about policies.", "category": "ambiguous", "top_k": 5}
+{"question": "What is the policy for employees hired after December 31, 2099?", "category": "edge_case", "top_k": 5}
+{"question": "What are the requirements for a company with zero employees?", "category": "edge_case", "top_k": 5}
+{"question": "Summarize all 10000 compliance documents.", "category": "edge_case", "top_k": 3}

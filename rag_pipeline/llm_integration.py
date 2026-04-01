@@ -1,21 +1,12 @@
 from rag_pipeline.configs.settings import (
-    LLM_PROVIDER, OPENAI_API_KEY, OPENAI_MODEL, OLLAMA_MODEL, TEMPERATURE
+    LLM_PROVIDER, GROQ_API_KEY, GROQ_MODEL,
+    OPENAI_API_KEY, OPENAI_MODEL, OLLAMA_MODEL, TEMPERATURE
 )
 
-class LLMError(RuntimeError):
-    pass
-LLM_PROVIDER="ollama"
-"""def generate(system_prompt: str, user_prompt: str) -> str:
-    if LLM_PROVIDER == "openai":
-        return _openai_generate(system_prompt, user_prompt)
-    elif LLM_PROVIDER == "ollama":
-        return _ollama_generate(system_prompt, user_prompt)
-    raise LLMError(f"Unsupported LLM_PROVIDER: {LLM_PROVIDER}")"""
-
-from rag_pipeline.configs.settings import LLM_PROVIDER, GROQ_API_KEY, GROQ_MODEL, TEMPERATURE
 
 class LLMError(RuntimeError):
     pass
+
 
 def generate(system_prompt: str, user_prompt: str) -> str:
     if LLM_PROVIDER != "groq":
@@ -38,6 +29,7 @@ def generate(system_prompt: str, user_prompt: str) -> str:
     ])
     return resp.content
 
+
 def _openai_generate(system_prompt: str, user_prompt: str) -> str:
     if not OPENAI_API_KEY:
         raise LLMError("Missing OPENAI_API_KEY. Set it as an environment variable.")
@@ -54,6 +46,7 @@ def _openai_generate(system_prompt: str, user_prompt: str) -> str:
         temperature=TEMPERATURE,
     )
     return resp.choices[0].message.content
+
 
 def _ollama_generate(system_prompt: str, user_prompt: str) -> str:
     import ollama

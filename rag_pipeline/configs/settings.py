@@ -27,3 +27,7 @@ GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.1-70b-versatile")
 # Prompt limits
 MAX_CONTEXT_CHARS = int(os.getenv("MAX_CONTEXT_CHARS", "12000"))
 TEMPERATURE = float(os.getenv("TEMPERATURE", "0.2"))
+
+# Retrieval quality
+SCORE_THRESHOLD = float(os.getenv("SCORE_THRESHOLD", "0.25"))
+ENABLE_RERANKING = os.getenv("ENABLE_RERANKING", "false").lower() == "true"

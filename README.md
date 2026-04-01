@@ -1,316 +1,376 @@
-# HR Compliance RAG Pipeline
+# HR Compliance RAG Platform
 
-Production-ready Retrieval-Augmented Generation (RAG) pipeline for HR and Compliance document intelligence.
-
-------------------------------------------------------------------------
-
-##  Project Overview
-
-This project implements a scalable, production-oriented RAG (Retrieval-Augmented Generation) system designed for HR and compliance document processing.
-
-It includes:
-
--   Programmatic dataset ingestion (HuggingFace)
--   Metadata-enriched document processing
--   Chunking strategy with overlap
--   Embedding generation (SentenceTransformers)
--   Vector indexing with Qdrant
--   Filtered semantic retrieval
-
-------------------------------------------------------------------------
-
-##  Why RAG Instead of Fine-Tuning?
-
-Fine-tuning permanently modifies model weights and is expensive to
-retrain when documents change.
-
-HR & Compliance systems require:
-
--   Frequently updated policies
--   Regulatory changes reflected instantly
--   Multi-GB document corpora
--   Transparent and filterable retrieval
-
-RAG keeps the model frozen and retrieves relevant documents dynamically at query time.
-
-Benefits:
-
--   Lower cost
--   Real-time knowledge updates
--   Better scalability
--   Metadata-based filtered retrieval
--   No model retraining required
-
-------------------------------------------------------------------------
-
-# Production RAG Architecture
-
-HuggingFace Dataset\
-→ Ingestion (`loaders.py`)\
-→ Metadata Attachment (`metadata.csv`)\
-→ Chunking (`chunker.py`)\
-→ Validation (`validator.py`)\
-→ Embeddings (`vectorstore/embedding_generator.py`)
-→ Vector Indexing (`vectorstore/index_builder.py`)
-→ Metadata Filtering (`vectorstore/metadata_filter.py`)
-→ Semantic Retrieval (`vectorstore/retriever.py`)
-→ Retrieval Evaluation (`vectorstore/evaluation.py`)
-
-Retrieval Quality \> Model Size
-------------------------------------------------------------------------
-
-##  Handling Large Unstructured Datasets (2--3GB)
-
-The system is designed to scale:
-
--   Controlled subset loading for testing
--   Batch embedding generation
--   Overlapping chunk strategy
--   Modular ingestion pipeline
--   Vector database persistence
--   Memory-safe processing
-
-Even when tested with small subsets, the architecture supports multi-GB corpora.
-
------------------------------------------------------------------------
-## Dataset Strategy
-
-All datasets are sourced **programmatically** using the Hugging Face `datasets` library.
-
-This ensures:
-- reproducibility (one-line dataset load)
-- stable versions
-- scalable ingestion design
-- subset scaling (0.2%, 0.5%, 1%, 2–5%…)
-
-### Datasets used
-
-- **pile-of-law/pile-of-law** (subset: `cfr`)  
-- **lex_glue** (config: `eurlex`)  
-- **alzoubi36/policy_qa**  
--  **joelniklaus/Multi_Legal_Pile** (`en_legislation`)
+Production-ready Retrieval-Augmented Generation (RAG) system for HR and Compliance document intelligence. Built over 5 weeks, it covers the full lifecycle of an AI system: data engineering, retrieval infrastructure, LLM integration, application layer, and system evaluation.
 
 ---
-## Metadata Schema (Document-level)
 
-`data/metadata.csv` (no header — column order is enforced in code):
+## Why RAG?
 
-| field | meaning |
-|------|---------|
-| doc_id | unique document id |
-| file_name | relative path under `data/raw/` |
-| dataset_name | HF dataset id |
-| subset | HF config/subset |
-| split | dataset split |
-| subset_percent | used subset percent |
-| department | HR / Compliance |
-| document_type | Policy / Law / Handbook / SOP / etc. |
-| category | Compliance / Policy / Regulation / etc. |
-| region | EU / Global / etc. |
-| year | if unknown → `unknown` |
-| source | e.g. `huggingface:<dataset>` |
-| created_at | ISO timestamp |
+Fine-tuning permanently modifies model weights and is expensive to retrain when documents change. HR & Compliance systems require frequently updated policies, regulatory changes reflected instantly, and transparent filterable retrieval.
 
-### Chunk-level metadata
+RAG keeps the model frozen and retrieves relevant documents dynamically at query time:
+- No retraining required
+- Real-time knowledge updates
+- Metadata-based filtered retrieval
+- Lower cost than fine-tuning
 
-`data/chunks_metadata.csv` **includes a header** and each chunk inherits parent metadata:
+---
 
-- `chunk_id`, `doc_id`, `chunk_index`
-- `chunk_file`
-- `dataset_name`, `subset`, `split`
-- `department`, `document_type`, `category`, `region`
-- `created_at`
+## System Architecture
 
-This enables filtered retrieval such as:
+```
+┌──────────────────────────────────────────────────────────────┐
+│                    Streamlit UI (:8501)                       │
+│               ui/streamlit_app.py                            │
+└──────────────────────────┬───────────────────────────────────┘
+                           │ HTTP POST /query
+                           ▼
+┌──────────────────────────────────────────────────────────────┐
+│              FastAPI REST API (:8000)                         │
+│              api/fastapi_app.py                              │
+│         In-memory cache (TTL=300s, max 100 entries)          │
+└──────────────────────────┬───────────────────────────────────┘
+                           │ rag_query()
+                           ▼
+┌──────────────────────────────────────────────────────────────┐
+│              RAG Orchestrator                                 │
+│         rag_pipeline/rag_orchestrator.py                     │
+│  1. Retrieve top-K chunks from Qdrant                        │
+│  2. Score threshold check (< 0.25 → skip LLM)               │
+│  3. [Optional] Cross-encoder re-ranking                      │
+│  4. Build prompt with context chunks                         │
+│  5. Call LLM → grounded answer with citations                │
+└──────────┬────────────────────────────────┬──────────────────┘
+           │                                │
+           ▼                                ▼
+┌──────────────────┐              ┌─────────────────────┐
+│   Qdrant (:6333) │              │    Groq API          │
+│   hr_chunks      │              │  llama-3.1-8b-instant│
+│   384-dim cosine │              │  temperature=0.2     │
+└──────────────────┘              └─────────────────────┘
+           ▲
+           │ (build-time)
+┌──────────┴───────────────────────────────────────────────────┐
+│              Ingestion Pipeline                               │
+│  HuggingFace Datasets → chunk → embed → index into Qdrant    │
+└──────────────────────────────────────────────────────────────┘
+```
 
--   department="HR"
--   region="EU"
--   document_type="policy"
+---
+
+## Repository Structure
+
+```
+hr-compliance-rag/
+│
+├── data/
+│   ├── raw/                     # HuggingFace downloaded text files
+│   ├── chunks/                  # Sliding-window text chunks
+│   ├── processed/               # Validation reports
+│   ├── metadata.csv             # Document-level metadata
+│   └── chunks_metadata.csv      # Chunk-level metadata
+│
+├── ingestion/
+│   ├── loaders.py               # Load & save HuggingFace datasets
+│   ├── chunker.py               # Sliding-window chunking
+│   └── validator.py             # Data quality checks
+│
+├── vectorstore/
+│   ├── embedding_generator.py   # SentenceTransformers (all-MiniLM-L6-v2)
+│   ├── qdrant_setup.py          # Create Qdrant collection
+│   ├── index_builder.py         # Batch embed + upsert to Qdrant
+│   ├── metadata_filter.py       # Build Qdrant filter objects
+│   ├── retriever.py             # Semantic search with filters
+│   ├── reranker.py              # Cross-encoder re-ranking (Week 5)
+│   ├── evaluation.py            # Precision@K, Recall@K, MRR@K
+│   └── reset_collection.py      # Clean rebuild utility
+│
+├── rag_pipeline/
+│   ├── rag_orchestrator.py      # Main RAG pipeline function
+│   ├── prompt_engineering.py    # System & user prompt builders
+│   ├── llm_integration.py       # LLM provider abstraction
+│   ├── configs/
+│   │   └── settings.py          # All config via env vars
+│   └── evaluation/
+│       ├── queries_week3.jsonl
+│       ├── queries_week4.jsonl
+│       ├── queries_week5.jsonl  
+│       ├── run_eval.py
+│       ├── run_eval_week4.py
+│       └── run_eval_week5.py    # Enhanced: token count, categories
+│
+├── api/
+│   └── fastapi_app.py           # REST API with cache & metrics
+│
+├── ui/
+│   └── streamlit_app.py         # Web interface
+│
+├── deployment/
+│   ├── Dockerfile
+│   └── docker-compose.yml       # qdrant + api + ui services
+│
+├── evaluation/                  # Week 2 retrieval evaluation
+│   ├── queries.jsonl
+│   └── report.md
+│
+├── docs/
+│   └── architecture.md          # Full architecture documentation
+│
+├── qdrant_storage/              # Persistent vector index (gitignored)
+├── .env                         # Secrets (gitignored)
+└── requirements.txt
+```
+
+---
+
+## Datasets
+
+All datasets loaded programmatically from HuggingFace (`datasets` library):
+
+| Dataset | Subset | Department | Type | Region |
+|---------|--------|-----------|------|--------|
+| `pile-of-law/pile-of-law` | `cfr` | Compliance | Law | Global |
+| `lex_glue` | `eurlex` | Compliance | Law | EU |
+| `alzoubi36/policy_qa` | — | HR | Policy | 
+| `joelniklaus/Multi_Legal_Pile` | `en_legislation` | Compliance | Law | 
+
+---
+
+## Metadata Schema
+
+### Document-level (`data/metadata.csv`)
+
+| Field | Description |
+|-------|-------------|
+| `doc_id` | Unique document ID |
+| `file_name` | Relative path under `data/raw/` |
+| `dataset_name` | HuggingFace dataset ID |
+| `subset` | HF config/subset |
+| `split` | Dataset split (train/test) |
+| `subset_percent` | Loaded subset fraction |
+| `department` | HR / Compliance |
+| `document_type` | law / policy / handbook / SOP |
+| `category` | Compliance / Policy / Regulation |
+| `region` | EU / Global / Unknown |
+| `year` | Document year or `unknown` |
+| `source` | e.g. `huggingface:<dataset>` |
+| `created_at` | ISO timestamp |
+
+### Chunk-level (`data/chunks_metadata.csv`)
+
+Inherits all document metadata plus:
+- `chunk_id`, `chunk_index`, `chunk_file`
 
 ---
 
 ## Chunking Strategy
 
-Implemented in `ingestion/chunker.py`.
+- **Chunk size:** 3500 characters (~800–1200 tokens)
+- **Overlap:** 400 characters (preserves cross-boundary context)
+- **Implementation:** `ingestion/chunker.py`
 
-- `CHUNK_SIZE_CHARS = 3500`
-- `CHUNK_OVERLAP_CHARS = 400`
+---
 
-This approximates ~800–1200 tokens depending on text density and preserves continuity across boundaries.
+## Embedding & Vector Store
 
-# Data Validation
+- **Model:** `sentence-transformers/all-MiniLM-L6-v2` (384-dim)
+- **Normalization:** Enabled
+- **Similarity:** Cosine
+- **Database:** Qdrant (persistent local storage)
+- **Batch size:** 64 points per upsert
 
-Implemented validation checks:
+Each Qdrant point stores the full chunk text + all metadata as payload.
 
--   Empty chunk detection
--   Missing file handling
--   Metadata completeness enforcement
--   Controlled dataset slicing
--   Batch-safe indexing
+**Supported metadata filters:** `department`, `category`, `document_type`, `region`, `dataset_name`, `created_at` (range)
 
-Validation ensures ingestion stability and production-readiness.
+---
 
-------------------------------------------------------------------------
+## RAG Pipeline (Week 3–5)
 
-# Repository Structure
+### Query flow
 
-hr-compliance-rag/
-│
-├── data/
-│ ├── raw/ 
-│ ├── processed/ 
-│ ├── metadata.csv
-│ └── chunks_metadata.csv
-│
-├── ingestion/
-│ ├── loaders.py
-│ ├── chunker.py
-│ └── validator.py 
-│
-├── vectorstore/
-│ ├── embedding_generator.py 
-│ ├── qdrant_setup.py 
-│ ├── index_builder.py 
-│ ├── metadata_filter.py
-│ ├── retriever.py 
-│ ├── evaluation.py
-│ └── reset_collection.py 
-│
-├── notebooks/
-│
-├── api/ 
-│
-├── evaluation/
-│ ├── queries.jsonl 
-│ └── report.md
-│
-├── README.md 
-└── requirements.txt
-------------------------------------------------------------------------
+```
+question + filters
+  → retrieve (top_k × 3 if reranking, else top_k)
+  → score threshold check (< 0.25 → early "I don't know")
+  → [optional] cross-encoder rerank → top_k
+  → build_user_prompt(question, chunks)
+  → LLM generate(system_prompt, user_prompt)
+  → return {answer, sources, latency_ms}
+```
 
-##  Vector Database Preparation
+### LLM Configuration
 
--   Normalized embeddings
--   Cosine similarity metric
--   Batch upserts
--   Metadata payload indexing
--   Persistent Qdrant storage
+- **Provider:** Groq (`LLM_PROVIDER=groq`)
+- **Model:** `llama-3.1-8b-instant` (configurable via `GROQ_MODEL`)
+- **Temperature:** 0.2
 
-------------------------------------------------------------------------
-## Embedding Model
+### Advanced Features (Week 5)
 
-- Model: `sentence-transformers/all-MiniLM-L6-v2`
-- Embedding dimension: **384**
-- Normalized embeddings: **Enabled**
-- Similarity metric: **Cosine**
-- Batch processing supported (32–64 texts per batch)
+| Feature | Description | Env var |
+|---------|-------------|---------|
+| Score threshold | Skip LLM if best score < threshold | `SCORE_THRESHOLD=0.25` |
+| Cross-encoder re-ranking | Re-rank with `ms-marco-MiniLM-L-6-v2` | `ENABLE_RERANKING=true` |
 
-Model selected for:
-- Strong semantic understanding
-- Lightweight architecture
-- High throughput
-- Low latency in production environments
+---
 
-------------------------------------------------------------------------
+## REST API (Week 4)
 
-## Vector Database Configuration
+**Base URL:** `http://localhost:8000`
 
-- Engine: **Qdrant**
-- Distance metric: **Cosine**
-- Persistent local storage
-- Batch upserts (64 points per batch)
-- Stable deterministic chunk IDs
-- Metadata payload indexing
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | `/health` | Health check |
+| POST | `/query` | Submit a RAG query |
+| GET | `/cache/stats` | Cache statistics |
+| DELETE | `/cache` | Clear cache |
+| GET | `/metrics` | Request counters |
 
-Each stored chunk includes:
+### Example request
 
-- Chunk ID
-- Parent document ID
-- Full metadata fields
-- Original text
-- Timestamp (`created_at`)
+```bash
+curl -X POST http://localhost:8000/query \
+  -H "Content-Type: application/json" \
+  -d '{
+    "question": "What are compliance obligations?",
+    "top_k": 5,
+    "filters": {"department": "Compliance"}
+  }'
+```
 
-This enables precise and filtered semantic retrieval.
+### Example response
 
-------------------------------------------------------------------------
+```json
+{
+  "question": "What are compliance obligations?",
+  "answer": "Compliance obligations include... [chunk_id]",
+  "sources": [
+    {"chunk_id": "...", "doc_id": "...", "score": 0.82, "department": "Compliance"}
+  ],
+  "filters": {"department": "Compliance"},
+  "top_k": 5,
+  "latency_ms": 1243.5
+}
+```
 
-## Semantic Retrieval Pipeline
+---
 
-Retrieval workflow:
+## Configuration
 
-1. Query text → embedding generation
-2. Optional metadata filter construction
-3. Top-K similarity search in Qdrant
-4. Ranked chunk return with metadata payload
-5. Context ready for LLM integration (Week 3)
+All settings loaded from `.env` via `rag_pipeline/configs/settings.py`:
 
-Supported metadata filters:
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `LLM_PROVIDER` | `groq` | LLM provider |
+| `GROQ_API_KEY` | — | **Required** |
+| `GROQ_MODEL` | `llama-3.1-70b-versatile` | Groq model |
+| `QDRANT_URL` | `http://localhost:6333` | Qdrant URL |
+| `QDRANT_COLLECTION` | `hr_chunks` | Collection name |
+| `TOP_K_DEFAULT` | `5` | Default retrieval count |
+| `MAX_CONTEXT_CHARS` | `12000` | Max context sent to LLM |
+| `TEMPERATURE` | `0.2` | LLM temperature |
+| `SCORE_THRESHOLD` | `0.25` | Min score to trigger LLM |
+| `ENABLE_RERANKING` | `false` | Enable cross-encoder |
+| `CACHE_TTL_SECONDS` | `300` | API cache TTL |
+| `CACHE_MAX_SIZE` | `100` | API cache max entries |
 
-- `department`
-- `category`
-- `document_type`
-- `region`
-- `dataset_name`
-- `created_at` (range filtering)
+---
 
-------------------------------------------------------------------------
+## Setup & Run
 
-## Retrieval Evaluation (Week 2 Validation)
+### 1. Install dependencies
 
-Evaluation performed on structured test queries.
-
-### Quality Metrics
-
-| Precision@5 
-| Recall@5     
-| MRR@5        
-
-### Performance Metrics
-
-| Avg Latency            
-| P95 Latency            
-| Embedding Throughput  
-
-Full evaluation report available at:
-
-`evaluation/report.md`
-
-------------------------------------------------------------------------
-## Scalability Considerations
-
-- Designed for multi-GB document corpora
-- Memory-safe ingestion pipeline
-- Batch embedding generation
-- Persistent vector indexing
-- Metadata-driven compliance filtering
-- Production-ready modular design
-
-Retrieval quality is prioritized over model size.
-
-##  Setup & Run
-### Create Environment
-
-python -m venv .venv .venv`\Scripts`{=tex}`\activate`{=tex} 
+```bash
+python -m venv .venv
+.venv\Scripts\activate       # Windows
 pip install -r requirements.txt
+```
 
-# 1. Ingestion
+### 2. Configure environment
+
+Create a `.env` file at the project root:
+
+```env
+LLM_PROVIDER=groq
+GROQ_API_KEY=your_key_here
+GROQ_MODEL=llama-3.1-8b-instant
+QDRANT_URL=http://localhost:6333
+QDRANT_COLLECTION=hr_chunks
+TOP_K_DEFAULT=5
+TEMPERATURE=0.2
+MAX_CONTEXT_CHARS=8000
+SCORE_THRESHOLD=0.25
+ENABLE_RERANKING=false
+```
+
+### 3. Build the data pipeline 
+
+```bash
+# Download & ingest datasets
 python -m ingestion.loaders --percent 0.01
 
-# 2. Chunking
+# Chunk documents
 python -m ingestion.chunker
 
-# 3. Validation
+# Validate chunks
 python -m ingestion.validator
 
-# 4. Setup Qdrant
+# Setup Qdrant collection
 python -m vectorstore.qdrant_setup
 
-# 5. Indexing
+# Build vector index
 python -m vectorstore.index_builder
 
-# 6. Test retrieval
+# Test retrieval
 python -m vectorstore.retriever
 
-# 7. Run evaluation 
+# Run retrieval evaluation 
 python -m vectorstore.evaluation
+```
+
+### 4. Run the application 
+
+```bash
+# Start Qdrant
+docker run -p 6333:6333 -v ./qdrant_storage:/qdrant/storage qdrant/qdrant
+
+# Start FastAPI (terminal 1)
+uvicorn api.fastapi_app:app --host 0.0.0.0 --port 8000
+
+# Start Streamlit UI (terminal 2)
+streamlit run ui/streamlit_app.py
+```
+
+### 5. Docker Compose (all services)
+
+```bash
+docker compose -f deployment/docker-compose.yml up --build
+```
+
+Services: `qdrant` (:6333), `api` (:8000), `ui` (:8501)
+
+### 6. Run evaluations 
+
+```bash
+# evaluation (15 queries, 5 categories, token counting)
+python -m rag_pipeline.evaluation.run_eval_week5
+
+# Week 4 evaluation
+python -m rag_pipeline.evaluation.run_eval_week4
+```
+
+---
+
+## Evaluation Baselines
+
+| Week | Queries | Citation Rate | Avg Latency | Notes |
+|------|---------|--------------|-------------|-------|
+| Week 2 | 10 | — | 101 ms | Retrieval: Precision@5=0.20, Recall@5=1.0 |
+| Week 3 | 3 | 0.67 | 1430 ms | RAG pipeline baseline |
+| Week 4 | 7 | 0.43 | 3674 ms | Extended queries (latency_ms was broken) |
+| Week 5 | 15 | TBD | TBD | Score threshold + re-ranking + improved prompt |
+
+Full reports in `rag_pipeline/evaluation/` and `evaluation/`.
+
+---
 

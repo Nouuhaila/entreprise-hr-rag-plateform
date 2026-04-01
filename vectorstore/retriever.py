@@ -4,9 +4,7 @@ from qdrant_client.models import Filter
 
 from vectorstore.embedding_generator import embed_text
 from vectorstore.metadata_filter import build_filter
-
-QDRANT_URL = "http://localhost:6333"
-COLLECTION_NAME = "hr_chunks"
+from rag_pipeline.configs.settings import QDRANT_URL, COLLECTION_NAME
 
 def retrieve(
     query: str,

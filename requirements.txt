@@ -1,8 +1,27 @@
+# Data ingestion
 datasets==2.21.0
 pandas
 tqdm
 pyarrow
 tiktoken
-loguru
-qdrant-client 
+
+# Vector store
+qdrant-client
 sentence-transformers
+
+# LLM
+langchain-groq
+langchain-core
+
+# API
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+
+# UI
+streamlit
+requests
+
+# Utilities
+loguru

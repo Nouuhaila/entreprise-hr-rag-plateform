@@ -1,0 +1,44 @@
+version: "3.9"
+
+services:
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: hr_qdrant
+    ports:
+      - "6333:6333"
+    volumes:
+      - ../qdrant_storage:/qdrant/storage
+    restart: unless-stopped
+
+  api:
+    build:
+      context: ..
+      dockerfile: deployment/Dockerfile
+    container_name: hr_api
+    command: uvicorn api.fastapi_app:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    env_file:
+      - ../.env
+    environment:
+      - QDRANT_URL=http://qdrant:6333
+    depends_on:
+      - qdrant
+    restart: unless-stopped
+
+  ui:
+    build:
+      context: ..
+      dockerfile: deployment/Dockerfile
+    container_name: hr_ui
+    command: streamlit run ui/streamlit_app.py --server.port 8501 --server.address 0.0.0.0
+    ports:
+      - "8501:8501"
+    env_file:
+      - ../.env
+    environment:
+      - BACKEND_URL=http://api:8000
+    depends_on:
+      - api
+    restart: unless-stopped
